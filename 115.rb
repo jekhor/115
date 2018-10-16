@@ -21,7 +21,6 @@ module MojHorad
     def initialize
       @base_url = BASE_URL
       @cookies = {}
-      RestClient.log = STDERR
     end
 
     # check main page to get cookies with session key
@@ -34,23 +33,27 @@ module MojHorad
     end
 
     def change_city(city_id)
+      STDERR.puts "Changing city to #{city_id}"
       query(:post, "city/change/#{city_id}", {_token: @token, _fgp: "03f8a842c278bf61690e9579e591c63b"})
     end
 
     def login(user, password)
+      STDERR.puts "Logging in"
       query_api(:post, "user/login", { email: user, password: password})
     end
 
     def getlist(start_date=nil, deep=false)
+      STDERR.print "Fetching problem list..."
       now = Time.now
       start_date ||= Time.new(now.year, now.month, 1)
       r = query_api(:post, 'problem/getlist', {date: start_date.strftime('%Y-%m-%d')})
       list = JSON.parse(r.body)
+      STDERR.puts " done."
 
       if deep and not list['items'].empty?
         STDERR.puts "Digging deep for #{list['items'].size} problems..."
 
-        Parallel.each(list['items'].keys, in_threads: 10) do |key|
+        Parallel.each(list['items'].keys, progress: 'Fetching details', in_threads: 20) do |key|
           id = key
           item = list['items'][id]
 
@@ -227,8 +230,10 @@ Commands:
 HELP
 
   global = OptionParser.new do |opts|
-    opts.banner = "Usage: 115.rb command [args]"
+    opts.banner = "Usage: 115.rb [options] command [args]"
+    opts.separator("Options:")
     opts.on('--city ID', "Change city to ID") {|v| options.city_id = v}
+    opts.on('-v', '--verbose', "Show network requests") {|v| options.verbose = v}
 
     opts.separator subtext
   end
@@ -259,6 +264,8 @@ HELP
   exit if command.nil?
 
   subcommands[command].order! unless command.nil?
+
+  RestClient.log = STDERR if options.verbose
 
   c = MojHorad::API115.new
 
