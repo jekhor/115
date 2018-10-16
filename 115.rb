@@ -5,6 +5,7 @@ require 'rest-client'
 require 'nokogiri'
 require 'json'
 require 'time'
+require 'parallel'
 
 module MojHorad
   HEADERS = {
@@ -48,7 +49,11 @@ module MojHorad
 
       if deep and not list['items'].empty?
         STDERR.puts "Digging deep for #{list['items'].size} problems..."
-        list['items'].each_pair do |id, item|
+
+        Parallel.each(list['items'].keys, in_threads: 10) do |key|
+          id = key
+          item = list['items'][id]
+
           begin
             p = self.problem(id.to_i)
             item['description'] = p[:description]
