@@ -47,6 +47,7 @@ module MojHorad
       list = JSON.parse(r.body)
 
       if deep and not list['items'].empty?
+        STDERR.puts "Digging deep for #{list['items'].size} problems..."
         list['items'].each_pair do |id, item|
           begin
             p = self.problem(id.to_i)
@@ -80,21 +81,6 @@ module MojHorad
 
         f[:properties] = item.select {|k, v| k != 'lng' and k != 'lat'}
 
-=begin
-        f[:properties] = {
-          id: item['id'],
-          href: item['href'],
-          address: item['address'],
-          date_create: item['date_create'],
-          date_planned: item['date_planned'],
-          crm_create_at: item['crm_create_at'],
-          crm_date_planned: item['crm_date_planned'],
-          organisation_id: item['organisation_id'],
-          status: item['status'],
-          rating: item['rating'],
-          p
-        }
-=end
         features << f
       end
 
@@ -140,6 +126,23 @@ module MojHorad
       p
     end
 
+    # filter
+    # 'status': api.problem.filter.status,
+    # 'organisation': api.problem.filter.organisation,
+    # 'date_start': api.problem.filter.date_start,
+    # 'date_stop': api.problem.filter.date_stop,
+    # 'number':  api.problem.filter.number,
+    # 'expired': api.problem.filter.expired,
+    # 'only_my': api.problem.filter.only_my
+
+    def problem_filter(in_archive=0, page=1, filter)
+      query_api(:post, 'problem/getlist/user/filter', {
+        in_archive: in_archive,
+        page: page,
+        filter: filter
+      })
+    end
+
     def query_api(method, path, body=nil)
       body = {} if body.nil?
       if body.kind_of? Hash
@@ -182,6 +185,7 @@ if __FILE__ == $0
 Commands:
   getlist [--geojson] [--deep] [YYYY-mm]  fetch all problems for given month
   problem <problem id> [<problem id>...]  fetch details for given problems
+  filter [options] <in_archive> <page> <filter expression> filter by critera
 
   Cities:
     1 Минск
@@ -233,7 +237,16 @@ HELP
 
     'problem' => OptionParser.new do |opts|
       opts.banner = "Usage: problem <problem id> [<problem id>...]"
-    end
+    end,
+
+    'filter' => OptionParser.new do |opts|
+      opts.banner = "Usage: filter --login LOGIN --password PASSWORD <in_archive> <page> <filter expression>\n" +
+        "  filter expression is combination of variables: status, organisation, date_start, date_stop, number, expired, only_my\n" +
+        "  example: date_start=2018-10-11 date_stop=2018-10-15 status=3,4,5"
+
+      opts.on('--login LOGIN', "User email to login") {|v| options.login = v}
+      opts.on('--password PASSWORD', "User password to login") {|v| options.password = v}
+    end,
   }
 
   global.order!
@@ -275,7 +288,27 @@ HELP
 
     puts JSON.pretty_generate problems
 
-  when 'dig'
+  when 'filter'
+    in_archive = ARGV[0].to_i != 0
+    ARGV.shift
+    page = ARGV[0].to_i
+    ARGV.shift
+
+    filter = {}
+    ARGV.each do |arg|
+      k, v = arg.split('=', 2)
+      if k == 'status'
+        v = v.split(',')
+      end
+      filter[k] = v
+    end
+
+    STDERR.puts "in_archive: #{in_archive.to_s}"
+    STDERR.puts "page: #{page}"
+    STDERR.puts "filter: #{filter}"
+
+    c.login(options.login, options.password)
+    puts JSON.parse c.problem_filter(in_archive, page, filter)
   end
 
 end
