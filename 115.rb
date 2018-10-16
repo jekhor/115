@@ -53,7 +53,7 @@ module MojHorad
       if deep and not list['items'].empty?
         STDERR.puts "Digging deep for #{list['items'].size} problems..."
 
-        Parallel.each(list['items'].keys, progress: 'Fetching details', in_threads: 20) do |key|
+        Parallel.each(list['items'].keys, progress: {title: 'Fetching details', output: STDERR}, in_threads: 20) do |key|
           id = key
           item = list['items'][id]
 
