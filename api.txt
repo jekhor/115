@@ -1,13 +1,13 @@
 Параметры для всех вызовов:
 	_token		токен, получается из <input name="_token"...> в теле страницы
-	_fgb		отпечаток браузера
+	_fgb		отпечаток браузера (присутствие этого параметра проверяется при логине)
 
 
-/api/problem/getlist			date			Список проблем за заданный месяц
+/api/problem/getlist						Список проблем за заданный месяц
 /api/problem/getlist/user
 /api/problem/remove/<problem id>				Удаление проблемы (на сайте есть для отклонённых)
 
-/api/problem/getlist/user/filter				
+/api/problem/getlist/user/filter				Отфильтрованный список проблем
    'page': api.problem.page,
    'in_archive': api.problem.filter.in_archive,
    'filter': {
@@ -22,12 +22,12 @@
 
 
 /api/problem/getMapData/<problem id>				Информация о проблеме для карты
-/api/problem/comment/update					?
-/api/problem/comment/add/<problem id>					?
+/api/problem/comment/update					Редактирование комментария?
+/api/problem/comment/add/<problem id>				Добавление комментария?
  description
 
 
-/api/problem/add						 * Запрос создания проблемы
+/api/problem/add						Создание проблемы
  *   problem_id: ID - категории
  *   lat, lng: координаты проблемы
  *   address: адрес проблемы (получаем выбирая из списка или проставляя точку на карте)
@@ -53,7 +53,7 @@
   *   middle_name: отчество пользователя
   *   avatar: аватар пользователя
 
-/api/user/update						 Обновление пользователея
+/api/user/update						Обновление пользователея
   *   email: email пользователя
   *   name: имя пользователя
   *   last_name: фамилия пользователя
@@ -62,7 +62,7 @@
 
 /api/user/remove						Удаление пользователя
 
-/api/user/recover_pass/send_mail				  * Запрос на восстановление пароля
+/api/user/recover_pass/send_mail				Запрос на восстановление пароля
   *   email: email пользователя
 
 /api/user/recover_pass
@@ -78,6 +78,7 @@
 /api/address/search
 
 
+Есть такое упоминание в коде, но не удалось найти URL:
 
  get_organisation_list: function() {
 

@@ -136,14 +136,6 @@ module MojHorad
       p
     end
 
-    def problem_comment(problem_id)
-      query_api(:post, "problem/comment/update/#{problem_id}")
-    end
-
-#    def get_organisation_list
-#      query_api(:post, "getOrganisations")
-#    end
-
     def query_api(method, path, body=nil)
       body = {} if body.nil?
       if body.kind_of? Hash
@@ -242,10 +234,4 @@ HELP
   when 'dig'
   end
 
-#  puts c.getlist_geojson(date)
-#  puts JSON.pretty_generate c.problem(122754)
-
-#  puts JSON.parse(c.login('jekhor@gmail.com', 'Jed7Iech'))
-#  puts JSON.parse(c.problem_comment(361126)).to_json
-#  puts JSON.parse(c.get_organisation_list)
 end
