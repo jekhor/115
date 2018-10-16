@@ -32,6 +32,10 @@ module MojHorad
       @token = item['value']
     end
 
+    def change_city(city_id)
+      query(:post, "city/change/#{city_id}", {_token: @token, _fgp: "03f8a842c278bf61690e9579e591c63b"})
+    end
+
     def login(user, password)
       query_api(:post, "user/login", { email: user, password: password})
     end
@@ -39,7 +43,7 @@ module MojHorad
     def getlist(start_date=nil, deep=false)
       now = Time.now
       start_date ||= Time.new(now.year, now.month, 1)
-      r = query_api(:post, 'problem/getlist', {_token: @token, date: start_date.strftime('%Y-%m-%d')})
+      r = query_api(:post, 'problem/getlist', {date: start_date.strftime('%Y-%m-%d')})
       list = JSON.parse(r.body)
 
       if deep
@@ -172,17 +176,52 @@ if __FILE__ == $0
   options = OpenStruct.new
   options.geojson = false
   options.deep = false
+  options.city_id = nil
 
   subtext = <<HELP
 Commands:
   getlist [--geojson] [--deep] [YYYY-mm]  fetch all problems for given month
   problem <problem id> [<problem id>...]  fetch details for given problems
+
+  Cities:
+    1 Минск
+    2 Витебск
+    3 Кричев
+    4 Солигорск
+    5 Кореличи
+    6 Берестовица
+    7 Вороново
+    8 Зельва
+    9 Щучин
+    10 Волковыск
+    11 Сморгонь
+    12 Ошмяны
+    13 Слоним
+    14 Жлобин
+    15 Рогачев
+    16 Дятлово
+    17 Новогрудок
+    18 Гомель
+    19 Мосты
+    20 Бобруйск
+    21 Свислочь
+    22 Лида
+    23 Островец
+    24 Гродно
+    25 Ивье
+    26 Кличев
+    33 Костюковичи
+    34 Слуцк
+    35 Климовичи
+    37 Краснополье
+    38 Хотимск
 HELP
 
   global = OptionParser.new do |opts|
     opts.banner = "Usage: 115.rb command [args]"
+    opts.on('--city ID', "Change city to ID") {|v| options.city_id = v}
 
-    opts.separator subtext 
+    opts.separator subtext
   end
 
   subcommands = {
@@ -206,6 +245,11 @@ HELP
   c = MojHorad::API115.new
 
   c.begin
+
+  unless options.city_id.nil?
+    STDERR.puts "Changing city to #{options.city_id}"
+    c.change_city(options.city_id.to_i)
+  end
 
   case command
   when 'getlist'
