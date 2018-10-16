@@ -46,7 +46,7 @@ module MojHorad
       r = query_api(:post, 'problem/getlist', {date: start_date.strftime('%Y-%m-%d')})
       list = JSON.parse(r.body)
 
-      if deep
+      if deep and not list['items'].empty?
         list['items'].each_pair do |id, item|
           begin
             p = self.problem(id.to_i)
