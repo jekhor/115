@@ -1,0 +1,539 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.65331459,
+          53.88764954
+        ]
+      },
+      "properties": {
+        "id": "7288",
+        "href": "/problem/7288",
+        "address": "рядом с 2-й Переходный переулок, 21",
+        "date_create": "29 февраля 2016 15:59",
+        "date_planned": "29.09.2018",
+        "crm_date_planned": "2018-09-29",
+        "crm_create_at": "2016-02-29",
+        "organisation_id": "136",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/116119.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "25",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "5697",
+          "name": "Сергей",
+          "last_name": "Чернуха",
+          "middle_name": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.61400414,
+          53.88389587
+        ]
+      },
+      "properties": {
+        "id": "7259",
+        "href": "/problem/7259",
+        "address": "улица Будённого, 18",
+        "date_create": "29 февраля 2016 10:27",
+        "date_planned": "30.03.2018",
+        "crm_date_planned": "2018-03-30",
+        "crm_create_at": "2016-02-29",
+        "organisation_id": "65",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "151",
+          "parent_id": "14",
+          "icon": "14"
+        },
+        "user": {
+          "id": "764",
+          "name": "Виолетта",
+          "last_name": "Немытькова",
+          "middle_name": "Юрьевна"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4984436,
+          53.9344101
+        ]
+      },
+      "properties": {
+        "id": "6911",
+        "href": "/problem/6911",
+        "address": "проспект Победителей, 99 к1",
+        "date_create": "23 февраля 2016 19:16",
+        "date_planned": "31.05.2018",
+        "crm_date_planned": "2018-05-31",
+        "crm_create_at": "2016-02-23",
+        "organisation_id": "241",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+            "/upload/image/382968.jpg"
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "6823",
+          "name": "Маргарита",
+          "last_name": "Мышко",
+          "middle_name": "Ивановна"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.48833275,
+          53.84731293
+        ]
+      },
+      "properties": {
+        "id": "6711",
+        "href": "/problem/6711",
+        "address": "рядом с улица Наполеона Орды, 37",
+        "date_create": "20 февраля 2016 18:33",
+        "date_planned": "01.10.2018",
+        "crm_date_planned": "2018-10-01",
+        "crm_create_at": "2016-02-20",
+        "organisation_id": "134",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/144244.jpg"
+          ],
+          "after": [
+            "/upload/image/447316.jpg"
+          ]
+        },
+        "category": {
+          "id": "25",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "6665",
+          "name": "Павел",
+          "last_name": "Горбачев",
+          "middle_name": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.50793839,
+          53.90342331
+        ]
+      },
+      "properties": {
+        "id": "6708",
+        "href": "/problem/6708",
+        "address": "улица Болеслава Берута, 9 к4",
+        "date_create": "20 февраля 2016 17:38",
+        "date_planned": "30.06.2018",
+        "crm_date_planned": "2018-06-30",
+        "crm_create_at": "2016-02-20",
+        "organisation_id": "232",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "34",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "6663",
+          "name": "Yadviha",
+          "last_name": "Lukashyk",
+          "middle_name": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4182682,
+          53.91160965
+        ]
+      },
+      "properties": {
+        "id": "6396",
+        "href": "/problem/6396",
+        "address": "Каменногорская улица, 10",
+        "date_create": "17 февраля 2016 11:48",
+        "date_planned": "30.11.2017",
+        "crm_date_planned": "2017-11-30",
+        "crm_create_at": "2016-02-17",
+        "organisation_id": "139",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/120935.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "25",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "233",
+          "name": "Юрий",
+          "last_name": "Бельчиков",
+          "middle_name": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.49715233,
+          53.8788147
+        ]
+      },
+      "properties": {
+        "id": "6316",
+        "href": "/problem/6316",
+        "address": "рядом с Пермская улица, 46",
+        "date_create": "16 февраля 2016 16:34",
+        "date_planned": "30.03.2018",
+        "crm_date_planned": "2018-03-30",
+        "crm_create_at": "2016-02-16",
+        "organisation_id": "254",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/31740.jpg"
+          ],
+          "after": [
+            "/upload/image/183683.jpg"
+          ]
+        },
+        "category": {
+          "id": "290",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "6263",
+          "name": "Павел",
+          "last_name": "Винокуров",
+          "middle_name": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.46669388,
+          53.86792374
+        ]
+      },
+      "properties": {
+        "id": "6064",
+        "href": "/problem/6064",
+        "address": "улица Голубева, 22",
+        "date_create": "13 февраля 2016 12:31",
+        "date_planned": "30.09.2018",
+        "crm_date_planned": "2018-09-30",
+        "crm_create_at": "2016-02-13",
+        "organisation_id": "124",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/31546.jpg"
+          ],
+          "after": [
+            "/upload/image/470952.jpg",
+            "/upload/image/470953.jpg"
+          ]
+        },
+        "category": {
+          "id": "98",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "6175",
+          "name": "Дмитрий",
+          "last_name": "Мухин",
+          "middle_name": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.70134544,
+          53.84775925
+        ]
+      },
+      "properties": {
+        "id": "5949",
+        "href": "/problem/5949",
+        "address": "рядом с улица Селицкого, 115",
+        "date_create": "11 февраля 2016 17:02",
+        "date_planned": "30.06.2018",
+        "crm_date_planned": "2018-06-30",
+        "crm_create_at": "2016-02-11",
+        "organisation_id": "153",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/31442.jpg"
+          ],
+          "after": [
+            "/upload/image/334795.jpg"
+          ]
+        },
+        "category": {
+          "id": "325",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "6115",
+          "name": "Георгий",
+          "last_name": "Лесневский",
+          "middle_name": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.44398499,
+          53.86094284
+        ]
+      },
+      "properties": {
+        "id": "5895",
+        "href": "/problem/5895",
+        "address": "рядом с улица Сергея Есенина, 76А",
+        "date_create": "11 февраля 2016 9:41",
+        "date_planned": "01.10.2018",
+        "crm_date_planned": "2018-10-01",
+        "crm_create_at": "2016-02-11",
+        "organisation_id": "157",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "442",
+          "name": "Имя",
+          "last_name": "Фамилия",
+          "middle_name": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6156559,
+          53.88573074
+        ]
+      },
+      "properties": {
+        "id": "5744",
+        "href": "/problem/5744",
+        "address": "улица Будённого, 19",
+        "date_create": "9 февраля 2016 16:19",
+        "date_planned": "28.09.2018",
+        "crm_date_planned": "2018-09-28",
+        "crm_create_at": "2016-02-09",
+        "organisation_id": "65",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/31286.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "103",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "5967",
+          "name": "Майя",
+          "last_name": "Иванова",
+          "middle_name": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.48686218,
+          53.85045624
+        ]
+      },
+      "properties": {
+        "id": "5367",
+        "href": "/problem/5367",
+        "address": "рядом с улица Наполеона Орды, 55",
+        "date_create": "3 февраля 2016 10:34",
+        "date_planned": "31.12.2018",
+        "crm_date_planned": "2018-12-31",
+        "crm_create_at": "2016-02-03",
+        "organisation_id": "124",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/77351.jpg"
+          ],
+          "after": [
+            "/upload/image/491135.jpg"
+          ]
+        },
+        "category": {
+          "id": "283",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "5799",
+          "name": "Вадим",
+          "last_name": "Тухто",
+          "middle_name": "Леонидович"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.52070045,
+          53.8541832
+        ]
+      },
+      "properties": {
+        "id": "5350",
+        "href": "/problem/5350",
+        "address": "Брестская улица, 81",
+        "date_create": "2 февраля 2016 20:44",
+        "date_planned": "30.09.2019",
+        "crm_date_planned": "2019-09-30",
+        "crm_create_at": "2016-02-02",
+        "organisation_id": "125",
+        "status": "7",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/101138.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "369",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "3861",
+          "name": "Андрей",
+          "last_name": "Макаров",
+          "middle_name": "Петрович"
+        }
+      }
+    }
+  ]
+}

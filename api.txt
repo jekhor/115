@@ -1,0 +1,104 @@
+Параметры для всех вызовов:
+	_token		токен, получается из <input name="_token"...> в теле страницы
+	_fgb		отпечаток браузера
+
+
+/api/problem/getlist			date			Список проблем за заданный месяц
+/api/problem/getlist/user
+/api/problem/remove/<problem id>				Удаление проблемы (на сайте есть для отклонённых)
+
+/api/problem/getlist/user/filter				
+   'page': api.problem.page,
+   'in_archive': api.problem.filter.in_archive,
+   'filter': {
+    'status': api.problem.filter.status,
+    'organisation': api.problem.filter.organisation,
+    'date_start': api.problem.filter.date_start,
+    'date_stop': api.problem.filter.date_stop,
+    'number':  api.problem.filter.number,
+    'expired': api.problem.filter.expired,
+    'only_my': api.problem.filter.only_my
+    }
+
+
+/api/problem/getMapData/<problem id>				Информация о проблеме для карты
+/api/problem/comment/update					?
+/api/problem/comment/add/<problem id>					?
+ description
+
+
+/api/problem/add						 * Запрос создания проблемы
+ *   problem_id: ID - категории
+ *   lat, lng: координаты проблемы
+ *   address: адрес проблемы (получаем выбирая из списка или проставляя точку на карте)
+ *   description: поле описания проблемы
+ *   problem-photo: изображение проблемы
+
+
+/api/user/login							Авторизация пользователя
+  *   email: email пользователя
+  *   password: пароль пользователя
+  *   remember: флаг "Запомнить меня"
+
+/api/user/login_force						Авторизация пользователя
+  *   email: email пользователя
+  *   password: пароль пользователя
+  *   remember: флаг "Запомнить меня"
+
+/api/user/create
+  *   email: email пользователя
+  *   password: пароль пользователя
+  *   name: имя пользователя
+  *   last_name: фамилия пользователя
+  *   middle_name: отчество пользователя
+  *   avatar: аватар пользователя
+
+/api/user/update						 Обновление пользователея
+  *   email: email пользователя
+  *   name: имя пользователя
+  *   last_name: фамилия пользователя
+  *   middle_name: отчество пользователя
+  *   avatar: аватар пользователя
+
+/api/user/remove						Удаление пользователя
+
+/api/user/recover_pass/send_mail				  * Запрос на восстановление пароля
+  *   email: email пользователя
+
+/api/user/recover_pass
+
+/api/user/change_pass
+  * password_old
+  * password
+  * password-rep
+
+
+
+
+/api/address/search
+
+
+
+ get_organisation_list: function() {
+
+  $('.b-private__main .b-popUp-preloader').addClass('_show');
+  var url = $('.b-filter-unit._action').attr('action');
+
+  var data = {
+   '_token': $('.b-modal input[name="_token"]').val(),
+   '_fgp': api.fgp_key
+  };
+
+
+Статусы (отдаются в getlist):
+1 На модерации
+3 Отклонено
+4 В работе
+5 Решено
+7 На контроле
+
+
+
+Для мобильных приложений используется сервер crm.it-minsk.by, на котором стоит
+SuiteCRM
+
