@@ -274,7 +274,6 @@ HELP
   c.begin
 
   unless options.city_id.nil?
-    STDERR.puts "Changing city to #{options.city_id}"
     c.change_city(options.city_id.to_i)
   end
 
