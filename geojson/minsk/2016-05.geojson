@@ -1,0 +1,6468 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.51719856,
+          53.87207031
+        ]
+      },
+      "properties": {
+        "id": "17311",
+        "href": "/problem/17311",
+        "address": "переулок Софьи Ковалевской, 61",
+        "date_create": "31 мая 2016 21:07",
+        "date_planned": "01.12.2017",
+        "crm_date_planned": "2017-12-01",
+        "crm_create_at": "2016-05-31",
+        "organisation_id": "134",
+        "status": "5",
+        "rating": "1",
+        "photo": {
+          "before": [
+            "/upload/image/146216.jpg"
+          ],
+          "after": [
+            "/upload/image/310681.jpg",
+            "/upload/image/310682.jpg"
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "2517",
+          "name": "Петр",
+          "last_name": "Иванов",
+          "middle_name": "Петрович"
+        },
+        "description": "Практически полностью разрушена проезжая часть и тротуар вокруг общежитий. Убедительная просьба найти ответственного и привезти територию вокруг общежитий в надлежащее состояние.",
+        "answers": [
+          {
+            "author": "Администрация Московского района",
+            "text": "",
+            "date": "9 сентября 13:19",
+            "photos": [
+              "/upload/image/146189.jpg"
+            ]
+          },
+          {
+            "author": "Петр Иванов",
+            "text": "Это не ремонт дороги, а издевательство над людьми за их же деньги. Интересно? если бы директор ОАО \"Белсантехмонтаж 2\" тов. Иванов П.В. сам ездил по этой дороге, он бы ее так же \"отремонтировал\"?",
+            "date": "23 сентября 12:20",
+            "rating": 1,
+            "photos": [
+              "/upload/image/151956.jpg|/upload/image/151957.jpg|/upload/image/151958.jpg",
+              "/upload/image/151956.jpg|/upload/image/151957.jpg|/upload/image/151958.jpg",
+              "/upload/image/151956.jpg|/upload/image/151957.jpg|/upload/image/151958.jpg"
+            ]
+          },
+          {
+            "author": "Администрация Московского района",
+            "text": "Участок дороги закреплен за несколькими субъектами хозяйствования. При комиссионном обследовании территории им дано поручение определиться с границами своих участков. Контроль -25.11.2016 .",
+            "date": "27 октября 17:05"
+          },
+          {
+            "author": "Администрация Московского района",
+            "text": "Обращение в работе. Контроль - 23.12.2016.",
+            "date": "23 ноября 21:22"
+          },
+          {
+            "author": "Администрация Московского района",
+            "text": "Ответ в прикрепленном фото.",
+            "date": "23 декабря 23:12",
+            "photos": [
+              "/upload/image/180725.jpg"
+            ]
+          },
+          {
+            "author": "Администрация Московского района",
+            "text": "будет организовано дополнительное совещание по данному вопросу с участием представителей близлежащих организаций. Контроль - 23.06.2017",
+            "date": "24 мая 16:34"
+          },
+          {
+            "author": "Администрация Московского района",
+            "text": "назначено комиссионное обследование. контроль - 20.07.2017",
+            "date": "30 июня 10:32"
+          },
+          {
+            "author": "Администрация Московского района",
+            "text": "обращение на контроле до 01.10.2017",
+            "date": "28 июля 9:13"
+          },
+          {
+            "author": "Администрация Московского района",
+            "text": "ОАО \"Белсантехмонтаж 2\" направлено требование о выполнении ремонта проезда. Контроль - 01.12.2017",
+            "date": "7 октября 14:21"
+          },
+          {
+            "author": "Администрация Московского района",
+            "text": "Ответ в прикрепленном файле.",
+            "date": "20 ноября 17:21",
+            "photos": [
+              "/upload/image/310662.jpg|/upload/image/310663.jpg",
+              "/upload/image/310662.jpg|/upload/image/310663.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.43299484,
+          53.90177536
+        ]
+      },
+      "properties": {
+        "id": "17309",
+        "href": "/problem/17309",
+        "address": "ул. Одинцова 44Минск",
+        "date_create": "31 мая 2016 19:47",
+        "date_planned": "20.11.2017",
+        "crm_date_planned": "2017-11-20",
+        "crm_create_at": "2016-05-31",
+        "organisation_id": "139",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/140208.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "25",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "2537",
+          "name": "Андрей",
+          "last_name": "Соболевский",
+          "middle_name": ""
+        },
+        "description": "7388НЕ7 Тойота. Колеса спущены, стоит длительное время без движения. Парковка между Лобанка 22 и Одинцова 44 во дворе.",
+        "answers": [
+          {
+            "author": "Администрация Фрунзенского района",
+            "text": "Транспортное средство убрано собственником.",
+            "date": "14 ноября 15:33"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6837368,
+          53.93532944
+        ]
+      },
+      "properties": {
+        "id": "17145",
+        "href": "/problem/17145",
+        "address": "улица Шугаева, 21 к2",
+        "date_create": "31 мая 2016 9:05",
+        "date_planned": "29.06.2019",
+        "crm_date_planned": "2019-06-29",
+        "crm_create_at": "2016-05-31",
+        "organisation_id": "127",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/82894.jpg"
+          ],
+          "after": [
+            "/upload/image/460416.jpg"
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "12274",
+          "name": "Александр",
+          "last_name": "Снитко",
+          "middle_name": "Анатольевич"
+        },
+        "description": "Разбитая тротуарная плитка возле подъезда",
+        "answers": [
+          {
+            "author": "КУП ЖКХ Первомайского района",
+            "text": "выполнены работы",
+            "date": "29 августа 11:47",
+            "photos": [
+              "/upload/image/460391.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.49504471,
+          53.89709473
+        ]
+      },
+      "properties": {
+        "id": "17086",
+        "href": "/problem/17086",
+        "address": "проспект Пушкина, 11",
+        "date_create": "30 мая 2016 22:23",
+        "date_planned": "04.12.2017",
+        "crm_date_planned": "2017-12-04",
+        "crm_create_at": "2016-05-30",
+        "organisation_id": "232",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/121011.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "25",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "10475",
+          "name": "Дмитрий",
+          "last_name": "Пресняков",
+          "middle_name": "Валентинович"
+        },
+        "description": "На парковке налоговой инспекции, долгое время (с начала зимы), находится без движения автомобиль марки Citroen C5 г.н.3359-KA4. Просьба принять меры",
+        "answers": [
+          {
+            "author": "КУП «ЖЭУ № 5 Фрунзенского района»",
+            "text": "На момент обследования вышеуказанное транспортное средство не выявлено.",
+            "date": "22 ноября 17:44"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.61109924,
+          53.92961884
+        ]
+      },
+      "properties": {
+        "id": "17166",
+        "href": "/problem/17166",
+        "address": "ул. Толбухина 14Минск",
+        "date_create": "30 мая 2016 20:41",
+        "date_planned": "28.09.2018",
+        "crm_date_planned": "2018-09-28",
+        "crm_create_at": "2016-05-30",
+        "organisation_id": "147",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/75173.jpg"
+          ],
+          "after": [
+            "/upload/image/441706.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Необходимо занизить бордюры до 0см на пешеходном переходе по ул.Толбухина (от бульвара к дому номер 14)",
+        "answers": [
+          {
+            "author": "ГП \"Ремавтодор  Первомайского района\"",
+            "text": "Выполнено.",
+            "date": "2 августа 22:40",
+            "photos": [
+              "/upload/image/441150.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.60878754,
+          53.92885971
+        ]
+      },
+      "properties": {
+        "id": "17164",
+        "href": "/problem/17164",
+        "address": "ул. Кузьмы Чорного 31-35 Минск",
+        "date_create": "30 мая 2016 20:35",
+        "date_planned": "20.08.2018",
+        "crm_date_planned": "2018-08-20",
+        "crm_create_at": "2016-05-30",
+        "organisation_id": "147",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/75171.jpg"
+          ],
+          "after": [
+            "/upload/image/449071.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "На заезде во двор между домами 31 и 35 по ул.Кузьмы Чорного необходимо занизить бордюры до 0см",
+        "answers": [
+          {
+            "author": "ГП \"Ремавтодор  Первомайского района\"",
+            "text": "Работы выполнены.",
+            "date": "13 августа 13:28",
+            "photos": [
+              "/upload/image/448966.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.60579681,
+          53.92726517
+        ]
+      },
+      "properties": {
+        "id": "17161",
+        "href": "/problem/17161",
+        "address": "ул. Калинина 9Минск",
+        "date_create": "30 мая 2016 20:27",
+        "date_planned": "29.06.2018",
+        "crm_date_planned": "2018-06-29",
+        "crm_create_at": "2016-05-30",
+        "organisation_id": "147",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/75169.jpg"
+          ],
+          "after": [
+            "/upload/image/403679.jpg",
+            "/upload/image/403680.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Необходимо занизить бордюр до 0см на перекрестке Калинина и Кузьмы Чорного (со стороны 9дома по Калинина)",
+        "answers": [
+          {
+            "author": "ГП \"Ремавтодор  Первомайского района\"",
+            "text": "Выполнено. Фото  прилагается.",
+            "date": "7 июня 10:37",
+            "photos": [
+              "/upload/image/403070.jpg|/upload/image/403071.jpg",
+              "/upload/image/403070.jpg|/upload/image/403071.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.60590935,
+          53.92728043
+        ]
+      },
+      "properties": {
+        "id": "17160",
+        "href": "/problem/17160",
+        "address": "ул. Калинина 16Минск",
+        "date_create": "30 мая 2016 20:24",
+        "date_planned": "29.06.2018",
+        "crm_date_planned": "2018-06-29",
+        "crm_create_at": "2016-05-30",
+        "organisation_id": "147",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/75168.jpg"
+          ],
+          "after": [
+            "/upload/image/403677.jpg",
+            "/upload/image/403678.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Необходимо занизить бордюр до 0см на перекрестке Калинина и Кузьмы Чорного (со стороны дома 16 по ул.Калинина)",
+        "answers": [
+          {
+            "author": "ГП \"Ремавтодор  Первомайского района\"",
+            "text": "Выполнено. Фото прилагается.",
+            "date": "7 июня 10:39",
+            "photos": [
+              "/upload/image/403072.jpg|/upload/image/403073.jpg",
+              "/upload/image/403072.jpg|/upload/image/403073.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.60421371,
+          53.92682266
+        ]
+      },
+      "properties": {
+        "id": "17155",
+        "href": "/problem/17155",
+        "address": "ул. Кузьмы Чорного 13-15 Минск",
+        "date_create": "30 мая 2016 20:15",
+        "date_planned": "28.09.2018",
+        "crm_date_planned": "2018-09-28",
+        "crm_create_at": "2016-05-30",
+        "organisation_id": "147",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/75165.jpg"
+          ],
+          "after": [
+            "/upload/image/467051.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "На въезде во двор между домами 13 и 15 по ул.Чернышевского необходимо занизить бордюры до 0см",
+        "answers": [
+          {
+            "author": "ГП \"Ремавтодор  Первомайского района\"",
+            "text": "Выполнено",
+            "date": "6 сентября 16:46",
+            "photos": [
+              "/upload/image/466939.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.60237122,
+          53.92605972
+        ]
+      },
+      "properties": {
+        "id": "17153",
+        "href": "/problem/17153",
+        "address": "ул. Чернышевского 3Минск",
+        "date_create": "30 мая 2016 20:11",
+        "date_planned": "29.12.2017",
+        "crm_date_planned": "2017-12-29",
+        "crm_create_at": "2016-05-30",
+        "organisation_id": "147",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/75164.jpg"
+          ],
+          "after": [
+            "/upload/image/326815.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "На перекрестке ул.Чернышевского и ул. К.Чорного необходимо занизить бордюры до 0см",
+        "answers": [
+          {
+            "author": "ГП \"Ремавтодор  Первомайского района\"",
+            "text": "Понижение борта по ул. Чернышевского выполнено.",
+            "date": "29 декабря 14:32",
+            "photos": [
+              "/upload/image/326766.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.60132027,
+          53.92661667
+        ]
+      },
+      "properties": {
+        "id": "17152",
+        "href": "/problem/17152",
+        "address": "ул. Чернышевского 3Минск",
+        "date_create": "30 мая 2016 20:08",
+        "date_planned": "15.01.2018",
+        "crm_date_planned": "2018-01-15",
+        "crm_create_at": "2016-05-30",
+        "organisation_id": "147",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/102361.jpg"
+          ],
+          "after": [
+            "/upload/image/330083.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Необходимо занизить бордюр на заезде во двор между домами 3 и 5 по ул.Чернышевского до 0 см (со стороны 3го дома)",
+        "answers": [
+          {
+            "author": "ГП \"Ремавтодор  Первомайского района\"",
+            "text": "Фотоматериал прилагается.",
+            "date": "9 января 17:01",
+            "photos": [
+              "/upload/image/330070.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.60115814,
+          53.92683029
+        ]
+      },
+      "properties": {
+        "id": "17151",
+        "href": "/problem/17151",
+        "address": "ул. Чернышевского 7Минск",
+        "date_create": "30 мая 2016 20:06",
+        "date_planned": "15.12.2017",
+        "crm_date_planned": "2017-12-15",
+        "crm_create_at": "2016-05-30",
+        "organisation_id": "147",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/75163.jpg"
+          ],
+          "after": [
+            "/upload/image/316847.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Бордюр на заезде во двор между домами 5 и 7 по ул.Чернышевского нужно занизить до 0см (со стороны 7го дома)",
+        "answers": [
+          {
+            "author": "ГП \"Ремавтодор  Первомайского района\"",
+            "text": "Выполнено. Фото прилагается.",
+            "date": "4 декабря 9:50",
+            "photos": [
+              "/upload/image/316668.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.60102654,
+          53.92692947
+        ]
+      },
+      "properties": {
+        "id": "17139",
+        "href": "/problem/17139",
+        "address": "ул. Чернышевского 7Минск",
+        "date_create": "30 мая 2016 20:05",
+        "date_planned": "30.11.2017",
+        "crm_date_planned": "2017-11-30",
+        "crm_create_at": "2016-05-30",
+        "organisation_id": "147",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/75162.jpg"
+          ],
+          "after": [
+            "/upload/image/315162.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Необходимо занизить бордюр на пешеходном переходе через ул.Черныщевского со стороны дома номер 7",
+        "answers": [
+          {
+            "author": "ГП \"Ремавтодор  Первомайского района\"",
+            "text": "Выполнено. Фото прилагается.",
+            "date": "29 ноября 15:07",
+            "photos": [
+              "/upload/image/314961.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.60019493,
+          53.92721939
+        ]
+      },
+      "properties": {
+        "id": "17135",
+        "href": "/problem/17135",
+        "address": "ул. Чернышевского 7 Минск",
+        "date_create": "30 мая 2016 20:00",
+        "date_planned": "15.12.2017",
+        "crm_date_planned": "2017-12-15",
+        "crm_create_at": "2016-05-30",
+        "organisation_id": "147",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/75161.jpg"
+          ],
+          "after": [
+            "/upload/image/321954.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Бордюры на заезде во двор дома номер 7 по ул.Чернышевского нужно занизить до 0см",
+        "answers": [
+          {
+            "author": "ГП \"Ремавтодор  Первомайского района\"",
+            "text": "Выполнено. Фото прилагается.",
+            "date": "15 декабря 14:12",
+            "photos": [
+              "/upload/image/321842.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.59990311,
+          53.92726135
+        ]
+      },
+      "properties": {
+        "id": "17134",
+        "href": "/problem/17134",
+        "address": "ул. Чернышевского 7-9Минск",
+        "date_create": "30 мая 2016 19:59",
+        "date_planned": "15.12.2017",
+        "crm_date_planned": "2017-12-15",
+        "crm_create_at": "2016-05-30",
+        "organisation_id": "147",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/75160.jpg"
+          ],
+          "after": [
+            "/upload/image/315070.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Бордюры на въезде к дому номер 9 по ул.Чернышевского (за шлагбаумом) нужно занизить до 0см",
+        "answers": [
+          {
+            "author": "ГП \"Ремавтодор  Первомайского района\"",
+            "text": "Выполнено. Фото прилагается.",
+            "date": "29 ноября 15:13",
+            "photos": [
+              "/upload/image/314970.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5991497,
+          53.92757416
+        ]
+      },
+      "properties": {
+        "id": "17133",
+        "href": "/problem/17133",
+        "address": "пер. Калининградский 11 Минск",
+        "date_create": "30 мая 2016 19:57",
+        "date_planned": "23.11.2017",
+        "crm_date_planned": "2017-11-23",
+        "crm_create_at": "2016-05-30",
+        "organisation_id": "147",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/75159.jpg"
+          ],
+          "after": [
+            "/upload/image/311023.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Бордюры на перекрестке Калининградского пер. и ул.Чернышевского нужно занизить до 0см",
+        "answers": [
+          {
+            "author": "ГП \"Ремавтодор  Первомайского района\"",
+            "text": "Выполнено. Фото прилагается.",
+            "date": "21 ноября 10:23",
+            "photos": [
+              "/upload/image/310956.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.42576408,
+          53.91279984
+        ]
+      },
+      "properties": {
+        "id": "17014",
+        "href": "/problem/17014",
+        "address": "Нёманская улица, 21",
+        "date_create": "30 мая 2016 13:50",
+        "date_planned": "04.12.2017",
+        "crm_date_planned": "2017-12-04",
+        "crm_create_at": "2016-05-30",
+        "organisation_id": "247",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/121010.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "25",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "12988",
+          "name": "Сабина",
+          "last_name": "Мусаева",
+          "middle_name": ""
+        },
+        "description": "У подъезда дома 21 стоит аварийный автомобиль неэксплуатируемый около месяца.",
+        "answers": [
+          {
+            "author": "КУП «ЖЭУ № 9 Фрунзенского района»",
+            "text": "На момент обследование машины не обнаружено.",
+            "date": "23 ноября 16:35"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.49855042,
+          53.89425659
+        ]
+      },
+      "properties": {
+        "id": "16956",
+        "href": "/problem/16956",
+        "address": "просп. ЖуковаМинск",
+        "date_create": "29 мая 2016 16:40",
+        "date_planned": "30.04.2018",
+        "crm_date_planned": "2018-04-30",
+        "crm_create_at": "2016-05-29",
+        "organisation_id": "157",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/72560.jpg"
+          ],
+          "after": [
+            "/upload/image/373086.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "3961",
+          "name": "Сергей",
+          "last_name": "Орловский",
+          "middle_name": "Александрович"
+        },
+        "description": "Высота бордюра не соответствует нормам.",
+        "answers": [
+          {
+            "author": "ГП \"Ремавтодор  Московского района\"",
+            "text": "Работы по понижению бортового камня выполнены.",
+            "date": "24 апреля 11:11",
+            "photos": [
+              "/upload/image/371901.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.42645836,
+          53.9230423
+        ]
+      },
+      "properties": {
+        "id": "16816",
+        "href": "/problem/16816",
+        "address": "Нёманская улица, 61",
+        "date_create": "29 мая 2016 9:57",
+        "date_planned": "30.11.2017",
+        "crm_date_planned": "2017-11-30",
+        "crm_create_at": "2016-05-29",
+        "organisation_id": "139",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/121063.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "25",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "12841",
+          "name": "Наталья",
+          "last_name": "Кроликова",
+          "middle_name": "Геннадьевна"
+        },
+        "description": "Авто номер 5. Транзитный номер 3 ЕАТ 2430. Коррозия кузова и дисков",
+        "answers": [
+          {
+            "author": "Администрация Фрунзенского района",
+            "text": "Транспортное средство убрано собственником.",
+            "date": "16 ноября 14:57"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.42628098,
+          53.92285919
+        ]
+      },
+      "properties": {
+        "id": "16812",
+        "href": "/problem/16812",
+        "address": "Нёманская улица, 61",
+        "date_create": "29 мая 2016 9:43",
+        "date_planned": "30.11.2017",
+        "crm_date_planned": "2017-11-30",
+        "crm_create_at": "2016-05-29",
+        "organisation_id": "139",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/121008.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "25",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "12841",
+          "name": "Наталья",
+          "last_name": "Кроликова",
+          "middle_name": "Геннадьевна"
+        },
+        "description": "Машина номер 1. Техосмотр 2010 года, имеется ржавщина на кузове с боку и со стороны копота. Гос номер 5699 BI-7",
+        "answers": [
+          {
+            "author": "Белспецавтоэвакуация",
+            "text": "Автомашина убрана собственником",
+            "date": "28 сентября 19:02"
+          },
+          {
+            "author": "Наталья Кроликова",
+            "text": "Не убрана. Машина стоит на своем же месте и еще больше ржавеет. Фото сделано 04.10",
+            "date": "5 октября 14:54",
+            "photos": [
+              "/upload/image/155632.jpg"
+            ]
+          },
+          {
+            "author": "Администрация Фрунзенского района",
+            "text": "Применяются меры в рамках Указа Президента Республики Беларусь от 9 августа 2011 года № 348.  Срок 60 дней.",
+            "date": "16 ноября 14:48"
+          },
+          {
+            "author": "Администрация Фрунзенского района",
+            "text": "ООО \"Белспецавтоэвакуация\" сообщает. Применяются меры в рамках Указа Президента Республики Беларусь от 9 августа 2011 года №348. Срок: 60 дней, направлено извещение.",
+            "date": "19 января 9:55"
+          },
+          {
+            "author": "Белспецавтоэвакуация",
+            "text": "Применяются меры в рамках Указа Президента Республики Беларусь от 9 августа 2011 года №348. Срок: 90 дней.",
+            "date": "1 июня 10:34"
+          },
+          {
+            "author": "Белспецавтоэвакуация",
+            "text": "Применяются меры в рамках Указа Президента Республики Беларусь от 9 августа 2011 года №348. \rСрок: 60 дней. направлено повторное извещение.",
+            "date": "25 августа 16:04"
+          },
+          {
+            "author": "Белспецавтоэвакуация",
+            "text": "Применяются меры в рамках Указа Президента Республики Беларусь от 9 августа 2011 года №348. Срок: 30 дней.",
+            "date": "31 октября 10:18"
+          },
+          {
+            "author": "Администрация Фрунзенского района",
+            "text": "Транспортное средство убрано собственником.",
+            "date": "10 ноября 12:08"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4673233,
+          53.86694336
+        ]
+      },
+      "properties": {
+        "id": "16863",
+        "href": "/problem/16863",
+        "address": "ул. Голубева 25Минск",
+        "date_create": "28 мая 2016 19:49",
+        "date_planned": "01.09.2018",
+        "crm_date_planned": "2018-09-01",
+        "crm_create_at": "2016-05-28",
+        "organisation_id": "134",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/134303.jpg"
+          ],
+          "after": [
+            "/upload/image/431958.jpg"
+          ]
+        },
+        "category": {
+          "id": "25",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "3961",
+          "name": "Сергей",
+          "last_name": "Орловский",
+          "middle_name": "Александрович"
+        },
+        "description": "Нужно убрать автомобиль. Стоит там постоянно. (Автохлам)",
+        "answers": [
+          {
+            "author": "Администрация Московского района",
+            "text": "автотранспортное средство отсутствует.",
+            "date": "19 июля 22:09",
+            "photos": [
+              "/upload/image/431661.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53227234,
+          53.9145813
+        ]
+      },
+      "properties": {
+        "id": "16788",
+        "href": "/problem/16788",
+        "address": "рядом с Гвардейская улица, 14",
+        "date_create": "28 мая 2016 18:32",
+        "date_planned": "30.06.2017",
+        "crm_date_planned": "2017-06-30",
+        "crm_create_at": "2016-05-28",
+        "organisation_id": "140",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "6692",
+          "name": "Юрий",
+          "last_name": "Мирзоев",
+          "middle_name": "Нугзарович"
+        },
+        "description": "Некачественная укладка плитки на тротуаре",
+        "answers": [
+          {
+            "author": "Администрация Центрального района",
+            "text": "Определить месторасположения поврежденного участка не возможно.Для устранения данной проблемы необходимо фото поврежденного участка.",
+            "date": "9 октября 12:48"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.49511909,
+          53.90490723
+        ]
+      },
+      "properties": {
+        "id": "16781",
+        "href": "/problem/16781",
+        "address": "проспект Пушкина, 33",
+        "date_create": "28 мая 2016 17:16",
+        "date_planned": "29.12.2017",
+        "crm_date_planned": "2017-12-29",
+        "crm_create_at": "2016-05-28",
+        "organisation_id": "129",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/94030.png"
+          ],
+          "after": [
+            "/upload/image/181311.jpg",
+            "/upload/image/320882.jpg"
+          ]
+        },
+        "category": {
+          "id": "369",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "12828",
+          "name": "Никита",
+          "last_name": "Тарасевич",
+          "middle_name": "Леонидович"
+        },
+        "description": "Проспект Пушкина 33 подъезд 6 \rОтслоение фасада",
+        "answers": [
+          {
+            "author": "КУП ЖКХ № 1 Фрунзенского района",
+            "text": "Информация прилагается",
+            "date": "13 декабря 16:58",
+            "photos": [
+              "/upload/image/320870.jpg|/upload/image/320871.jpg",
+              "/upload/image/320870.jpg|/upload/image/320871.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.55811691,
+          53.92895889
+        ]
+      },
+      "properties": {
+        "id": "16702",
+        "href": "/problem/16702",
+        "address": "рядом с Каховская улица, 58",
+        "date_create": "27 мая 2016 17:36",
+        "date_planned": "31.07.2018",
+        "crm_date_planned": "2018-07-31",
+        "crm_create_at": "2016-05-27",
+        "organisation_id": "162",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+            "/upload/image/428008.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "7691",
+          "name": "Александр",
+          "last_name": "Коновков",
+          "middle_name": "Владимирович"
+        },
+        "description": "бордюры на перекрёстке Каховская-Азизова не занижены",
+        "answers": [
+          {
+            "author": "УП \"Ремавтодор  Центрального  района\"",
+            "text": "работы выполнены",
+            "date": "13 июля 13:23",
+            "photos": [
+              "/upload/image/427940.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.63504791,
+          53.90855789
+        ]
+      },
+      "properties": {
+        "id": "16630",
+        "href": "/problem/16630",
+        "address": "улица Багратиона, 67",
+        "date_create": "27 мая 2016 10:02",
+        "date_planned": "29.09.2018",
+        "crm_date_planned": "2018-09-29",
+        "crm_create_at": "2016-05-27",
+        "organisation_id": "152",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/72330.jpg"
+          ],
+          "after": [
+            "/upload/image/453249.jpg",
+            "/upload/image/453250.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "11912",
+          "name": "Сергей",
+          "last_name": "",
+          "middle_name": "Анатольевич"
+        },
+        "description": "Недоступность для маломобильных граждан и детской коляски.",
+        "answers": [
+          {
+            "author": "УП \"Ремавтодор Партизанского района\"",
+            "text": "По улице Багратиона выполнены работы по понижению бордюрного камня на пешеходных переходах",
+            "date": "17 августа 15:59",
+            "photos": [
+              "/upload/image/453205.jpg|/upload/image/453206.jpg",
+              "/upload/image/453205.jpg|/upload/image/453206.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.63332176,
+          53.90792465
+        ]
+      },
+      "properties": {
+        "id": "16629",
+        "href": "/problem/16629",
+        "address": "улица Багратиона, 58",
+        "date_create": "27 мая 2016 10:01",
+        "date_planned": "29.09.2018",
+        "crm_date_planned": "2018-09-29",
+        "crm_create_at": "2016-05-27",
+        "organisation_id": "152",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/72329.jpg"
+          ],
+          "after": [
+            "/upload/image/453247.jpg",
+            "/upload/image/453248.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "11912",
+          "name": "Сергей",
+          "last_name": "",
+          "middle_name": "Анатольевич"
+        },
+        "description": "Недоступность для маломобильных граждан и детской коляски.",
+        "answers": [
+          {
+            "author": "УП \"Ремавтодор Партизанского района\"",
+            "text": "По улице Багратиона выполнены работы по понижению бордюрного камня на пешеходных переходах",
+            "date": "17 августа 15:56",
+            "photos": [
+              "/upload/image/453201.jpg|/upload/image/453202.jpg",
+              "/upload/image/453201.jpg|/upload/image/453202.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.63513756,
+          53.91007614
+        ]
+      },
+      "properties": {
+        "id": "16614",
+        "href": "/problem/16614",
+        "address": "улица Багратиона, 73",
+        "date_create": "27 мая 2016 9:03",
+        "date_planned": "27.09.2018",
+        "crm_date_planned": "2018-09-27",
+        "crm_create_at": "2016-05-27",
+        "organisation_id": "126",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/112963.jpg"
+          ],
+          "after": [
+            "/upload/image/419115.jpg"
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "11912",
+          "name": "Сергей",
+          "last_name": "",
+          "middle_name": "Анатольевич"
+        },
+        "description": "Недоступность для маломобильных граждан и детских колясок.",
+        "answers": [
+          {
+            "author": "КУП ЖКХ Партизанского района",
+            "text": "Работы выполнены.",
+            "date": "29 июня 9:02",
+            "photos": [
+              "/upload/image/418889.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.42598724,
+          53.89786148
+        ]
+      },
+      "properties": {
+        "id": "16583",
+        "href": "/problem/16583",
+        "address": "улица Мазурова, 12",
+        "date_create": "26 мая 2016 23:14",
+        "date_planned": "31.05.2018",
+        "crm_date_planned": "2018-05-31",
+        "crm_create_at": "2016-05-26",
+        "organisation_id": "233",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+            "/upload/image/388230.jpg"
+          ]
+        },
+        "category": {
+          "id": "36",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "12739",
+          "name": "Людмила",
+          "last_name": "Кутузова",
+          "middle_name": ""
+        },
+        "description": "Ремонтировали, но недоремонтировали, нижние ступени разбиты и разной высоты. Кстати, соседняя лестница от мазурова-12 к скрипникова-36 и 38 (школа) тоже в ужасном состоянии.",
+        "answers": [
+          {
+            "author": "КУП «ЖЭУ № 4 Фрунзенского района»",
+            "text": "Выполнен ремонт наружной лестницы.",
+            "date": "16 мая 17:06",
+            "photos": [
+              "/upload/image/387652.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4240284,
+          53.8972702
+        ]
+      },
+      "properties": {
+        "id": "16582",
+        "href": "/problem/16582",
+        "address": "улица Скрипникова, 28",
+        "date_create": "26 мая 2016 23:11",
+        "date_planned": "29.09.2018",
+        "crm_date_planned": "2018-09-29",
+        "crm_create_at": "2016-05-26",
+        "organisation_id": "129",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "36",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "12739",
+          "name": "Людмила",
+          "last_name": "Кутузова",
+          "middle_name": ""
+        },
+        "description": "Лестница между домами по ул. скрипникова 28 и 32 разбита в хлам, ещё и ступеньки разной высоты",
+        "answers": [
+          {
+            "author": "КУП ЖКХ № 1 Фрунзенского района",
+            "text": "Ремонт лестницы выполнен .",
+            "date": "25 июня 16:18"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.47271347,
+          53.85282516
+        ]
+      },
+      "properties": {
+        "id": "16517",
+        "href": "/problem/16517",
+        "address": "ул. Космонавтов 3/2Минск",
+        "date_create": "26 мая 2016 15:39",
+        "date_planned": "01.05.2018",
+        "crm_date_planned": "2018-05-01",
+        "crm_create_at": "2016-05-26",
+        "organisation_id": "134",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/119167.jpg"
+          ],
+          "after": [
+            "/upload/image/375706.jpg",
+            "/upload/image/375707.jpg"
+          ]
+        },
+        "category": {
+          "id": "25",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "1014",
+          "name": "Михаил",
+          "last_name": "Букатич",
+          "middle_name": "Игоревич"
+        },
+        "description": "Черня Волга, стоит неподвино несколько лет и занимает парковочное место. Уберите автохлам.",
+        "answers": [
+          {
+            "author": "Администрация Московского района",
+            "text": "В ходе обследования установлено, что автотранспортное средство в указанном месте отсутствует.",
+            "date": "27 апреля 9:54",
+            "photos": [
+              "/upload/image/375118.jpg|/upload/image/375119.jpg",
+              "/upload/image/375118.jpg|/upload/image/375119.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.50940514,
+          53.88302994
+        ]
+      },
+      "properties": {
+        "id": "16506",
+        "href": "/problem/16506",
+        "address": "ул. Декабристов",
+        "date_create": "26 мая 2016 11:36",
+        "date_planned": "01.07.2018",
+        "crm_date_planned": "2018-07-01",
+        "crm_create_at": "2016-05-26",
+        "organisation_id": "254",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/79016.jpg"
+          ],
+          "after": [
+            "/upload/image/394964.jpg",
+            "/upload/image/394965.jpg"
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "1223",
+          "name": "Михаил",
+          "last_name": "Минин",
+          "middle_name": ""
+        },
+        "description": "С двух сторон проезжей части ул. Декабристов тотально уничтожен бордюрный камень.",
+        "answers": [
+          {
+            "author": "УП \"Механизированная уборка города\"",
+            "text": "Исправлено.",
+            "date": "24 мая 23:41",
+            "photos": [
+              "/upload/image/394075.jpg|/upload/image/394076.jpg",
+              "/upload/image/394075.jpg|/upload/image/394076.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.63319397,
+          53.91049576
+        ]
+      },
+      "properties": {
+        "id": "16398",
+        "href": "/problem/16398",
+        "address": "улица Филимонова, 9 к1",
+        "date_create": "26 мая 2016 8:44",
+        "date_planned": "31.12.2017",
+        "crm_date_planned": "2017-12-31",
+        "crm_create_at": "2016-05-26",
+        "organisation_id": "152",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/72457.jpg"
+          ],
+          "after": [
+            "/upload/image/325058.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "11912",
+          "name": "Сергей",
+          "last_name": "",
+          "middle_name": "Анатольевич"
+        },
+        "description": "Такие высокие бордюры находятся возле каждого дома по улице Филимонова от домов №3 до дома №15. Т.е. с детской коляской прогуляться очень тяжело.",
+        "answers": [
+          {
+            "author": "УП \"Ремавтодор Партизанского района\"",
+            "text": "работы по понижению бортового камня выполнены",
+            "date": "26 декабря 14:35",
+            "photos": [
+              "/upload/image/324946.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.63392448,
+          53.91076279
+        ]
+      },
+      "properties": {
+        "id": "16397",
+        "href": "/problem/16397",
+        "address": "рядом с улица Филимонова, 11 к1",
+        "date_create": "26 мая 2016 8:37",
+        "date_planned": "29.09.2018",
+        "crm_date_planned": "2018-09-29",
+        "crm_create_at": "2016-05-26",
+        "organisation_id": "152",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/72326.jpg"
+          ],
+          "after": [
+            "/upload/image/465604.jpg"
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "11912",
+          "name": "Сергей",
+          "last_name": "",
+          "middle_name": "Анатольевич"
+        },
+        "description": "Мало того что лестница заросла травой, так по ней нельзя спуститься или подняться с детской коляской (чтобы это сделать нужно обойти ее по проезжей части). Да и с бордюром справиться тяжело.",
+        "answers": [
+          {
+            "author": "УП \"Ремавтодор Партизанского района\"",
+            "text": "Выполнены работы по понижению бордюрного камня",
+            "date": "5 сентября 9:10",
+            "photos": [
+              "/upload/image/465447.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.58028793,
+          53.90917206
+        ]
+      },
+      "properties": {
+        "id": "16472",
+        "href": "/problem/16472",
+        "address": "ул. Румянцева 16Минск",
+        "date_create": "26 мая 2016 7:53",
+        "date_planned": "29.09.2018",
+        "crm_date_planned": "2018-09-29",
+        "crm_create_at": "2016-05-26",
+        "organisation_id": "152",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/72456.jpg"
+          ],
+          "after": [
+            "/upload/image/465605.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "122",
+          "name": "Тень",
+          "last_name": "Шорца",
+          "middle_name": ""
+        },
+        "description": "Необходимо занизить бордюры в ноль. Пункт 5.4.8. ИЗМЕНЕНИЕ № 1 ТКП 45-3.03-227-2010 (02250)",
+        "answers": [
+          {
+            "author": "УП \"Ремавтодор Партизанского района\"",
+            "text": "Выполнено",
+            "date": "5 сентября 9:11",
+            "photos": [
+              "/upload/image/465448.jpg"
+            ]
+          },
+          {
+            "author": "Тень Шорца",
+            "text": "срок выполнения  - 2.5 года. долго.",
+            "date": "5 сентября 13:13",
+            "rating": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.57689095,
+          53.90734482
+        ]
+      },
+      "properties": {
+        "id": "16471",
+        "href": "/problem/16471",
+        "address": "ул. Захарова 21Минск",
+        "date_create": "26 мая 2016 7:51",
+        "date_planned": "31.12.2017",
+        "crm_date_planned": "2017-12-31",
+        "crm_create_at": "2016-05-26",
+        "organisation_id": "152",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/72327.jpg"
+          ],
+          "after": [
+            "/upload/image/319009.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "122",
+          "name": "Тень",
+          "last_name": "Шорца",
+          "middle_name": ""
+        },
+        "description": "Необходимо занизить бордюр  в ноль. ИЗМЕНЕНИЕ № 1 ТКП 45-3.03-227-2010 (02250). Пункт 5.4.8",
+        "answers": [
+          {
+            "author": "УП \"Ремавтодор Партизанского района\"",
+            "text": "Выполнены работы по сопряжению покрытия тротуара и проезжей части",
+            "date": "8 декабря 12:46",
+            "photos": [
+              "/upload/image/318994.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.56310654,
+          53.89032364
+        ]
+      },
+      "properties": {
+        "id": "16464",
+        "href": "/problem/16464",
+        "address": "ул. Белорусская 17",
+        "date_create": "25 мая 2016 22:40",
+        "date_planned": "30.06.2018",
+        "crm_date_planned": "2018-06-30",
+        "crm_create_at": "2016-05-25",
+        "organisation_id": "133",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/118906.jpg"
+          ],
+          "after": [
+            "/upload/image/387571.jpg"
+          ]
+        },
+        "category": {
+          "id": "370",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "9140",
+          "name": "Андрей",
+          "last_name": "Гуринович",
+          "middle_name": "Викторович"
+        },
+        "description": "Серьёзно просела плитка.",
+        "answers": [
+          {
+            "author": "Администрация Ленинского района",
+            "text": "Выполнен ремонт",
+            "date": "16 мая 13:16",
+            "photos": [
+              "/upload/image/387298.jpg"
+            ]
+          },
+          {
+            "author": "Андрей Гуринович",
+            "text": "",
+            "date": "16 мая 21:15",
+            "rating": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.56302261,
+          53.89067841
+        ]
+      },
+      "properties": {
+        "id": "16463",
+        "href": "/problem/16463",
+        "address": "ул. Белорусская 15",
+        "date_create": "25 мая 2016 22:38",
+        "date_planned": "01.05.2018",
+        "crm_date_planned": "2018-05-01",
+        "crm_create_at": "2016-05-25",
+        "organisation_id": "133",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/118905.jpg"
+          ],
+          "after": [
+            "/upload/image/387709.jpg"
+          ]
+        },
+        "category": {
+          "id": "370",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "9140",
+          "name": "Андрей",
+          "last_name": "Гуринович",
+          "middle_name": "Викторович"
+        },
+        "description": "Просела плитка рядом с люком, присутствует какое то твёрдо вещество",
+        "answers": [
+          {
+            "author": "Администрация Ленинского района",
+            "text": "Выполнен ремонт",
+            "date": "16 мая 16:44",
+            "photos": [
+              "/upload/image/387619.jpg"
+            ]
+          },
+          {
+            "author": "Андрей Гуринович",
+            "text": "",
+            "date": "16 мая 21:15",
+            "rating": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.56297302,
+          53.89084244
+        ]
+      },
+      "properties": {
+        "id": "16462",
+        "href": "/problem/16462",
+        "address": "ул. Белорусская 15",
+        "date_create": "25 мая 2016 22:36",
+        "date_planned": "01.05.2018",
+        "crm_date_planned": "2018-05-01",
+        "crm_create_at": "2016-05-25",
+        "organisation_id": "133",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/119029.jpg"
+          ],
+          "after": [
+            "/upload/image/387306.jpg"
+          ]
+        },
+        "category": {
+          "id": "370",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "9140",
+          "name": "Андрей",
+          "last_name": "Гуринович",
+          "middle_name": "Викторович"
+        },
+        "description": "Просела плитка около люка.",
+        "answers": [
+          {
+            "author": "Администрация Ленинского района",
+            "text": "Выполнен ремонт",
+            "date": "16 мая 13:05",
+            "photos": [
+              "/upload/image/387292.jpg"
+            ]
+          },
+          {
+            "author": "Андрей Гуринович",
+            "text": "",
+            "date": "16 мая 21:14",
+            "rating": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.56160355,
+          53.90503311
+        ]
+      },
+      "properties": {
+        "id": "16354",
+        "href": "/problem/16354",
+        "address": "улица Янки Купалы, 25",
+        "date_create": "25 мая 2016 21:01",
+        "date_planned": "31.03.2018",
+        "crm_date_planned": "2018-03-31",
+        "crm_create_at": "2016-05-25",
+        "organisation_id": "140",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/73147.jpg"
+          ],
+          "after": [
+            "/upload/image/342940.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "122",
+          "name": "Тень",
+          "last_name": "Шорца",
+          "middle_name": ""
+        },
+        "description": "Необходимо занизить бордюр в 0.\rС 1 декабря 2013 года ТКП 45-3.03-227-2010, Пункт 5.4.8.",
+        "answers": [
+          {
+            "author": "Администрация Центрального района",
+            "text": "Решено",
+            "date": "20 февраля 14:49",
+            "photos": [
+              "/upload/image/342911.jpg"
+            ]
+          },
+          {
+            "author": "Тень Шорца",
+            "text": "",
+            "date": "20 февраля 21:28",
+            "rating": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.64761734,
+          53.93784332
+        ]
+      },
+      "properties": {
+        "id": "16337",
+        "href": "/problem/16337",
+        "address": "просп. Независимости 151/2Минск",
+        "date_create": "25 мая 2016 16:24",
+        "date_planned": "30.10.2018",
+        "crm_date_planned": "2018-10-30",
+        "crm_create_at": "2016-05-25",
+        "organisation_id": "146",
+        "status": "7",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/128387.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "8815",
+          "name": "Евгений",
+          "last_name": "Кислый",
+          "middle_name": "Сергеевич"
+        },
+        "description": "Вся аллея разбита, а после дождя еще и лужи огромные.",
+        "answers": [
+          {
+            "author": "УП \"Зеленстрой Первомайского района\"",
+            "text": "Просьба продлить контроль до 30.10.2018",
+            "date": "19 июня 8:55"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.68730545,
+          53.9338913
+        ]
+      },
+      "properties": {
+        "id": "16291",
+        "href": "/problem/16291",
+        "address": "улица Руссиянова, 29 к1",
+        "date_create": "25 мая 2016 14:36",
+        "date_planned": "30.11.2017",
+        "crm_date_planned": "2017-11-30",
+        "crm_create_at": "2016-05-25",
+        "organisation_id": "146",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/128530.jpg"
+          ],
+          "after": [
+            "/upload/image/301948.jpg"
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "3331",
+          "name": "Александр",
+          "last_name": "Пенкрат",
+          "middle_name": "Сергеевич"
+        },
+        "description": "Было бы здорово довести начатое до конца. Из-за отсутствия пешеходной дорожки в мокрую погоду приходиться ходить по грязи. Как видно по фото, маршрут довольно папулярный.",
+        "answers": [
+          {
+            "author": "УП \"Зеленстрой Первомайского района\"",
+            "text": "Работы выполнены.",
+            "date": "1 ноября 14:32",
+            "photos": [
+              "/upload/image/301734.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.47628212,
+          53.91683578
+        ]
+      },
+      "properties": {
+        "id": "16136",
+        "href": "/problem/16136",
+        "address": "улица Матусевича, 30",
+        "date_create": "24 мая 2016 15:26",
+        "date_planned": "30.04.2018",
+        "crm_date_planned": "2018-04-30",
+        "crm_create_at": "2016-05-24",
+        "organisation_id": "245",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/93902.jpg"
+          ],
+          "after": [
+            "/upload/image/321107.jpg",
+            "/upload/image/321108.jpg"
+          ]
+        },
+        "category": {
+          "id": "36",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "12491",
+          "name": "Анна",
+          "last_name": "Ивченко",
+          "middle_name": "Анатольевна"
+        },
+        "description": "Лестница возле дома по улице Матусевича, 30 в ужасном состоянии – перила проржавели и шатаются, ступени обсыпались, в некоторых местах не хватает по 4-5 ступенек.Обращения в ЖЭС ничего не дали.",
+        "answers": [
+          {
+            "author": "КУП ЖКХ № 2 Фрунзенского района",
+            "text": "ремонт наружной лестницы выполнен",
+            "date": "14 декабря 11:08",
+            "photos": [
+              "/upload/image/321071.jpg|/upload/image/321072.jpg",
+              "/upload/image/321071.jpg|/upload/image/321072.jpg"
+            ]
+          },
+          {
+            "author": "Анна Ивченко",
+            "text": "Можно ли как то отметить бригаду рабочих, которые делали лестницу. Ребята просто молодцы и мастера! Сделали быстро и очень качественно. Работали даже в выходные дни.",
+            "date": "14 декабря 16:54",
+            "rating": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.60077286,
+          53.89753342
+        ]
+      },
+      "properties": {
+        "id": "16045",
+        "href": "/problem/16045",
+        "address": "пер. Козлова 3-5",
+        "date_create": "23 мая 2016 18:43",
+        "date_planned": "29.09.2018",
+        "crm_date_planned": "2018-09-29",
+        "crm_create_at": "2016-05-23",
+        "organisation_id": "152",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/70452.jpg"
+          ],
+          "after": [
+            "/upload/image/465603.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "5160",
+          "name": "Иван",
+          "last_name": "Сухинин",
+          "middle_name": "Александрович"
+        },
+        "description": "Тротуар не занижен для инвалидных и детских колясок с двух сторон",
+        "answers": [
+          {
+            "author": "УП \"Ремавтодор Партизанского района\"",
+            "text": "Выполнено",
+            "date": "5 сентября 9:08",
+            "photos": [
+              "/upload/image/465446.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.60029221,
+          53.89731979
+        ]
+      },
+      "properties": {
+        "id": "16019",
+        "href": "/problem/16019",
+        "address": "пер. Козлова 10",
+        "date_create": "23 мая 2016 18:40",
+        "date_planned": "29.09.2018",
+        "crm_date_planned": "2018-09-29",
+        "crm_create_at": "2016-05-23",
+        "organisation_id": "152",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/70451.jpg"
+          ],
+          "after": [
+            "/upload/image/456429.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "5160",
+          "name": "Иван",
+          "last_name": "Сухинин",
+          "middle_name": "Александрович"
+        },
+        "description": "Тротуар не занижен для инвалидных и детских колясок",
+        "answers": [
+          {
+            "author": "УП \"Ремавтодор Партизанского района\"",
+            "text": "Работы по понижению бордюрного камня по переулку Козлова выполнены",
+            "date": "22 августа 17:33",
+            "photos": [
+              "/upload/image/456342.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.60037804,
+          53.89740372
+        ]
+      },
+      "properties": {
+        "id": "16018",
+        "href": "/problem/16018",
+        "address": "пер. Козлова 10",
+        "date_create": "23 мая 2016 18:40",
+        "date_planned": "29.09.2018",
+        "crm_date_planned": "2018-09-29",
+        "crm_create_at": "2016-05-23",
+        "organisation_id": "152",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/70367.jpg"
+          ],
+          "after": [
+            "/upload/image/456428.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "5160",
+          "name": "Иван",
+          "last_name": "Сухинин",
+          "middle_name": "Александрович"
+        },
+        "description": "Тротуар не занижен для пересечения инвалидных и детских колясок",
+        "answers": [
+          {
+            "author": "УП \"Ремавтодор Партизанского района\"",
+            "text": "Работы по понижению бордюрного камня по переулку Козлова выполнены",
+            "date": "22 августа 17:32",
+            "photos": [
+              "/upload/image/456340.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.59677315,
+          53.92804337
+        ]
+      },
+      "properties": {
+        "id": "15953",
+        "href": "/problem/15953",
+        "address": "улица Якуба Коласа, 36",
+        "date_create": "23 мая 2016 14:55",
+        "date_planned": "30.08.2018",
+        "crm_date_planned": "2018-08-30",
+        "crm_create_at": "2016-05-23",
+        "organisation_id": "127",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/140204.jpg"
+          ],
+          "after": [
+            "/upload/image/342938.jpg"
+          ]
+        },
+        "category": {
+          "id": "325",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "12380",
+          "name": "Максим",
+          "last_name": "Мирович",
+          "middle_name": ""
+        },
+        "description": "Во дворе дома возле мусорки в неположенном месте находится куча песка — он был привезен зимой для засыпки дорожек и так и остался, летит пыль. Просьба убрать. Также нужен ремонт бордюра (см фото)",
+        "answers": [
+          {
+            "author": "КУП ЖКХ Первомайского района",
+            "text": "Выполнен ремонт",
+            "date": "20 февраля 14:41",
+            "photos": [
+              "/upload/image/342907.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.71505547,
+          53.94173813
+        ]
+      },
+      "properties": {
+        "id": "15801",
+        "href": "/problem/15801",
+        "address": "Садовая улица, 20",
+        "date_create": "23 мая 2016 9:57",
+        "date_planned": "31.12.2017",
+        "crm_date_planned": "2017-12-31",
+        "crm_create_at": "2016-05-23",
+        "organisation_id": "127",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/136655.jpg"
+          ],
+          "after": [
+            "/upload/image/309016.jpg",
+            "/upload/image/309017.jpg"
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "5272",
+          "name": "Татьяна",
+          "last_name": "Татьяна",
+          "middle_name": "Евгеньевна"
+        },
+        "description": "Отсутствует часть элементов дороги, торчит арматура.",
+        "answers": [
+          {
+            "author": "ГП \"ЖЭУ № 1 Первомайского района\"",
+            "text": "ремонт пешеходных связей по указанному адресу выполнен.",
+            "date": "29 ноября 12:55",
+            "photos": [
+              "/upload/image/174190.jpg"
+            ]
+          },
+          {
+            "author": "Татьяна Татьяна",
+            "text": "Уважаемый ЖЭУ №1 Перв. района, Садовая 20- это 5 этажный дом. А на фотоотчете 9 этажный дом.  Там, где я прошу уже год сделать работу никто ее не сделал. Только отписки.",
+            "date": "30 ноября 9:27",
+            "photos": [
+              "/upload/image/174931.jpg"
+            ]
+          },
+          {
+            "author": "ГП \"ЖЭУ № 1 Первомайского района\"",
+            "text": "ответ по указанному адресу был указан ошибочно. Указанные работы будут выполнены до 31.12.2016 подрядной организацией УП \"Ремавтодор\" при условии благоприятных погодных.",
+            "date": "1 декабря 17:36"
+          },
+          {
+            "author": "ГП \"ЖЭУ № 1 Первомайского района\"",
+            "text": "работы по ремонту пешеходных связей будут возобновлены при наступление благоприятных погодных условий в срок до 01.04.2017",
+            "date": "16 декабря 13:30",
+            "photos": [
+              "/upload/image/178834.jpg"
+            ]
+          },
+          {
+            "author": "ГП \"ЖЭУ № 1 Первомайского района\"",
+            "text": "В связи с большой загруженностью подрядной организации, работы по ремонту пешеходных связей будут выполнены в срок до 01.05.2017.",
+            "date": "31 марта 15:35"
+          },
+          {
+            "author": "ГП \"ЖЭУ № 1 Первомайского района\"",
+            "text": "Заявка находится в КУП \"ЖКХ Первомайского района г.Минска\". Проводится выбор подрядной организации. Переадресовать в КУП \"ЖКХ Первомайского района г.Минска\".",
+            "date": "28 апреля 10:44"
+          },
+          {
+            "author": "КУП ЖКХ Первомайского района",
+            "text": "В настоящее время выполнить данные работы  не представляется возможным в связи с отсутствием бюджетного финансирования,при выделении доп.бюджетного финансирования работы будут выполнены до 31.12.2017",
+            "date": "2 мая 12:31"
+          },
+          {
+            "author": "КУП ЖКХ Первомайского района",
+            "text": "выполнены работы",
+            "date": "16 ноября 14:58",
+            "photos": [
+              "/upload/image/308987.jpg|/upload/image/308988.jpg",
+              "/upload/image/308987.jpg|/upload/image/308988.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.62986565,
+          53.95587158
+        ]
+      },
+      "properties": {
+        "id": "15753",
+        "href": "/problem/15753",
+        "address": "улица Тикоцкого, 18",
+        "date_create": "22 мая 2016 14:41",
+        "date_planned": "30.10.2017",
+        "crm_date_planned": "2017-10-30",
+        "crm_create_at": "2016-05-22",
+        "organisation_id": "71",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/130351.jpg"
+          ],
+          "after": [
+            "/upload/image/287583.jpg"
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "12270",
+          "name": "Виктор",
+          "last_name": "Семенков",
+          "middle_name": ""
+        },
+        "description": "Тротуар перед 3 подъездом",
+        "answers": [
+          {
+            "author": "ГП \"ЖЭУ № 5 Первомайского района\"",
+            "text": "Выполнен локальный ремонт плиточного покрытия.",
+            "date": "3 октября 11:30",
+            "photos": [
+              "/upload/image/287539.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.49870872,
+          53.89428711
+        ]
+      },
+      "properties": {
+        "id": "15687",
+        "href": "/problem/15687",
+        "address": "рядом с Харьковская улица, 81",
+        "date_create": "22 мая 2016 1:28",
+        "date_planned": "31.10.2018",
+        "crm_date_planned": "2018-10-31",
+        "crm_create_at": "2016-05-22",
+        "organisation_id": "157",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/77857.jpg"
+          ],
+          "after": [
+            "/upload/image/373085.jpg"
+          ]
+        },
+        "category": {
+          "id": "284",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "10111",
+          "name": "Виктория",
+          "last_name": "Абрамова",
+          "middle_name": "Борисовна"
+        },
+        "description": "Высокий бордюр на велодорожке при переезде через выезд с заправки А100. С одной стороны он более или менее сглажен, и, когда едешь, кажется, что плавный спуск с двух сторон, но - нет, только с одной.",
+        "answers": [
+          {
+            "author": "ГП \"Ремавтодор  Московского района\"",
+            "text": "Работы по понижению бортового камня выполнены.",
+            "date": "24 апреля 11:15",
+            "photos": [
+              "/upload/image/371907.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.43274307,
+          53.90334702
+        ]
+      },
+      "properties": {
+        "id": "15713",
+        "href": "/problem/15713",
+        "address": "Минск,  улица Лобанка,  18",
+        "date_create": "21 мая 2016 20:40",
+        "date_planned": "20.11.2017",
+        "crm_date_planned": "2017-11-20",
+        "crm_create_at": "2016-05-21",
+        "organisation_id": "139",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/121005.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "25",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "2537",
+          "name": "Андрей",
+          "last_name": "Соболевский",
+          "middle_name": ""
+        },
+        "description": "Повторно. Предыдущее - 13069.  Брошен автомобиль АУДИ. Госномер 9628 НК7. Стоит без движения. Без техосмотра. Колеса спущены.",
+        "answers": [
+          {
+            "author": "Администрация Фрунзенского района",
+            "text": "ТС перемещено собственником.",
+            "date": "20 ноября 15:59"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.44552803,
+          53.85094833
+        ]
+      },
+      "properties": {
+        "id": "15711",
+        "href": "/problem/15711",
+        "address": "слободской проезд",
+        "date_create": "21 мая 2016 19:57",
+        "date_planned": "31.10.2018",
+        "crm_date_planned": "2018-10-31",
+        "crm_create_at": "2016-05-21",
+        "organisation_id": "157",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/67730.jpg"
+          ],
+          "after": [
+            "/upload/image/397732.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "9463",
+          "name": "Сергей",
+          "last_name": "Михаленко",
+          "middle_name": "Борисович"
+        },
+        "description": "На пешеходном переходе высокий бордюрный камень. Слободской проезд.",
+        "answers": [
+          {
+            "author": "ГП \"Ремавтодор  Московского района\"",
+            "text": "Работы по понижению бордюрного камня выполнены.",
+            "date": "29 мая 16:33",
+            "photos": [
+              "/upload/image/396569.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.41524506,
+          53.91393661
+        ]
+      },
+      "properties": {
+        "id": "15649",
+        "href": "/problem/15649",
+        "address": "Каменногорская улица, 28",
+        "date_create": "21 мая 2016 18:08",
+        "date_planned": "14.12.2017",
+        "crm_date_planned": "2017-12-14",
+        "crm_create_at": "2016-05-21",
+        "organisation_id": "247",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/121094.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "25",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "12183",
+          "name": "Вячеслав",
+          "last_name": "Кресс",
+          "middle_name": ""
+        },
+        "description": "Автомобиль стоит уже 3 года. Задние крылья и пороги сгнили. Техосмотр 2012 года. Задние колеса спущены. Под переде подставлены кирпичи. Занимает так нужное всем место, уберите его пожалуйста.",
+        "answers": [
+          {
+            "author": "КУП «ЖЭУ № 9 Фрунзенского района»",
+            "text": "на момент обследование территории машины не обнаружено.",
+            "date": "6 декабря 14:55"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.60935211,
+          53.92885971
+        ]
+      },
+      "properties": {
+        "id": "15663",
+        "href": "/problem/15663",
+        "address": "ул. Кузьмы Чорного 35Минск",
+        "date_create": "21 мая 2016 15:37",
+        "date_planned": "15.11.2017",
+        "crm_date_planned": "2017-11-15",
+        "crm_create_at": "2016-05-21",
+        "organisation_id": "147",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+            "/upload/image/307132.jpg",
+            "/upload/image/307133.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Необходимо занизить бордюр до 0см",
+        "answers": [
+          {
+            "author": "ГП \"Ремавтодор  Первомайского района\"",
+            "text": "Выполнено. Фото прилагается.",
+            "date": "13 ноября 15:15",
+            "photos": [
+              "/upload/image/307119.jpg|/upload/image/307120.jpg",
+              "/upload/image/307119.jpg|/upload/image/307120.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.56946754,
+          53.87217712
+        ]
+      },
+      "properties": {
+        "id": "15659",
+        "href": "/problem/15659",
+        "address": "ул. Денисовская 8",
+        "date_create": "21 мая 2016 15:15",
+        "date_planned": "10.11.2017",
+        "crm_date_planned": "2017-11-10",
+        "crm_create_at": "2016-05-21",
+        "organisation_id": "161",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/78646.jpg"
+          ],
+          "after": [
+            "/upload/image/300971.jpg",
+            "/upload/image/300972.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "6051",
+          "name": "Maxim",
+          "last_name": "Maksim",
+          "middle_name": ""
+        },
+        "description": "Не понижен бордюрный камень возле моста, со стороны универсама Рублевский",
+        "answers": [
+          {
+            "author": "УП \"Ремавтодор  Ленинского района\"",
+            "text": "Устранено.",
+            "date": "31 октября 10:06",
+            "photos": [
+              "/upload/image/300688.jpg|/upload/image/300689.jpg",
+              "/upload/image/300688.jpg|/upload/image/300689.jpg"
+            ]
+          },
+          {
+            "author": "Maxim Maksim",
+            "text": "Проблема устранена, спасибо за решение!",
+            "date": "31 октября 17:16",
+            "rating": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53936577,
+          53.89107132
+        ]
+      },
+      "properties": {
+        "id": "15535",
+        "href": "/problem/15535",
+        "address": "Добромысленский переулок, 3",
+        "date_create": "21 мая 2016 10:07",
+        "date_planned": "31.12.2017",
+        "crm_date_planned": "2017-12-31",
+        "crm_create_at": "2016-05-21",
+        "organisation_id": "124",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/79734.jpg"
+          ],
+          "after": [
+            "/upload/image/326054.jpg"
+          ]
+        },
+        "category": {
+          "id": "53",
+          "parent_id": "9",
+          "icon": "9"
+        },
+        "user": {
+          "id": "1611",
+          "name": "Вадим",
+          "last_name": "Зеленков",
+          "middle_name": ""
+        },
+        "description": "Не устраивает ответ на запрос №13929. Речь не об орфографической ошибке, а о нелепом \"переводе\" названия. И по-белорусски переулок \"Дабрамысленскi\", в том числе и в официальных документах.\rИсправьте!",
+        "answers": [
+          {
+            "author": "КУП ЖКХ  Московского района",
+            "text": "Выполнено.",
+            "date": "28 декабря 9:55",
+            "photos": [
+              "/upload/image/326038.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.61083984,
+          53.90942001
+        ]
+      },
+      "properties": {
+        "id": "15529",
+        "href": "/problem/15529",
+        "address": "рядом с Академическая улица, 28",
+        "date_create": "21 мая 2016 9:35",
+        "date_planned": "20.10.2017",
+        "crm_date_planned": "2017-10-20",
+        "crm_create_at": "2016-05-21",
+        "organisation_id": "147",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/102508.jpg"
+          ],
+          "after": [
+            "/upload/image/288152.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "1557",
+          "name": "Евгений",
+          "last_name": "Левончук",
+          "middle_name": "Валерьевич"
+        },
+        "description": "На всей протяженности ул. Академическая высокие бордюры местах выездов с прилегающих территорий.",
+        "answers": [
+          {
+            "author": "ГП \"Ремавтодор  Первомайского района\"",
+            "text": "Государственное предприятие \"Ремавтодор Первомайского района г. Минска\" сообщает: выполнено. Фото прилагается.",
+            "date": "4 октября 10:49",
+            "photos": [
+              "/upload/image/288134.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5573864,
+          53.9032135
+        ]
+      },
+      "properties": {
+        "id": "15603",
+        "href": "/problem/15603",
+        "address": "пл. Свободы 2Минск",
+        "date_create": "21 мая 2016 2:19",
+        "date_planned": "24.10.2017",
+        "crm_date_planned": "2017-10-24",
+        "crm_create_at": "2016-05-21",
+        "organisation_id": "248",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/123461.jpg"
+          ],
+          "after": [
+            "/upload/image/338187.jpg"
+          ]
+        },
+        "category": {
+          "id": "364",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Необходимо занизить бордюры до 0см с обеих сторон пересечения тротуара с заездом на платную парковку по пл.Свободы",
+        "answers": [
+          {
+            "author": "КУП \"Минская спадчина\"",
+            "text": "Работы по понижению дорожного борта выполнены.",
+            "date": "3 февраля 16:10",
+            "photos": [
+              "/upload/image/337997.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.58113098,
+          53.90407562
+        ]
+      },
+      "properties": {
+        "id": "15602",
+        "href": "/problem/15602",
+        "address": "ул. Захарова 44Минск",
+        "date_create": "21 мая 2016 2:10",
+        "date_planned": "20.06.2018",
+        "crm_date_planned": "2018-06-20",
+        "crm_create_at": "2016-05-21",
+        "organisation_id": "152",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/70361.jpg"
+          ],
+          "after": [
+            "/upload/image/409310.jpg"
+          ]
+        },
+        "category": {
+          "id": "325",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Необходимо занижение бордюра до 0см с обеих сторон пересечения тротуара и заезда на парковку",
+        "answers": [
+          {
+            "author": "УП \"Ремавтодор Партизанского района\"",
+            "text": "Выполнены работы по понижению бордюрного камня вдоль домов 40-44 по улице Захарова",
+            "date": "14 июня 22:31",
+            "photos": [
+              "/upload/image/408805.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.58073997,
+          53.9043045
+        ]
+      },
+      "properties": {
+        "id": "15601",
+        "href": "/problem/15601",
+        "address": "ул. Захарова 42Минск",
+        "date_create": "21 мая 2016 2:08",
+        "date_planned": "29.06.2018",
+        "crm_date_planned": "2018-06-29",
+        "crm_create_at": "2016-05-21",
+        "organisation_id": "152",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/72445.jpg"
+          ],
+          "after": [
+            "/upload/image/409309.jpg"
+          ]
+        },
+        "category": {
+          "id": "325",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Необходимо занижение бордюров до 0см с обеих сторон пересечения тротуара с заездом во двор к дому 42 по Захарова.",
+        "answers": [
+          {
+            "author": "УП \"Ремавтодор Партизанского района\"",
+            "text": "Выполнены работы по понижению бордюрного камня вдоль домов 40-44 по улице Захарова",
+            "date": "14 июня 22:31",
+            "photos": [
+              "/upload/image/408806.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.57976532,
+          53.90507889
+        ]
+      },
+      "properties": {
+        "id": "15600",
+        "href": "/problem/15600",
+        "address": "пер. Броневой 6Минск",
+        "date_create": "21 мая 2016 2:05",
+        "date_planned": "29.09.2018",
+        "crm_date_planned": "2018-09-29",
+        "crm_create_at": "2016-05-21",
+        "organisation_id": "152",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/70360.jpg"
+          ],
+          "after": [
+            "/upload/image/438569.jpg"
+          ]
+        },
+        "category": {
+          "id": "364",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Необходимо занижение бордюров до 0см на перекрестке Захарова и Броневого заулка",
+        "answers": [
+          {
+            "author": "УП \"Ремавтодор Партизанского района\"",
+            "text": "Бордюрный камень понижен до нулевой отметки",
+            "date": "30 июля 12:20",
+            "photos": [
+              "/upload/image/437548.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.57822609,
+          53.90628433
+        ]
+      },
+      "properties": {
+        "id": "15599",
+        "href": "/problem/15599",
+        "address": "ул. Захарова 23Минск",
+        "date_create": "21 мая 2016 2:03",
+        "date_planned": "30.11.2017",
+        "crm_date_planned": "2017-11-30",
+        "crm_create_at": "2016-05-21",
+        "organisation_id": "152",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/70359.jpg"
+          ],
+          "after": [
+            "/upload/image/311684.jpg"
+          ]
+        },
+        "category": {
+          "id": "364",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Необходимо занижение бордюра до 0см на перекрестке Захарова с Войсковым заулком",
+        "answers": [
+          {
+            "author": "УП \"Ремавтодор Партизанского района\"",
+            "text": "Выполнено сопряжение тротуарного покрытия и покрытия проезжей части",
+            "date": "22 ноября 11:09",
+            "photos": [
+              "/upload/image/311612.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.57695961,
+          53.90733337
+        ]
+      },
+      "properties": {
+        "id": "15598",
+        "href": "/problem/15598",
+        "address": "ул. Захарова 21Минск",
+        "date_create": "21 мая 2016 2:01",
+        "date_planned": "29.09.2018",
+        "crm_date_planned": "2018-09-29",
+        "crm_create_at": "2016-05-21",
+        "organisation_id": "152",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/70358.jpg"
+          ],
+          "after": [
+            "/upload/image/438568.jpg"
+          ]
+        },
+        "category": {
+          "id": "364",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Необходимо занижение бордюра до 0см с обеих сторон пешеходного перехода около МГЛУ",
+        "answers": [
+          {
+            "author": "УП \"Ремавтодор Партизанского района\"",
+            "text": "Выполнено",
+            "date": "30 июля 12:17",
+            "photos": [
+              "/upload/image/437546.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.57690239,
+          53.90746689
+        ]
+      },
+      "properties": {
+        "id": "15597",
+        "href": "/problem/15597",
+        "address": "ул. Румянцева 10Минск",
+        "date_create": "21 мая 2016 2:00",
+        "date_planned": "30.11.2017",
+        "crm_date_planned": "2017-11-30",
+        "crm_create_at": "2016-05-21",
+        "organisation_id": "152",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/70357.jpg"
+          ],
+          "after": [
+            "/upload/image/311683.jpg"
+          ]
+        },
+        "category": {
+          "id": "364",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Необходимо занижение бордюра до 0см с обеих сторон пешеходного перехода около МГЛУ",
+        "answers": [
+          {
+            "author": "УП \"Ремавтодор Партизанского района\"",
+            "text": "Выполнено сопряжение тротуарного покрытия и покрытия проезжей части",
+            "date": "22 ноября 11:08",
+            "photos": [
+              "/upload/image/311608.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.57639313,
+          53.90791321
+        ]
+      },
+      "properties": {
+        "id": "15595",
+        "href": "/problem/15595",
+        "address": "ул. Захарова 17Минск",
+        "date_create": "21 мая 2016 1:56",
+        "date_planned": "30.11.2017",
+        "crm_date_planned": "2017-11-30",
+        "crm_create_at": "2016-05-21",
+        "organisation_id": "152",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/70356.jpg"
+          ],
+          "after": [
+            "/upload/image/311975.jpg"
+          ]
+        },
+        "category": {
+          "id": "364",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Необходимо занижение бордюра до 0см с обеих сторон пересечения заезда во двор с тротуаром",
+        "answers": [
+          {
+            "author": "УП \"Ремавтодор Партизанского района\"",
+            "text": "Выполнены работы по сопряжению проезжей части и тротуара",
+            "date": "22 ноября 15:53",
+            "photos": [
+              "/upload/image/311922.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.57794762,
+          53.91035843
+        ]
+      },
+      "properties": {
+        "id": "15594",
+        "href": "/problem/15594",
+        "address": "ул. Козлова 2Минск",
+        "date_create": "21 мая 2016 1:55",
+        "date_planned": "29.09.2018",
+        "crm_date_planned": "2018-09-29",
+        "crm_create_at": "2016-05-21",
+        "organisation_id": "152",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/70355.jpg"
+          ],
+          "after": [
+            "/upload/image/463580.jpg"
+          ]
+        },
+        "category": {
+          "id": "364",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Необходимо занижение бордюра до 0см с обеих сторон пешеходного перехода / велопереезда",
+        "answers": [
+          {
+            "author": "УП \"Ремавтодор Партизанского района\"",
+            "text": "Выполнены работы по сопряжению тротуара и проезжей части",
+            "date": "31 августа 18:56",
+            "photos": [
+              "/upload/image/463058.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.61326027,
+          53.92799377
+        ]
+      },
+      "properties": {
+        "id": "15574",
+        "href": "/problem/15574",
+        "address": "ул. Толбухина 8Минск",
+        "date_create": "20 мая 2016 20:47",
+        "date_planned": "29.06.2019",
+        "crm_date_planned": "2019-06-29",
+        "crm_create_at": "2016-05-20",
+        "organisation_id": "127",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/69873.jpg"
+          ],
+          "after": [
+            "/upload/image/454351.jpg"
+          ]
+        },
+        "category": {
+          "id": "325",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Необходимо занизить бордюры в местах, где пешеходная дорожка заканчивается (во дворе их 5-6)",
+        "answers": [
+          {
+            "author": "КУП ЖКХ Первомайского района",
+            "text": "выполнены работы",
+            "date": "20 августа 15:12",
+            "photos": [
+              "/upload/image/454214.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.65324783,
+          53.89632797
+        ]
+      },
+      "properties": {
+        "id": "15491",
+        "href": "/problem/15491",
+        "address": "улица Солтыса, 56",
+        "date_create": "20 мая 2016 20:12",
+        "date_planned": "18.12.2017",
+        "crm_date_planned": "2017-12-18",
+        "crm_create_at": "2016-05-20",
+        "organisation_id": "136",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/116065.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "25",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "11891",
+          "name": "Юрий",
+          "last_name": "Романовский",
+          "middle_name": ""
+        },
+        "description": "Во дворе д. 56 стоит брошенный автомобиль уже несколько лет. Просьба убрать.",
+        "answers": [
+          {
+            "author": "Администрация Партизанского района",
+            "text": "Транспортное средство убрано собственником.",
+            "date": "11 декабря 13:07"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53899956,
+          53.84018326
+        ]
+      },
+      "properties": {
+        "id": "15415",
+        "href": "/problem/15415",
+        "address": "рядом с переулок Асаналиева, 4А",
+        "date_create": "20 мая 2016 16:07",
+        "date_planned": "14.11.2016",
+        "crm_date_planned": "2016-11-14",
+        "crm_create_at": "2016-05-20",
+        "organisation_id": "135",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/144667.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "280",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "10837",
+          "name": "Артём",
+          "last_name": "Князев",
+          "middle_name": ""
+        },
+        "description": "Грузовик, занимает много места на парковки, уже больше 6 мес. без движения.\rГос. номер АЕ 2695-7.\rБольшая парковка между переулком Асаналиева, 4а и переулком Асаналиева, 3.",
+        "answers": [
+          {
+            "author": "Администрация Октябрьского района",
+            "text": "Автомобиль убран",
+            "date": "29 декабря 11:15"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.57690048,
+          53.90369797
+        ]
+      },
+      "properties": {
+        "id": "15331",
+        "href": "/problem/15331",
+        "address": "пер. Броневой 2Минск",
+        "date_create": "19 мая 2016 21:07",
+        "date_planned": "25.11.2017",
+        "crm_date_planned": "2017-11-25",
+        "crm_create_at": "2016-05-19",
+        "organisation_id": "152",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/70350.jpg"
+          ],
+          "after": [
+            "/upload/image/288714.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Необходимо занизить бордюры на перекрестке Фрунзе/войсковой пер.",
+        "answers": [
+          {
+            "author": "УП \"Ремавтодор Партизанского района\"",
+            "text": "работы по понижению бортового камня выполнены",
+            "date": "5 октября 11:26",
+            "photos": [
+              "/upload/image/288657.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.47699547,
+          53.90641403
+        ]
+      },
+      "properties": {
+        "id": "15338",
+        "href": "/problem/15338",
+        "address": "ул. Притыцкого 43Минск",
+        "date_create": "19 мая 2016 20:03",
+        "date_planned": "04.12.2017",
+        "crm_date_planned": "2017-12-04",
+        "crm_create_at": "2016-05-19",
+        "organisation_id": "234",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/121004.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "25",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "9793",
+          "name": "Иван",
+          "last_name": "Матусевич",
+          "middle_name": "Викторович"
+        },
+        "description": "брошенный автомобиль не эксплуатурается более трех лет.",
+        "answers": [
+          {
+            "author": "КУП «ЖЭУ № 3 Фрунзенского района»",
+            "text": "Автомобиль эвакуирован",
+            "date": "4 декабря 10:31"
+          },
+          {
+            "author": "Иван Матусевич",
+            "text": "Больше года заняло решения вопроса",
+            "date": "5 декабря 0:18",
+            "rating": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54659271,
+          53.89693832
+        ]
+      },
+      "properties": {
+        "id": "15329",
+        "href": "/problem/15329",
+        "address": "ул. Берсона 1аМинск",
+        "date_create": "19 мая 2016 20:02",
+        "date_planned": "30.06.2018",
+        "crm_date_planned": "2018-06-30",
+        "crm_create_at": "2016-05-19",
+        "organisation_id": "157",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/67382.jpg"
+          ],
+          "after": [
+            "/upload/image/398931.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Бордюры на пересечении проезда и тротуара (с обеих сторон) нужно занизить до 0см",
+        "answers": [
+          {
+            "author": "ГП \"Ремавтодор  Московского района\"",
+            "text": "Работы по понижению бортового камня выполнены.",
+            "date": "30 мая 15:24",
+            "photos": [
+              "/upload/image/397569.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54531097,
+          53.89759445
+        ]
+      },
+      "properties": {
+        "id": "15328",
+        "href": "/problem/15328",
+        "address": "ул. Берсона 14Минск",
+        "date_create": "19 мая 2016 20:00",
+        "date_planned": "30.06.2018",
+        "crm_date_planned": "2018-06-30",
+        "crm_create_at": "2016-05-19",
+        "organisation_id": "157",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/66754.jpg"
+          ],
+          "after": [
+            "/upload/image/398930.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Бордюры на въезде во двор нужно занизить до 0см",
+        "answers": [
+          {
+            "author": "ГП \"Ремавтодор  Московского района\"",
+            "text": "Работы по понижению бортового камня выполнены.",
+            "date": "30 мая 14:24",
+            "photos": [
+              "/upload/image/397460.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54402161,
+          53.89812469
+        ]
+      },
+      "properties": {
+        "id": "15327",
+        "href": "/problem/15327",
+        "address": "ул. Мясникова 29Минск",
+        "date_create": "19 мая 2016 19:58",
+        "date_planned": "31.10.2018",
+        "crm_date_planned": "2018-10-31",
+        "crm_create_at": "2016-05-19",
+        "organisation_id": "157",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/66753.jpg"
+          ],
+          "after": [
+            "/upload/image/395834.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Бордюры с обеих сторон пешеходного перехода нужно занизить до 0см",
+        "answers": [
+          {
+            "author": "ГП \"Ремавтодор  Московского района\"",
+            "text": "Работы по понижению бортового камня выполнены.",
+            "date": "25 мая 15:57",
+            "photos": [
+              "/upload/image/394593.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54418564,
+          53.89807892
+        ]
+      },
+      "properties": {
+        "id": "15326",
+        "href": "/problem/15326",
+        "address": "ул. Берсона 16Минск",
+        "date_create": "19 мая 2016 19:57",
+        "date_planned": "30.06.2018",
+        "crm_date_planned": "2018-06-30",
+        "crm_create_at": "2016-05-19",
+        "organisation_id": "157",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Бордюры с обеих сторон (!) пешеходного перехода нужно занизить до 0см",
+        "answers": [
+          {
+            "author": "ГП \"Ремавтодор  Московского района\"",
+            "text": "Работы по понижению бортового камня выполнены.",
+            "date": "30 мая 15:14"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54394722,
+          53.89804077
+        ]
+      },
+      "properties": {
+        "id": "15325",
+        "href": "/problem/15325",
+        "address": "ул. Мясникова 35Минск",
+        "date_create": "19 мая 2016 19:57",
+        "date_planned": "31.10.2018",
+        "crm_date_planned": "2018-10-31",
+        "crm_create_at": "2016-05-19",
+        "organisation_id": "157",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/67381.jpg"
+          ],
+          "after": [
+            "/upload/image/396109.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Бордюры с обеих сторон пешеходного перехода нужно занизить до 0см",
+        "answers": [
+          {
+            "author": "ГП \"Ремавтодор  Московского района\"",
+            "text": "Работы по понижению бортового камня выполнены.",
+            "date": "28 мая 8:25",
+            "photos": [
+              "/upload/image/395213.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54281998,
+          53.89728165
+        ]
+      },
+      "properties": {
+        "id": "15324",
+        "href": "/problem/15324",
+        "address": "ул. Мясникова 38Минск",
+        "date_create": "19 мая 2016 19:54",
+        "date_planned": "31.10.2018",
+        "crm_date_planned": "2018-10-31",
+        "crm_create_at": "2016-05-19",
+        "organisation_id": "157",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/67380.jpg"
+          ],
+          "after": [
+            "/upload/image/396108.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Бордюры с обеих сторон пешеходного перехода нужно занизить до 0см",
+        "answers": [
+          {
+            "author": "ГП \"Ремавтодор  Московского района\"",
+            "text": "Работы по понижению бортового камня выполнены.",
+            "date": "28 мая 8:23",
+            "photos": [
+              "/upload/image/395211.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54254913,
+          53.89701843
+        ]
+      },
+      "properties": {
+        "id": "15323",
+        "href": "/problem/15323",
+        "address": "ул. Мясникова 38Минск",
+        "date_create": "19 мая 2016 19:53",
+        "date_planned": "31.10.2018",
+        "crm_date_planned": "2018-10-31",
+        "crm_create_at": "2016-05-19",
+        "organisation_id": "157",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/67379.jpg"
+          ],
+          "after": [
+            "/upload/image/382258.jpg",
+            "/upload/image/382259.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Бордюры с обеих сторон пересечения выезда с парковки с тротуаром/велодорожки нужно занизить до 0см",
+        "answers": [
+          {
+            "author": "ГП \"Ремавтодор  Московского района\"",
+            "text": "Работы по понижению бортового камня выполнены.",
+            "date": "8 мая 9:20",
+            "photos": [
+              "/upload/image/381659.jpg|/upload/image/381660.jpg",
+              "/upload/image/381659.jpg|/upload/image/381660.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54222679,
+          53.89629745
+        ]
+      },
+      "properties": {
+        "id": "15322",
+        "href": "/problem/15322",
+        "address": "ул. Мясникова 37Минск",
+        "date_create": "19 мая 2016 19:51",
+        "date_planned": "31.10.2018",
+        "crm_date_planned": "2018-10-31",
+        "crm_create_at": "2016-05-19",
+        "organisation_id": "157",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/67378.jpg"
+          ],
+          "after": [
+            "/upload/image/386554.jpg",
+            "/upload/image/386555.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Бордюры с обеих сторон пешеходного перехода нужно занизить до 0см",
+        "answers": [
+          {
+            "author": "ГП \"Ремавтодор  Московского района\"",
+            "text": "Работы по понижению бортового камня выполнены.",
+            "date": "14 мая 16:03",
+            "photos": [
+              "/upload/image/385677.jpg|/upload/image/385678.jpg",
+              "/upload/image/385677.jpg|/upload/image/385678.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54185867,
+          53.89596176
+        ]
+      },
+      "properties": {
+        "id": "15321",
+        "href": "/problem/15321",
+        "address": "ул. Мясникова 44Минск",
+        "date_create": "19 мая 2016 19:49",
+        "date_planned": "31.10.2018",
+        "crm_date_planned": "2018-10-31",
+        "crm_create_at": "2016-05-19",
+        "organisation_id": "157",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/67377.jpg"
+          ],
+          "after": [
+            "/upload/image/395903.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Бордюры в месте пересечения выезда с парковки и тротуара/велодорожки нужно занизить до 0см",
+        "answers": [
+          {
+            "author": "ГП \"Ремавтодор  Московского района\"",
+            "text": "Работы по понижению бортового камня выполнены.",
+            "date": "25 мая 15:53",
+            "photos": [
+              "/upload/image/394589.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5481205,
+          53.90162277
+        ]
+      },
+      "properties": {
+        "id": "15247",
+        "href": "/problem/15247",
+        "address": "вуліца Няміга 28",
+        "date_create": "19 мая 2016 15:40",
+        "date_planned": "31.10.2018",
+        "crm_date_planned": "2018-10-31",
+        "crm_create_at": "2016-05-19",
+        "organisation_id": "157",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/73474.jpg"
+          ],
+          "after": [
+            "/upload/image/376642.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "122",
+          "name": "Тень",
+          "last_name": "Шорца",
+          "middle_name": ""
+        },
+        "description": "Необходимо занизить бордюры в ноль.",
+        "answers": [
+          {
+            "author": "ГП \"Ремавтодор  Московского района\"",
+            "text": "Работы по понижению бортового камня выполнены.",
+            "date": "28 апреля 11:33",
+            "photos": [
+              "/upload/image/376169.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54903793,
+          53.90693665
+        ]
+      },
+      "properties": {
+        "id": "15197",
+        "href": "/problem/15197",
+        "address": "Замкавая вуліца 27",
+        "date_create": "18 мая 2016 21:54",
+        "date_planned": "26.06.2018",
+        "crm_date_planned": "2018-06-26",
+        "crm_create_at": "2016-05-18",
+        "organisation_id": "244",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/78253.jpg"
+          ],
+          "after": [
+            "/upload/image/412267.jpg"
+          ]
+        },
+        "category": {
+          "id": "324",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "122",
+          "name": "Тень",
+          "last_name": "Шорца",
+          "middle_name": ""
+        },
+        "description": "Повторнаязаявка на установку ограждения от парковки на зеленой зоне.",
+        "answers": [
+          {
+            "author": "ГП \"ЖЭУ № 1 Центрального района\"",
+            "text": "Решено.",
+            "date": "20 июня 12:26",
+            "photos": [
+              "/upload/image/412173.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.49560165,
+          53.84331131
+        ]
+      },
+      "properties": {
+        "id": "15080",
+        "href": "/problem/15080",
+        "address": "улица Ландера, 80Б",
+        "date_create": "18 мая 2016 12:00",
+        "date_planned": "31.07.2017",
+        "crm_date_planned": "2017-07-31",
+        "crm_create_at": "2016-05-18",
+        "organisation_id": "206",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/81655.jpg"
+          ],
+          "after": [
+            "/upload/image/490210.jpg"
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "11578",
+          "name": "Наталья",
+          "last_name": "Богданова",
+          "middle_name": "Михайловна"
+        },
+        "description": "Дорога в столичную школу № 119. На этой же дороге, где ходят учащиеся,  разворачивается большое количество машин. Рядом скользкая тропинка , по которой  можно пройти только в галошах. Нужен ремонт.",
+        "answers": [
+          {
+            "author": "Управление образования, спорта и туризма Октябрьского района",
+            "text": "Данная территория приведена в порядок и находится в удовлетворительном состоянии.",
+            "date": "9 октября 13:15",
+            "photos": [
+              "/upload/image/489181.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.52481079,
+          53.93432236
+        ]
+      },
+      "properties": {
+        "id": "15072",
+        "href": "/problem/15072",
+        "address": "Велодорожка",
+        "date_create": "18 мая 2016 0:31",
+        "date_planned": "30.06.2019",
+        "crm_date_planned": "2019-06-30",
+        "crm_create_at": "2016-05-18",
+        "organisation_id": "182",
+        "status": "7",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/137051.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "301",
+          "parent_id": "21",
+          "icon": "21"
+        },
+        "user": {
+          "id": "1043",
+          "name": "Антон",
+          "last_name": "Кузнецов",
+          "middle_name": ""
+        },
+        "description": "Разбиты бетонные круги обеспечивающие выход на островок отдыха. Некоторые из них стоят не устойчиво.",
+        "answers": [
+          {
+            "author": "КУП \"Минскзеленстрой\"",
+            "text": "Ремонт бетонной конструкции возможен при реконструкции объекта, прорабатывется вопрос выделении денежных средств на 2019 год.",
+            "date": "15 октября 10:33"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.59349251,
+          53.91923141
+        ]
+      },
+      "properties": {
+        "id": "15033",
+        "href": "/problem/15033",
+        "address": "ул. Петруся Бровки 2Минск",
+        "date_create": "17 мая 2016 21:35",
+        "date_planned": "01.12.2017",
+        "crm_date_planned": "2017-12-01",
+        "crm_create_at": "2016-05-17",
+        "organisation_id": "159",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/87293.jpg"
+          ],
+          "after": [
+            "/upload/image/315307.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Бордюры на дворовом заезде должны быть занижены до 0см",
+        "answers": [
+          {
+            "author": "УП \"Ремавтодор  Советского района\"",
+            "text": "Понижение борта выполнено",
+            "date": "29 ноября 16:19",
+            "photos": [
+              "/upload/image/315059.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.60830879,
+          53.92403412
+        ]
+      },
+      "properties": {
+        "id": "15027",
+        "href": "/problem/15027",
+        "address": "ул. Калинина 2Минск",
+        "date_create": "17 мая 2016 20:19",
+        "date_planned": "25.10.2018",
+        "crm_date_planned": "2018-10-25",
+        "crm_create_at": "2016-05-17",
+        "organisation_id": "147",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/75146.jpg"
+          ],
+          "after": [
+            "/upload/image/455366.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Бордюры по обе стороны заезда на парковку перед магазином 1000 мелочей нужно занизить до 0см",
+        "answers": [
+          {
+            "author": "ГП \"Ремавтодор  Первомайского района\"",
+            "text": "Работы выполнены",
+            "date": "21 августа 16:09",
+            "photos": [
+              "/upload/image/455334.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.60859299,
+          53.92412567
+        ]
+      },
+      "properties": {
+        "id": "15025",
+        "href": "/problem/15025",
+        "address": "ул. Калинина 4Минск",
+        "date_create": "17 мая 2016 20:15",
+        "date_planned": "29.06.2018",
+        "crm_date_planned": "2018-06-29",
+        "crm_create_at": "2016-05-17",
+        "organisation_id": "147",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+            "/upload/image/414307.jpg"
+          ]
+        },
+        "category": {
+          "id": "325",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Бордюры на въезде во двор необходимо занизить до 0см",
+        "answers": [
+          {
+            "author": "ГП \"Ремавтодор  Первомайского района\"",
+            "text": "Выполнено. Фото прилагается.",
+            "date": "22 июня 15:57",
+            "photos": [
+              "/upload/image/414282.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54977798,
+          53.90251923
+        ]
+      },
+      "properties": {
+        "id": "15019",
+        "href": "/problem/15019",
+        "address": "ул. Немига 5Минск",
+        "date_create": "17 мая 2016 19:25",
+        "date_planned": "15.06.2018",
+        "crm_date_planned": "2018-06-15",
+        "crm_create_at": "2016-05-17",
+        "organisation_id": "140",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/127911.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Бордюры на пересечении заездом на парковку не занижены, нужна доработка и занижение до 0",
+        "answers": [
+          {
+            "author": "Администрация Центрального района",
+            "text": "Согласно проектно-сметной документации, понижения борта на данном участке не было предусмотрено проектом.",
+            "date": "1 августа 13:14"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.55115318,
+          53.90352631
+        ]
+      },
+      "properties": {
+        "id": "15018",
+        "href": "/problem/15018",
+        "address": "ул. Комсомольская 6Минск",
+        "date_create": "17 мая 2016 19:22",
+        "date_planned": "29.06.2019",
+        "crm_date_planned": "2019-06-29",
+        "crm_create_at": "2016-05-17",
+        "organisation_id": "140",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/121423.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "343",
+          "name": "Валерий",
+          "last_name": "Пипко",
+          "middle_name": "Валентинович"
+        },
+        "description": "Бордюр на пешеходном переходе через заезд на парковку не соответствует стандарту, необходимо занижение до 0",
+        "answers": [
+          {
+            "author": "Администрация Центрального района",
+            "text": "Согласно проектно-сметной документации, понижения борта на данном участке не было предусмотрено проектом.Объект принят в эксплуатацию после внесения изменений в ТКП п. 5.4.8",
+            "date": "16 августа 16:41"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.62986565,
+          53.95587158
+        ]
+      },
+      "properties": {
+        "id": "14959",
+        "href": "/problem/14959",
+        "address": "улица Тикоцкого, 18",
+        "date_create": "17 мая 2016 18:42",
+        "date_planned": "30.10.2017",
+        "crm_date_planned": "2017-10-30",
+        "crm_create_at": "2016-05-17",
+        "organisation_id": "127",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/135905.jpg"
+          ],
+          "after": [
+            "/upload/image/298341.jpg"
+          ]
+        },
+        "category": {
+          "id": "36",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "11297",
+          "name": "Дмитрий",
+          "last_name": "Добышев",
+          "middle_name": "Михайлович"
+        },
+        "description": "В пару метрах от первого подъезда уже который год разбитая лестница. Ниже(по фото вправо) сделали спуск к дороге абсолютно новый, а тут нет.",
+        "answers": [
+          {
+            "author": "КУП ЖКХ Первомайского района",
+            "text": "выполнены работы",
+            "date": "25 октября 17:05",
+            "photos": [
+              "/upload/image/298310.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.51727867,
+          53.85103226
+        ]
+      },
+      "properties": {
+        "id": "14890",
+        "href": "/problem/14890",
+        "address": "Брестская улица, 82",
+        "date_create": "17 мая 2016 13:01",
+        "date_planned": "30.09.2018",
+        "crm_date_planned": "2018-09-30",
+        "crm_create_at": "2016-05-17",
+        "organisation_id": "151",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/146826.jpg"
+          ],
+          "after": [
+            "/upload/image/315161.jpg"
+          ]
+        },
+        "category": {
+          "id": "36",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "11355",
+          "name": "Валерий",
+          "last_name": "Цыганов",
+          "middle_name": "Владимирович"
+        },
+        "description": "Лестницы вдоль домов по улицам Брестская  86, 84, 82, 80, 78; Казинца  51/1, 51/2, 51/3, находятся в аварийном состоянии",
+        "answers": [
+          {
+            "author": "УП \"Зеленстрой Октябрьского района\"",
+            "text": "Ремонт выполнен.",
+            "date": "12 сентября 10:51",
+            "photos": [
+              "/upload/image/470371.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.51739311,
+          53.85050583
+        ]
+      },
+      "properties": {
+        "id": "14885",
+        "href": "/problem/14885",
+        "address": "Брестская улица, 80",
+        "date_create": "17 мая 2016 12:44",
+        "date_planned": "30.09.2018",
+        "crm_date_planned": "2018-09-30",
+        "crm_create_at": "2016-05-17",
+        "organisation_id": "151",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/139695.jpg"
+          ],
+          "after": [
+            "/upload/image/315160.jpg"
+          ]
+        },
+        "category": {
+          "id": "36",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "11355",
+          "name": "Валерий",
+          "last_name": "Цыганов",
+          "middle_name": "Владимирович"
+        },
+        "description": "Около домов по по адресам Брестская ул 86, 84, 82, 80, 78; Казинца ул. 51/1, 51/2, 51/3, лестницы ведущие к водохранилищу находятся в аварийном состоянии.",
+        "answers": [
+          {
+            "author": "УП \"Зеленстрой Октябрьского района\"",
+            "text": "Ремонт выполнен.",
+            "date": "12 сентября 10:51",
+            "photos": [
+              "/upload/image/470370.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.89851379,
+          53.87280655
+        ]
+      },
+      "properties": {
+        "id": "14874",
+        "href": "/problem/14874",
+        "address": "Берёзогорская ул.",
+        "date_create": "17 мая 2016 10:46",
+        "date_planned": "31.10.2018",
+        "crm_date_planned": "2018-10-31",
+        "crm_create_at": "2016-05-17",
+        "organisation_id": "187",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/68779.jpg"
+          ],
+          "after": [
+            "/upload/image/477980.jpg",
+            "/upload/image/477981.jpg",
+            "/upload/image/477982.jpg"
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "11337",
+          "name": "Максим",
+          "last_name": "Анисимов",
+          "middle_name": "Дмитриевич"
+        },
+        "description": "Мкр Сокол, улица Ромашкина. Ямы в асфальте по всей улице",
+        "answers": [
+          {
+            "author": "КУП ЖКХ  Октябрьского района",
+            "text": "Работы выполнены.",
+            "date": "21 сентября 16:00",
+            "photos": [
+              "/upload/image/477953.jpg|/upload/image/477954.jpg|/upload/image/477955.jpg",
+              "/upload/image/477953.jpg|/upload/image/477954.jpg|/upload/image/477955.jpg",
+              "/upload/image/477953.jpg|/upload/image/477954.jpg|/upload/image/477955.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5503788,
+          53.89826202
+        ]
+      },
+      "properties": {
+        "id": "14852",
+        "href": "/problem/14852",
+        "address": "вуліца Валадарскага 4",
+        "date_create": "17 мая 2016 8:48",
+        "date_planned": "31.10.2018",
+        "crm_date_planned": "2018-10-31",
+        "crm_create_at": "2016-05-17",
+        "organisation_id": "157",
+        "status": "5",
+        "rating": "1",
+        "photo": {
+          "before": [
+            "/upload/image/65167.jpg"
+          ],
+          "after": [
+            "/upload/image/398929.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "122",
+          "name": "Тень",
+          "last_name": "Шорца",
+          "middle_name": ""
+        },
+        "description": "Необходимо занижение бордюра в ноль",
+        "answers": [
+          {
+            "author": "ГП \"Ремавтодор  Московского района\"",
+            "text": "В связи с отсутствием финансирования, работы по понижению бордюрного камня включены в план по благоустройству УДС на 2017 год.",
+            "date": "18 мая 11:44"
+          },
+          {
+            "author": "Тень Шорца",
+            "text": "проблема не решена.",
+            "date": "14 сентября 13:07",
+            "rating": 1
+          },
+          {
+            "author": "ГП \"Ремавтодор  Московского района\"",
+            "text": "В связи с отсутствием финансирования, работы по понижению бордюрного камня включены в план по благоустройству УДС на III квартал 2017 год.",
+            "date": "15 сентября 8:13"
+          },
+          {
+            "author": "ГП \"Ремавтодор  Московского района\"",
+            "text": "Работы по понижению бортового камня включены в план по благоустройству УДС на IV квартал 2017 и будут выполнены при условии выделения финансирования. Контроль - 31.12.2017.",
+            "date": "16 июня 14:57"
+          },
+          {
+            "author": "ГП \"Ремавтодор  Московского района\"",
+            "text": "В связи с отсутствием финансирования, работы по понижению бордюрного камня включены в план по благоустройству УДС на 2018 год. Контроль - 31.10.2018.",
+            "date": "14 ноября 15:35"
+          },
+          {
+            "author": "ГП \"Ремавтодор  Московского района\"",
+            "text": "Работы по понижению бортового камня выполнены.",
+            "date": "30 мая 14:35",
+            "photos": [
+              "/upload/image/397466.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.57983971,
+          53.90086365
+        ]
+      },
+      "properties": {
+        "id": "14691",
+        "href": "/problem/14691",
+        "address": "рядом с улица Азгура, 3",
+        "date_create": "16 мая 2016 12:57",
+        "date_planned": "30.09.2017",
+        "crm_date_planned": "2017-09-30",
+        "crm_create_at": "2016-05-16",
+        "organisation_id": "136",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/80953.jpg"
+          ],
+          "after": [
+            "/upload/image/293571.jpg"
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "11066",
+          "name": "Владимир",
+          "last_name": "Хорошилов",
+          "middle_name": "Владимирович"
+        },
+        "description": "Прошу устранить яму на углу дома по ул. Азгура №3. Каждый год уходит под землю дорожка возле дома.\rСпасибо",
+        "answers": [
+          {
+            "author": "Администрация Партизанского района",
+            "text": "Замечание устранено",
+            "date": "16 октября 17:38",
+            "photos": [
+              "/upload/image/293223.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.61069489,
+          53.88007736
+        ]
+      },
+      "properties": {
+        "id": "14593",
+        "href": "/problem/14593",
+        "address": "рядом с улица Ванеева, 24",
+        "date_create": "15 мая 2016 15:49",
+        "date_planned": "29.09.2018",
+        "crm_date_planned": "2018-09-29",
+        "crm_create_at": "2016-05-15",
+        "organisation_id": "152",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/72320.jpg"
+          ],
+          "after": [
+            "/upload/image/466105.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "8170",
+          "name": "Максім",
+          "last_name": "Ляшко",
+          "middle_name": ""
+        },
+        "description": "Неадпаведная нормам вышыня бардзюра на астраўку бяспекі. Просьба прывесці вышыню бардзюра ў адпаведнасць з п. 5.4.8 ТКП 45-3.03-227-2010.",
+        "answers": [
+          {
+            "author": "УП \"Ремавтодор Партизанского района\"",
+            "text": "Выполнено",
+            "date": "5 сентября 16:37",
+            "photos": [
+              "/upload/image/466017.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.64816284,
+          53.84151459
+        ]
+      },
+      "properties": {
+        "id": "14560",
+        "href": "/problem/14560",
+        "address": "улица Голодеда, 2А",
+        "date_create": "15 мая 2016 11:56",
+        "date_planned": "06.03.2018",
+        "crm_date_planned": "2018-03-06",
+        "crm_create_at": "2016-05-15",
+        "organisation_id": "224",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/70558.jpg"
+          ],
+          "after": [
+            "/upload/image/340683.jpg"
+          ]
+        },
+        "category": {
+          "id": "57",
+          "parent_id": "9",
+          "icon": "9"
+        },
+        "user": {
+          "id": "2472",
+          "name": "Андрей",
+          "last_name": "Королев",
+          "middle_name": ""
+        },
+        "description": "Обрушается внешний слой фасада здания в районе 5-6 этажа 1 подъезд, квартиры 20, 24. Требуется ремонт",
+        "answers": [
+          {
+            "author": "ГП \"ЖЭУ №6 ЖРЭО Заводского района\"",
+            "text": "Работы произведены.",
+            "date": "13 февраля 9:16",
+            "photos": [
+              "/upload/image/340635.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54700661,
+          53.90670395
+        ]
+      },
+      "properties": {
+        "id": "14568",
+        "href": "/problem/14568",
+        "address": "вуліца Вызвалення 3",
+        "date_create": "15 мая 2016 11:05",
+        "date_planned": "29.06.2018",
+        "crm_date_planned": "2018-06-29",
+        "crm_create_at": "2016-05-15",
+        "organisation_id": "140",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/76230.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "296",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "122",
+          "name": "Тень",
+          "last_name": "Шорца",
+          "middle_name": ""
+        },
+        "description": "Чтобы не вымывало песок на проезжую часть - можно сделать углубление в земле перед бордюром/приподнять бордюр",
+        "answers": [
+          {
+            "author": "Администрация Центрального района",
+            "text": "Повторно сообщаем, что критичное вымывание песка на проезжую часть отсутствует, идет реконструкция территории",
+            "date": "17 июля 17:35"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.61015129,
+          53.92403412
+        ]
+      },
+      "properties": {
+        "id": "14380",
+        "href": "/problem/14380",
+        "address": "просп. Независимости 91Минск",
+        "date_create": "13 мая 2016 13:40",
+        "date_planned": "29.06.2019",
+        "crm_date_planned": "2019-06-29",
+        "crm_create_at": "2016-05-13",
+        "organisation_id": "127",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/135093.jpg"
+          ],
+          "after": [
+            "/upload/image/465522.jpg"
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "8598",
+          "name": "Александр",
+          "last_name": "Денисов",
+          "middle_name": "Васильевич"
+        },
+        "description": "Когда то была дорожка. Асфальт рассыпался и порос травой.",
+        "answers": [
+          {
+            "author": "КУП ЖКХ Первомайского района",
+            "text": "Выполнены работы",
+            "date": "4 сентября 22:06",
+            "photos": [
+              "/upload/image/465328.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.64508057,
+          53.93568039
+        ]
+      },
+      "properties": {
+        "id": "14362",
+        "href": "/problem/14362",
+        "address": "просп. Независимости 137/1",
+        "date_create": "13 мая 2016 11:53",
+        "date_planned": "30.09.2017",
+        "crm_date_planned": "2017-09-30",
+        "crm_create_at": "2016-05-13",
+        "organisation_id": "127",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/141746.jpg"
+          ],
+          "after": [
+            "/upload/image/297477.jpg"
+          ]
+        },
+        "category": {
+          "id": "99",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "10838",
+          "name": "Олеся",
+          "last_name": "Мельникова",
+          "middle_name": "Владимировна"
+        },
+        "description": "д.137к1 по проспекту Независимости, 5й подъезд.Ступеньки разбиты ужасно уже года 2, никто не ремонтирует. Недалеко до травм, все цепляются ногами.",
+        "answers": [
+          {
+            "author": "КУП ЖКХ Первомайского района",
+            "text": "Ремонт крыльца выполнен в сентябре",
+            "date": "24 октября 15:22",
+            "photos": [
+              "/upload/image/297382.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.47930717,
+          53.91130447
+        ]
+      },
+      "properties": {
+        "id": "14312",
+        "href": "/problem/14312",
+        "address": "вулiца Жудро 11",
+        "date_create": "12 мая 2016 20:07",
+        "date_planned": "05.12.2017",
+        "crm_date_planned": "2017-12-05",
+        "crm_create_at": "2016-05-12",
+        "organisation_id": "246",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/112276.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "25",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "2470",
+          "name": "Ольга",
+          "last_name": "Козубовская",
+          "middle_name": "Васильевна"
+        },
+        "description": "Брошенный автомобил",
+        "answers": [
+          {
+            "author": "КУП «ЖЭУ № 8 Фрунзенского района»",
+            "text": "Автомобиль убран.",
+            "date": "23 ноября 16:34"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.49393082,
+          53.92601395
+        ]
+      },
+      "properties": {
+        "id": "14267",
+        "href": "/problem/14267",
+        "address": "ул. Чигладзе 31",
+        "date_create": "12 мая 2016 15:33",
+        "date_planned": "22.01.2018",
+        "crm_date_planned": "2018-01-22",
+        "crm_create_at": "2016-05-12",
+        "organisation_id": "139",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/121057.jpg"
+          ],
+          "after": [
+            "/upload/image/317369.jpg"
+          ]
+        },
+        "category": {
+          "id": "25",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "2346",
+          "name": "Роман",
+          "last_name": "Бельский",
+          "middle_name": "Леонидович"
+        },
+        "description": "Автохлам",
+        "answers": [
+          {
+            "author": "Администрация Фрунзенского района",
+            "text": "Тс эвакуировано.",
+            "date": "4 декабря 23:15",
+            "photos": [
+              "/upload/image/317165.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.55555725,
+          53.87376785
+        ]
+      },
+      "properties": {
+        "id": "14193",
+        "href": "/problem/14193",
+        "address": "минск левкова 41",
+        "date_create": "11 мая 2016 20:57",
+        "date_planned": "30.04.2018",
+        "crm_date_planned": "2018-04-30",
+        "crm_create_at": "2016-05-11",
+        "organisation_id": "135",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/70337.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "10751",
+          "name": "Роман",
+          "last_name": "Кравец",
+          "middle_name": "Геннадьевич"
+        },
+        "description": "Отсутствует тротуар",
+        "answers": [
+          {
+            "author": "Администрация Октябрьского района",
+            "text": "Прошу закрыть данный запрос, т.к. на контроле имеется идентичный (202714). В ходе телефонного разговора 20.09.2018 заявитель не возражал против закрытия дублирующегося запроса.",
+            "date": "20 сентября 12:28"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53709602,
+          53.90620041
+        ]
+      },
+      "properties": {
+        "id": "14084",
+        "href": "/problem/14084",
+        "address": "рядом с Кальварийская улица, 5",
+        "date_create": "11 мая 2016 13:19",
+        "date_planned": "30.09.2019",
+        "crm_date_planned": "2019-09-30",
+        "crm_create_at": "2016-05-11",
+        "organisation_id": "149",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/76331.jpg"
+          ],
+          "after": [
+            "/upload/image/452389.jpg"
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "6097",
+          "name": "Леонид",
+          "last_name": "Д",
+          "middle_name": ""
+        },
+        "description": "Уничтожена пешеходная (асфальтированная) дорожка от выхода со ст. метро \"Фрунзенская\", до арки между домами №10 и №16 по ул. М.Танка. После переноса инженерных сетей от дорожки остались фрагменты.",
+        "answers": [
+          {
+            "author": "Администрация Центрального района",
+            "text": "Работы на данном участке выполнены!Решено",
+            "date": "16 августа 16:07",
+            "photos": [
+              "/upload/image/452224.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.67700768,
+          53.94920731
+        ]
+      },
+      "properties": {
+        "id": "14035",
+        "href": "/problem/14035",
+        "address": "вулiца Шафарнянская 2",
+        "date_create": "10 мая 2016 21:26",
+        "date_planned": "22.09.2018",
+        "crm_date_planned": "2018-09-22",
+        "crm_create_at": "2016-05-10",
+        "organisation_id": "127",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/61714.jpg"
+          ],
+          "after": [
+            "/upload/image/457934.jpg"
+          ]
+        },
+        "category": {
+          "id": "36",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "9512",
+          "name": "Вадим",
+          "last_name": "Бураков",
+          "middle_name": "Михайлович"
+        },
+        "description": "Данная проблема может мешать мамам с колясками и инвадидам",
+        "answers": [
+          {
+            "author": "КУП ЖКХ Первомайского района",
+            "text": "выполнены работы",
+            "date": "24 августа 16:02",
+            "photos": [
+              "/upload/image/457872.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5012188,
+          53.92345047
+        ]
+      },
+      "properties": {
+        "id": "13627",
+        "href": "/problem/13627",
+        "address": "просп. Пушкина 85Минск",
+        "date_create": "5 мая 2016 20:12",
+        "date_planned": "30.09.2018",
+        "crm_date_planned": "2018-09-30",
+        "crm_create_at": "2016-05-05",
+        "organisation_id": "130",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/93367.jpg"
+          ],
+          "after": [
+            "/upload/image/465424.jpg"
+          ]
+        },
+        "category": {
+          "id": "325",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "9413",
+          "name": "Александр",
+          "last_name": "-",
+          "middle_name": "Юрьевич"
+        },
+        "description": "Разбиты бордюрные камни между вторым и третьим подъездом по адресу  Пушкина 85",
+        "answers": [
+          {
+            "author": "КУП ЖКХ № 2 Фрунзенского района",
+            "text": "Работы выполнены",
+            "date": "4 сентября 17:47",
+            "photos": [
+              "/upload/image/465223.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.49141884,
+          53.90013885
+        ]
+      },
+      "properties": {
+        "id": "13513",
+        "href": "/problem/13513",
+        "address": "улица Янки Мавра, 27",
+        "date_create": "5 мая 2016 10:25",
+        "date_planned": "30.09.2018",
+        "crm_date_planned": "2018-09-30",
+        "crm_create_at": "2016-05-05",
+        "organisation_id": "145",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+            "/upload/image/481836.jpg"
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "9725",
+          "name": "Роман",
+          "last_name": "Попов",
+          "middle_name": "Анатольевич"
+        },
+        "description": "разрушено тротуарное покрытие на нескольких сотнях метров между домами № 27 и 31 по улице янки мавра в минске",
+        "answers": [
+          {
+            "author": "УП \"Зеленстрой Фрунзенского района\"",
+            "text": "Замечания устранены.",
+            "date": "27 сентября 16:25",
+            "photos": [
+              "/upload/image/481822.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5802002,
+          53.9083252
+        ]
+      },
+      "properties": {
+        "id": "13467",
+        "href": "/problem/13467",
+        "address": "ул. Козлова 4а",
+        "date_create": "4 мая 2016 22:31",
+        "date_planned": "31.10.2018",
+        "crm_date_planned": "2018-10-31",
+        "crm_create_at": "2016-05-04",
+        "organisation_id": "136",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/127721.jpg"
+          ],
+          "after": [
+            "/upload/image/295073.jpg"
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "9140",
+          "name": "Андрей",
+          "last_name": "Гуринович",
+          "middle_name": "Викторович"
+        },
+        "description": "Сильно просел асфальт, во дворе, за кинотеатром.",
+        "answers": [
+          {
+            "author": "Администрация Партизанского района",
+            "text": "Данное замечание устранено.",
+            "date": "11 октября 17:07",
+            "photos": [
+              "/upload/image/491675.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.62317276,
+          53.90723419
+        ]
+      },
+      "properties": {
+        "id": "13447",
+        "href": "/problem/13447",
+        "address": "2-й переулок Багратиона, 17",
+        "date_create": "4 мая 2016 20:18",
+        "date_planned": "10.11.2017",
+        "crm_date_planned": "2017-11-10",
+        "crm_create_at": "2016-05-04",
+        "organisation_id": "152",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/74090.jpg"
+          ],
+          "after": [
+            "/upload/image/301619.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "668",
+          "name": "Андрей",
+          "last_name": "Дейнека",
+          "middle_name": "Валерьевич"
+        },
+        "description": "Несоответствующие нормам бордюры на выходе со стоянки напротив \"Рублевского\". Просьба привести высоту бордюр в соответствие с п. 5.4.8 ТКП 45-3.03-227-2010.",
+        "answers": [
+          {
+            "author": "УП \"Ремавтодор Партизанского района\"",
+            "text": "Выполнены работы по устройству пандуса",
+            "date": "1 ноября 7:49",
+            "photos": [
+              "/upload/image/301399.jpg"
+            ]
+          },
+          {
+            "author": "Андрей Дейнека",
+            "text": "",
+            "date": "9 ноября 17:18",
+            "rating": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.41246986,
+          53.90817261
+        ]
+      },
+      "properties": {
+        "id": "13412",
+        "href": "/problem/13412",
+        "address": "улица Брикета, 26",
+        "date_create": "4 мая 2016 16:29",
+        "date_planned": "30.09.2018",
+        "crm_date_planned": "2018-09-30",
+        "crm_create_at": "2016-05-04",
+        "organisation_id": "233",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/93318.jpg"
+          ],
+          "after": [
+            "/upload/image/465855.jpg",
+            "/upload/image/465856.jpg",
+            "/upload/image/465857.jpg"
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "10213",
+          "name": "Анна",
+          "last_name": "Борознова",
+          "middle_name": "Святославовна"
+        },
+        "description": "Между домами по адресу Брикета 26 и 24 идет подтопление и разрушение тротуара, необходима укладка нового тротуара так как ходить там не возможно. Также возле дома № 24 отсутствует  тротуар.",
+        "answers": [
+          {
+            "author": "КУП «ЖЭУ № 4 Фрунзенского района»",
+            "text": "Ремонт выполнен.",
+            "date": "5 сентября 13:13",
+            "photos": [
+              "/upload/image/465775.jpg|/upload/image/465776.jpg|/upload/image/465777.jpg",
+              "/upload/image/465775.jpg|/upload/image/465776.jpg|/upload/image/465777.jpg",
+              "/upload/image/465775.jpg|/upload/image/465776.jpg|/upload/image/465777.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.46650314,
+          53.85712051
+        ]
+      },
+      "properties": {
+        "id": "13418",
+        "href": "/problem/13418",
+        "address": "ул. Белецкого 4",
+        "date_create": "4 мая 2016 14:42",
+        "date_planned": "30.06.2018",
+        "crm_date_planned": "2018-06-30",
+        "crm_create_at": "2016-05-04",
+        "organisation_id": "171",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/61784.jpg"
+          ],
+          "after": [
+            "/upload/image/343392.jpg",
+            "/upload/image/343393.jpg"
+          ]
+        },
+        "category": {
+          "id": "117",
+          "parent_id": "12",
+          "icon": "12"
+        },
+        "user": {
+          "id": "10184",
+          "name": "Максим",
+          "last_name": "Ерошевич",
+          "middle_name": "Викторович"
+        },
+        "description": "Требуется покраска стены около лифта. 5 подьезд, 1 этаж",
+        "answers": [
+          {
+            "author": "ГП \"ЖЭУ №5 Московского района\"",
+            "text": "По ул. Белецкого, 4 в подъезде 5 на 1 этаже выполнен текущий ремонт мест общего пользования.",
+            "date": "21 февраля 15:51",
+            "photos": [
+              "/upload/image/343371.jpg|/upload/image/343372.jpg",
+              "/upload/image/343371.jpg|/upload/image/343372.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5235672,
+          53.89432907
+        ]
+      },
+      "properties": {
+        "id": "13364",
+        "href": "/problem/13364",
+        "address": "улица Карла Либкнехта, 71",
+        "date_create": "4 мая 2016 11:56",
+        "date_planned": "23.10.2017",
+        "crm_date_planned": "2017-10-23",
+        "crm_create_at": "2016-05-04",
+        "organisation_id": "214",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/139625.jpg"
+          ],
+          "after": [
+            "/upload/image/292441.jpg"
+          ]
+        },
+        "category": {
+          "id": "25",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "10161",
+          "name": "Олег",
+          "last_name": "Агейчик",
+          "middle_name": "Анатольевич"
+        },
+        "description": "Во дворе дома 2-й год стоит авто Ауди г.н. 4049ВВ-2, задняя часть имеет следы дтп. Необходимо принять меры по установлению собственника и дальнейшей уборке со двора.",
+        "answers": [
+          {
+            "author": "Белспецавтоэвакуация",
+            "text": "Эвакуирован \"Белспецавтоэвакуация\"",
+            "date": "13 октября 12:01",
+            "photos": [
+              "/upload/image/292359.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.57053757,
+          53.8693924
+        ]
+      },
+      "properties": {
+        "id": "13260",
+        "href": "/problem/13260",
+        "address": "рядом с улица Маяковского, 154",
+        "date_create": "3 мая 2016 16:55",
+        "date_planned": "19.12.2017",
+        "crm_date_planned": "2017-12-19",
+        "crm_create_at": "2016-05-03",
+        "organisation_id": "161",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/141075.jpg"
+          ],
+          "after": [
+            "/upload/image/320881.jpg"
+          ]
+        },
+        "category": {
+          "id": "283",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "6051",
+          "name": "Maxim",
+          "last_name": "Maksim",
+          "middle_name": ""
+        },
+        "description": "На остановке Семенова со стороны воинской части просела плитка, что затрудняет выход и заход пассажиров из общественного транспорта, т.к. скапливается лужа.",
+        "answers": [
+          {
+            "author": "УП \"Ремавтодор  Ленинского района\"",
+            "text": "Устранено.",
+            "date": "13 декабря 17:10",
+            "photos": [
+              "/upload/image/320874.jpg"
+            ]
+          },
+          {
+            "author": "Maxim Maksim",
+            "text": "Покрытие отремонтировано",
+            "date": "18 декабря 17:13",
+            "rating": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.56991386,
+          53.86818314
+        ]
+      },
+      "properties": {
+        "id": "13255",
+        "href": "/problem/13255",
+        "address": "улица Маяковского, 154",
+        "date_create": "3 мая 2016 16:48",
+        "date_planned": "04.12.2017",
+        "crm_date_planned": "2017-12-04",
+        "crm_create_at": "2016-05-03",
+        "organisation_id": "161",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/141074.jpg"
+          ],
+          "after": [
+            "/upload/image/305610.jpg"
+          ]
+        },
+        "category": {
+          "id": "283",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "6051",
+          "name": "Maxim",
+          "last_name": "Maksim",
+          "middle_name": ""
+        },
+        "description": "Возле аптеки переложили плитку. Проблема с лужами была исправлена частично. Остался участок, находящийся ближе к переходу через дорогу.",
+        "answers": [
+          {
+            "author": "УП \"Ремавтодор  Ленинского района\"",
+            "text": "Устранено.",
+            "date": "17 ноября 12:09",
+            "photos": [
+              "/upload/image/309479.jpg"
+            ]
+          },
+          {
+            "author": "Maxim Maksim",
+            "text": "",
+            "date": "20 ноября 16:03",
+            "rating": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.44561005,
+          53.89738464
+        ]
+      },
+      "properties": {
+        "id": "13254",
+        "href": "/problem/13254",
+        "address": "улица Одинцова, 41",
+        "date_create": "3 мая 2016 16:46",
+        "date_planned": "05.12.2017",
+        "crm_date_planned": "2017-12-05",
+        "crm_create_at": "2016-05-03",
+        "organisation_id": "235",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/112272.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "25",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "8177",
+          "name": "Светослав",
+          "last_name": "Данько",
+          "middle_name": "Михайлович"
+        },
+        "description": "Брошенные автомобили.",
+        "answers": [
+          {
+            "author": "КУП «ЖЭУ № 2 Фрунзенского района»",
+            "text": "Брошенный транспорт  отсутствует",
+            "date": "24 ноября 13:54"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.44561005,
+          53.89738464
+        ]
+      },
+      "properties": {
+        "id": "13253",
+        "href": "/problem/13253",
+        "address": "улица Одинцова, 41",
+        "date_create": "3 мая 2016 16:45",
+        "date_planned": "05.12.2017",
+        "crm_date_planned": "2017-12-05",
+        "crm_create_at": "2016-05-03",
+        "organisation_id": "235",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/112271.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "25",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "8177",
+          "name": "Светослав",
+          "last_name": "Данько",
+          "middle_name": "Михайлович"
+        },
+        "description": "На общей стоянке уже несколько лет стоят автомобили безвыездно, а так как парковочных мест не хватает просим принять меры.",
+        "answers": [
+          {
+            "author": "КУП «ЖЭУ № 2 Фрунзенского района»",
+            "text": "Брошенный транспорт отсутствует",
+            "date": "24 ноября 13:53"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.48628426,
+          53.93321609
+        ]
+      },
+      "properties": {
+        "id": "13154",
+        "href": "/problem/13154",
+        "address": "рядом с Радужная улица, 7",
+        "date_create": "2 мая 2016 23:54",
+        "date_planned": "30.06.2017",
+        "crm_date_planned": "2017-06-30",
+        "crm_create_at": "2016-05-02",
+        "organisation_id": "140",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/127910.jpg"
+          ],
+          "after": [
+            "/upload/image/292321.jpg"
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "2635",
+          "name": "Тамара",
+          "last_name": "Соколова",
+          "middle_name": ""
+        },
+        "description": "глубокая щель между плитами, несколько раз коляска с грудным ребенком чудом не перевернулась. \rобеспечьте безопасный проезд колясок!",
+        "answers": [
+          {
+            "author": "Администрация Центрального района",
+            "text": "Решено",
+            "date": "13 октября 11:00",
+            "photos": [
+              "/upload/image/292301.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5711956,
+          53.87236023
+        ]
+      },
+      "properties": {
+        "id": "13140",
+        "href": "/problem/13140",
+        "address": "Денисовская улица, 8",
+        "date_create": "2 мая 2016 21:41",
+        "date_planned": "10.11.2017",
+        "crm_date_planned": "2017-11-10",
+        "crm_create_at": "2016-05-02",
+        "organisation_id": "161",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/78642.jpg"
+          ],
+          "after": [
+            "/upload/image/300970.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "6051",
+          "name": "Maxim",
+          "last_name": "Maksim",
+          "middle_name": ""
+        },
+        "description": "После строительства застройщик допустил высокие бордюры, везде уже понизили, но на данном участке со стороны моста они все еще превышают норму",
+        "answers": [
+          {
+            "author": "УП \"Ремавтодор  Ленинского района\"",
+            "text": "Устранено.",
+            "date": "31 октября 10:04",
+            "photos": [
+              "/upload/image/300685.jpg"
+            ]
+          },
+          {
+            "author": "Maxim Maksim",
+            "text": "Проблема устранена, спасибо!",
+            "date": "31 октября 17:16",
+            "rating": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.57134247,
+          53.87239838
+        ]
+      },
+      "properties": {
+        "id": "13139",
+        "href": "/problem/13139",
+        "address": "рядом с Денисовская улица, 8",
+        "date_create": "2 мая 2016 21:40",
+        "date_planned": "10.11.2017",
+        "crm_date_planned": "2017-11-10",
+        "crm_create_at": "2016-05-02",
+        "organisation_id": "161",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/78641.jpg"
+          ],
+          "after": [
+            "/upload/image/300969.jpg"
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "6051",
+          "name": "Maxim",
+          "last_name": "Maksim",
+          "middle_name": ""
+        },
+        "description": "После строительства застройщик допустил высокие бордюры, везде уже понизили, но на данном участке они все еще превышают норму, с одной и с другой стороны дороги",
+        "answers": [
+          {
+            "author": "УП \"Ремавтодор  Ленинского района\"",
+            "text": "Устранено.",
+            "date": "31 октября 10:05",
+            "photos": [
+              "/upload/image/300687.jpg"
+            ]
+          },
+          {
+            "author": "Maxim Maksim",
+            "text": "Проблема устранена, спасибо за решение!",
+            "date": "31 октября 17:17",
+            "rating": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.49004745,
+          53.86453247
+        ]
+      },
+      "properties": {
+        "id": "13088",
+        "href": "/problem/13088",
+        "address": "рядом с проспект Дзержинского, 75",
+        "date_create": "2 мая 2016 16:44",
+        "date_planned": "01.07.2018",
+        "crm_date_planned": "2018-07-01",
+        "crm_create_at": "2016-05-02",
+        "organisation_id": "134",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/81202.jpg"
+          ],
+          "after": [
+            "/upload/image/431956.jpg",
+            "/upload/image/431957.jpg"
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "2666",
+          "name": "Наталия",
+          "last_name": "Кузнецова",
+          "middle_name": ""
+        },
+        "description": "Разбитая дорога с множеством ям и выбоин.",
+        "answers": [
+          {
+            "author": "Администрация Московского района",
+            "text": "фото в прикрепленном файле.",
+            "date": "19 июля 18:12",
+            "photos": [
+              "/upload/image/431583.jpg|/upload/image/431584.jpg",
+              "/upload/image/431583.jpg|/upload/image/431584.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54437447,
+          53.89889145
+        ]
+      },
+      "properties": {
+        "id": "12976",
+        "href": "/problem/12976",
+        "address": "рядом с улица Мясникова, 26",
+        "date_create": "1 мая 2016 16:12",
+        "date_planned": "15.09.2018",
+        "crm_date_planned": "2018-09-15",
+        "crm_create_at": "2016-05-01",
+        "organisation_id": "134",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/80771.jpg"
+          ],
+          "after": [
+            "/upload/image/434949.jpg"
+          ]
+        },
+        "category": {
+          "id": "291",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "6051",
+          "name": "Maxim",
+          "last_name": "Maksim",
+          "middle_name": ""
+        },
+        "description": "Возле здания Министерства финансов значительно просела плитка у люка",
+        "answers": [
+          {
+            "author": "Администрация Московского района",
+            "text": "фото в прикрепленном файле.",
+            "date": "24 июля 17:35",
+            "photos": [
+              "/upload/image/434590.jpg"
+            ]
+          },
+          {
+            "author": "Maxim Maksim",
+            "text": "",
+            "date": "26 июля 16:46",
+            "rating": 5
+          }
+        ]
+      }
+    }
+  ]
+}

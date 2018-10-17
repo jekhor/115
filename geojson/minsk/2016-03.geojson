@@ -1,0 +1,1182 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.51747704,
+          53.8850174
+        ]
+      },
+      "properties": {
+        "id": "9667",
+        "href": "/problem/9667",
+        "address": "рядом с улица Папанина, 14",
+        "date_create": "31 марта 2016 16:52",
+        "date_planned": "30.09.2018",
+        "crm_date_planned": "2018-09-30",
+        "crm_create_at": "2016-03-31",
+        "organisation_id": "124",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/80940.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "1223",
+          "name": "Михаил",
+          "last_name": "Минин",
+          "middle_name": ""
+        },
+        "description": "Пешеходная дорожка в ужасном состоянии. Огромные выбоины.",
+        "answers": [
+          {
+            "author": "КУП ЖКХ  Московского района",
+            "text": "В связи с перспективой застройки данной территории ремонт выполняться не будет, так как нецелесообразно (выполняется снос домов).",
+            "date": "28 июня 15:59"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.43172646,
+          53.86252213
+        ]
+      },
+      "properties": {
+        "id": "9563",
+        "href": "/problem/9563",
+        "address": "рядом с улица Сергея Есенина, 139",
+        "date_create": "30 марта 2016 12:01",
+        "date_planned": "30.09.2018",
+        "crm_date_planned": "2018-09-30",
+        "crm_create_at": "2016-03-30",
+        "organisation_id": "124",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/47504.jpg"
+          ],
+          "after": [
+            "/upload/image/403188.jpg"
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "8031",
+          "name": "Пётр",
+          "last_name": "Гуринович",
+          "middle_name": ""
+        },
+        "description": "После ремонта коммуникаций около 5 лет назад после строительной техники осталась поврежденной дорожка(3 участка). После дождя эти участки приходится обходить по газону.",
+        "answers": [
+          {
+            "author": "КУП ЖКХ  Московского района",
+            "text": "Работы по ремонту пешеходных связей выполнены",
+            "date": "6 июня 17:22",
+            "photos": [
+              "/upload/image/402700.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.42947769,
+          53.88224792
+        ]
+      },
+      "properties": {
+        "id": "9424",
+        "href": "/problem/9424",
+        "address": "ул. Лобанка 64Минск",
+        "date_create": "28 марта 2016 19:20",
+        "date_planned": "05.12.2017",
+        "crm_date_planned": "2017-12-05",
+        "crm_create_at": "2016-03-28",
+        "organisation_id": "233",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/120959.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "25",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "7432",
+          "name": "Владислав",
+          "last_name": "Ананич",
+          "middle_name": ""
+        },
+        "description": "Автохлам во дворе. Без отметки о прохождении ТО, с обширной коррозией на кузове. Используется как склад. Не эксплуатируется по назначению больше года. рег.номер. 1358 МР, фольксваген.",
+        "answers": [
+          {
+            "author": "КУП «ЖЭУ № 4 Фрунзенского района»",
+            "text": "Транспортное средство отсутствует.",
+            "date": "24 ноября 14:30"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.46553612,
+          53.8492012
+        ]
+      },
+      "properties": {
+        "id": "9309",
+        "href": "/problem/9309",
+        "address": "ул. Есенина 7Минск",
+        "date_create": "26 марта 2016 12:04",
+        "date_planned": "31.12.2017",
+        "crm_date_planned": "2017-12-31",
+        "crm_create_at": "2016-03-26",
+        "organisation_id": "175",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/130922.jpg"
+          ],
+          "after": [
+            "/upload/image/314130.jpg"
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "3962",
+          "name": "Виталий",
+          "last_name": "Макович",
+          "middle_name": "Васильевич"
+        },
+        "description": "Ямы огромные при заезде к почте.",
+        "answers": [
+          {
+            "author": "ГП \"ЖЭУ №1 Московского района\"",
+            "text": "Ямочный ремонт выполнен.",
+            "date": "28 ноября 11:40",
+            "photos": [
+              "/upload/image/314075.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.49391937,
+          53.90645218
+        ]
+      },
+      "properties": {
+        "id": "8977",
+        "href": "/problem/8977",
+        "address": "рядом с проспект Пушкина, 37",
+        "date_create": "23 марта 2016 18:04",
+        "date_planned": "05.12.2017",
+        "crm_date_planned": "2017-12-05",
+        "crm_create_at": "2016-03-23",
+        "organisation_id": "234",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/120958.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "280",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "1303",
+          "name": "Андрей",
+          "last_name": "Кэш",
+          "middle_name": ""
+        },
+        "description": "Прошу предпринять меры в соответствии с Указом Президента Республики Беларусь от 9 августа 2011 года №348 в отношении неэксплуатируемого транспортного средства, г.н. АН 4426-7.",
+        "answers": [
+          {
+            "author": "КУП «ЖЭУ № 3 Фрунзенского района»",
+            "text": "автомобиль  эвакуирован",
+            "date": "23 ноября 16:36"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.51597023,
+          53.88550949
+        ]
+      },
+      "properties": {
+        "id": "8971",
+        "href": "/problem/8971",
+        "address": "рядом с улица Щорса, 24",
+        "date_create": "23 марта 2016 16:31",
+        "date_planned": "01.07.2018",
+        "crm_date_planned": "2018-07-01",
+        "crm_create_at": "2016-03-23",
+        "organisation_id": "254",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/77014.jpg"
+          ],
+          "after": [
+            "/upload/image/309497.jpg"
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "1223",
+          "name": "Михаил",
+          "last_name": "Минин",
+          "middle_name": ""
+        },
+        "description": "Через тротуар когда-то вели коммуникации, перерезали его и не вернули в надлежащее состояние. Теперь после дождя тут лужа и приходится выходить на газон.",
+        "answers": [
+          {
+            "author": "УП \"Механизированная уборка города\"",
+            "text": "Исправлено.",
+            "date": "17 ноября 11:48",
+            "photos": [
+              "/upload/image/309459.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.67585182,
+          53.94732285
+        ]
+      },
+      "properties": {
+        "id": "8967",
+        "href": "/problem/8967",
+        "address": "рядом с Городецкая улица, 32",
+        "date_create": "23 марта 2016 16:11",
+        "date_planned": "31.10.2017",
+        "crm_date_planned": "2017-10-31",
+        "crm_create_at": "2016-03-23",
+        "organisation_id": "127",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "36",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "7714",
+          "name": "Андрей",
+          "last_name": "Тишкевич",
+          "middle_name": "Сергеевич"
+        },
+        "description": "Требуется ремонт наружной лестницы (разрушение ступеней, видна арматура, необходима установка лестничных поручней) проходящей между домами по улице Городецкая 32 и улице Шафарнянская 14.",
+        "answers": [
+          {
+            "author": "КУП ЖКХ Первомайского района",
+            "text": "выполнен ремонт.",
+            "date": "6 октября 10:54"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.67973518,
+          53.93901825
+        ]
+      },
+      "properties": {
+        "id": "8945",
+        "href": "/problem/8945",
+        "address": "рядом с улица Шугаева, 13 к1",
+        "date_create": "23 марта 2016 14:18",
+        "date_planned": "31.03.2019",
+        "crm_date_planned": "2019-03-31",
+        "crm_create_at": "2016-03-23",
+        "organisation_id": "127",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/128235.jpg"
+          ],
+          "after": [
+            "/upload/image/460414.jpg"
+          ]
+        },
+        "category": {
+          "id": "296",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "7264",
+          "name": "Ирина",
+          "last_name": "Бощук",
+          "middle_name": "Николаевна"
+        },
+        "description": "Тротуар между гимназией №38 и ул. Шугаева 13/1 в некоторых местах стал совершенно непригоден для прохода. Но дети вынуждены ходить по этому \"кошмару\" в школу каждый день.",
+        "answers": [
+          {
+            "author": "КУП ЖКХ Первомайского района",
+            "text": "выполнены работы",
+            "date": "29 августа 11:48",
+            "photos": [
+              "/upload/image/460392.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.46669388,
+          53.86792374
+        ]
+      },
+      "properties": {
+        "id": "8787",
+        "href": "/problem/8787",
+        "address": "улица Голубева, 22",
+        "date_create": "21 марта 2016 17:19",
+        "date_planned": "25.12.2018",
+        "crm_date_planned": "2018-12-25",
+        "crm_create_at": "2016-03-21",
+        "organisation_id": "124",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/43217.jpg"
+          ],
+          "after": [
+            "/upload/image/491548.png"
+          ]
+        },
+        "category": {
+          "id": "36",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "7688",
+          "name": "Светлана",
+          "last_name": "Ткачук",
+          "middle_name": ""
+        },
+        "description": "Напротив детской площадки у 14-го подъезда находятся остатки лестницы. Просьба привести лестницу в надлежащий вид. Неудобно подыматься.",
+        "answers": [
+          {
+            "author": "КУП ЖКХ  Московского района",
+            "text": "Лестница демонтирована",
+            "date": "11 октября 12:50",
+            "photos": [
+              "/upload/image/491108.png"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.44707489,
+          53.90014648
+        ]
+      },
+      "properties": {
+        "id": "8699",
+        "href": "/problem/8699",
+        "address": "рядом с улица Одинцова, 18 к1",
+        "date_create": "20 марта 2016 0:34",
+        "date_planned": "30.11.2017",
+        "crm_date_planned": "2017-11-30",
+        "crm_create_at": "2016-03-20",
+        "organisation_id": "214",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/120956.jpg"
+          ],
+          "after": [
+            "/upload/image/301306.jpg"
+          ]
+        },
+        "category": {
+          "id": "25",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "2281",
+          "name": "Денис",
+          "last_name": "Иванов",
+          "middle_name": ""
+        },
+        "description": "Машина стоит на парковке более полугода",
+        "answers": [
+          {
+            "author": "Белспецавтоэвакуация",
+            "text": "Эвакуирован 24.07.2017  \"Белспецавтоэвакуация\"",
+            "date": "31 октября 15:11",
+            "photos": [
+              "/upload/image/301022.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.47628212,
+          53.91683578
+        ]
+      },
+      "properties": {
+        "id": "8643",
+        "href": "/problem/8643",
+        "address": "улица Матусевича, 30",
+        "date_create": "18 марта 2016 21:40",
+        "date_planned": "30.04.2018",
+        "crm_date_planned": "2018-04-30",
+        "crm_create_at": "2016-03-18",
+        "organisation_id": "245",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/92358.jpg"
+          ],
+          "after": [
+            "/upload/image/321104.jpg",
+            "/upload/image/321105.jpg",
+            "/upload/image/321106.jpg"
+          ]
+        },
+        "category": {
+          "id": "36",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "7245",
+          "name": "DZIANIS",
+          "last_name": "BOLINAU",
+          "middle_name": "ALEXEEVICH"
+        },
+        "description": "Требуется ремонт лестницы. Дети самостоятельно вообще не могут ходить по ней, опасно. Зимой приходится ходить в обход.",
+        "answers": [
+          {
+            "author": "КУП ЖКХ № 2 Фрунзенского района",
+            "text": "ремонт наружной лестницы выполнен",
+            "date": "14 декабря 11:06",
+            "photos": [
+              "/upload/image/321065.jpg|/upload/image/321066.jpg|/upload/image/321067.jpg",
+              "/upload/image/321065.jpg|/upload/image/321066.jpg|/upload/image/321067.jpg",
+              "/upload/image/321065.jpg|/upload/image/321066.jpg|/upload/image/321067.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.47353554,
+          53.91249847
+        ]
+      },
+      "properties": {
+        "id": "8635",
+        "href": "/problem/8635",
+        "address": "рядом с улица Петра Глебки, 36",
+        "date_create": "18 марта 2016 19:32",
+        "date_planned": "30.11.2017",
+        "crm_date_planned": "2017-11-30",
+        "crm_create_at": "2016-03-18",
+        "organisation_id": "139",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/140201.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "25",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "3944",
+          "name": "Елена",
+          "last_name": "Барткевич",
+          "middle_name": ""
+        },
+        "description": "Брошенный, явно неисправный автомобиль, стоит примерно с лета 2015",
+        "answers": [
+          {
+            "author": "Администрация Фрунзенского района",
+            "text": "Транспортное средство эвакуировано.",
+            "date": "16 ноября 15:22"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.51397896,
+          53.88185883
+        ]
+      },
+      "properties": {
+        "id": "8522",
+        "href": "/problem/8522",
+        "address": "рядом с 3-я улица Щорса, 2",
+        "date_create": "17 марта 2016 15:34",
+        "date_planned": "01.07.2018",
+        "crm_date_planned": "2018-07-01",
+        "crm_create_at": "2016-03-17",
+        "organisation_id": "254",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/40371.jpg"
+          ],
+          "after": [
+            "/upload/image/394963.jpg"
+          ]
+        },
+        "category": {
+          "id": "364",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "1223",
+          "name": "Михаил",
+          "last_name": "Минин",
+          "middle_name": ""
+        },
+        "description": "У перекрестка ул. Грушевская - 3-я ул. Щорса отсутствует часть бордюра, а имеющиеся установлены криво.",
+        "answers": [
+          {
+            "author": "УП \"Механизированная уборка города\"",
+            "text": "Исправлено.",
+            "date": "24 мая 23:33",
+            "photos": [
+              "/upload/image/394056.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.51343346,
+          53.88224411
+        ]
+      },
+      "properties": {
+        "id": "8442",
+        "href": "/problem/8442",
+        "address": "рядом с улица Смирнова, 1",
+        "date_create": "16 марта 2016 15:54",
+        "date_planned": "01.07.2018",
+        "crm_date_planned": "2018-07-01",
+        "crm_create_at": "2016-03-16",
+        "organisation_id": "254",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/40368.jpg"
+          ],
+          "after": [
+            "/upload/image/394962.jpg"
+          ]
+        },
+        "category": {
+          "id": "364",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "1223",
+          "name": "Михаил",
+          "last_name": "Минин",
+          "middle_name": ""
+        },
+        "description": "У перекрестка ул. Смирнова - 3-я ул. Щорса отсутствует часть бордюра, а имеющиеся установлены криво.",
+        "answers": [
+          {
+            "author": "УП \"Механизированная уборка города\"",
+            "text": "Исправлено.",
+            "date": "24 мая 23:38",
+            "photos": [
+              "/upload/image/394060.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.48923874,
+          53.91573715
+        ]
+      },
+      "properties": {
+        "id": "8373",
+        "href": "/problem/8373",
+        "address": "улица Матусевича, 16",
+        "date_create": "15 марта 2016 21:07",
+        "date_planned": "05.12.2017",
+        "crm_date_planned": "2017-12-05",
+        "crm_create_at": "2016-03-15",
+        "organisation_id": "245",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/112261.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "25",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "585",
+          "name": "Екатерина",
+          "last_name": "Василевская",
+          "middle_name": ""
+        },
+        "description": "Стоит полгода брошенный гнилой автомобиль во дворе по ул. Матусевича 16",
+        "answers": [
+          {
+            "author": "КУП «ЖЭУ № 7 Фрунзенского района»",
+            "text": "КУП \"ЖЭУ № 7 Фрунзенского района г.Минска\"сообщает,что автомобиль убран.",
+            "date": "1 декабря 14:23"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.48923874,
+          53.91573715
+        ]
+      },
+      "properties": {
+        "id": "8372",
+        "href": "/problem/8372",
+        "address": "улица Матусевича, 16",
+        "date_create": "15 марта 2016 21:07",
+        "date_planned": "05.12.2017",
+        "crm_date_planned": "2017-12-05",
+        "crm_create_at": "2016-03-15",
+        "organisation_id": "245",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/112260.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "25",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "585",
+          "name": "Екатерина",
+          "last_name": "Василевская",
+          "middle_name": ""
+        },
+        "description": "Уже как четыре месяца стоит брошенный автомобиль во дворе по Матусевича 16.",
+        "answers": [
+          {
+            "author": "КУП «ЖЭУ № 7 Фрунзенского района»",
+            "text": "КУП \"ЖЭУ № 7 Фрунзенского района г.Минска\"сообщает,что автомобиль убран.",
+            "date": "1 декабря 14:23"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.44317436,
+          53.88127136
+        ]
+      },
+      "properties": {
+        "id": "8334",
+        "href": "/problem/8334",
+        "address": "улица Янковского, 15",
+        "date_create": "15 марта 2016 12:58",
+        "date_planned": "31.12.2017",
+        "crm_date_planned": "2017-12-31",
+        "crm_create_at": "2016-03-15",
+        "organisation_id": "129",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/92263.jpg"
+          ],
+          "after": [
+            "/upload/image/302734.jpg",
+            "/upload/image/302735.jpg",
+            "/upload/image/302736.jpg"
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "4334",
+          "name": "Марат",
+          "last_name": "Долгий",
+          "middle_name": ""
+        },
+        "description": "Требуется ремонт дорожного покрытия дворовой территории,начиная то въезда во дворы возле дома №9 ул.Янковского и до указанного места на фотографии напротив дома №15 ул.Янковского.Спасибо.",
+        "answers": [
+          {
+            "author": "КУП ЖКХ № 1 Фрунзенского района",
+            "text": "Выполнен текущий ремонт асфальтобетонного покрытия въезда вдоль ж/д № 7,9,15,17 по ул. Янковского.",
+            "date": "2 ноября 15:50",
+            "photos": [
+              "/upload/image/302711.jpg|/upload/image/302712.jpg|/upload/image/302713.jpg",
+              "/upload/image/302711.jpg|/upload/image/302712.jpg|/upload/image/302713.jpg",
+              "/upload/image/302711.jpg|/upload/image/302712.jpg|/upload/image/302713.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.43009186,
+          53.88240051
+        ]
+      },
+      "properties": {
+        "id": "8147",
+        "href": "/problem/8147",
+        "address": "улица Шаранговича, 62 - разрисованный подъезд",
+        "date_create": "13 марта 2016 14:56",
+        "date_planned": "30.06.2018",
+        "crm_date_planned": "2018-06-30",
+        "crm_create_at": "2016-03-13",
+        "organisation_id": "236",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/100439.jpg"
+          ],
+          "after": [
+            "/upload/image/411503.jpg",
+            "/upload/image/411504.jpg",
+            "/upload/image/411505.jpg"
+          ]
+        },
+        "category": {
+          "id": "117",
+          "parent_id": "12",
+          "icon": "12"
+        },
+        "user": {
+          "id": "7432",
+          "name": "Владислав",
+          "last_name": "Ананич",
+          "middle_name": ""
+        },
+        "description": "Добрый день. Разрисован весь подъезд по адресу: Минск, Шаранговича 62. Лифты, почтовые ящики, общая лестница.\rПрошу провести косметический ремонт за счет жильцов подъезда.",
+        "answers": [
+          {
+            "author": "КУП «ЖЭУ № 1 Фрунзенского района»",
+            "text": "Косметический ремонт в подъезде №1 выполнен",
+            "date": "19 июня 10:13",
+            "photos": [
+              "/upload/image/410989.jpg|/upload/image/410990.jpg|/upload/image/410991.jpg",
+              "/upload/image/410989.jpg|/upload/image/410990.jpg|/upload/image/410991.jpg",
+              "/upload/image/410989.jpg|/upload/image/410990.jpg|/upload/image/410991.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.46221924,
+          53.89517975
+        ]
+      },
+      "properties": {
+        "id": "8031",
+        "href": "/problem/8031",
+        "address": "2-й переулок Тимошенко, 2",
+        "date_create": "12 марта 2016 12:08",
+        "date_planned": "30.11.2017",
+        "crm_date_planned": "2017-11-30",
+        "crm_create_at": "2016-03-12",
+        "organisation_id": "139",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/143713.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "25",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "7399",
+          "name": "Денис",
+          "last_name": "Варганов",
+          "middle_name": ""
+        },
+        "description": "С  2013 года,на стоянке около дома стоит брошенный автомобиль на спущенных колесах.Просьба убрать его",
+        "answers": [
+          {
+            "author": "Администрация Фрунзенского района",
+            "text": "Транспортное средство убрано собственником.",
+            "date": "16 ноября 15:00"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.60536766,
+          53.89009476
+        ]
+      },
+      "properties": {
+        "id": "7979",
+        "href": "/problem/7979",
+        "address": "улица Чеботарёва, 21",
+        "date_create": "11 марта 2016 17:56",
+        "date_planned": "30.03.2018",
+        "crm_date_planned": "2018-03-30",
+        "crm_create_at": "2016-03-11",
+        "organisation_id": "65",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/45324.jpg"
+          ],
+          "after": [
+            "/upload/image/340893.jpg",
+            "/upload/image/340894.jpg"
+          ]
+        },
+        "category": {
+          "id": "101",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "7376",
+          "name": "Ольга",
+          "last_name": "Печатовская",
+          "middle_name": "Францевна"
+        },
+        "description": "Внутри квартиры №1 с осени сырость и грибок на стенах, ЖЭС порекомендовал обратиться после зимы, т.к. при включенном отоплении стены должны просохнуть, но после зимы ситуация значительно ухудшилась.",
+        "answers": [
+          {
+            "author": "КУП ЖКХ Партизанского района",
+            "text": "Выполнено утепление квартиры № 1.",
+            "date": "13 февраля 15:45",
+            "photos": [
+              "/upload/image/340865.jpg|/upload/image/340866.jpg",
+              "/upload/image/340865.jpg|/upload/image/340866.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4274025,
+          53.86445999
+        ]
+      },
+      "properties": {
+        "id": "7958",
+        "href": "/problem/7958",
+        "address": "рядом с улица Сергея Есенина, 143",
+        "date_create": "11 марта 2016 14:58",
+        "date_planned": "31.12.2018",
+        "crm_date_planned": "2018-12-31",
+        "crm_create_at": "2016-03-11",
+        "organisation_id": "177",
+        "status": "7",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "364",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "6656",
+          "name": "Людмила",
+          "last_name": "Лисовская",
+          "middle_name": "Михайловна"
+        },
+        "description": "Самый красивый пешеходый мост через МКАД уже почти не подсвечивается (горит 3-4лампы). Замените, кали ласка, лампы подсветки!",
+        "answers": [
+          {
+            "author": "ГП \"Горавтомост\"",
+            "text": "В связи с отсутствием финансирования работы планируется выполнить в IV квартале 2018 года.",
+            "date": "29 июня 14:23"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.49272537,
+          53.91173935
+        ]
+      },
+      "properties": {
+        "id": "7660",
+        "href": "/problem/7660",
+        "address": "рядом с проспект Пушкина, 45",
+        "date_create": "7 марта 2016 17:03",
+        "date_planned": "30.11.2017",
+        "crm_date_planned": "2017-11-30",
+        "crm_create_at": "2016-03-07",
+        "organisation_id": "139",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/134167.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "25",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "7244",
+          "name": "Антон",
+          "last_name": "Евсеенко",
+          "middle_name": ""
+        },
+        "description": "Брошенный автомобиль Ауди гос.номер 7566 ВК-7. Стоит уже несколько лет. Хозяев не видно, к машине никто не подходит.",
+        "answers": [
+          {
+            "author": "Администрация Фрунзенского района",
+            "text": "Транспортное средство убрано собственником.",
+            "date": "10 ноября 12:02"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.49274826,
+          53.91175461
+        ]
+      },
+      "properties": {
+        "id": "7659",
+        "href": "/problem/7659",
+        "address": "рядом с проспект Пушкина, 45",
+        "date_create": "7 марта 2016 17:01",
+        "date_planned": "30.11.2017",
+        "crm_date_planned": "2017-11-30",
+        "crm_create_at": "2016-03-07",
+        "organisation_id": "139",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/134166.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "25",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "7244",
+          "name": "Антон",
+          "last_name": "Евсеенко",
+          "middle_name": ""
+        },
+        "description": "Брошенный автомобиль Мерседес гос.номер 9001 МК. Стоит уже несколько лет. Хозяев не видно, к машине никто не подходит.",
+        "answers": [
+          {
+            "author": "Администрация Фрунзенского района",
+            "text": "Транспортное средство убрано собственником.",
+            "date": "10 ноября 12:02"
+          }
+        ]
+      }
+    }
+  ]
+}
