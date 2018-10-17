@@ -119,8 +119,9 @@ module MojHorad
         photos = []
 
         answer.css('.b-answer__main .b-answer__main__photo__wrapper .b-answer__main__photo .b-problem-itm__pic').each do |item|
-          photos << item['data-before']
+          photos += item['data-before'].split('|')
         end
+        photos.uniq!
 
         a = {
           author: answer.at_css('.b-answer__title').text.strip,
