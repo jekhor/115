@@ -557,9 +557,15 @@
             "text": "ремонт наружной лестницы выполнен",
             "date": "14 декабря 11:06",
             "photos": [
-              "/upload/image/321065.jpg|/upload/image/321066.jpg|/upload/image/321067.jpg",
-              "/upload/image/321065.jpg|/upload/image/321066.jpg|/upload/image/321067.jpg",
-              "/upload/image/321065.jpg|/upload/image/321066.jpg|/upload/image/321067.jpg"
+              "/upload/image/321065.jpg",
+              "/upload/image/321066.jpg",
+              "/upload/image/321067.jpg",
+              "/upload/image/321065.jpg",
+              "/upload/image/321066.jpg",
+              "/upload/image/321067.jpg",
+              "/upload/image/321065.jpg",
+              "/upload/image/321066.jpg",
+              "/upload/image/321067.jpg"
             ]
           }
         ]
@@ -864,9 +870,15 @@
             "text": "Выполнен текущий ремонт асфальтобетонного покрытия въезда вдоль ж/д № 7,9,15,17 по ул. Янковского.",
             "date": "2 ноября 15:50",
             "photos": [
-              "/upload/image/302711.jpg|/upload/image/302712.jpg|/upload/image/302713.jpg",
-              "/upload/image/302711.jpg|/upload/image/302712.jpg|/upload/image/302713.jpg",
-              "/upload/image/302711.jpg|/upload/image/302712.jpg|/upload/image/302713.jpg"
+              "/upload/image/302711.jpg",
+              "/upload/image/302712.jpg",
+              "/upload/image/302713.jpg",
+              "/upload/image/302711.jpg",
+              "/upload/image/302712.jpg",
+              "/upload/image/302713.jpg",
+              "/upload/image/302711.jpg",
+              "/upload/image/302712.jpg",
+              "/upload/image/302713.jpg"
             ]
           }
         ]
@@ -920,9 +932,15 @@
             "text": "Косметический ремонт в подъезде №1 выполнен",
             "date": "19 июня 10:13",
             "photos": [
-              "/upload/image/410989.jpg|/upload/image/410990.jpg|/upload/image/410991.jpg",
-              "/upload/image/410989.jpg|/upload/image/410990.jpg|/upload/image/410991.jpg",
-              "/upload/image/410989.jpg|/upload/image/410990.jpg|/upload/image/410991.jpg"
+              "/upload/image/410989.jpg",
+              "/upload/image/410990.jpg",
+              "/upload/image/410991.jpg",
+              "/upload/image/410989.jpg",
+              "/upload/image/410990.jpg",
+              "/upload/image/410991.jpg",
+              "/upload/image/410989.jpg",
+              "/upload/image/410990.jpg",
+              "/upload/image/410991.jpg"
             ]
           }
         ]
@@ -1024,8 +1042,10 @@
             "text": "Выполнено утепление квартиры № 1.",
             "date": "13 февраля 15:45",
             "photos": [
-              "/upload/image/340865.jpg|/upload/image/340866.jpg",
-              "/upload/image/340865.jpg|/upload/image/340866.jpg"
+              "/upload/image/340865.jpg",
+              "/upload/image/340866.jpg",
+              "/upload/image/340865.jpg",
+              "/upload/image/340866.jpg"
             ]
           }
         ]
