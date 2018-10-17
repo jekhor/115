@@ -1,0 +1,804 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.71619034,
+          53.71387482
+        ]
+      },
+      "properties": {
+        "id": "204846",
+        "href": "/problem/204846",
+        "address": "рядом с Комсомольский микрорайон, 17",
+        "date_create": "25 сентября 2018 20:04",
+        "date_planned": "08.10.2018",
+        "crm_date_planned": "2018-10-08",
+        "crm_create_at": "2018-09-25",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/480171.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "302",
+          "parent_id": "21",
+          "icon": "21"
+        },
+        "user": {
+          "id": "68537",
+          "name": "Максим",
+          "last_name": "Великанов",
+          "middle_name": ""
+        },
+        "description": "На заявку №204030\rразломанную кладку никто не делал, на фото из ответа прекрасно видно, что кирпичи просто сложены для фото. На данный момент они уже все валяются за стенкой.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70498657,
+          53.69546127
+        ]
+      },
+      "properties": {
+        "id": "202059",
+        "href": "/problem/202059",
+        "address": "рядом с Советская улица, 4",
+        "date_create": "16 сентября 2018 23:49",
+        "date_planned": "27.09.2018",
+        "crm_date_planned": "2018-09-27",
+        "crm_create_at": "2018-09-16",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "В августе демонтировали фонарь около магазина Бакалея. Установите фонарный столб с работающим фонарем! Уже сентябрь!",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70633698,
+          53.69742966
+        ]
+      },
+      "properties": {
+        "id": "202058",
+        "href": "/problem/202058",
+        "address": "рядом с улица Гусаковского, 6А",
+        "date_create": "16 сентября 2018 23:46",
+        "date_planned": "27.09.2018",
+        "crm_date_planned": "2018-09-27",
+        "crm_create_at": "2018-09-16",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/473428.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "281",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "На столбе отсутствует фонарь уличного освещения. Повесьте. Спасибо.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.69080734,
+          53.74360275
+        ]
+      },
+      "properties": {
+        "id": "201771",
+        "href": "/problem/201771",
+        "address": "рядом с Пушкинская улица, 9",
+        "date_create": "14 сентября 2018 19:09",
+        "date_planned": "27.09.2018",
+        "crm_date_planned": "2018-09-27",
+        "crm_create_at": "2018-09-14",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/473046.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "285",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "63205",
+          "name": "Сергей",
+          "last_name": "Емельяненко",
+          "middle_name": "Владимирович"
+        },
+        "description": "Дорожное  полотно  замыло  песком, затрудняет  проезд  колясок,  велосипедов, особенно при    соседнем  проезде  транспорта..\rул. Пушкинская , ближе к  ул. Тимирязьева ( 2 места  намыва  грунта)",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.69543839,
+          53.7396431
+        ]
+      },
+      "properties": {
+        "id": "201445",
+        "href": "/problem/201445",
+        "address": "рядом с улица Кутузова, 19А",
+        "date_create": "13 сентября 2018 16:43",
+        "date_planned": "25.09.2018",
+        "crm_date_planned": "2018-09-25",
+        "crm_create_at": "2018-09-13",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/471946.jpg",
+            "/upload/image/471947.jpg",
+            "/upload/image/471948.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "63205",
+          "name": "Сергей",
+          "last_name": "Емельяненко",
+          "middle_name": "Владимирович"
+        },
+        "description": "Большие  ямы, затруднена  прогулка  с  детской  коляской. Постоянная  грязь  после  дождя. Требуется  подсыпка  с  профелированием.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.69406128,
+          53.7413559
+        ]
+      },
+      "properties": {
+        "id": "201197",
+        "href": "/problem/201197",
+        "address": "рядом с Суворова улица, 12",
+        "date_create": "12 сентября 2018 21:50",
+        "date_planned": "25.09.2018",
+        "crm_date_planned": "2018-09-25",
+        "crm_create_at": "2018-09-12",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/471205.jpg",
+            "/upload/image/471206.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "325",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "63205",
+          "name": "Сергей",
+          "last_name": "Емельяненко",
+          "middle_name": "Владимирович"
+        },
+        "description": "Заброшенные  дома. Возможны  обрушения.  Много раз замечены   дети. Требуется  снос. у.Суворова",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6936512,
+          53.74238968
+        ]
+      },
+      "properties": {
+        "id": "201196",
+        "href": "/problem/201196",
+        "address": "рядом с Суворова улица, 17",
+        "date_create": "12 сентября 2018 21:44",
+        "date_planned": "25.09.2018",
+        "crm_date_planned": "2018-09-25",
+        "crm_create_at": "2018-09-12",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/471202.jpg",
+            "/upload/image/471203.jpg",
+            "/upload/image/471204.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "63205",
+          "name": "Сергей",
+          "last_name": "Емельяненко",
+          "middle_name": "Владимирович"
+        },
+        "description": "Наличие  ям  на  ул.Суворова. Некоторые  жильцы ямы залаживают  травой. Требуется  подсыпка с профелированием.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.718256,
+          53.71225739
+        ]
+      },
+      "properties": {
+        "id": "200245",
+        "href": "/problem/200245",
+        "address": "Парк Победы",
+        "date_create": "9 сентября 2018 13:34",
+        "date_planned": "20.09.2018",
+        "crm_date_planned": "2018-09-20",
+        "crm_create_at": "2018-09-09",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/468545.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "301",
+          "parent_id": "21",
+          "icon": "21"
+        },
+        "user": {
+          "id": "68537",
+          "name": "Максим",
+          "last_name": "Великанов",
+          "middle_name": ""
+        },
+        "description": "В парке отсутствуют лавочки. На весь парк 2 штуки. В прошлой заявке мусор убрали, а про лавки ни слова.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.71532822,
+          53.74649811
+        ]
+      },
+      "properties": {
+        "id": "200486",
+        "href": "/problem/200486",
+        "address": "Кричев,  Фрунзе улица,  51/1",
+        "date_create": "4 сентября 2018 20:37",
+        "date_planned": "19.09.2018",
+        "crm_date_planned": "2018-09-19",
+        "crm_create_at": "2018-09-04",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "67784",
+          "name": "Сергей",
+          "last_name": "Агеев",
+          "middle_name": "Анатольевич"
+        },
+        "description": "Ранее сообщалось об отсутствии освещения в подвальном помещении дома по улице Фрунзе 8/12 подъезда 1, а сейчас сообщается об отсутствии освещения в подъезде 1 первого этажа дома 8/12 по ул. Фрунзе",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "освещение в подъезде восстановлено",
+            "date": "21 сентября 14:48"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7163868,
+          53.7113266
+        ]
+      },
+      "properties": {
+        "id": "199799",
+        "href": "/problem/199799",
+        "address": "Комсомольский д.13",
+        "date_create": "4 сентября 2018 19:19",
+        "date_planned": "19.09.2018",
+        "crm_date_planned": "2018-09-19",
+        "crm_create_at": "2018-09-04",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/467859.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "68537",
+          "name": "Максим",
+          "last_name": "Великанов",
+          "middle_name": ""
+        },
+        "description": "Ранее комунхоз менял трубы, нужно заделать ямы. Очень глубокие.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.71775436,
+          53.71205521
+        ]
+      },
+      "properties": {
+        "id": "198774",
+        "href": "/problem/198774",
+        "address": "ул. Щорса, Кричев, Беларусь",
+        "date_create": "2 сентября 2018 16:40",
+        "date_planned": "14.09.2018",
+        "crm_date_planned": "2018-09-14",
+        "crm_create_at": "2018-09-02",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/465204.jpg"
+          ],
+          "after": [
+            "/upload/image/483370.jpg",
+            "/upload/image/483371.jpg"
+          ]
+        },
+        "category": {
+          "id": "302",
+          "parent_id": "21",
+          "icon": "21"
+        },
+        "user": {
+          "id": "193",
+          "name": "Константин",
+          "last_name": "Рейдо",
+          "middle_name": "Юрьевич"
+        },
+        "description": "Правая скамейка не на своем месте, частично стоит на клумбе, расположение двух скамеек друг напротив друга нефункционально, если на одной сидят люди, второй уже не пользуются. Проверить остальные...",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "устранено",
+            "date": "1 октября 10:24",
+            "photos": [
+              "/upload/image/483366.jpg",
+              "/upload/image/483367.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.75435257,
+          53.69952393
+        ]
+      },
+      "properties": {
+        "id": "198773",
+        "href": "/problem/198773",
+        "address": "Берег оз. Черное",
+        "date_create": "2 сентября 2018 13:58",
+        "date_planned": "14.09.2018",
+        "crm_date_planned": "2018-09-14",
+        "crm_create_at": "2018-09-02",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/465203.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "307",
+          "parent_id": "22",
+          "icon": "22"
+        },
+        "user": {
+          "id": "36687",
+          "name": "Маргарита",
+          "last_name": "Лазаревич",
+          "middle_name": "Станиславовна"
+        },
+        "description": "Необходимо убрать металлолом с берега озера. Эта малая архитектурная форма уже не выполняет никаких функций",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.754076,
+          53.69898224
+        ]
+      },
+      "properties": {
+        "id": "198772",
+        "href": "/problem/198772",
+        "address": "берег черного озера",
+        "date_create": "2 сентября 2018 13:42",
+        "date_planned": "14.09.2018",
+        "crm_date_planned": "2018-09-14",
+        "crm_create_at": "2018-09-02",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/465202.jpg"
+          ],
+          "after": [
+            "/upload/image/483719.jpg",
+            "/upload/image/483720.jpg"
+          ]
+        },
+        "category": {
+          "id": "307",
+          "parent_id": "22",
+          "icon": "22"
+        },
+        "user": {
+          "id": "193",
+          "name": "Константин",
+          "last_name": "Рейдо",
+          "middle_name": "Юрьевич"
+        },
+        "description": "Берег озера весь в мусоре, мы собрали и вынесли пару пакетов, но его тут слишком много.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "Мусор на берегу озера убран",
+            "date": "1 октября 14:51",
+            "photos": [
+              "/upload/image/483682.jpg",
+              "/upload/image/483683.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.75386238,
+          53.69903564
+        ]
+      },
+      "properties": {
+        "id": "198771",
+        "href": "/problem/198771",
+        "address": "берег черного озера",
+        "date_create": "2 сентября 2018 13:36",
+        "date_planned": "14.09.2018",
+        "crm_date_planned": "2018-09-14",
+        "crm_create_at": "2018-09-02",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/465201.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "307",
+          "parent_id": "22",
+          "icon": "22"
+        },
+        "user": {
+          "id": "193",
+          "name": "Константин",
+          "last_name": "Рейдо",
+          "middle_name": "Юрьевич"
+        },
+        "description": "Необходимо поставить шлагбаум на въезде к озеру, люди ставят машины ближе 30 метров от воды и моют их на берегу",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.72258186,
+          53.70380402
+        ]
+      },
+      "properties": {
+        "id": "198770",
+        "href": "/problem/198770",
+        "address": "ул. Комсомольская, Кричев, Беларусь",
+        "date_create": "2 сентября 2018 13:22",
+        "date_planned": "14.09.2018",
+        "crm_date_planned": "2018-09-14",
+        "crm_create_at": "2018-09-02",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/465200.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "283",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "36687",
+          "name": "Маргарита",
+          "last_name": "Лазаревич",
+          "middle_name": "Станиславовна"
+        },
+        "description": "Тротуарная плитка на всей улице в очень плохом состоянии, необходима замена",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.72155762,
+          53.71484375
+        ]
+      },
+      "properties": {
+        "id": "198769",
+        "href": "/problem/198769",
+        "address": "На углу домов  13 и 14 м-н Сож",
+        "date_create": "2 сентября 2018 12:39",
+        "date_planned": "14.09.2018",
+        "crm_date_planned": "2018-09-14",
+        "crm_create_at": "2018-09-02",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/465199.jpg"
+          ],
+          "after": [
+            "/upload/image/471928.jpg"
+          ]
+        },
+        "category": {
+          "id": "29",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "68537",
+          "name": "Максим",
+          "last_name": "Великанов",
+          "middle_name": ""
+        },
+        "description": "Сломаны качели",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "качели отремонтированы",
+            "date": "13 сентября 15:53",
+            "photos": [
+              "/upload/image/471867.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.72186661,
+          53.70823288
+        ]
+      },
+      "properties": {
+        "id": "198768",
+        "href": "/problem/198768",
+        "address": "пер. Комсомольский, Кричев, Беларусь",
+        "date_create": "1 сентября 2018 17:32",
+        "date_planned": "14.09.2018",
+        "crm_date_planned": "2018-09-14",
+        "crm_create_at": "2018-09-01",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/465198.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "283",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "193",
+          "name": "Константин",
+          "last_name": "Рейдо",
+          "middle_name": "Юрьевич"
+        },
+        "description": "Неудовлетворительное состояние тротуарной плитки, люди спотыкаются. Также отсутствует решетка на дождепоиемнике, опасно учитывая отсутствие освещения по ночам.",
+        "answers": [
+
+        ]
+      }
+    }
+  ]
+}

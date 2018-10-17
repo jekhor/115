@@ -1,0 +1,423 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.72264671,
+          53.70942688
+        ]
+      },
+      "properties": {
+        "id": "169025",
+        "href": "/problem/169025",
+        "address": "Сож микрорайон,31",
+        "date_create": "26 мая 2018 16:53",
+        "date_planned": "07.06.2018",
+        "crm_date_planned": "2018-06-07",
+        "crm_create_at": "2018-05-26",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/395040.jpg"
+          ],
+          "after": [
+            "/upload/image/406053.jpg"
+          ]
+        },
+        "category": {
+          "id": "369",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "24310",
+          "name": "Дмитрий ",
+          "last_name": "Кукевич ",
+          "middle_name": "Викторович "
+        },
+        "description": "Заделайте яму при входе в первый подъезд по адресу м-н Сож д.31",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "выполнено",
+            "date": "11 июня 16:30",
+            "photos": [
+              "/upload/image/406012.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.71402168,
+          53.71099091
+        ]
+      },
+      "properties": {
+        "id": "165761",
+        "href": "/problem/165761",
+        "address": "Комсомольский микрорайон, 11",
+        "date_create": "16 мая 2018 17:36",
+        "date_planned": "29.05.2018",
+        "crm_date_planned": "2018-05-29",
+        "crm_create_at": "2018-05-16",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/387753.jpg",
+            "/upload/image/387754.jpg"
+          ],
+          "after": [
+            "/upload/image/406179.jpg",
+            "/upload/image/406180.jpg"
+          ]
+        },
+        "category": {
+          "id": "325",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "17098",
+          "name": "Владимир",
+          "last_name": "Воронов",
+          "middle_name": "Александрович"
+        },
+        "description": "Сломана плитка возле люка (колодец) . Около подъезда номер 1",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "выполнено",
+            "date": "11 июня 16:32",
+            "photos": [
+              "/upload/image/406013.jpg",
+              "/upload/image/406014.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.726614,
+          53.71482849
+        ]
+      },
+      "properties": {
+        "id": "165126",
+        "href": "/problem/165126",
+        "address": "Октябрьская улица, 45",
+        "date_create": "15 мая 2018 10:15",
+        "date_planned": "25.05.2018",
+        "crm_date_planned": "2018-05-25",
+        "crm_create_at": "2018-05-15",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/386130.jpg",
+            "/upload/image/386131.jpg"
+          ],
+          "after": [
+            "/upload/image/412480.jpg",
+            "/upload/image/412481.jpg",
+            "/upload/image/412482.jpg"
+          ]
+        },
+        "category": {
+          "id": "99",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "65887",
+          "name": "Ольга",
+          "last_name": "Кондрашёва",
+          "middle_name": "Александровна"
+        },
+        "description": "Ступени в подвал 1-го подъезда разрушены.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "выполнено",
+            "date": "20 июня 16:00",
+            "photos": [
+              "/upload/image/412433.jpg",
+              "/upload/image/412434.jpg",
+              "/upload/image/412435.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.71402168,
+          53.71099091
+        ]
+      },
+      "properties": {
+        "id": "164480",
+        "href": "/problem/164480",
+        "address": "Комсомольский микрорайон, 11",
+        "date_create": "13 мая 2018 21:20",
+        "date_planned": "24.05.2018",
+        "crm_date_planned": "2018-05-24",
+        "crm_create_at": "2018-05-13",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "17098",
+          "name": "Владимир",
+          "last_name": "Воронов",
+          "middle_name": "Александрович"
+        },
+        "description": "Отсутствует свет в подъезде номер 1. Уже несколько дней",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "выполнено",
+            "date": "23 мая 15:28"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.71402168,
+          53.71099091
+        ]
+      },
+      "properties": {
+        "id": "164479",
+        "href": "/problem/164479",
+        "address": "Комсомольский микрорайон, 11",
+        "date_create": "13 мая 2018 21:18",
+        "date_planned": "24.05.2018",
+        "crm_date_planned": "2018-05-24",
+        "crm_create_at": "2018-05-13",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "30",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "17098",
+          "name": "Владимир",
+          "last_name": "Воронов",
+          "middle_name": "Александрович"
+        },
+        "description": "Сломана скамейка возле подъезда , номер 1",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "скамейка восстановлена",
+            "date": "17 мая 10:39"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.69716454,
+          53.68350601
+        ]
+      },
+      "properties": {
+        "id": "164312",
+        "href": "/problem/164312",
+        "address": "Ленинская улица, 141",
+        "date_create": "12 мая 2018 21:52",
+        "date_planned": "24.05.2018",
+        "crm_date_planned": "2018-05-24",
+        "crm_create_at": "2018-05-12",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "45",
+          "parent_id": "7",
+          "icon": "7"
+        },
+        "user": {
+          "id": "65707",
+          "name": "Ольга",
+          "last_name": "Никитина",
+          "middle_name": ""
+        },
+        "description": "Около контейнеров для сбора  мусора- свалка! Уже 2 недели.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "Выполнено. Мусор убран.",
+            "date": "18 мая 9:09"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.69432831,
+          53.74061584
+        ]
+      },
+      "properties": {
+        "id": "162856",
+        "href": "/problem/162856",
+        "address": "ул. Суворова, Кричев, Беларусь",
+        "date_create": "8 мая 2018 0:49",
+        "date_planned": "21.05.2018",
+        "crm_date_planned": "2018-05-21",
+        "crm_create_at": "2018-05-08",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/381641.jpg"
+          ],
+          "after": [
+            "/upload/image/388299.jpg"
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "63205",
+          "name": "Сергей",
+          "last_name": "Емельяненко",
+          "middle_name": "Владимирович"
+        },
+        "description": "Не исправность фонаря уличного освещения на опоре 1/2.  ул.  Суворова",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "выполнено",
+            "date": "17 мая 10:39",
+            "photos": [
+              "/upload/image/388228.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70646286,
+          53.69702911
+        ]
+      },
+      "properties": {
+        "id": "161358",
+        "href": "/problem/161358",
+        "address": "рядом с улица Гусаковского, 6",
+        "date_create": "3 мая 2018 18:15",
+        "date_planned": "17.05.2018",
+        "crm_date_planned": "2018-05-17",
+        "crm_create_at": "2018-05-03",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/378963.png"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "На перекрестке ул Гусаковского и Садовой нет уличного фонаря. Восстановите освещение - сняли фонарь! Имеется уличное освещение по улице. Проложена линия освещения по воздуху.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "Выполнено. Освещение восстановлено.",
+            "date": "21 мая 16:52"
+          },
+          {
+            "author": "Максим Рудь",
+            "text": "",
+            "date": "24 июля 16:44",
+            "rating": 5
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3977623,
+          54.4824791
+        ]
+      },
+      "properties": {
+        "id": "197820",
+        "href": "/problem/197820",
+        "address": "улица Виктории Синкевич, 4",
+        "date_create": "2 сентября 2018 22:30",
+        "date_planned": "04.09.2018",
+        "crm_date_planned": "2018-09-04",
+        "crm_create_at": "2018-09-02",
+        "organisation_id": "395",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/463332.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "19387",
+          "name": "Антон",
+          "last_name": "Белявский",
+          "middle_name": "Александрович"
+        },
+        "description": "Во дворе у дома 4 по улице Синкевич отсутствуют организованные места для парковки. Людям приходится парковаться в соседних дворах, либо с нарушением ПДД.",
+        "answers": [
+
+        ]
+      }
+    }
+  ]
+}

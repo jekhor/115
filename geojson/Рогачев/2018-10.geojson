@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.05147362,
+          53.07701111
+        ]
+      },
+      "properties": {
+        "id": "211875",
+        "href": "/problem/211875",
+        "address": "Ленина, д.50, кв.9",
+        "date_create": "11 октября 2018 8:34",
+        "date_planned": "23.10.2018",
+        "crm_date_planned": "2018-10-23",
+        "crm_create_at": "2018-10-11",
+        "organisation_id": "498",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "57",
+          "parent_id": "9",
+          "icon": "9"
+        },
+        "user": {
+          "id": "78304",
+          "name": "Анна",
+          "last_name": "Королёва",
+          "middle_name": "Анатольевна"
+        },
+        "description": "В доме частично отсутствует отопление. Два последних подъезда с 08.10 уже включили отопление, а два первых не включили. А платить как будем? С 08.10?",
+        "answers": [
+
+        ]
+      }
+    }
+  ]
+}

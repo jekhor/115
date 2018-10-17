@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7299366,
+          53.61442566
+        ]
+      },
+      "properties": {
+        "id": "187569",
+        "href": "/problem/187569",
+        "address": "Заводская улица, 24",
+        "date_create": "30 июля 2018 18:07",
+        "date_planned": "10.08.2018",
+        "crm_date_planned": "2018-08-10",
+        "crm_create_at": "2018-07-30",
+        "organisation_id": "339",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "101",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "70031",
+          "name": "Татьяна",
+          "last_name": "Шишебарова",
+          "middle_name": "Алексеевна"
+        },
+        "description": "Швы между панелями обсуждались и нуждаются в ремонте. Во время осенних ливней случаются протечки на третьем и четвёртом этажах. В домах образуются очаги плесени. Помогите пожалуйста",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7299366,
+          53.61442566
+        ]
+      },
+      "properties": {
+        "id": "187567",
+        "href": "/problem/187567",
+        "address": "Заводская улица, 24",
+        "date_create": "30 июля 2018 18:03",
+        "date_planned": "10.08.2018",
+        "crm_date_planned": "2018-08-10",
+        "crm_create_at": "2018-07-30",
+        "organisation_id": "339",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "99",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "70031",
+          "name": "Татьяна",
+          "last_name": "Шишебарова",
+          "middle_name": "Алексеевна"
+        },
+        "description": "Входная лестница в очень плохом состоянии. Высокие ступеньки почти разрушены. Отсутствует подъем для инвалидов или колясок. Помогите пожалуйста",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.73732185,
+          53.61015701
+        ]
+      },
+      "properties": {
+        "id": "187463",
+        "href": "/problem/187463",
+        "address": "Советская улица, 15",
+        "date_create": "30 июля 2018 11:29",
+        "date_planned": "10.08.2018",
+        "crm_date_planned": "2018-08-10",
+        "crm_create_at": "2018-07-30",
+        "organisation_id": "347",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "54388",
+          "name": "Виктор",
+          "last_name": "Слапик",
+          "middle_name": "Станиславович"
+        },
+        "description": "Ямы на проезжей части -  перекресток возле стадиона и озера и на всем протяжении вдоль озера.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.73947716,
+          53.59910202
+        ]
+      },
+      "properties": {
+        "id": "182836",
+        "href": "/problem/182836",
+        "address": "рядом с улица Маяковского, 16",
+        "date_create": "13 июля 2018 10:57",
+        "date_planned": "31.07.2018",
+        "crm_date_planned": "2018-07-31",
+        "crm_create_at": "2018-07-13",
+        "organisation_id": "347",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "27",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "65648",
+          "name": "Сергей",
+          "last_name": "Трусило",
+          "middle_name": "Валерьевич"
+        },
+        "description": "тест",
+        "answers": [
+
+        ]
+      }
+    }
+  ]
+}

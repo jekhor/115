@@ -1,0 +1,5528 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.50276756,
+          52.78295135
+        ]
+      },
+      "properties": {
+        "id": "206523",
+        "href": "/problem/206523",
+        "address": "ул. Молодёжная 29",
+        "date_create": "30 сентября 2018 15:38",
+        "date_planned": "11.10.2018",
+        "crm_date_planned": "2018-10-11",
+        "crm_create_at": "2018-09-30",
+        "organisation_id": "301",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/483981.jpg"
+          ],
+          "after": [
+            "/upload/image/487997.png"
+          ]
+        },
+        "category": {
+          "id": "27",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "64096",
+          "name": "Александр",
+          "last_name": "Ачаповский",
+          "middle_name": "Александрович"
+        },
+        "description": "Во дворе, возле детской площадки сухое дерево вот-вот упадет... держится только на одной ветке соседнего дерева",
+        "answers": [
+          {
+            "author": "ЖЭС -5 г. Солигорск",
+            "text": "Наклонившееся дерево срублено и убрано",
+            "date": "6 октября 16:01",
+            "photos": [
+              "/upload/image/487515.png"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.50512505,
+          52.78415298
+        ]
+      },
+      "properties": {
+        "id": "205823",
+        "href": "/problem/205823",
+        "address": "улица К. Заслонова, 93-175",
+        "date_create": "29 сентября 2018 20:06",
+        "date_planned": "11.10.2018",
+        "crm_date_planned": "2018-10-11",
+        "crm_create_at": "2018-09-29",
+        "organisation_id": "301",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "73892",
+          "name": "Вадим",
+          "last_name": "Заброцкий",
+          "middle_name": "Викторович"
+        },
+        "description": "Не горит свет в межквартирном тамбуре. Лампы целые. Отсутствует напряжение на кабеле.",
+        "answers": [
+          {
+            "author": "ЖЭС -5 г. Солигорск",
+            "text": "Пересоединил эл. проводку, осветил.",
+            "date": "2 октября 14:27"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54456711,
+          52.79787064
+        ]
+      },
+      "properties": {
+        "id": "206522",
+        "href": "/problem/206522",
+        "address": "ул. Коммунальная, 15",
+        "date_create": "29 сентября 2018 19:13",
+        "date_planned": "11.10.2018",
+        "crm_date_planned": "2018-10-11",
+        "crm_create_at": "2018-09-29",
+        "organisation_id": "299",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/483980.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Нет освещения в подъезде 1 и 2",
+        "answers": [
+          {
+            "author": "ЖЭС -1 г. Солигорск",
+            "text": "Произвели прокладку кабеля, установили светильники работы выполнила РТОЭ",
+            "date": "12 октября 12:16"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54453278,
+          52.79800797
+        ]
+      },
+      "properties": {
+        "id": "206521",
+        "href": "/problem/206521",
+        "address": "улица Коммунальная, 15",
+        "date_create": "29 сентября 2018 19:12",
+        "date_planned": "11.10.2018",
+        "crm_date_planned": "2018-10-11",
+        "crm_create_at": "2018-09-29",
+        "organisation_id": "299",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/483979.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "63",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Нет освещения у подъездов 1 и 2 в доме",
+        "answers": [
+          {
+            "author": "ЖЭС -1 г. Солигорск",
+            "text": "Произвели прокладку кабеля, установили светильники работы выполнила РТОЭ",
+            "date": "12 октября 12:16"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54431534,
+          52.78896332
+        ]
+      },
+      "properties": {
+        "id": "206520",
+        "href": "/problem/206520",
+        "address": "ул. Ленинского Комсомола 19, Солигорск, Беларусь",
+        "date_create": "29 сентября 2018 18:49",
+        "date_planned": "11.10.2018",
+        "crm_date_planned": "2018-10-11",
+        "crm_create_at": "2018-09-29",
+        "organisation_id": "298",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/483978.jpg"
+          ],
+          "after": [
+            "/upload/image/487085.jpg"
+          ]
+        },
+        "category": {
+          "id": "33",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Сломанные, сгнившие контейнеры на контейнерный площадке",
+        "answers": [
+          {
+            "author": "КЗУП \"Экокомплекс\" г. Солигорск",
+            "text": "Контейнеры заменены.",
+            "date": "5 октября 13:05",
+            "photos": [
+              "/upload/image/486984.jpg"
+            ]
+          },
+          {
+            "author": "Алексей Биянов",
+            "text": "Где ж они заменены ? Один самый гнилой убрали, а вторые два как стояли без подножек и крышек так и стоят !",
+            "date": "7 октября 5:59"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54482079,
+          52.78835678
+        ]
+      },
+      "properties": {
+        "id": "206519",
+        "href": "/problem/206519",
+        "address": "ул. Ленинского Комсомола 17, Солигорск 223710, Беларусь",
+        "date_create": "29 сентября 2018 18:47",
+        "date_planned": "11.10.2018",
+        "crm_date_planned": "2018-10-11",
+        "crm_create_at": "2018-09-29",
+        "organisation_id": "312",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/483977.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Большой провал на дороге во дворе, яма - повторное обращение",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54515648,
+          52.78815079
+        ]
+      },
+      "properties": {
+        "id": "206518",
+        "href": "/problem/206518",
+        "address": "ул.Л.Комсомола, 13",
+        "date_create": "29 сентября 2018 18:46",
+        "date_planned": "31.12.2019",
+        "crm_date_planned": "2019-12-31",
+        "crm_create_at": "2018-09-29",
+        "organisation_id": "312",
+        "status": "7",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/483976.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Большой длинный провал на дороге после ремонта, постоянно стоит вода",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54747963,
+          52.78658676
+        ]
+      },
+      "properties": {
+        "id": "206517",
+        "href": "/problem/206517",
+        "address": "ул.Л.Комсомола, 1",
+        "date_create": "29 сентября 2018 18:40",
+        "date_planned": "11.10.2018",
+        "crm_date_planned": "2018-10-11",
+        "crm_create_at": "2018-09-29",
+        "organisation_id": "298",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/483975.jpg"
+          ],
+          "after": [
+            "/upload/image/486744.jpg"
+          ]
+        },
+        "category": {
+          "id": "45",
+          "parent_id": "7",
+          "icon": "7"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Требуется вывоз крупногабаритного мусора",
+        "answers": [
+          {
+            "author": "КЗУП \"Экокомплекс\" г. Солигорск",
+            "text": "Мусор отгружен.",
+            "date": "5 октября 9:07",
+            "photos": [
+              "/upload/image/486674.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54762077,
+          52.78645706
+        ]
+      },
+      "properties": {
+        "id": "206516",
+        "href": "/problem/206516",
+        "address": "ул. Козлова, 12 а",
+        "date_create": "29 сентября 2018 18:38",
+        "date_planned": "11.10.2018",
+        "crm_date_planned": "2018-10-11",
+        "crm_create_at": "2018-09-29",
+        "organisation_id": "304",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/483974.jpg"
+          ],
+          "after": [
+            "/upload/image/491466.jpg"
+          ]
+        },
+        "category": {
+          "id": "304",
+          "parent_id": "21",
+          "icon": "21"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Перекрёсток ул.Козлова, ул. Л.Комсомола - старое гнилое дерево, опасность падения, рядом пешеходный переход",
+        "answers": [
+          {
+            "author": "Коммунальное производство г. Солигорск",
+            "text": "Дерево срезано.",
+            "date": "11 октября 15:03",
+            "photos": [
+              "/upload/image/491388.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53936577,
+          52.78474045
+        ]
+      },
+      "properties": {
+        "id": "206515",
+        "href": "/problem/206515",
+        "address": "ул. Ленина, 24",
+        "date_create": "29 сентября 2018 18:25",
+        "date_planned": "11.10.2018",
+        "crm_date_planned": "2018-10-11",
+        "crm_create_at": "2018-09-29",
+        "organisation_id": "298",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/483973.jpg"
+          ],
+          "after": [
+            "/upload/image/489953.jpg"
+          ]
+        },
+        "category": {
+          "id": "45",
+          "parent_id": "7",
+          "icon": "7"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Требуется вывоз крупногабаритного мусора",
+        "answers": [
+          {
+            "author": "КЗУП \"Экокомплекс\" г. Солигорск",
+            "text": "Мусор вывезен.",
+            "date": "10 октября 8:46",
+            "photos": [
+              "/upload/image/489865.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53194618,
+          52.78505707
+        ]
+      },
+      "properties": {
+        "id": "206514",
+        "href": "/problem/206514",
+        "address": "ул. Козлова, 46 а",
+        "date_create": "29 сентября 2018 18:15",
+        "date_planned": "31.10.2018",
+        "crm_date_planned": "2018-10-31",
+        "crm_create_at": "2018-09-29",
+        "organisation_id": "298",
+        "status": "7",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/483972.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "34",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Требуется ремонт контейнерный площадки, смещение",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53194237,
+          52.78504181
+        ]
+      },
+      "properties": {
+        "id": "206513",
+        "href": "/problem/206513",
+        "address": "ул Козлова, 46 а",
+        "date_create": "29 сентября 2018 18:13",
+        "date_planned": "11.10.2018",
+        "crm_date_planned": "2018-10-11",
+        "crm_create_at": "2018-09-29",
+        "organisation_id": "298",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/483971.jpg"
+          ],
+          "after": [
+            "/upload/image/486743.jpg"
+          ]
+        },
+        "category": {
+          "id": "45",
+          "parent_id": "7",
+          "icon": "7"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Требуется вывоз крупногабаритного мусора",
+        "answers": [
+          {
+            "author": "КЗУП \"Экокомплекс\" г. Солигорск",
+            "text": "Мусор забран.",
+            "date": "5 октября 8:50",
+            "photos": [
+              "/upload/image/486671.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53196716,
+          52.78504181
+        ]
+      },
+      "properties": {
+        "id": "206485",
+        "href": "/problem/206485",
+        "address": "ул. Козлова, 46 а",
+        "date_create": "29 сентября 2018 18:12",
+        "date_planned": "11.10.2018",
+        "crm_date_planned": "2018-10-11",
+        "crm_create_at": "2018-09-29",
+        "organisation_id": "298",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/483954.jpg"
+          ],
+          "after": [
+            "/upload/image/488925.jpg"
+          ]
+        },
+        "category": {
+          "id": "33",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Сломаны контейнеры на контейнерный площадке",
+        "answers": [
+          {
+            "author": "КЗУП \"Экокомплекс\" г. Солигорск",
+            "text": "Контейнера заменены.",
+            "date": "9 октября 8:14",
+            "photos": [
+              "/upload/image/488834.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.52865028,
+          52.78689957
+        ]
+      },
+      "properties": {
+        "id": "206484",
+        "href": "/problem/206484",
+        "address": "ул. К.Заслонова, 44",
+        "date_create": "29 сентября 2018 18:04",
+        "date_planned": "11.10.2018",
+        "crm_date_planned": "2018-10-11",
+        "crm_create_at": "2018-09-29",
+        "organisation_id": "305",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/483953.jpg"
+          ],
+          "after": [
+            "/upload/image/485278.jpg"
+          ]
+        },
+        "category": {
+          "id": "40",
+          "parent_id": "7",
+          "icon": "7"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Требуется вывоз веток деревьев",
+        "answers": [
+          {
+            "author": "ЖЭС -2 г. Солигорск",
+            "text": "Произведено обследование мастером ЖЭС-2 03.10.18г. Вывезли ветки деревьев.",
+            "date": "3 октября 10:47",
+            "photos": [
+              "/upload/image/485042.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54486465,
+          52.79740906
+        ]
+      },
+      "properties": {
+        "id": "206483",
+        "href": "/problem/206483",
+        "address": "ул. Коммунальная, 7 а",
+        "date_create": "29 сентября 2018 17:32",
+        "date_planned": "11.10.2018",
+        "crm_date_planned": "2018-10-11",
+        "crm_create_at": "2018-09-29",
+        "organisation_id": "299",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/483952.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "40",
+          "parent_id": "7",
+          "icon": "7"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Требуется вывоз отходов растительности",
+        "answers": [
+          {
+            "author": "ЖЭС -1 г. Солигорск",
+            "text": "Убрали мусор 11.10.2018года",
+            "date": "12 октября 6:47"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.48449516,
+          52.75188065
+        ]
+      },
+      "properties": {
+        "id": "205709",
+        "href": "/problem/205709",
+        "address": "улица Набережная, 4",
+        "date_create": "28 сентября 2018 20:20",
+        "date_planned": "11.10.2018",
+        "crm_date_planned": "2018-10-11",
+        "crm_create_at": "2018-09-28",
+        "organisation_id": "300",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "73466",
+          "name": "Геннадий",
+          "last_name": "Кривуля",
+          "middle_name": "Валерьевич"
+        },
+        "description": "Отсутствует освещение в 4 подъезде на 1 этаже, 3 этаже, 4 этаже.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53278542,
+          52.77823639
+        ]
+      },
+      "properties": {
+        "id": "206482",
+        "href": "/problem/206482",
+        "address": "Октябрьская д.35 2-ой подъезд ",
+        "date_create": "28 сентября 2018 11:55",
+        "date_planned": "11.10.2018",
+        "crm_date_planned": "2018-10-11",
+        "crm_create_at": "2018-09-28",
+        "organisation_id": "307",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "369",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "73393",
+          "name": "Александр ",
+          "last_name": "Попитич ",
+          "middle_name": "Михайлович "
+        },
+        "description": "Во 2-ом подъезде по ул. Октябрьская д.35 уже не первый месяц разбито стекло в двери которая ведёт в сушилку и это перед началом отопительного сезона. На обращение в жэс-6 никто не отреагировал.",
+        "answers": [
+          {
+            "author": "ЖЭС -6 г. Солигорск",
+            "text": "Работы по остеклению двери на б/сушке выполнены",
+            "date": "11 октября 18:08"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53803253,
+          52.77589417
+        ]
+      },
+      "properties": {
+        "id": "205501",
+        "href": "/problem/205501",
+        "address": "Набережная улица, 25",
+        "date_create": "27 сентября 2018 22:01",
+        "date_planned": "12.10.2018",
+        "crm_date_planned": "2018-10-12",
+        "crm_create_at": "2018-09-27",
+        "organisation_id": "309",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "63",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "73369",
+          "name": "Александр",
+          "last_name": "Люцко",
+          "middle_name": "Сергеевич"
+        },
+        "description": "Нет освещения около 4 подъезда",
+        "answers": [
+          {
+            "author": "РТОЭ г. Солигорск",
+            "text": "Заменили лампу около 4 подъезда",
+            "date": "16 октября 15:11"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5028553,
+          52.78610611
+        ]
+      },
+      "properties": {
+        "id": "205455",
+        "href": "/problem/205455",
+        "address": "Молодёжная улица, 17",
+        "date_create": "27 сентября 2018 20:51",
+        "date_planned": "12.10.2018",
+        "crm_date_planned": "2018-10-12",
+        "crm_create_at": "2018-09-27",
+        "organisation_id": "301",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "73359",
+          "name": "Элла",
+          "last_name": "Якубович",
+          "middle_name": "Николаевна"
+        },
+        "description": "Как меняли трубы, после себя ничего не доделали. Во дворе на проезжей части яма все глубже и глубже!!! Машины проезжая, то бампером цепанут, то глушителем. При обращении в ЖКХ говорят, они не при дела",
+        "answers": [
+          {
+            "author": "ЖЭС -5 г. Солигорск",
+            "text": "ОАО \"Стройтрест №3\" заасфальтировало участок после замены теплотрассы 05.10.2018г.",
+            "date": "6 октября 13:54"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53347969,
+          52.7885437
+        ]
+      },
+      "properties": {
+        "id": "205425",
+        "href": "/problem/205425",
+        "address": "улица Константина Заслонова, 30",
+        "date_create": "27 сентября 2018 19:25",
+        "date_planned": "15.10.2018",
+        "crm_date_planned": "2018-10-15",
+        "crm_create_at": "2018-09-27",
+        "organisation_id": "305",
+        "status": "7",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/482110.jpg",
+            "/upload/image/482111.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "101",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "67579",
+          "name": "Иван",
+          "last_name": "Петров",
+          "middle_name": ""
+        },
+        "description": "Течь над входом в квартиру. 6 подъезд, 2 этаж.",
+        "answers": [
+          {
+            "author": "ЖЭС -2 г. Солигорск",
+            "text": "Произведено обследование мастером 03.10.2018г. Жилец квартиры 71 обязуется устранить дефекты на стене на л/кл.Заявка остается на контроле.",
+            "date": "3 октября 10:41"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.44464302,
+          52.75291824
+        ]
+      },
+      "properties": {
+        "id": "205327",
+        "href": "/problem/205327",
+        "address": "рядом с Центральная улица, 36",
+        "date_create": "27 сентября 2018 13:25",
+        "date_planned": "09.10.2018",
+        "crm_date_planned": "2018-10-09",
+        "crm_create_at": "2018-09-27",
+        "organisation_id": "309",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/481595.jpg",
+            "/upload/image/481596.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "70882",
+          "name": "Антон",
+          "last_name": "Журавлевич",
+          "middle_name": "Игоревич"
+        },
+        "description": "Негорящий фонарь (третий или четвёртый раз за последние несколько месяцев). Возможно, проблема в самом фонаре/проводке.",
+        "answers": [
+          {
+            "author": "РТОЭ г. Солигорск",
+            "text": "ЗАЯВКА передана в районные электросети",
+            "date": "10 октября 16:33"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53890419,
+          52.78713226
+        ]
+      },
+      "properties": {
+        "id": "205145",
+        "href": "/problem/205145",
+        "address": "улица Ленина, 17",
+        "date_create": "26 сентября 2018 21:20",
+        "date_planned": "09.10.2018",
+        "crm_date_planned": "2018-10-09",
+        "crm_create_at": "2018-09-26",
+        "organisation_id": "299",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "369",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "67031",
+          "name": "Андрей",
+          "last_name": "Муслимов",
+          "middle_name": "Анатольевич"
+        },
+        "description": "Отсутствуют окна на лестничной клетке в 4-ом подъезде на 2-ом этаже. Остальные рамы сгнили или повреждены и не закрываются.",
+        "answers": [
+          {
+            "author": "ЖЭС -1 г. Солигорск",
+            "text": "обследовали, застеклили 2-ой этаж",
+            "date": "4 октября 7:57"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.55130577,
+          52.78645706
+        ]
+      },
+      "properties": {
+        "id": "205028",
+        "href": "/problem/205028",
+        "address": "рядом с улица Козлова, 5",
+        "date_create": "26 сентября 2018 14:57",
+        "date_planned": "08.10.2018",
+        "crm_date_planned": "2018-10-08",
+        "crm_create_at": "2018-09-26",
+        "organisation_id": "312",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/480639.jpg",
+            "/upload/image/480640.jpg",
+            "/upload/image/480641.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "35004",
+          "name": "Андрей",
+          "last_name": "Бурковский",
+          "middle_name": ""
+        },
+        "description": "НЕДОПУСТИМЫЕ повреждения дорожного покрытия ЯМЫ! коммунальные службы не устраняют уже БОЛЕЕ ГОДА Учитывая многократные звонки в 115 а также письменные. ЯМ калибра как на фото минимум 15шт., есть фото!",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.50808334,
+          52.79056549
+        ]
+      },
+      "properties": {
+        "id": "204996",
+        "href": "/problem/204996",
+        "address": "Октябрьская улица, 75",
+        "date_create": "26 сентября 2018 12:16",
+        "date_planned": "30.06.2019",
+        "crm_date_planned": "2019-06-30",
+        "crm_create_at": "2018-09-26",
+        "organisation_id": "301",
+        "status": "7",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "29",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "65993",
+          "name": "Владимир",
+          "last_name": "Ястребов",
+          "middle_name": ""
+        },
+        "description": "Полтора года без детской площадки. Когда решится проблема???????",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.50423431,
+          52.78464127
+        ]
+      },
+      "properties": {
+        "id": "204864",
+        "href": "/problem/204864",
+        "address": "улица Константина Заслонова, 97",
+        "date_create": "25 сентября 2018 22:26",
+        "date_planned": "12.10.2018",
+        "crm_date_planned": "2018-10-12",
+        "crm_create_at": "2018-09-25",
+        "organisation_id": "309",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "64118",
+          "name": "Андрей",
+          "last_name": "Крукович",
+          "middle_name": "Михайлович"
+        },
+        "description": "Не горит фонарь дворового освещения. \r11.09. была подана заявка на ремонт 210901, но до сих пор она не решена!\rФонарь один на 3 дома, и больше вообще нет никаких фонарей!!!",
+        "answers": [
+          {
+            "author": "РТОЭ г. Солигорск",
+            "text": "восстановлена кабельная линия на опору стоянки",
+            "date": "15 октября 17:49"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.55085945,
+          52.78601074
+        ]
+      },
+      "properties": {
+        "id": "204861",
+        "href": "/problem/204861",
+        "address": "улица Козлова, 15",
+        "date_create": "25 сентября 2018 22:00",
+        "date_planned": "08.10.2018",
+        "crm_date_planned": "2018-10-08",
+        "crm_create_at": "2018-09-25",
+        "organisation_id": "312",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "73222",
+          "name": "Эдуард",
+          "last_name": "Ярошеня",
+          "middle_name": "Александрович"
+        },
+        "description": "Во дворе ужасное состояние дорожного покрытия! Очень большие ямы глубиной до 10 см! Автовладельцы всех домов  этого двора крайне недовольны. Дорожный налог платим, но дорог нет. Просьба решить вопрос.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54377937,
+          52.78853989
+        ]
+      },
+      "properties": {
+        "id": "204744",
+        "href": "/problem/204744",
+        "address": "улица Ленинского Комсомола, 9А",
+        "date_create": "25 сентября 2018 14:53",
+        "date_planned": "08.10.2018",
+        "crm_date_planned": "2018-10-08",
+        "crm_create_at": "2018-09-25",
+        "organisation_id": "312",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/479849.jpg",
+            "/upload/image/479850.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "65722",
+          "name": "Closet",
+          "last_name": "Golden",
+          "middle_name": ""
+        },
+        "description": "на углу Л.Комсомола 9А и 13 глубокая яма",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.52804947,
+          52.78655243
+        ]
+      },
+      "properties": {
+        "id": "204736",
+        "href": "/problem/204736",
+        "address": "улица Константина Заслонова, 46",
+        "date_create": "25 сентября 2018 14:15",
+        "date_planned": "17.10.2018",
+        "crm_date_planned": "2018-10-17",
+        "crm_create_at": "2018-09-25",
+        "organisation_id": "305",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "51541",
+          "name": "Сергей",
+          "last_name": "Хмелевский",
+          "middle_name": "Александрович"
+        },
+        "description": "отсутствует освещение возле подъезда №1",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.52826118,
+          52.78918076
+        ]
+      },
+      "properties": {
+        "id": "204567",
+        "href": "/problem/204567",
+        "address": "Солигорск,  улица Наруцкого,  2",
+        "date_create": "24 сентября 2018 22:52",
+        "date_planned": "05.10.2018",
+        "crm_date_planned": "2018-10-05",
+        "crm_create_at": "2018-09-24",
+        "organisation_id": "309",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/479416.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "70598",
+          "name": "Евгений",
+          "last_name": "Скалабан",
+          "middle_name": "Михайлович"
+        },
+        "description": "Отсутствует освещение пешеходной дорожки возле дома и  на парковке.Не горит ни один фонарь.Ни при въезде во двор,ни в конце.А без света на плитах возле подъезда можно легко сломать что угодно.",
+        "answers": [
+          {
+            "author": "РТОЭ г. Солигорск",
+            "text": "освещение восстановлено. проведена замена ламп и ремонт светильников",
+            "date": "9 октября 16:13"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54718781,
+          52.78495026
+        ]
+      },
+      "properties": {
+        "id": "204342",
+        "href": "/problem/204342",
+        "address": "улица Козлова, 23",
+        "date_create": "24 сентября 2018 14:13",
+        "date_planned": "04.10.2018",
+        "crm_date_planned": "2018-10-04",
+        "crm_create_at": "2018-09-24",
+        "organisation_id": "300",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/478905.jpg",
+            "/upload/image/478906.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "68142",
+          "name": "Tatyana",
+          "last_name": "Potapova",
+          "middle_name": ""
+        },
+        "description": "Реконструкция двора продолжается, однако лужа довольно глубокая в центре говорит о том, что неровно провели укладку асфальта, просьба устранить пока ещё работы не закончены. Спасибо заранее.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.55378723,
+          52.78590775
+        ]
+      },
+      "properties": {
+        "id": "204196",
+        "href": "/problem/204196",
+        "address": "Набережная улица, 2",
+        "date_create": "24 сентября 2018 12:03",
+        "date_planned": "05.10.2018",
+        "crm_date_planned": "2018-10-05",
+        "crm_create_at": "2018-09-24",
+        "organisation_id": "312",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/478679.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "289",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "69787",
+          "name": "Мишаня",
+          "last_name": "Подлый",
+          "middle_name": ""
+        },
+        "description": "Ненужный и неисправный лежачий полицейский .",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.50139427,
+          52.78871155
+        ]
+      },
+      "properties": {
+        "id": "203995",
+        "href": "/problem/203995",
+        "address": "Молодёжная улица, 10",
+        "date_create": "23 сентября 2018 20:57",
+        "date_planned": "04.10.2018",
+        "crm_date_planned": "2018-10-04",
+        "crm_create_at": "2018-09-23",
+        "organisation_id": "301",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "73029",
+          "name": "ольга",
+          "last_name": "гарбацевич",
+          "middle_name": ""
+        },
+        "description": "отсутствует освещение в межквартирном коридоре 3 подъезд,7 этаж",
+        "answers": [
+          {
+            "author": "ЖЭС -5 г. Солигорск",
+            "text": "осветил",
+            "date": "1 октября 14:42"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.52715683,
+          52.79411316
+        ]
+      },
+      "properties": {
+        "id": "204105",
+        "href": "/problem/204105",
+        "address": "вул. Кастрычніцкая 20, Солигорск, Беларусь",
+        "date_create": "23 сентября 2018 16:31",
+        "date_planned": "04.10.2018",
+        "crm_date_planned": "2018-10-04",
+        "crm_create_at": "2018-09-23",
+        "organisation_id": "304",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/478538.jpg"
+          ],
+          "after": [
+            "/upload/image/481965.jpg"
+          ]
+        },
+        "category": {
+          "id": "30",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "66931",
+          "name": "Тарас",
+          "last_name": "Кирильченко",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Здравствуйте! Вдоль тротуара по улице Октябрьской, напротив дома 18 (в месте перехода через дорогу к магазину \"Радуга-Гурман\") отломана и лежит мусорка. Прошу восстановить. Спасибо!",
+        "answers": [
+          {
+            "author": "Коммунальное производство г. Солигорск",
+            "text": "Вдоль тротуара по ул. Октябрьской напротив дома № 18 урна восстановлена.",
+            "date": "27 сентября 17:13",
+            "photos": [
+              "/upload/image/481905.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.55025291,
+          52.78513718
+        ]
+      },
+      "properties": {
+        "id": "203959",
+        "href": "/problem/203959",
+        "address": "улица Козлова, 17А",
+        "date_create": "23 сентября 2018 12:29",
+        "date_planned": "12.10.2018",
+        "crm_date_planned": "2018-10-12",
+        "crm_create_at": "2018-09-23",
+        "organisation_id": "300",
+        "status": "7",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/478315.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "25",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "72232",
+          "name": "Виталий",
+          "last_name": "Барончик",
+          "middle_name": ""
+        },
+        "description": "На парковке (ул. Козлова, д. 17А) давно стоит брошенный автомобиль марки Жигули белого цвета, гос. номер 59-99 МБТ. Автомобилем никто не пользуется. Колеса спущены, стоит криво. Прошу принять меры.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.55025291,
+          52.78513718
+        ]
+      },
+      "properties": {
+        "id": "203957",
+        "href": "/problem/203957",
+        "address": "улица Козлова, 17А",
+        "date_create": "23 сентября 2018 12:06",
+        "date_planned": "04.10.2018",
+        "crm_date_planned": "2018-10-04",
+        "crm_create_at": "2018-09-23",
+        "organisation_id": "312",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/478308.jpg",
+            "/upload/image/478309.jpg",
+            "/upload/image/478310.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "72232",
+          "name": "Виталий",
+          "last_name": "Барончик",
+          "middle_name": ""
+        },
+        "description": "Провалился асфальт на парковке по адресу ул. Козлова, д. 17А. Прошу устранить проблему. Заранее благодарен!",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53044128,
+          52.79130936
+        ]
+      },
+      "properties": {
+        "id": "203535",
+        "href": "/problem/203535",
+        "address": "улица Строителей, 51",
+        "date_create": "20 сентября 2018 22:31",
+        "date_planned": "03.10.2018",
+        "crm_date_planned": "2018-10-03",
+        "crm_create_at": "2018-09-20",
+        "organisation_id": "307",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+            "/upload/image/481371.jpg"
+          ]
+        },
+        "category": {
+          "id": "369",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "69546",
+          "name": "Светлана",
+          "last_name": "Петрушина",
+          "middle_name": ""
+        },
+        "description": "Отсутствует свет перед входом в подъезд. Плафон отсутствует. Нет надёжного электрического контакта между лампочкой и контактами в патроне.",
+        "answers": [
+          {
+            "author": "ЖЭС -6 г. Солигорск",
+            "text": "Установили светильник на входной группе подъезда",
+            "date": "27 сентября 9:24",
+            "photos": [
+              "/upload/image/481238.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54917336,
+          52.79182053
+        ]
+      },
+      "properties": {
+        "id": "203591",
+        "href": "/problem/203591",
+        "address": "ул. Горького, 19",
+        "date_create": "20 сентября 2018 19:14",
+        "date_planned": "03.10.2018",
+        "crm_date_planned": "2018-10-03",
+        "crm_create_at": "2018-09-20",
+        "organisation_id": "299",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/477371.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "30",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "1 подъезд - нет лавочки",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.55379105,
+          52.78787231
+        ]
+      },
+      "properties": {
+        "id": "203590",
+        "href": "/problem/203590",
+        "address": "ул. Козлова, 1",
+        "date_create": "20 сентября 2018 19:08",
+        "date_planned": "03.10.2018",
+        "crm_date_planned": "2018-10-03",
+        "crm_create_at": "2018-09-20",
+        "organisation_id": "312",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/477370.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "283",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Перекрёсток ул. Козлова, ул Горького, ул Набережная - на пешеходной дорожке нет плитки",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.50118065,
+          52.78890228
+        ]
+      },
+      "properties": {
+        "id": "203261",
+        "href": "/problem/203261",
+        "address": "Молодёжная 10, 2 подъезд ",
+        "date_create": "20 сентября 2018 7:03",
+        "date_planned": "02.10.2018",
+        "crm_date_planned": "2018-10-02",
+        "crm_create_at": "2018-09-20",
+        "organisation_id": "301",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "68456",
+          "name": "Людмила ",
+          "last_name": "Пыко ",
+          "middle_name": "Владимировна "
+        },
+        "description": "Не работает освещение на лестнице  (НЕ лифтовой холл) 4 этаж 2 подъезд",
+        "answers": [
+          {
+            "author": "ЖЭС -5 г. Солигорск",
+            "text": "Осветил",
+            "date": "1 октября 14:42"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.51221275,
+          52.78546906
+        ]
+      },
+      "properties": {
+        "id": "202945",
+        "href": "/problem/202945",
+        "address": "улица Богомолова, 11А",
+        "date_create": "19 сентября 2018 9:49",
+        "date_planned": "01.10.2018",
+        "crm_date_planned": "2018-10-01",
+        "crm_create_at": "2018-09-19",
+        "organisation_id": "302",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/475421.jpg",
+            "/upload/image/475422.jpg"
+          ],
+          "after": [
+            "/upload/image/483711.jpg"
+          ]
+        },
+        "category": {
+          "id": "29",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "70025",
+          "name": "Виктория",
+          "last_name": "Бородько",
+          "middle_name": "Олеговна"
+        },
+        "description": "Фундамент качелей находится на поверхности игровой площадки, а должен быть на глубине не менее 200 мм от игровой поверхности (согласно п.4.2.14 СТБ ЕН 1176-1)",
+        "answers": [
+          {
+            "author": "ЖЭС -4 г. Солигорск",
+            "text": "Это не фундамент, а металлический каркас.Нижняя часть металлического каркаса закопана в грунт на глубину 300 мм.",
+            "date": "1 октября 8:53",
+            "photos": [
+              "/upload/image/483299.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.50067139,
+          52.79056168
+        ]
+      },
+      "properties": {
+        "id": "202921",
+        "href": "/problem/202921",
+        "address": "Октябрьская улица, 101",
+        "date_create": "19 сентября 2018 9:26",
+        "date_planned": "01.10.2018",
+        "crm_date_planned": "2018-10-01",
+        "crm_create_at": "2018-09-19",
+        "organisation_id": "301",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "70184",
+          "name": "Ольга",
+          "last_name": "Сяськова",
+          "middle_name": "Геннадьевна"
+        },
+        "description": "Отсутствует освещение в первом подъезде по улице октябрьской, д. 101 на4, 5 и 7 этаже. Отсутствует освещение на входной группе в третьем и четвёртом подъезде",
+        "answers": [
+          {
+            "author": "ЖЭС -5 г. Солигорск",
+            "text": "28.09.2018 года произведено освещение л/клеток, вх.группы.",
+            "date": "1 октября 8:57"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.51169586,
+          52.78768539
+        ]
+      },
+      "properties": {
+        "id": "202920",
+        "href": "/problem/202920",
+        "address": "бульвар Шахтёров, 3, возле СШ №10",
+        "date_create": "19 сентября 2018 9:26",
+        "date_planned": "01.10.2018",
+        "crm_date_planned": "2018-10-01",
+        "crm_create_at": "2018-09-19",
+        "organisation_id": "302",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/475364.jpg",
+            "/upload/image/475365.jpg"
+          ],
+          "after": [
+            "/upload/image/483722.jpg"
+          ]
+        },
+        "category": {
+          "id": "29",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "70025",
+          "name": "Виктория",
+          "last_name": "Бородько",
+          "middle_name": "Олеговна"
+        },
+        "description": "Фундамент качелей находится на поверхности игровой площадки, а должен быть на глубине не менее 200 мм от игровой поверхности (согласно п.4.2.14 СТБ ЕН 1176-1)",
+        "answers": [
+          {
+            "author": "ЖЭС -4 г. Солигорск",
+            "text": "Это не фундамент, а металлический каркас.  Нижняя часть металлического каркаса закопан в грунт на глубину 300 мм.",
+            "date": "1 октября 8:51",
+            "photos": [
+              "/upload/image/483298.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54377365,
+          52.77982712
+        ]
+      },
+      "properties": {
+        "id": "202910",
+        "href": "/problem/202910",
+        "address": "Ленина 36",
+        "date_create": "19 сентября 2018 6:03",
+        "date_planned": "01.10.2018",
+        "crm_date_planned": "2018-10-01",
+        "crm_create_at": "2018-09-19",
+        "organisation_id": "300",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "70368",
+          "name": "Александр",
+          "last_name": "Зубрицкий",
+          "middle_name": "Анатольевич"
+        },
+        "description": "В 13-м подъезде на четвёртом этаже не работает освещение лестничной площадки",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.55143356,
+          52.78594208
+        ]
+      },
+      "properties": {
+        "id": "202731",
+        "href": "/problem/202731",
+        "address": "рядом с улица Козлова, 15",
+        "date_create": "18 сентября 2018 15:10",
+        "date_planned": "28.09.2018",
+        "crm_date_planned": "2018-09-28",
+        "crm_create_at": "2018-09-18",
+        "organisation_id": "312",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/474871.jpg",
+            "/upload/image/474872.jpg",
+            "/upload/image/474873.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "64273",
+          "name": "Валерия",
+          "last_name": "Скалабан",
+          "middle_name": "Игоревна"
+        },
+        "description": "Добрый день. На против д/с №17 еще летом подняли асфальтированную дорожку для  проведения строительных работ, но назад не вернули. В дождь вообще невозможно ходить, грязь по колено. Спасибо",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.52826118,
+          52.78918076
+        ]
+      },
+      "properties": {
+        "id": "202520",
+        "href": "/problem/202520",
+        "address": "улица Наруцкого, 2",
+        "date_create": "17 сентября 2018 20:18",
+        "date_planned": "27.09.2018",
+        "crm_date_planned": "2018-09-27",
+        "crm_create_at": "2018-09-17",
+        "organisation_id": "307",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/474334.jpg",
+            "/upload/image/474335.jpg",
+            "/upload/image/474336.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "101",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "70598",
+          "name": "Евгений",
+          "last_name": "Скалабан",
+          "middle_name": "Михайлович"
+        },
+        "description": "Наруцкого 2,3 подъезд,кв 77,2этаж.Не  заделан шов в месте стыковки балконной плиты,очень большой,сверху 7-8см.Если ветруган и похолодание,чувствуется как балкон очень сильно продувается.Нужно заделать",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54282761,
+          52.77962875
+        ]
+      },
+      "properties": {
+        "id": "202431",
+        "href": "/problem/202431",
+        "address": "ул. Ленина 36, Солигорск 223710, Беларусь",
+        "date_create": "17 сентября 2018 15:19",
+        "date_planned": "27.09.2018",
+        "crm_date_planned": "2018-09-27",
+        "crm_create_at": "2018-09-17",
+        "organisation_id": "300",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "70368",
+          "name": "Александр",
+          "last_name": "Зубрицкий",
+          "middle_name": "Анатольевич"
+        },
+        "description": "Ремонтировали трубы,  не положили асфальт.  Ямы,  грязь",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54607773,
+          52.78842545
+        ]
+      },
+      "properties": {
+        "id": "202213",
+        "href": "/problem/202213",
+        "address": "ул. Ленинского Комсомола 11, Солигорск 223710, Беларусь",
+        "date_create": "17 сентября 2018 7:52",
+        "date_planned": "27.09.2018",
+        "crm_date_planned": "2018-09-27",
+        "crm_create_at": "2018-09-17",
+        "organisation_id": "312",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/473662.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Провал на дороге, провал на пешеходной дорожке",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5449295,
+          52.79115677
+        ]
+      },
+      "properties": {
+        "id": "202021",
+        "href": "/problem/202021",
+        "address": "ул. Л. Комсомола, 30",
+        "date_create": "16 сентября 2018 16:14",
+        "date_planned": "31.12.2019",
+        "crm_date_planned": "2019-12-31",
+        "crm_create_at": "2018-09-16",
+        "organisation_id": "299",
+        "status": "7",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/473400.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "369",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Повреждена стена у входа в подъезд 3, штукатурка окраска",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54548454,
+          52.79046631
+        ]
+      },
+      "properties": {
+        "id": "202020",
+        "href": "/problem/202020",
+        "address": "ул. Ленинского Комсомола 26, Солигорск 223710, Беларусь",
+        "date_create": "16 сентября 2018 16:11",
+        "date_planned": "27.09.2018",
+        "crm_date_planned": "2018-09-27",
+        "crm_create_at": "2018-09-16",
+        "organisation_id": "299",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/473399.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "30",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Сгнившая лавочка у подъезда 4",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5474205,
+          52.78833008
+        ]
+      },
+      "properties": {
+        "id": "202019",
+        "href": "/problem/202019",
+        "address": "ул. Л. Комсомола, 12",
+        "date_create": "16 сентября 2018 16:04",
+        "date_planned": "27.09.2018",
+        "crm_date_planned": "2018-09-27",
+        "crm_create_at": "2018-09-16",
+        "organisation_id": "298",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/473398.jpg"
+          ],
+          "after": [
+            "/upload/image/474830.jpg"
+          ]
+        },
+        "category": {
+          "id": "45",
+          "parent_id": "7",
+          "icon": "7"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Требуется вывоз крупногабаритного мусора",
+        "answers": [
+          {
+            "author": "КЗУП \"Экокомплекс\" г. Солигорск",
+            "text": "Вывезено.",
+            "date": "18 сентября 13:34",
+            "photos": [
+              "/upload/image/474703.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54727745,
+          52.78814316
+        ]
+      },
+      "properties": {
+        "id": "202018",
+        "href": "/problem/202018",
+        "address": "ул. Л. Комсомола, 12",
+        "date_create": "16 сентября 2018 16:03",
+        "date_planned": "27.09.2018",
+        "crm_date_planned": "2018-09-27",
+        "crm_create_at": "2018-09-16",
+        "organisation_id": "299",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/473397.jpg"
+          ],
+          "after": [
+            "/upload/image/478929.jpg"
+          ]
+        },
+        "category": {
+          "id": "63",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Нет плафона освещения и лампы на входе в подъезд 1",
+        "answers": [
+          {
+            "author": "ЖЭС -1 г. Солигорск",
+            "text": "заменили светильник",
+            "date": "24 сентября 12:18",
+            "photos": [
+              "/upload/image/478680.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5490551,
+          52.78728485
+        ]
+      },
+      "properties": {
+        "id": "202017",
+        "href": "/problem/202017",
+        "address": "ул. Л. Комсомола, 4",
+        "date_create": "16 сентября 2018 15:59",
+        "date_planned": "27.09.2018",
+        "crm_date_planned": "2018-09-27",
+        "crm_create_at": "2018-09-16",
+        "organisation_id": "299",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/473396.jpg"
+          ],
+          "after": [
+            "/upload/image/480715.jpg"
+          ]
+        },
+        "category": {
+          "id": "40",
+          "parent_id": "7",
+          "icon": "7"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Не вывезены дрова, после спила дерева",
+        "answers": [
+          {
+            "author": "ЖЭС -1 г. Солигорск",
+            "text": "работниками Коммунального предприятия дрова убраны",
+            "date": "26 сентября 15:14",
+            "photos": [
+              "/upload/image/480650.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54906082,
+          52.78694916
+        ]
+      },
+      "properties": {
+        "id": "202016",
+        "href": "/problem/202016",
+        "address": "улица Козлова, 10",
+        "date_create": "16 сентября 2018 15:57",
+        "date_planned": "27.09.2018",
+        "crm_date_planned": "2018-09-27",
+        "crm_create_at": "2018-09-16",
+        "organisation_id": "299",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/473395.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "25",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Брошенный автомобиль, открыта кабина",
+        "answers": [
+          {
+            "author": "ЖЭС -1 г. Солигорск",
+            "text": "автомобиль не брошенный . 20.09.2018года  автомобиля на  гостевой стоянке нет.",
+            "date": "20 сентября 10:15"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54903793,
+          52.78697586
+        ]
+      },
+      "properties": {
+        "id": "202015",
+        "href": "/problem/202015",
+        "address": "улица Козлова, 10",
+        "date_create": "16 сентября 2018 15:55",
+        "date_planned": "31.12.2019",
+        "crm_date_planned": "2019-12-31",
+        "crm_create_at": "2018-09-16",
+        "organisation_id": "299",
+        "status": "7",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/473394.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "99",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Повреждено, разбито крыльцо на входе в подъезд 1",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54903412,
+          52.78694534
+        ]
+      },
+      "properties": {
+        "id": "202014",
+        "href": "/problem/202014",
+        "address": "улица Козлова, 10",
+        "date_create": "16 сентября 2018 15:54",
+        "date_planned": "27.09.2018",
+        "crm_date_planned": "2018-09-27",
+        "crm_create_at": "2018-09-16",
+        "organisation_id": "299",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/473393.jpg"
+          ],
+          "after": [
+            "/upload/image/476424.jpg"
+          ]
+        },
+        "category": {
+          "id": "63",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Нет плафона освещения у подъезда 1",
+        "answers": [
+          {
+            "author": "ЖЭС -1 г. Солигорск",
+            "text": "установили стекло и укрепили",
+            "date": "20 сентября 10:09",
+            "photos": [
+              "/upload/image/476379.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54906464,
+          52.78696823
+        ]
+      },
+      "properties": {
+        "id": "202001",
+        "href": "/problem/202001",
+        "address": "улица Козлова, 10",
+        "date_create": "16 сентября 2018 15:52",
+        "date_planned": "09.10.2018",
+        "crm_date_planned": "2018-10-09",
+        "crm_create_at": "2018-09-16",
+        "organisation_id": "299",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/473369.jpg"
+          ],
+          "after": [
+            "/upload/image/486355.jpg"
+          ]
+        },
+        "category": {
+          "id": "30",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Сгнившее сиденье на лавочке у подъезда 1",
+        "answers": [
+          {
+            "author": "ЖЭС -1 г. Солигорск",
+            "text": "заменили брус, окрасили скамейку",
+            "date": "4 октября 14:46",
+            "photos": [
+              "/upload/image/486293.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5488224,
+          52.78696823
+        ]
+      },
+      "properties": {
+        "id": "202000",
+        "href": "/problem/202000",
+        "address": "ул. Козлова 10, Солигорск 223710, Беларусь",
+        "date_create": "16 сентября 2018 15:51",
+        "date_planned": "27.09.2018",
+        "crm_date_planned": "2018-09-27",
+        "crm_create_at": "2018-09-16",
+        "organisation_id": "299",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/473368.jpg"
+          ],
+          "after": [
+            "/upload/image/478928.jpg"
+          ]
+        },
+        "category": {
+          "id": "63",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Нет плафона освещения у подъезда 2",
+        "answers": [
+          {
+            "author": "ЖЭС -1 г. Солигорск",
+            "text": "установили светильник",
+            "date": "24 сентября 12:20",
+            "photos": [
+              "/upload/image/478683.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54883575,
+          52.78688049
+        ]
+      },
+      "properties": {
+        "id": "201999",
+        "href": "/problem/201999",
+        "address": "ул. Козлова 10, Солигорск 223710, Беларусь",
+        "date_create": "16 сентября 2018 15:49",
+        "date_planned": "27.09.2018",
+        "crm_date_planned": "2018-09-27",
+        "crm_create_at": "2018-09-16",
+        "organisation_id": "299",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/473367.jpg"
+          ],
+          "after": [
+            "/upload/image/476423.jpg"
+          ]
+        },
+        "category": {
+          "id": "63",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Нет плафона и лампы освещения у подъезда 3",
+        "answers": [
+          {
+            "author": "ЖЭС -1 г. Солигорск",
+            "text": "установили стекло и укрепили",
+            "date": "20 сентября 10:07",
+            "photos": [
+              "/upload/image/476378.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54494476,
+          52.78794479
+        ]
+      },
+      "properties": {
+        "id": "201998",
+        "href": "/problem/201998",
+        "address": "ул. Ленинского Комсомола 17, Солигорск 223710, Беларусь",
+        "date_create": "16 сентября 2018 15:28",
+        "date_planned": "27.09.2018",
+        "crm_date_planned": "2018-09-27",
+        "crm_create_at": "2018-09-16",
+        "organisation_id": "298",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/473366.jpg"
+          ],
+          "after": [
+            "/upload/image/474829.jpg"
+          ]
+        },
+        "category": {
+          "id": "34",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Повреждено крепление контейнерный площадки",
+        "answers": [
+          {
+            "author": "КЗУП \"Экокомплекс\" г. Солигорск",
+            "text": "Приведено в соответствие.",
+            "date": "18 сентября 13:32",
+            "photos": [
+              "/upload/image/474698.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54387665,
+          52.78951263
+        ]
+      },
+      "properties": {
+        "id": "201997",
+        "href": "/problem/201997",
+        "address": "ул. Ленинского Комсомола 23, Солигорск, Беларусь",
+        "date_create": "16 сентября 2018 15:24",
+        "date_planned": "27.09.2018",
+        "crm_date_planned": "2018-09-27",
+        "crm_create_at": "2018-09-16",
+        "organisation_id": "299",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/473365.jpg"
+          ],
+          "after": [
+            "/upload/image/483501.jpg"
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Провал на пешеходной дорожке",
+        "answers": [
+          {
+            "author": "ЖЭС -1 г. Солигорск",
+            "text": "тротуарная дорожка восстановлена",
+            "date": "28 сентября 14:06",
+            "photos": [
+              "/upload/image/482699.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.52151871,
+          52.7905159
+        ]
+      },
+      "properties": {
+        "id": "201890",
+        "href": "/problem/201890",
+        "address": "проспект Мира, 11",
+        "date_create": "15 сентября 2018 17:55",
+        "date_planned": "27.09.2018",
+        "crm_date_planned": "2018-09-27",
+        "crm_create_at": "2018-09-15",
+        "organisation_id": "302",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/473209.jpg",
+            "/upload/image/473210.jpg"
+          ],
+          "after": [
+            "/upload/image/491951.jpg"
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "70025",
+          "name": "Виктория",
+          "last_name": "Бородько",
+          "middle_name": "Олеговна"
+        },
+        "description": "После запроса на укрепление выключателя к стене (№203979),который,к слову, выполнен некачественно,не включается свет в подъезде (№1) ни в режиме включенного выключателя ни в режиме выключенного",
+        "answers": [
+          {
+            "author": "ЖЭС -4 г. Солигорск",
+            "text": "Освещено. Заменен на новый выключатель.",
+            "date": "11 октября 16:11",
+            "photos": [
+              "/upload/image/491513.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.52883339,
+          52.79076004
+        ]
+      },
+      "properties": {
+        "id": "201924",
+        "href": "/problem/201924",
+        "address": "ул. Пионерская , Солигорск, Беларусь",
+        "date_create": "15 сентября 2018 15:50",
+        "date_planned": "27.09.2018",
+        "crm_date_planned": "2018-09-27",
+        "crm_create_at": "2018-09-15",
+        "organisation_id": "309",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "66590",
+          "name": "Elena",
+          "last_name": "*****",
+          "middle_name": "*****"
+        },
+        "description": "По всей улице Пионерская не горит ни один фонарь уличного освещения.",
+        "answers": [
+          {
+            "author": "РТОЭ г. Солигорск",
+            "text": "освещение восстановлено. проведена замена ламп и ремонт светильников",
+            "date": "9 октября 16:12"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.52506065,
+          52.78997421
+        ]
+      },
+      "properties": {
+        "id": "201923",
+        "href": "/problem/201923",
+        "address": "улица Наруцкого, 7 Солигорск",
+        "date_create": "15 сентября 2018 15:48",
+        "date_planned": "27.09.2018",
+        "crm_date_planned": "2018-09-27",
+        "crm_create_at": "2018-09-15",
+        "organisation_id": "304",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/473258.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "372",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "66590",
+          "name": "Elena",
+          "last_name": "*****",
+          "middle_name": "*****"
+        },
+        "description": "Открыт люк.",
+        "answers": [
+          {
+            "author": "Коммунальное производство г. Солигорск",
+            "text": "По ул. Наруцкого в г. Солигорске дома № 7 не существует. Прошу указать более подробный адрес или номер телефона для связи.",
+            "date": "20 сентября 11:23"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54680824,
+          52.78627396
+        ]
+      },
+      "properties": {
+        "id": "201852",
+        "href": "/problem/201852",
+        "address": "улица Козлова, 12",
+        "date_create": "15 сентября 2018 10:53",
+        "date_planned": "27.09.2018",
+        "crm_date_planned": "2018-09-27",
+        "crm_create_at": "2018-09-15",
+        "organisation_id": "312",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/473160.jpg",
+            "/upload/image/473161.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "72448",
+          "name": "Дарья",
+          "last_name": "Моисеева",
+          "middle_name": ""
+        },
+        "description": "Яма на парковке уже две недели огорожена, но внимания на нее никто не обращает",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.55025291,
+          52.78513718
+        ]
+      },
+      "properties": {
+        "id": "201480",
+        "href": "/problem/201480",
+        "address": "улица Козлова, 17А",
+        "date_create": "13 сентября 2018 21:03",
+        "date_planned": "26.09.2018",
+        "crm_date_planned": "2018-09-26",
+        "crm_create_at": "2018-09-13",
+        "organisation_id": "300",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/472082.jpg",
+            "/upload/image/472083.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "153",
+          "parent_id": "14",
+          "icon": "14"
+        },
+        "user": {
+          "id": "72232",
+          "name": "Виталий",
+          "last_name": "Барончик",
+          "middle_name": ""
+        },
+        "description": "Весь фасад жилого дома покрыт паутиной. Пауки лезут в квартиры с 1го по 10й этажи. Самостоятельная ежедневная уборка и обработка средствами от пауков не дает результатов. Просим принять меры. Спасибо!",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54625702,
+          52.7906189
+        ]
+      },
+      "properties": {
+        "id": "201449",
+        "href": "/problem/201449",
+        "address": "улица Ленинского Комсомола, 28",
+        "date_create": "13 сентября 2018 17:20",
+        "date_planned": "26.09.2018",
+        "crm_date_planned": "2018-09-26",
+        "crm_create_at": "2018-09-13",
+        "organisation_id": "299",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "156",
+          "parent_id": "14",
+          "icon": "14"
+        },
+        "user": {
+          "id": "66049",
+          "name": "Александр",
+          "last_name": "Рябый",
+          "middle_name": "Иванович"
+        },
+        "description": "Проблема № 207490-В работе до 12.09.2018, № 206615 -В работе до 10.09.2018,№ 209189 -В работе до 17.09.2018,т.е. график на сентябрь будет отсутствовать до 17 сентября?",
+        "answers": [
+          {
+            "author": "ЖЭС -1 г. Солигорск",
+            "text": "Произведена влажная уборка 24.09.2018г.",
+            "date": "26 сентября 15:19"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.55025291,
+          52.78513718
+        ]
+      },
+      "properties": {
+        "id": "201352",
+        "href": "/problem/201352",
+        "address": "улица Козлова, 17А",
+        "date_create": "13 сентября 2018 10:40",
+        "date_planned": "26.09.2018",
+        "crm_date_planned": "2018-09-26",
+        "crm_create_at": "2018-09-13",
+        "organisation_id": "300",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "153",
+          "parent_id": "14",
+          "icon": "14"
+        },
+        "user": {
+          "id": "68029",
+          "name": "Алексей",
+          "last_name": "Кожанов",
+          "middle_name": ""
+        },
+        "description": "Массовое скопление пауков на фасаде дома. Весь дом в паутине и пауках. Даже при наличии москитных сеток невозможно открыть окна.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53044128,
+          52.79130936
+        ]
+      },
+      "properties": {
+        "id": "201289",
+        "href": "/problem/201289",
+        "address": "улица Строителей, 51",
+        "date_create": "13 сентября 2018 9:47",
+        "date_planned": "26.09.2018",
+        "crm_date_planned": "2018-09-26",
+        "crm_create_at": "2018-09-13",
+        "organisation_id": "298",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/471362.jpg",
+            "/upload/image/471363.jpg"
+          ],
+          "after": [
+            "/upload/image/474822.jpg"
+          ]
+        },
+        "category": {
+          "id": "34",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "70025",
+          "name": "Виктория",
+          "last_name": "Бородько",
+          "middle_name": "Олеговна"
+        },
+        "description": "Нарушение расположения контейнеров для сбора мусора",
+        "answers": [
+          {
+            "author": "КЗУП \"Экокомплекс\" г. Солигорск",
+            "text": "Устранено.",
+            "date": "18 сентября 13:35",
+            "photos": [
+              "/upload/image/474704.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.50423431,
+          52.78464127
+        ]
+      },
+      "properties": {
+        "id": "201161",
+        "href": "/problem/201161",
+        "address": "улица Константина Заслонова, 97",
+        "date_create": "12 сентября 2018 19:57",
+        "date_planned": "31.12.2019",
+        "crm_date_planned": "2019-12-31",
+        "crm_create_at": "2018-09-12",
+        "organisation_id": "301",
+        "status": "7",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/471156.png",
+            "/upload/image/471157.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "64118",
+          "name": "Андрей",
+          "last_name": "Крукович",
+          "middle_name": "Михайлович"
+        },
+        "description": "Проблема # 174952 не решена!!! Дорожку положили перпендикулярно этой, а то что на фото так и осталось. Первое что было, второе как теперь есть",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54367638,
+          52.78946304
+        ]
+      },
+      "properties": {
+        "id": "201193",
+        "href": "/problem/201193",
+        "address": "улица Л.Комсомола, 23",
+        "date_create": "12 сентября 2018 17:32",
+        "date_planned": "24.09.2018",
+        "crm_date_planned": "2018-09-24",
+        "crm_create_at": "2018-09-12",
+        "organisation_id": "299",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/471199.jpg"
+          ],
+          "after": [
+            "/upload/image/480613.jpg"
+          ]
+        },
+        "category": {
+          "id": "97",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Поврежден, смещен водосток",
+        "answers": [
+          {
+            "author": "ЖЭС -1 г. Солигорск",
+            "text": "укреплен  водосток",
+            "date": "26 сентября 13:17",
+            "photos": [
+              "/upload/image/480558.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.50502396,
+          52.78488159
+        ]
+      },
+      "properties": {
+        "id": "200963",
+        "href": "/problem/200963",
+        "address": "рядом с улица Константина Заслонова, 97",
+        "date_create": "12 сентября 2018 9:12",
+        "date_planned": "24.09.2018",
+        "crm_date_planned": "2018-09-24",
+        "crm_create_at": "2018-09-12",
+        "organisation_id": "301",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "296",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "64118",
+          "name": "Андрей",
+          "last_name": "Крукович",
+          "middle_name": "Михайлович"
+        },
+        "description": "После ремонта трубопровода сделали дорожку - хорошо, но ПОЧЕМУ не сделали ОСВЕЩЕНИЕ. Там темень и нет никакого фонаря, Кто проект разрабатывал, Вы там на месте были?",
+        "answers": [
+          {
+            "author": "ЖЭС -5 г. Солигорск",
+            "text": "Проектом предусмотрено восстановление благоустройства  нарушенного в процессе производства работ.  Устройство  освещения проектно-сметной документацией не предусмотрено.",
+            "date": "28 сентября 15:03"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5031929,
+          52.78522873
+        ]
+      },
+      "properties": {
+        "id": "200860",
+        "href": "/problem/200860",
+        "address": "рядом с Молодёжная улица, 21",
+        "date_create": "11 сентября 2018 16:35",
+        "date_planned": "31.12.2018",
+        "crm_date_planned": "2018-12-31",
+        "crm_create_at": "2018-09-11",
+        "organisation_id": "301",
+        "status": "7",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "29",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "64118",
+          "name": "Андрей",
+          "last_name": "Крукович",
+          "middle_name": "Михайлович"
+        },
+        "description": "В данном районе отсутствует нормальная детская площадка. Старые демонтированы, новые поломаны. Необходима установка площадки.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.50423431,
+          52.78464127
+        ]
+      },
+      "properties": {
+        "id": "200778",
+        "href": "/problem/200778",
+        "address": "улица Константина Заслонова, 97",
+        "date_create": "11 сентября 2018 11:47",
+        "date_planned": "12.10.2018",
+        "crm_date_planned": "2018-10-12",
+        "crm_create_at": "2018-09-11",
+        "organisation_id": "309",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "64118",
+          "name": "Андрей",
+          "last_name": "Крукович",
+          "middle_name": "Михайлович"
+        },
+        "description": "Не горит освещение на стоянке во дворе дома.",
+        "answers": [
+          {
+            "author": "РТОЭ г. Солигорск",
+            "text": "Восстановлена кабельная линия на опору освещения стоянки",
+            "date": "15 октября 17:48"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.50423431,
+          52.78464127
+        ]
+      },
+      "properties": {
+        "id": "200776",
+        "href": "/problem/200776",
+        "address": "улица Константина Заслонова, 97",
+        "date_create": "11 сентября 2018 11:45",
+        "date_planned": "21.09.2018",
+        "crm_date_planned": "2018-09-21",
+        "crm_create_at": "2018-09-11",
+        "organisation_id": "301",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "63",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "64118",
+          "name": "Андрей",
+          "last_name": "Крукович",
+          "middle_name": "Михайлович"
+        },
+        "description": "Не горит освещение над входной дверью в подъезд и тамбуре.",
+        "answers": [
+          {
+            "author": "ЖЭС -5 г. Солигорск",
+            "text": "Заменил эл.лампочку над вх.группой, в тамбуре.",
+            "date": "12 сентября 14:36"
+          },
+          {
+            "author": "Андрей Крукович",
+            "text": "Над входной дверью лампочка не горела, просто недокручена была , пришлось самому докрутить. В тамбуре всё хорошо.",
+            "date": "12 сентября 23:19",
+            "rating": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.49892807,
+          53.8463974
+        ]
+      },
+      "properties": {
+        "id": "200857",
+        "href": "/problem/200857",
+        "address": "Солигорск,Комсомола 86, 1 подъезд",
+        "date_create": "11 сентября 2018 11:43",
+        "date_planned": "21.09.2018",
+        "crm_date_planned": "2018-09-21",
+        "crm_create_at": "2018-09-11",
+        "organisation_id": "299",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/470051.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "151",
+          "parent_id": "14",
+          "icon": "14"
+        },
+        "user": {
+          "id": "64677",
+          "name": "Виктория",
+          "last_name": "Лопатик",
+          "middle_name": "Александровна"
+        },
+        "description": "С крыльца помёт Комсомола 86, подьезд 1 не убирается.Помет сверху сыплется на ступеньки и поручень. Руки пожилых людей от этого в говне! Все тащится в подьезд. Просьба убрать, иначе вызовем санстанцию",
+        "answers": [
+          {
+            "author": "ЖЭС -1 г. Солигорск",
+            "text": "Произвели уборку ступенек и поручней входа в подъезд",
+            "date": "12 сентября 15:41"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53752136,
+          52.78800964
+        ]
+      },
+      "properties": {
+        "id": "200598",
+        "href": "/problem/200598",
+        "address": "рядом с улица Ленина, 9А",
+        "date_create": "10 сентября 2018 21:52",
+        "date_planned": "21.09.2018",
+        "crm_date_planned": "2018-09-21",
+        "crm_create_at": "2018-09-10",
+        "organisation_id": "304",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/469413.jpg"
+          ],
+          "after": [
+            "/upload/image/476801.jpg"
+          ]
+        },
+        "category": {
+          "id": "27",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "72206",
+          "name": "Дмитрий",
+          "last_name": "Бань",
+          "middle_name": ""
+        },
+        "description": "После подрезки кроны некоторые ветки стали засыхать, обламываться, падать на стоящие под ними АВТО и царапать их. Особенно на обведенном дереве. Прошу удалить сухие ветки или дерево целиком",
+        "answers": [
+          {
+            "author": "Коммунальное производство г. Солигорск",
+            "text": "По ул. Ленина, 9А на указанном дереве  удалены сухие ветки.",
+            "date": "20 сентября 14:05",
+            "photos": [
+              "/upload/image/476707.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.55025291,
+          52.78513718
+        ]
+      },
+      "properties": {
+        "id": "200484",
+        "href": "/problem/200484",
+        "address": "улица Козлова, 17А",
+        "date_create": "10 сентября 2018 14:13",
+        "date_planned": "20.09.2018",
+        "crm_date_planned": "2018-09-20",
+        "crm_create_at": "2018-09-10",
+        "organisation_id": "309",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/468972.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "72232",
+          "name": "Виталий",
+          "last_name": "Барончик",
+          "middle_name": ""
+        },
+        "description": "Добрый день!\rПрошу восстановить освещение детской площадки по ул. Козлова д.17А. Фонарный столб установленный между домами ул. Козлова д.17А и ул. Набережная д.7.\rЗаранее благодарен!",
+        "answers": [
+          {
+            "author": "РТОЭ г. Солигорск",
+            "text": "заменили фонарь уличного освещения.",
+            "date": "12 сентября 13:32"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.55225372,
+          52.7856102
+        ]
+      },
+      "properties": {
+        "id": "200502",
+        "href": "/problem/200502",
+        "address": "Узбярэжная вуліца 3, Салігорск, Беларусь",
+        "date_create": "10 сентября 2018 13:20",
+        "date_planned": "20.09.2018",
+        "crm_date_planned": "2018-09-20",
+        "crm_create_at": "2018-09-10",
+        "organisation_id": "300",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/468992.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "40",
+          "parent_id": "7",
+          "icon": "7"
+        },
+        "user": {
+          "id": "18867",
+          "name": "Анна",
+          "last_name": "Кирильченко",
+          "middle_name": ""
+        },
+        "description": "На углу детского сада N17 (ближе к дому ул. Козлова 17) в конце августа были выкопаны 2 ямы. Ямы засыпаны, но осталось много песка на пешеходных дорожках. Просьба очистить дорожки. Спасибо!",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.55025291,
+          52.78513718
+        ]
+      },
+      "properties": {
+        "id": "200465",
+        "href": "/problem/200465",
+        "address": "Солигорск,  улица Козлова,  17 А",
+        "date_create": "10 сентября 2018 12:41",
+        "date_planned": "20.09.2018",
+        "crm_date_planned": "2018-09-20",
+        "crm_create_at": "2018-09-10",
+        "organisation_id": "300",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/468936.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "40",
+          "parent_id": "7",
+          "icon": "7"
+        },
+        "user": {
+          "id": "18867",
+          "name": "Анна",
+          "last_name": "Кирильченко",
+          "middle_name": ""
+        },
+        "description": "На детской площадке дома по ул. Козлова 17А много песка на тротуарной дорожке. Просьба очистить дорожку и песок, который вокруг песочницы, высыпать в песочницу. Спасибо!",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53921509,
+          52.78034973
+        ]
+      },
+      "properties": {
+        "id": "200462",
+        "href": "/problem/200462",
+        "address": "Солигорск,  Парковый проезд,  5",
+        "date_create": "10 сентября 2018 12:23",
+        "date_planned": "20.09.2018",
+        "crm_date_planned": "2018-09-20",
+        "crm_create_at": "2018-09-10",
+        "organisation_id": "309",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "72221",
+          "name": "Андрей",
+          "last_name": "Сечко",
+          "middle_name": "Александрович"
+        },
+        "description": "Не горит освещение (фонари) во дворе дома.",
+        "answers": [
+          {
+            "author": "РТОЭ г. Солигорск",
+            "text": "осветили. заменили три лампы в фонарях уличного освещения",
+            "date": "12 сентября 13:31"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53696251,
+          52.77827072
+        ]
+      },
+      "properties": {
+        "id": "200422",
+        "href": "/problem/200422",
+        "address": "парковый проезд 5",
+        "date_create": "10 сентября 2018 12:22",
+        "date_planned": "20.09.2018",
+        "crm_date_planned": "2018-09-20",
+        "crm_create_at": "2018-09-10",
+        "organisation_id": "300",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "63",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "72221",
+          "name": "Андрей",
+          "last_name": "Сечко",
+          "middle_name": "Александрович"
+        },
+        "description": "Не горит освещение на входе в подъезды дома.",
+        "answers": [
+          {
+            "author": "ЖЭС -3 г. Солигорск",
+            "text": "Осветили входные группы.",
+            "date": "2 октября 10:41"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53921509,
+          52.78034973
+        ]
+      },
+      "properties": {
+        "id": "200343",
+        "href": "/problem/200343",
+        "address": "Парковый проезд, 5",
+        "date_create": "10 сентября 2018 12:01",
+        "date_planned": "20.09.2018",
+        "crm_date_planned": "2018-09-20",
+        "crm_create_at": "2018-09-10",
+        "organisation_id": "371",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "109",
+          "parent_id": "13",
+          "icon": "13"
+        },
+        "user": {
+          "id": "72221",
+          "name": "Андрей",
+          "last_name": "Сечко",
+          "middle_name": "Александрович"
+        },
+        "description": "Сильнейший износ напольного покрытия (линолеума) в лифтах дома.",
+        "answers": [
+          {
+            "author": "ОАО \"Лифтсервис\" г. Солигорск",
+            "text": "Напольное покрытие лифтовой кабины по адресу Парковый проезд 5 подъезд 2 - заменено. В подъезде 1,3 напольное покрытие в удовлетворительном состоянии.",
+            "date": "19 сентября 14:39"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54457664,
+          52.77725601
+        ]
+      },
+      "properties": {
+        "id": "200035",
+        "href": "/problem/200035",
+        "address": "рядом с Набережная улица, 20",
+        "date_create": "9 сентября 2018 0:59",
+        "date_planned": "20.09.2018",
+        "crm_date_planned": "2018-09-20",
+        "crm_create_at": "2018-09-09",
+        "organisation_id": "304",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/468232.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "280",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "64401",
+          "name": "Виталий",
+          "last_name": "Пасюк",
+          "middle_name": "Васильевич"
+        },
+        "description": "Неухоженный, неиспользуемый авто со спущенным колесом. Гос. номер 26-58 IH-5 (Ниссан Премьера)",
+        "answers": [
+          {
+            "author": "Коммунальное производство г. Солигорск",
+            "text": "Направлены запросы в соответствующие организации, получив ответы на которые собственник автомобиля будет уведомлен о необходимости  перемещения транспортного средства в течение месяца.",
+            "date": "19 сентября 10:26"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53803253,
+          52.77589417
+        ]
+      },
+      "properties": {
+        "id": "200028",
+        "href": "/problem/200028",
+        "address": "Набережная улица, 25",
+        "date_create": "9 сентября 2018 0:51",
+        "date_planned": "20.09.2018",
+        "crm_date_planned": "2018-09-20",
+        "crm_create_at": "2018-09-09",
+        "organisation_id": "300",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "63",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "64401",
+          "name": "Виталий",
+          "last_name": "Пасюк",
+          "middle_name": "Васильевич"
+        },
+        "description": "Нет освещения на входе в третий подъезд. Сроки предыдущей записи вышли, ничего не поменялось, проблема осталась.",
+        "answers": [
+          {
+            "author": "ЖЭС -3 г. Солигорск",
+            "text": "12.09.2018 г. выполнены работы по установке светильника ПСХ.",
+            "date": "13 сентября 17:09"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53354073,
+          52.77577209
+        ]
+      },
+      "properties": {
+        "id": "200025",
+        "href": "/problem/200025",
+        "address": "рядом с Набережная улица, 28",
+        "date_create": "9 сентября 2018 0:48",
+        "date_planned": "25.09.2018",
+        "crm_date_planned": "2018-09-25",
+        "crm_create_at": "2018-09-09",
+        "organisation_id": "303",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "291",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "64401",
+          "name": "Виталий",
+          "last_name": "Пасюк",
+          "middle_name": "Васильевич"
+        },
+        "description": "Провал тротуарной плитки возле люка на пешеходной-велосипедной дорожке со стороны леса, напротив стадиона Гимназии 3.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54298019,
+          52.78049088
+        ]
+      },
+      "properties": {
+        "id": "200157",
+        "href": "/problem/200157",
+        "address": "Солигорск,  улица Ленина,  36",
+        "date_create": "8 сентября 2018 16:28",
+        "date_planned": "20.09.2018",
+        "crm_date_planned": "2018-09-20",
+        "crm_create_at": "2018-09-08",
+        "organisation_id": "312",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/468361.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "72158",
+          "name": "Елена",
+          "last_name": "Баханович",
+          "middle_name": "Анатольевна"
+        },
+        "description": "Ямы, выбоины и шатающаяся плита на узкой пешеходной дорожке в арке по адресу ул. Ленина, д.36.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.52467346,
+          52.78792953
+        ]
+      },
+      "properties": {
+        "id": "199669",
+        "href": "/problem/199669",
+        "address": "ул. Железнодорожная 52, Солигорск, Беларусь",
+        "date_create": "7 сентября 2018 7:59",
+        "date_planned": "20.09.2018",
+        "crm_date_planned": "2018-09-20",
+        "crm_create_at": "2018-09-07",
+        "organisation_id": "312",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/467346.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "325",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Повреждены и отсутствуют бордюрные камни вдоль дороги",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.52533913,
+          52.78820801
+        ]
+      },
+      "properties": {
+        "id": "199667",
+        "href": "/problem/199667",
+        "address": "ул. Железнодорожная 52, Солигорск, Беларусь",
+        "date_create": "7 сентября 2018 7:55",
+        "date_planned": "19.09.2018",
+        "crm_date_planned": "2018-09-19",
+        "crm_create_at": "2018-09-07",
+        "organisation_id": "302",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/467344.jpg"
+          ],
+          "after": [
+            "/upload/image/472102.jpg"
+          ]
+        },
+        "category": {
+          "id": "63",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Нет плафона и лампы освещения перед подъездом",
+        "answers": [
+          {
+            "author": "ЖЭС -4 г. Солигорск",
+            "text": "Установили светильник, выполнили освещение",
+            "date": "13 сентября 16:14",
+            "photos": [
+              "/upload/image/471884.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.52580833,
+          52.78881073
+        ]
+      },
+      "properties": {
+        "id": "199666",
+        "href": "/problem/199666",
+        "address": "ул. Железнодорожная 50, Солигорск, Беларусь",
+        "date_create": "7 сентября 2018 7:50",
+        "date_planned": "19.09.2018",
+        "crm_date_planned": "2018-09-19",
+        "crm_create_at": "2018-09-07",
+        "organisation_id": "302",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/467343.jpg"
+          ],
+          "after": [
+            "/upload/image/472101.jpg"
+          ]
+        },
+        "category": {
+          "id": "63",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Нет плафона и лампы освещения перед подъездом 1",
+        "answers": [
+          {
+            "author": "ЖЭС -4 г. Солигорск",
+            "text": "Установили светильник, выполнили освещение",
+            "date": "13 сентября 16:13",
+            "photos": [
+              "/upload/image/471883.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.52583313,
+          52.78875732
+        ]
+      },
+      "properties": {
+        "id": "199665",
+        "href": "/problem/199665",
+        "address": "ул. Железнодорожная 50, Солигорск, Беларусь",
+        "date_create": "7 сентября 2018 7:48",
+        "date_planned": "31.12.2019",
+        "crm_date_planned": "2019-12-31",
+        "crm_create_at": "2018-09-07",
+        "organisation_id": "302",
+        "status": "7",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/467342.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "369",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Обшарпана стенка входа в подъезд, требуется покраска",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.52318001,
+          52.78960419
+        ]
+      },
+      "properties": {
+        "id": "199524",
+        "href": "/problem/199524",
+        "address": "проспект Мира, 11А",
+        "date_create": "6 сентября 2018 20:41",
+        "date_planned": "19.09.2018",
+        "crm_date_planned": "2018-09-19",
+        "crm_create_at": "2018-09-06",
+        "organisation_id": "302",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+            "/upload/image/472103.jpg"
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "72075",
+          "name": "Раиса",
+          "last_name": "Томило",
+          "middle_name": "Ивановна"
+        },
+        "description": "Во втором подъезде на восьмом этаже нет освещения. Нет даже патрона.",
+        "answers": [
+          {
+            "author": "ЖЭС -4 г. Солигорск",
+            "text": "Установили светодиодный светильник выполнили освещение.",
+            "date": "13 сентября 16:24",
+            "photos": [
+              "/upload/image/471887.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.50658417,
+          52.78533554
+        ]
+      },
+      "properties": {
+        "id": "199427",
+        "href": "/problem/199427",
+        "address": "бул. Шахтеров 14, Солигорск, Беларусь",
+        "date_create": "6 сентября 2018 14:25",
+        "date_planned": "18.09.2018",
+        "crm_date_planned": "2018-09-18",
+        "crm_create_at": "2018-09-06",
+        "organisation_id": "301",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "71318",
+          "name": "Юлия",
+          "last_name": "Лазарева",
+          "middle_name": "Михайловна"
+        },
+        "description": "В доме бул. Шахтеров 14 на 3-ем этаже уже как пару месяцев на площадке напротив лифта был сорван светодиодный светильник. Просьба установить новый, т.к. темно на площадке.",
+        "answers": [
+          {
+            "author": "ЖЭС -5 г. Солигорск",
+            "text": "12.09.2018 года установлен светодиодный светильник.",
+            "date": "12 сентября 14:34"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.50894356,
+          52.7877388
+        ]
+      },
+      "properties": {
+        "id": "199425",
+        "href": "/problem/199425",
+        "address": "Солигорск,  бульвар Шахтёров,  20",
+        "date_create": "6 сентября 2018 14:15",
+        "date_planned": "30.06.2019",
+        "crm_date_planned": "2019-06-30",
+        "crm_create_at": "2018-09-06",
+        "organisation_id": "301",
+        "status": "7",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/466810.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "29",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "71318",
+          "name": "Юлия",
+          "last_name": "Лазарева",
+          "middle_name": "Михайловна"
+        },
+        "description": "Возле дома бул. Шахтеров 20 и забора 2-ой гимназии небольшая деревянная детская горка. За почти 3 года эксплуатации ни разу не красилась. Просьба покрасить и обработать деревянные элементы горки.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.50746536,
+          52.78688812
+        ]
+      },
+      "properties": {
+        "id": "199240",
+        "href": "/problem/199240",
+        "address": "рядом с улица Богомолова, 22А",
+        "date_create": "6 сентября 2018 7:15",
+        "date_planned": "18.09.2018",
+        "crm_date_planned": "2018-09-18",
+        "crm_create_at": "2018-09-06",
+        "organisation_id": "312",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/466248.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "68573",
+          "name": "Андрей",
+          "last_name": "Ширай",
+          "middle_name": "Ионович"
+        },
+        "description": "На стоянке перед гимназией яма. По размерам не большая, но видно что размыло внутри очень много. Чувствуется как \"гуляет\" асфальт. Машина если наедет колесом, то однозначно будет беда! Спасибо!",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53372574,
+          52.7756691
+        ]
+      },
+      "properties": {
+        "id": "199246",
+        "href": "/problem/199246",
+        "address": "ул. Лесная 7, Солигорск, Беларусь",
+        "date_create": "5 сентября 2018 19:38",
+        "date_planned": "18.09.2018",
+        "crm_date_planned": "2018-09-18",
+        "crm_create_at": "2018-09-05",
+        "organisation_id": "312",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "283",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "66561",
+          "name": "Константин",
+          "last_name": "Игнашевич",
+          "middle_name": "Николаевич"
+        },
+        "description": "Провалена плитка.0.5м на 0.5м",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54748726,
+          52.78690338
+        ]
+      },
+      "properties": {
+        "id": "199176",
+        "href": "/problem/199176",
+        "address": "улица Ленинского Комсомола, 1",
+        "date_create": "5 сентября 2018 18:05",
+        "date_planned": "17.09.2018",
+        "crm_date_planned": "2018-09-17",
+        "crm_create_at": "2018-09-05",
+        "organisation_id": "299",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "151",
+          "parent_id": "14",
+          "icon": "14"
+        },
+        "user": {
+          "id": "66049",
+          "name": "Александр",
+          "last_name": "Рябый",
+          "middle_name": "Иванович"
+        },
+        "description": "График по санитарному содержанию мест общего пользования на сентябрь месяц 2018 не опубликован до сих пор.\rhttp://solgkh.by/dlya-grazhdan/poleznaya-informatsiya",
+        "answers": [
+          {
+            "author": "ЖЭС -1 г. Солигорск",
+            "text": "произвели влажную уборку подъездов 24.09.2018 года согласно графика",
+            "date": "24 сентября 15:22"
+          },
+          {
+            "author": "Александр Рябый",
+            "text": "Уборка производится не по графику,а график на сентябрь еще не опубликован на сайте solgkh.by,почему",
+            "date": "24 сентября 19:16",
+            "rating": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54625702,
+          52.7906189
+        ]
+      },
+      "properties": {
+        "id": "199175",
+        "href": "/problem/199175",
+        "address": "улица Ленинского Комсомола, 28",
+        "date_create": "5 сентября 2018 17:57",
+        "date_planned": "17.09.2018",
+        "crm_date_planned": "2018-09-17",
+        "crm_create_at": "2018-09-05",
+        "organisation_id": "299",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "151",
+          "parent_id": "14",
+          "icon": "14"
+        },
+        "user": {
+          "id": "66049",
+          "name": "Александр",
+          "last_name": "Рябый",
+          "middle_name": "Иванович"
+        },
+        "description": "Проблема № 207477 не решена! Второй подъезд не убран. 24.08 и 31.08 уборки влажная и сухая соответственно не проводились, возможно и ранее тоже. Диспетчер ЖЭС-1 был оповещен  об этом около 14:00 31.08",
+        "answers": [
+          {
+            "author": "ЖЭС -1 г. Солигорск",
+            "text": "Произведена влажная уборка 24.09.2018г.",
+            "date": "24 сентября 14:49"
+          },
+          {
+            "author": "Александр Рябый",
+            "text": "Произведенная , так называемая влажная уборка от 24.09.2018 ,к сожалению, оставляет желать лучшего",
+            "date": "24 сентября 19:18",
+            "rating": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53812408,
+          52.77993774
+        ]
+      },
+      "properties": {
+        "id": "199153",
+        "href": "/problem/199153",
+        "address": "рядом с Парковый проезд, 3",
+        "date_create": "5 сентября 2018 16:18",
+        "date_planned": "17.09.2018",
+        "crm_date_planned": "2018-09-17",
+        "crm_create_at": "2018-09-05",
+        "organisation_id": "312",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "71986",
+          "name": "Сергей",
+          "last_name": "Усович",
+          "middle_name": "Александрович"
+        },
+        "description": "Наличие больших ям на проезде к стоянке",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53993988,
+          52.77974319
+        ]
+      },
+      "properties": {
+        "id": "199152",
+        "href": "/problem/199152",
+        "address": "Парковая улица, 15",
+        "date_create": "5 сентября 2018 16:15",
+        "date_planned": "17.09.2018",
+        "crm_date_planned": "2018-09-17",
+        "crm_create_at": "2018-09-05",
+        "organisation_id": "312",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "71986",
+          "name": "Сергей",
+          "last_name": "Усович",
+          "middle_name": "Александрович"
+        },
+        "description": "Много ям во дворе",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.51169586,
+          52.78768539
+        ]
+      },
+      "properties": {
+        "id": "199151",
+        "href": "/problem/199151",
+        "address": "бульвар Шахтёров, 3",
+        "date_create": "5 сентября 2018 16:15",
+        "date_planned": "17.09.2018",
+        "crm_date_planned": "2018-09-17",
+        "crm_create_at": "2018-09-05",
+        "organisation_id": "309",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "71986",
+          "name": "Сергей",
+          "last_name": "Усович",
+          "middle_name": "Александрович"
+        },
+        "description": "Не светят фонари в тёмное время суток на стоянке, в частности не светит фонарь около поворота",
+        "answers": [
+          {
+            "author": "РТОЭ г. Солигорск",
+            "text": "освещение восстановлено 12 сентября",
+            "date": "12 сентября 16:47"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54130554,
+          52.79845428
+        ]
+      },
+      "properties": {
+        "id": "199108",
+        "href": "/problem/199108",
+        "address": "Северная улица, 1",
+        "date_create": "5 сентября 2018 13:36",
+        "date_planned": "17.09.2018",
+        "crm_date_planned": "2018-09-17",
+        "crm_create_at": "2018-09-05",
+        "organisation_id": "299",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "113",
+          "parent_id": "12",
+          "icon": "12"
+        },
+        "user": {
+          "id": "71980",
+          "name": "Александр",
+          "last_name": "Гамаев",
+          "middle_name": "Анатольевич"
+        },
+        "description": "скоро рухнут подпорки под плиту в подъезде номер три, не хотят обрезать липу возле окон тыльной стороны дома",
+        "answers": [
+          {
+            "author": "ЖЭС -1 г. Солигорск",
+            "text": "на обрезку липы требуется заявление от жильца на установленном бланке,которое будет передано в коммунальный отдел.",
+            "date": "13 сентября 13:02"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.50150871,
+          52.78899765
+        ]
+      },
+      "properties": {
+        "id": "198962",
+        "href": "/problem/198962",
+        "address": "ул. Молодёжная 10, Солигорск 223710, Беларусь",
+        "date_create": "4 сентября 2018 23:33",
+        "date_planned": "17.09.2018",
+        "crm_date_planned": "2018-09-17",
+        "crm_create_at": "2018-09-04",
+        "organisation_id": "309",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/465499.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "68456",
+          "name": "Людмила ",
+          "last_name": "Пыко ",
+          "middle_name": "Владимировна "
+        },
+        "description": "Не работает ни один из 2 фонарей на стоянке за домом Октябрьская103 (между Молодёжная 10 и 14): щамениои сегодня один,  но он 30 секунд горит,  потом гаснет на 5 минут",
+        "answers": [
+          {
+            "author": "РТОЭ г. Солигорск",
+            "text": "дворовое освещение восстановлено 12 сентября",
+            "date": "12 сентября 16:47"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.50152016,
+          52.78900146
+        ]
+      },
+      "properties": {
+        "id": "198961",
+        "href": "/problem/198961",
+        "address": "ул. Молодёжная 10, Солигорск 223710, Беларусь",
+        "date_create": "4 сентября 2018 23:29",
+        "date_planned": "17.09.2018",
+        "crm_date_planned": "2018-09-17",
+        "crm_create_at": "2018-09-04",
+        "organisation_id": "301",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/465498.jpg"
+          ],
+          "after": [
+            "/upload/image/469396.png"
+          ]
+        },
+        "category": {
+          "id": "63",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "68456",
+          "name": "Людмила ",
+          "last_name": "Пыко ",
+          "middle_name": "Владимировна "
+        },
+        "description": "Нет света над входом в 4 подъезд (не работает входная группа)",
+        "answers": [
+          {
+            "author": "ЖЭС -5 г. Солигорск",
+            "text": "Сделан свет на входом в 4 подъезд.",
+            "date": "10 сентября 15:56",
+            "photos": [
+              "/upload/image/469112.png"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.50169182,
+          52.78900146
+        ]
+      },
+      "properties": {
+        "id": "198960",
+        "href": "/problem/198960",
+        "address": "ул. Молодежная 10, Солигорск, Беларусь",
+        "date_create": "4 сентября 2018 23:28",
+        "date_planned": "17.09.2018",
+        "crm_date_planned": "2018-09-17",
+        "crm_create_at": "2018-09-04",
+        "organisation_id": "301",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/465497.jpg"
+          ],
+          "after": [
+            "/upload/image/469395.png"
+          ]
+        },
+        "category": {
+          "id": "63",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "68456",
+          "name": "Людмила ",
+          "last_name": "Пыко ",
+          "middle_name": "Владимировна "
+        },
+        "description": "Нет света над входом в 3 подъезд (не работает входная группа)",
+        "answers": [
+          {
+            "author": "ЖЭС -5 г. Солигорск",
+            "text": "Сделали свет при входе в 3 подъезд.",
+            "date": "10 сентября 15:55",
+            "photos": [
+              "/upload/image/469109.png"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5016613,
+          52.7889595
+        ]
+      },
+      "properties": {
+        "id": "198959",
+        "href": "/problem/198959",
+        "address": "ул. Молодежная 10, Солигорск, Беларусь",
+        "date_create": "4 сентября 2018 23:26",
+        "date_planned": "17.09.2018",
+        "crm_date_planned": "2018-09-17",
+        "crm_create_at": "2018-09-04",
+        "organisation_id": "301",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/465496.jpg"
+          ],
+          "after": [
+            "/upload/image/469393.png",
+            "/upload/image/469394.png"
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "68456",
+          "name": "Людмила ",
+          "last_name": "Пыко ",
+          "middle_name": "Владимировна "
+        },
+        "description": "Нет освещения в 4 подъезде в местах общего пользования вообще",
+        "answers": [
+          {
+            "author": "ЖЭС -5 г. Солигорск",
+            "text": "Сделан свет в 4 подъезде",
+            "date": "10 сентября 15:59",
+            "photos": [
+              "/upload/image/469113.png",
+              "/upload/image/469114.png"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54624557,
+          52.79009628
+        ]
+      },
+      "properties": {
+        "id": "198783",
+        "href": "/problem/198783",
+        "address": "улица Ленинского Комсомола, 24",
+        "date_create": "4 сентября 2018 17:51",
+        "date_planned": "17.09.2018",
+        "crm_date_planned": "2018-09-17",
+        "crm_create_at": "2018-09-04",
+        "organisation_id": "299",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/465237.jpg",
+            "/upload/image/465238.jpg",
+            "/upload/image/465239.jpg"
+          ],
+          "after": [
+            "/upload/image/466805.jpg"
+          ]
+        },
+        "category": {
+          "id": "151",
+          "parent_id": "14",
+          "icon": "14"
+        },
+        "user": {
+          "id": "71227",
+          "name": "Виктория",
+          "last_name": "Сидорова",
+          "middle_name": "Дмитриевна"
+        },
+        "description": "за 1,5 года проживания в этом доме всего 2раза видела уборщицу. спашивала у мастера нашегго участка насчет уборки. она ответила У вас как бы есть уборщица,но как бы и нет. подъезд грязный.",
+        "answers": [
+          {
+            "author": "ЖЭС -1 г. Солигорск",
+            "text": "Уборка подъезда мест общего пользования производится согласна графика",
+            "date": "6 сентября 14:56",
+            "photos": [
+              "/upload/image/466737.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.50183105,
+          52.78897095
+        ]
+      },
+      "properties": {
+        "id": "198499",
+        "href": "/problem/198499",
+        "address": "ул. Молодежная 10, Солигорск, Беларусь",
+        "date_create": "4 сентября 2018 5:49",
+        "date_planned": "14.09.2018",
+        "crm_date_planned": "2018-09-14",
+        "crm_create_at": "2018-09-04",
+        "organisation_id": "309",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "68456",
+          "name": "Людмила ",
+          "last_name": "Пыко ",
+          "middle_name": "Владимировна "
+        },
+        "description": "Не работают оба уличных фонаря (средние) где стоянка машин ЗА домом по Октябрьской103, но во дворе 10-12-14 домов",
+        "answers": [
+          {
+            "author": "РТОЭ г. Солигорск",
+            "text": "освещение восстановлено 12 сентября",
+            "date": "12 сентября 16:47"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5019207,
+          52.78899384
+        ]
+      },
+      "properties": {
+        "id": "198498",
+        "href": "/problem/198498",
+        "address": "ул. Молодежная 10, Солигорск, Беларусь",
+        "date_create": "4 сентября 2018 5:45",
+        "date_planned": "14.09.2018",
+        "crm_date_planned": "2018-09-14",
+        "crm_create_at": "2018-09-04",
+        "organisation_id": "309",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "68456",
+          "name": "Людмила ",
+          "last_name": "Пыко ",
+          "middle_name": "Владимировна "
+        },
+        "description": "Не горит уличный фонарь напротив 3-4 подъездов (на углу)",
+        "answers": [
+          {
+            "author": "РТОЭ г. Солигорск",
+            "text": "освещение было восстановлено 04 сентября 2018 года",
+            "date": "5 сентября 11:15"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.50182724,
+          52.78899765
+        ]
+      },
+      "properties": {
+        "id": "198497",
+        "href": "/problem/198497",
+        "address": "ул. Молодежная 10, Солигорск, Беларусь",
+        "date_create": "4 сентября 2018 5:43",
+        "date_planned": "14.09.2018",
+        "crm_date_planned": "2018-09-14",
+        "crm_create_at": "2018-09-04",
+        "organisation_id": "301",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "68456",
+          "name": "Людмила ",
+          "last_name": "Пыко ",
+          "middle_name": "Владимировна "
+        },
+        "description": "Нет света в холле 3 этажа 4 подъезд (лампочка напротив лифта)",
+        "answers": [
+          {
+            "author": "ЖЭС -5 г. Солигорск",
+            "text": "05.09.2018г. заменили лампочку КЛ.",
+            "date": "6 сентября 8:18"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.50185204,
+          52.78896332
+        ]
+      },
+      "properties": {
+        "id": "198496",
+        "href": "/problem/198496",
+        "address": "ул. Молодежная 10, Солигорск, Беларусь",
+        "date_create": "4 сентября 2018 5:41",
+        "date_planned": "14.09.2018",
+        "crm_date_planned": "2018-09-14",
+        "crm_create_at": "2018-09-04",
+        "organisation_id": "301",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "63",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "68456",
+          "name": "Людмила ",
+          "last_name": "Пыко ",
+          "middle_name": "Владимировна "
+        },
+        "description": "Нет света над входом в 3 подъезд (входная группа)",
+        "answers": [
+          {
+            "author": "ЖЭС -5 г. Солигорск",
+            "text": "05.09.2018г. произведено освещение  вх.группы 3 под.",
+            "date": "6 сентября 8:18"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.52826118,
+          52.78918076
+        ]
+      },
+      "properties": {
+        "id": "198495",
+        "href": "/problem/198495",
+        "address": "Солигорск,  улица Наруцкого,  2",
+        "date_create": "3 сентября 2018 22:03",
+        "date_planned": "14.09.2018",
+        "crm_date_planned": "2018-09-14",
+        "crm_create_at": "2018-09-03",
+        "organisation_id": "307",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/464418.jpg"
+          ],
+          "after": [
+            "/upload/image/469737.jpg"
+          ]
+        },
+        "category": {
+          "id": "63",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "70598",
+          "name": "Евгений",
+          "last_name": "Скалабан",
+          "middle_name": "Михайлович"
+        },
+        "description": "Не горит лампочка при входе в 3-й подъезд.Если можно энергосберегайку и нормально закрепить плафон чтобы не украли.",
+        "answers": [
+          {
+            "author": "ЖЭС -6 г. Солигорск",
+            "text": "Закрепили плафон, заменили лампочку входной группы",
+            "date": "11 сентября 9:56",
+            "photos": [
+              "/upload/image/469589.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54510307,
+          52.78596878
+        ]
+      },
+      "properties": {
+        "id": "198494",
+        "href": "/problem/198494",
+        "address": "ул. Козлова 16, Солигорск, Беларусь",
+        "date_create": "3 сентября 2018 17:40",
+        "date_planned": "14.09.2018",
+        "crm_date_planned": "2018-09-14",
+        "crm_create_at": "2018-09-03",
+        "organisation_id": "306",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/464417.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "325",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Провал на дороге после подземного порыва горячего трубопровода",
+        "answers": [
+          {
+            "author": "Тепловые сети г. Солигорск",
+            "text": "Течь трубопровода ГВС Солигорский ГХК.Участок отключен.Передана телефонограмма на устранение порыва трубопровода,находящегося на балансе Солигорского горно-химического колледжа.",
+            "date": "17 сентября 13:39"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.51472092,
+          52.78982544
+        ]
+      },
+      "properties": {
+        "id": "197703",
+        "href": "/problem/197703",
+        "address": "Октябрьская улица, 55",
+        "date_create": "1 сентября 2018 13:22",
+        "date_planned": "13.09.2018",
+        "crm_date_planned": "2018-09-13",
+        "crm_create_at": "2018-09-01",
+        "organisation_id": "312",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/463201.png",
+            "/upload/image/463202.png"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "65179",
+          "name": "Ирина",
+          "last_name": "Ефимович",
+          "middle_name": "Игоревна"
+        },
+        "description": "На 01.09.2018 проблема НЕ решена! А срок \r исполнения стоит до конца августа!!!!",
+        "answers": [
+
+        ]
+      }
+    }
+  ]
+}

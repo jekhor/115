@@ -1,0 +1,5125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.79317474,
+          53.66368103
+        ]
+      },
+      "properties": {
+        "id": "213843",
+        "href": "/problem/213843",
+        "address": "ул.Лизы Чайкиной, 4",
+        "date_create": "17 октября 2018 6:55",
+        "date_planned": "29.10.2018",
+        "crm_date_planned": "2018-10-29",
+        "crm_create_at": "2018-10-17",
+        "organisation_id": "477",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/495493.jpg",
+            "/upload/image/495494.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "68616",
+          "name": "Михаил",
+          "last_name": "Рачинский",
+          "middle_name": "Александрович"
+        },
+        "description": "ул.Лизы Чайкиной, 4. Угол наклона пандуса явно сделан с нарушением норм (тут примерно 30 градусов). Спуск даже с детской коляской становится опасным, при подъёме тоже велика вероятность поскользнуться",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.79572487,
+          53.66326904
+        ]
+      },
+      "properties": {
+        "id": "213842",
+        "href": "/problem/213842",
+        "address": "ул.Лизы Чайкиной, 4",
+        "date_create": "17 октября 2018 6:53",
+        "date_planned": "29.10.2018",
+        "crm_date_planned": "2018-10-29",
+        "crm_create_at": "2018-10-17",
+        "organisation_id": "477",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/495492.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "68616",
+          "name": "Михаил",
+          "last_name": "Рачинский",
+          "middle_name": "Александрович"
+        },
+        "description": "ул.Лизы Чайкиной, 4. Перед фабрикой Динамо разрушаются тратуарные плиты. Не возможно нормально ездить с коляской",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.78507614,
+          53.66628647
+        ]
+      },
+      "properties": {
+        "id": "213760",
+        "href": "/problem/213760",
+        "address": "Ул. О. Соломовой, 101",
+        "date_create": "16 октября 2018 19:13",
+        "date_planned": "29.10.2018",
+        "crm_date_planned": "2018-10-29",
+        "crm_create_at": "2018-10-16",
+        "organisation_id": "477",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/495375.jpg",
+            "/upload/image/495376.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "71556",
+          "name": "Vadzim",
+          "last_name": "Snop",
+          "middle_name": ""
+        },
+        "description": "Прошу восстановить тротуар, который был поврежден строительной техникой при установке железобетонных опор для воздушной линии электропередач. На тротуаре нет \"живого места\". Ул. О. Соломовой, 101.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.83589363,
+          53.65120316
+        ]
+      },
+      "properties": {
+        "id": "213739",
+        "href": "/problem/213739",
+        "address": "ул.Пестрака, 54",
+        "date_create": "16 октября 2018 18:45",
+        "date_planned": "29.10.2018",
+        "crm_date_planned": "2018-10-29",
+        "crm_create_at": "2018-10-16",
+        "organisation_id": "481",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "53",
+          "parent_id": "9",
+          "icon": "9"
+        },
+        "user": {
+          "id": "78858",
+          "name": "Сергей",
+          "last_name": "Шевчук",
+          "middle_name": ""
+        },
+        "description": "пестрака 54 .булькают батареи сильно..невозможно спать.12 этажный подьезд! на жалобы в жес 14..неустраняют!",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.80449867,
+          53.7010231
+        ]
+      },
+      "properties": {
+        "id": "213726",
+        "href": "/problem/213726",
+        "address": "ул. Врублевского, д.42",
+        "date_create": "16 октября 2018 18:20",
+        "date_planned": "29.10.2018",
+        "crm_date_planned": "2018-10-29",
+        "crm_create_at": "2018-10-16",
+        "organisation_id": "482",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/495324.jpg",
+            "/upload/image/495325.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "66",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "75987",
+          "name": "Николай",
+          "last_name": "Игнатов",
+          "middle_name": "Геннадьевич"
+        },
+        "description": "ул. Врублевского, д.42, подъезд №4\rПоврежденные и незакрытые люки ниш с проводами. Провода торчат наружу, кабельные устройства вываливаются, отломаны завесы люка.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.01696014,
+          52.37296295
+        ]
+      },
+      "properties": {
+        "id": "213694",
+        "href": "/problem/213694",
+        "address": "улица Ожешко, 43",
+        "date_create": "16 октября 2018 16:43",
+        "date_planned": "29.10.2018",
+        "crm_date_planned": "2018-10-29",
+        "crm_create_at": "2018-10-16",
+        "organisation_id": "482",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/495222.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "78495",
+          "name": "Евгения",
+          "last_name": "Павлова",
+          "middle_name": ""
+        },
+        "description": "При входе в 3 подъезд в тёмное время суток уж очень темно ! Приходится использовать фонарик, дабы не споткнуться . Поспособствуйте пожалуйста работе по устранению проблем в данном подъезде !",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.96847153,
+          52.43968201
+        ]
+      },
+      "properties": {
+        "id": "213494",
+        "href": "/problem/213494",
+        "address": "улица Горького, 92",
+        "date_create": "16 октября 2018 8:20",
+        "date_planned": "26.10.2018",
+        "crm_date_planned": "2018-10-26",
+        "crm_create_at": "2018-10-16",
+        "organisation_id": "482",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "78799",
+          "name": "Евгений",
+          "last_name": "Вайчик",
+          "middle_name": "Анатольевич"
+        },
+        "description": "В 3 подъезде автоматическое освещение имеется только на 1 этаже. На других только выключатели, расположены далеко от лифта и лестницы. Приходится включать свет на ощупь. Да и вообще это не экономично.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.79935646,
+          53.66223907
+        ]
+      },
+      "properties": {
+        "id": "213484",
+        "href": "/problem/213484",
+        "address": "ул.Лизы Чайкиной,1",
+        "date_create": "16 октября 2018 6:41",
+        "date_planned": "26.10.2018",
+        "crm_date_planned": "2018-10-26",
+        "crm_create_at": "2018-10-16",
+        "organisation_id": "481",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/494468.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "68616",
+          "name": "Михаил",
+          "last_name": "Рачинский",
+          "middle_name": "Александрович"
+        },
+        "description": "На протяжении всего дома 1 и 1А, начиная от заезда с ул.Лизы Чайкиной, во дворе на дороге ямы, кое где наплывы. Ямочного ремонта не было уже несколько лет",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.99466515,
+          52.43510056
+        ]
+      },
+      "properties": {
+        "id": "213377",
+        "href": "/problem/213377",
+        "address": "улица Курчатова, 9",
+        "date_create": "15 октября 2018 21:21",
+        "date_planned": "29.10.2018",
+        "crm_date_planned": "2018-10-29",
+        "crm_create_at": "2018-10-15",
+        "organisation_id": "526",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/494329.jpg",
+            "/upload/image/494330.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "297",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "78549",
+          "name": "Геннадий",
+          "last_name": "Драб",
+          "middle_name": "Альбиович"
+        },
+        "description": "Продлить парковку,, сейчас место позволяет.Для владельцев автомашин не хватает мест.  После прокладки  ливневки удерживаю  чтобы не заезжали  на газон. Жильцы ждут помощи.  Курчатова д. 28 подъезд  2",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.99466515,
+          52.43510056
+        ]
+      },
+      "properties": {
+        "id": "213374",
+        "href": "/problem/213374",
+        "address": "улица Курчатова, 9",
+        "date_create": "15 октября 2018 21:01",
+        "date_planned": "29.10.2018",
+        "crm_date_planned": "2018-10-29",
+        "crm_create_at": "2018-10-15",
+        "organisation_id": "528",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/494324.jpg",
+            "/upload/image/494325.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "78549",
+          "name": "Геннадий",
+          "last_name": "Драб",
+          "middle_name": "Альбиович"
+        },
+        "description": "При  прокладке кабеля  от подъезда 2  дома 28 по улице Курчатова  к пульту управления светофором  с течением времени образовалась просадка  грунта и разрушение асфальта.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.99466515,
+          52.43510056
+        ]
+      },
+      "properties": {
+        "id": "213371",
+        "href": "/problem/213371",
+        "address": "улица Курчатова, 9",
+        "date_create": "15 октября 2018 20:56",
+        "date_planned": "26.10.2018",
+        "crm_date_planned": "2018-10-26",
+        "crm_create_at": "2018-10-15",
+        "organisation_id": "477",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/494322.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "78549",
+          "name": "Геннадий",
+          "last_name": "Драб",
+          "middle_name": "Альбиович"
+        },
+        "description": "улица Курчатова д.28  около 2 подъезда  проседание люка,образовалась яма",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.83739471,
+          53.65118408
+        ]
+      },
+      "properties": {
+        "id": "213327",
+        "href": "/problem/213327",
+        "address": "ул. Пестрака, 54",
+        "date_create": "15 октября 2018 18:01",
+        "date_planned": "25.10.2018",
+        "crm_date_planned": "2018-10-25",
+        "crm_create_at": "2018-10-15",
+        "organisation_id": "481",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/494256.jpg",
+            "/upload/image/494257.jpg"
+          ],
+          "after": [
+            "/upload/image/495558.jpg"
+          ]
+        },
+        "category": {
+          "id": "36",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "78264",
+          "name": "Елена",
+          "last_name": "Кожемякина",
+          "middle_name": ""
+        },
+        "description": "Вот так отремонтировали спуски для колясок на лестницах между детскими садами №82 по ул.Пестрака и № 84 по просп.Клецкова, 4",
+        "answers": [
+          {
+            "author": "УЖРЭП Октябрьского района г.Гродно",
+            "text": "Спуски для колясок на лестницах между детскими садами №82 по ул.Пестрака  и №84 по пр. Клецкова, 4 отремонтированы.",
+            "date": "16 октября 13:04",
+            "photos": [
+              "/upload/image/494833.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.80997467,
+          53.7098465
+        ]
+      },
+      "properties": {
+        "id": "213958",
+        "href": "/problem/213958",
+        "address": "ул. Комарова, 2",
+        "date_create": "15 октября 2018 17:30",
+        "date_planned": "29.10.2018",
+        "crm_date_planned": "2018-10-29",
+        "crm_create_at": "2018-10-15",
+        "organisation_id": "482",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "78746",
+          "name": "Виталий",
+          "last_name": "Масальский",
+          "middle_name": ""
+        },
+        "description": "Очень разбитая дворовая дорога, глубокие ямы на протяжении 100 метров",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.13716507,
+          52.40760422
+        ]
+      },
+      "properties": {
+        "id": "213311",
+        "href": "/problem/213311",
+        "address": "Пролетарская улица, 54",
+        "date_create": "15 октября 2018 17:11",
+        "date_planned": "25.10.2018",
+        "crm_date_planned": "2018-10-25",
+        "crm_create_at": "2018-10-15",
+        "organisation_id": "481",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/494166.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "78271",
+          "name": "Тамара",
+          "last_name": "Ключник",
+          "middle_name": "Евгеньевна"
+        },
+        "description": "Во двор не возможно заехать во двор. Большие ямы,выбоины.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.85550308,
+          53.62640762
+        ]
+      },
+      "properties": {
+        "id": "213295",
+        "href": "/problem/213295",
+        "address": "ул. Центральная 4а",
+        "date_create": "15 октября 2018 16:52",
+        "date_planned": "25.10.2018",
+        "crm_date_planned": "2018-10-25",
+        "crm_create_at": "2018-10-15",
+        "organisation_id": "474",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/494129.jpg",
+            "/upload/image/494130.jpg",
+            "/upload/image/494131.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "304",
+          "parent_id": "21",
+          "icon": "21"
+        },
+        "user": {
+          "id": "78755",
+          "name": "Gregor",
+          "last_name": "Koltan",
+          "middle_name": ""
+        },
+        "description": "Огромная ветка над проезжей частью. Заражена омелой, ствол наполовину прогнил. Страшно ездить и ходить, в дождь прогибается почти до земли, скоро зима... рядом детский сад. г.Гродно, Центральная 4а",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.95246887,
+          52.50616074
+        ]
+      },
+      "properties": {
+        "id": "213207",
+        "href": "/problem/213207",
+        "address": "улица Комарова, 2",
+        "date_create": "15 октября 2018 15:06",
+        "date_planned": "25.10.2018",
+        "crm_date_planned": "2018-10-25",
+        "crm_create_at": "2018-10-15",
+        "organisation_id": "482",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/493929.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "324",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "78746",
+          "name": "Виталий",
+          "last_name": "Масальский",
+          "middle_name": ""
+        },
+        "description": "Постоянная парковка автомобилей на зеленой зоне, (в сырую погоду здесь просто месиво грязи), рядом игровая и детская площадки.Возможно сделать нужно какое нибудь ограждение.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.83503723,
+          53.65737534
+        ]
+      },
+      "properties": {
+        "id": "213611",
+        "href": "/problem/213611",
+        "address": "просп. Янки Купалы 3, Гродно 230026, Беларусь",
+        "date_create": "15 октября 2018 13:45",
+        "date_planned": "25.10.2018",
+        "crm_date_planned": "2018-10-25",
+        "crm_create_at": "2018-10-15",
+        "organisation_id": "477",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/494706.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "52003",
+          "name": "Вадим ",
+          "last_name": "Погуляев ",
+          "middle_name": "Олегович"
+        },
+        "description": "Поровнять дорогу",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.77560234,
+          53.66771698
+        ]
+      },
+      "properties": {
+        "id": "212807",
+        "href": "/problem/212807",
+        "address": "Ул. Фолюш, 14.",
+        "date_create": "14 октября 2018 23:57",
+        "date_planned": "25.10.2018",
+        "crm_date_planned": "2018-10-25",
+        "crm_create_at": "2018-10-14",
+        "organisation_id": "481",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/493404.jpg",
+            "/upload/image/493405.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "325",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "71556",
+          "name": "Vadzim",
+          "last_name": "Snop",
+          "middle_name": ""
+        },
+        "description": "Необходимо срочно ликвидировать несанкционированную свалку строительного мусора, созданную одной из организаций города, во избежании причинения еще большего ущерба природе и речке. Ул. Фолюш, 14.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.01696014,
+          52.37296295
+        ]
+      },
+      "properties": {
+        "id": "212677",
+        "href": "/problem/212677",
+        "address": "улица Ожешко , 43, 3 подъезд",
+        "date_create": "14 октября 2018 11:20",
+        "date_planned": "25.10.2018",
+        "crm_date_planned": "2018-10-25",
+        "crm_create_at": "2018-10-14",
+        "organisation_id": "482",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+            "/upload/image/495552.jpg",
+            "/upload/image/495553.jpg"
+          ]
+        },
+        "category": {
+          "id": "54",
+          "parent_id": "9",
+          "icon": "9"
+        },
+        "user": {
+          "id": "78495",
+          "name": "Евгения",
+          "last_name": "Павлова",
+          "middle_name": ""
+        },
+        "description": "Течь фекальных отходов в вспомогательные помещения ( подвал ). В 3 подъезде в центре города Гродно по ул Ожешко 43 постоянная вонь .  1 ЖЭС проблему не устраняет.",
+        "answers": [
+          {
+            "author": "УЖРЭП Ленинского района г.Гродно",
+            "text": "Засор устранен помещение убрано и продезинфицировано",
+            "date": "16 октября 15:57",
+            "photos": [
+              "/upload/image/495092.jpg",
+              "/upload/image/495093.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.77999306,
+          53.6644249
+        ]
+      },
+      "properties": {
+        "id": "212662",
+        "href": "/problem/212662",
+        "address": " Ул. Фолюш, 15/29",
+        "date_create": "14 октября 2018 1:04",
+        "date_planned": "25.10.2018",
+        "crm_date_planned": "2018-10-25",
+        "crm_create_at": "2018-10-14",
+        "organisation_id": "481",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/493254.jpg",
+            "/upload/image/493255.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "286",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "71556",
+          "name": "Vadzim",
+          "last_name": "Snop",
+          "middle_name": ""
+        },
+        "description": "Необходимо произвести ремонт лестницы (на отдельной части пандуса отсутствует плитка, также имеется отошедшая от цементного раствора плитка). Ул. Фолюш, 15/29",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.85479164,
+          53.6822319
+        ]
+      },
+      "properties": {
+        "id": "212622",
+        "href": "/problem/212622",
+        "address": "Ул.Томина,14а",
+        "date_create": "13 октября 2018 19:39",
+        "date_planned": "25.10.2018",
+        "crm_date_planned": "2018-10-25",
+        "crm_create_at": "2018-10-13",
+        "organisation_id": "481",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+            "/upload/image/494342.jpg",
+            "/upload/image/494343.jpg"
+          ]
+        },
+        "category": {
+          "id": "66",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "77269",
+          "name": "Ilona",
+          "last_name": "Dolinskaya",
+          "middle_name": ""
+        },
+        "description": "Не работает светильник на подъезде над входной дверью",
+        "answers": [
+          {
+            "author": "УЖРЭП Октябрьского района г.Гродно",
+            "text": "Восстановлено освещение над входной дверью подъезда",
+            "date": "15 октября 17:19",
+            "photos": [
+              "/upload/image/494160.jpg",
+              "/upload/image/494161.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.84762192,
+          53.65744781
+        ]
+      },
+      "properties": {
+        "id": "212596",
+        "href": "/problem/212596",
+        "address": "ул. Янки Купалы, 72/2",
+        "date_create": "13 октября 2018 15:17",
+        "date_planned": "25.10.2018",
+        "crm_date_planned": "2018-10-25",
+        "crm_create_at": "2018-10-13",
+        "organisation_id": "481",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/493190.jpg",
+            "/upload/image/493191.jpg",
+            "/upload/image/493192.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "77958",
+          "name": "Анна",
+          "last_name": "Вар",
+          "middle_name": ""
+        },
+        "description": "улица Янки Купалы, 72 корпус 2. не горит фонарь напротив подъезда №1 (квартиры с 1 по 20) почините пожалуйста.\rнад подъездом освещения тоже нет",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.96553993,
+          52.43637848
+        ]
+      },
+      "properties": {
+        "id": "212567",
+        "href": "/problem/212567",
+        "address": "улица Дзержинского, 114",
+        "date_create": "13 октября 2018 13:32",
+        "date_planned": "25.10.2018",
+        "crm_date_planned": "2018-10-25",
+        "crm_create_at": "2018-10-13",
+        "organisation_id": "526",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+            "/upload/image/494704.jpg"
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "63226",
+          "name": "Аркадий",
+          "last_name": "Иванов",
+          "middle_name": ""
+        },
+        "description": "Очень глубокие ямы на проезжей части возле дома Дзержинского 115 и 117\rЧтобы объехать ямы машины едут по тротуару!\rПоставили адрес Дзержинского 114 т.к 115 и 117 дома не находит",
+        "answers": [
+          {
+            "author": "УЖРЭП Ленинского района г.Гродно",
+            "text": "Договорных обязательств на выполнение ямочного ремонта проездов у  ж.д. 115 и 117 по ул. Дзержинского у УЖРЭП Лен. р-на перед ОУПП \"Гродненское городское ЖКХ\" не имеется",
+            "date": "15 октября 10:53",
+            "photos": [
+              "/upload/image/493628.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.01696014,
+          52.37296295
+        ]
+      },
+      "properties": {
+        "id": "212539",
+        "href": "/problem/212539",
+        "address": "улица Ожешко, 43",
+        "date_create": "13 октября 2018 10:57",
+        "date_planned": "26.10.2018",
+        "crm_date_planned": "2018-10-26",
+        "crm_create_at": "2018-10-13",
+        "organisation_id": "527",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/493113.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "61",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "78495",
+          "name": "Евгения",
+          "last_name": "Павлова",
+          "middle_name": ""
+        },
+        "description": "Не закреплена эл .проводка по всему 3 подъезду ! Человек с высоким ростом может головой легко зацепить провод !",
+        "answers": [
+          {
+            "author": "Гродненский ЗУЭ РУП \"Белтелеком\"",
+            "text": "Принадлежность указанной на фото пользователя кабельной линии не установлена. Принято решение о ее демонтаже. Работы выполнены 16.10.2018.",
+            "date": "17 октября 10:49"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.01696014,
+          52.37296295
+        ]
+      },
+      "properties": {
+        "id": "212537",
+        "href": "/problem/212537",
+        "address": "улица Ожешко, 43",
+        "date_create": "13 октября 2018 10:48",
+        "date_planned": "25.10.2018",
+        "crm_date_planned": "2018-10-25",
+        "crm_create_at": "2018-10-13",
+        "organisation_id": "482",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/493112.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "62",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "78495",
+          "name": "Евгения",
+          "last_name": "Павлова",
+          "middle_name": ""
+        },
+        "description": "Считок электричества в 3 подъезде закрыт бумажкой !",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.01696014,
+          52.37296295
+        ]
+      },
+      "properties": {
+        "id": "212526",
+        "href": "/problem/212526",
+        "address": "ул. Ожешко, 43",
+        "date_create": "13 октября 2018 9:45",
+        "date_planned": "25.10.2018",
+        "crm_date_planned": "2018-10-25",
+        "crm_create_at": "2018-10-13",
+        "organisation_id": "482",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+            "/upload/image/495550.jpg"
+          ]
+        },
+        "category": {
+          "id": "156",
+          "parent_id": "14",
+          "icon": "14"
+        },
+        "user": {
+          "id": "78495",
+          "name": "Евгения",
+          "last_name": "Павлова",
+          "middle_name": ""
+        },
+        "description": "Здравствуйте! В нашем доме 43 ул.Ожешко в подъездах убирает уборщица раз в два месяца! Вместо положенного одного раза в неделю . 1 ЖЭС игнорирует! Прошу Вас о помощи !",
+        "answers": [
+          {
+            "author": "УЖРЭП Ленинского района г.Гродно",
+            "text": "Уборка МОП производится в соответствии с установленной периодичностью, что подтверждается актом (три раза в месяц подметание, один раз в месяц влажная уборка).",
+            "date": "16 октября 16:02",
+            "photos": [
+              "/upload/image/495095.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.00520897,
+          52.4155159
+        ]
+      },
+      "properties": {
+        "id": "212368",
+        "href": "/problem/212368",
+        "address": "Пролетарская улица, 71",
+        "date_create": "12 октября 2018 19:17",
+        "date_planned": "25.10.2018",
+        "crm_date_planned": "2018-10-25",
+        "crm_create_at": "2018-10-12",
+        "organisation_id": "481",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/492894.jpg",
+            "/upload/image/492895.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "76614",
+          "name": "Иван",
+          "last_name": "Иванов",
+          "middle_name": "Иванович"
+        },
+        "description": "У первого подъезда пешеходная дорожка требует ремонта.\rЖЭС не смог решить эту проблему.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.83831787,
+          53.68121338
+        ]
+      },
+      "properties": {
+        "id": "213048",
+        "href": "/problem/213048",
+        "address": "ул.Василька 19",
+        "date_create": "12 октября 2018 15:30",
+        "date_planned": "24.10.2018",
+        "crm_date_planned": "2018-10-24",
+        "crm_create_at": "2018-10-12",
+        "organisation_id": "476",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/493759.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "48",
+          "parent_id": "7",
+          "icon": "7"
+        },
+        "user": {
+          "id": "77805",
+          "name": "Дарья",
+          "last_name": "Шпак",
+          "middle_name": "Юрьевна"
+        },
+        "description": "На дороге, на улице Василька, напротив памятника лежит мертвый голубь.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.80224228,
+          53.70357132
+        ]
+      },
+      "properties": {
+        "id": "213130",
+        "href": "/problem/213130",
+        "address": "Врублевского, 66",
+        "date_create": "12 октября 2018 13:32",
+        "date_planned": "24.10.2018",
+        "crm_date_planned": "2018-10-24",
+        "crm_create_at": "2018-10-12",
+        "organisation_id": "475",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "78410",
+          "name": "Сергей",
+          "last_name": "Гресь",
+          "middle_name": "Эдвардович"
+        },
+        "description": "Отсутствует освещения на улице по адресу Врублевского 66 и прилегающей территории.",
+        "answers": [
+          {
+            "author": "Гродненское УКПП «Горсвет»",
+            "text": "Сети наружного освещения возле д.66  отсутствуют, т.к. не были предусмотрены при строительстве дома. По вопросу строительства освещения просьба обращаться в ОУПП \"ГГЖКХ\" на ул.Кирова,32.",
+            "date": "15 октября 16:38"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.78377533,
+          53.66262054
+        ]
+      },
+      "properties": {
+        "id": "212315",
+        "href": "/problem/212315",
+        "address": "ул.О.Соломовой 88",
+        "date_create": "12 октября 2018 12:29",
+        "date_planned": "24.10.2018",
+        "crm_date_planned": "2018-10-24",
+        "crm_create_at": "2018-10-12",
+        "organisation_id": "481",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+            "/upload/image/494336.jpg"
+          ]
+        },
+        "category": {
+          "id": "40",
+          "parent_id": "7",
+          "icon": "7"
+        },
+        "user": {
+          "id": "78496",
+          "name": "Евгения",
+          "last_name": "Игнатова",
+          "middle_name": ""
+        },
+        "description": "Под кустами лежит мусор, бутылки и дохлый голубь. Несколько дней. Пешеходная дорожка от Фламинго вдоль 88 дома по ул.О.Срломовой.",
+        "answers": [
+          {
+            "author": "УЖРЭП Октябрьского района г.Гродно",
+            "text": "УЖРЭП Октябрьского района г.Гродно\rПроизведена уборка газонов от мусора и других предметов по ул. О.Соломовой,88.    Уборка придомовой территории производится регулярно, согласно установленной период",
+            "date": "15 октября 17:11",
+            "photos": [
+              "/upload/image/494152.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.96901512,
+          52.43962479
+        ]
+      },
+      "properties": {
+        "id": "212215",
+        "href": "/problem/212215",
+        "address": "улица Горького, 88",
+        "date_create": "12 октября 2018 10:56",
+        "date_planned": "24.10.2018",
+        "crm_date_planned": "2018-10-24",
+        "crm_create_at": "2018-10-12",
+        "organisation_id": "482",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/492196.jpg",
+            "/upload/image/492197.jpg",
+            "/upload/image/492198.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "77874",
+          "name": "Иван",
+          "last_name": "Некрасов",
+          "middle_name": "Владимирович"
+        },
+        "description": "улица Горького дом 88, в подъезде номер 3 отсутствуют светильники на этажах 2-8 около электрощитов",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.83263779,
+          53.66055298
+        ]
+      },
+      "properties": {
+        "id": "212211",
+        "href": "/problem/212211",
+        "address": "Пр-т Я.Купалы,25А.",
+        "date_create": "12 октября 2018 10:42",
+        "date_planned": "25.10.2018",
+        "crm_date_planned": "2018-10-25",
+        "crm_create_at": "2018-10-12",
+        "organisation_id": "524",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/492188.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "364",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "71556",
+          "name": "Vadzim",
+          "last_name": "Snop",
+          "middle_name": ""
+        },
+        "description": "Ограждение неустановленного происхождения и неизвестного назначения препятствует свободному проходу от ул.Победы к пр-т.Я.Купалы. Территории по обеим сторонам не являются закрытыми. Пр-т Я.Купалы,25А.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.83966827,
+          53.6889801
+        ]
+      },
+      "properties": {
+        "id": "212208",
+        "href": "/problem/212208",
+        "address": "пр. Я. Купалы, д. 72/3",
+        "date_create": "12 октября 2018 9:23",
+        "date_planned": "24.10.2018",
+        "crm_date_planned": "2018-10-24",
+        "crm_create_at": "2018-10-12",
+        "organisation_id": "481",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/492184.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "77389",
+          "name": "Виталий",
+          "last_name": "Ванович",
+          "middle_name": "Иванович"
+        },
+        "description": "Отсутствует освещение на лестничных пролётах подъезда. В темное время суток крайне травмоопасно передвигаться.\rпр. Я. Купалы, д. 72/3, 3-й подъезд",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.82325554,
+          53.66786194
+        ]
+      },
+      "properties": {
+        "id": "212124",
+        "href": "/problem/212124",
+        "address": "пер. Курбатова, 15",
+        "date_create": "12 октября 2018 8:42",
+        "date_planned": "24.10.2018",
+        "crm_date_planned": "2018-10-24",
+        "crm_create_at": "2018-10-12",
+        "organisation_id": "477",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "71556",
+          "name": "Vadzim",
+          "last_name": "Snop",
+          "middle_name": ""
+        },
+        "description": "Необходимо устранить просадку тротуарной плитки у края проезжей части на остановочном пункте общественного транспорта «Областная филармония» (в направлении стеклозавода). Пер. Курбатова, 15",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.96901512,
+          52.43962479
+        ]
+      },
+      "properties": {
+        "id": "212119",
+        "href": "/problem/212119",
+        "address": "улица Горького, 88",
+        "date_create": "12 октября 2018 8:21",
+        "date_planned": "26.10.2018",
+        "crm_date_planned": "2018-10-26",
+        "crm_create_at": "2018-10-12",
+        "organisation_id": "482",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/492062.jpg",
+            "/upload/image/492063.jpg",
+            "/upload/image/492064.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "77874",
+          "name": "Иван",
+          "last_name": "Некрасов",
+          "middle_name": "Владимирович"
+        },
+        "description": "В подъезде 3 отсутствуют светильники на этажах 2-8 около электрощитов",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.96901512,
+          52.43962479
+        ]
+      },
+      "properties": {
+        "id": "212118",
+        "href": "/problem/212118",
+        "address": "улица Горького, 88",
+        "date_create": "12 октября 2018 8:18",
+        "date_planned": "24.10.2018",
+        "crm_date_planned": "2018-10-24",
+        "crm_create_at": "2018-10-12",
+        "organisation_id": "482",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/492057.jpg",
+            "/upload/image/492058.jpg",
+            "/upload/image/492059.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "57",
+          "parent_id": "9",
+          "icon": "9"
+        },
+        "user": {
+          "id": "77874",
+          "name": "Иван",
+          "last_name": "Некрасов",
+          "middle_name": "Владимирович"
+        },
+        "description": "Отсутствует двойное остекление на окнах в подъезде, токаже прошу обратить внимание на их чистоту",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.96901512,
+          52.43962479
+        ]
+      },
+      "properties": {
+        "id": "212117",
+        "href": "/problem/212117",
+        "address": "улица Горького, 88",
+        "date_create": "12 октября 2018 8:11",
+        "date_planned": "24.10.2018",
+        "crm_date_planned": "2018-10-24",
+        "crm_create_at": "2018-10-12",
+        "organisation_id": "482",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/492054.jpg",
+            "/upload/image/492055.jpg",
+            "/upload/image/492056.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "154",
+          "parent_id": "14",
+          "icon": "14"
+        },
+        "user": {
+          "id": "77874",
+          "name": "Иван",
+          "last_name": "Некрасов",
+          "middle_name": "Владимирович"
+        },
+        "description": "Не вымыты окна в подъезде 3, с 1 по 8 этаж. Предыдущие работы выполнены не качественно, вымыто только одно окно.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.86699295,
+          53.69032288
+        ]
+      },
+      "properties": {
+        "id": "213609",
+        "href": "/problem/213609",
+        "address": "Озерское шоссе 43",
+        "date_create": "12 октября 2018 0:55",
+        "date_planned": "24.10.2018",
+        "crm_date_planned": "2018-10-24",
+        "crm_create_at": "2018-10-12",
+        "organisation_id": "477",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/494703.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "77803",
+          "name": "Андрей",
+          "last_name": "Сыч",
+          "middle_name": "Александрович"
+        },
+        "description": "Оз шоссе 43 возле магазина дисконт. Установить бардюр и плитку на место, он отвалился. Спасибо!",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.84325218,
+          53.71349335
+        ]
+      },
+      "properties": {
+        "id": "213681",
+        "href": "/problem/213681",
+        "address": "Ул. Дзержинского, 143",
+        "date_create": "11 октября 2018 20:58",
+        "date_planned": "24.10.2018",
+        "crm_date_planned": "2018-10-24",
+        "crm_create_at": "2018-10-11",
+        "organisation_id": "483",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/495188.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "291",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "75536",
+          "name": "Валерьян",
+          "last_name": "Урбанович",
+          "middle_name": ""
+        },
+        "description": "При въезде на дворовую территорию между домами 143 и 163 по ул. Дзержинского просевший канализационный люк и выбоина",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.77560806,
+          53.66608047
+        ]
+      },
+      "properties": {
+        "id": "211988",
+        "href": "/problem/211988",
+        "address": "ул. Фолюш, 11",
+        "date_create": "11 октября 2018 20:49",
+        "date_planned": "24.10.2018",
+        "crm_date_planned": "2018-10-24",
+        "crm_create_at": "2018-10-11",
+        "organisation_id": "481",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/491897.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "71556",
+          "name": "Vadzim",
+          "last_name": "Snop",
+          "middle_name": ""
+        },
+        "description": "Многочисленные ямы и повреждения проезжей части по ул. Фолюш, 11",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7761879,
+          53.66554642
+        ]
+      },
+      "properties": {
+        "id": "211985",
+        "href": "/problem/211985",
+        "address": "ул. Фолюш, 15/36",
+        "date_create": "11 октября 2018 20:44",
+        "date_planned": "29.10.2018",
+        "crm_date_planned": "2018-10-29",
+        "crm_create_at": "2018-10-11",
+        "organisation_id": "481",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/491896.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "71556",
+          "name": "Vadzim",
+          "last_name": "Snop",
+          "middle_name": ""
+        },
+        "description": "Требуется ремонт проезжей части и восстановление дорожного борта по ул. Фолюш, 15/36.",
+        "answers": [
+          {
+            "author": "КУП «Ремстройавтодор» г.Гродно",
+            "text": "Территория является дворовой,нашим предприятием не обслуживается.Вопрос в компетенции УЖРЭП Октябрьского района",
+            "date": "17 октября 9:13"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.99229622,
+          52.41985321
+        ]
+      },
+      "properties": {
+        "id": "211975",
+        "href": "/problem/211975",
+        "address": "улица Островского, 14",
+        "date_create": "11 октября 2018 19:57",
+        "date_planned": "24.10.2018",
+        "crm_date_planned": "2018-10-24",
+        "crm_create_at": "2018-10-11",
+        "organisation_id": "477",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/491885.jpg",
+            "/upload/image/491886.jpg",
+            "/upload/image/491887.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "78435",
+          "name": "Мой",
+          "last_name": "Гродно",
+          "middle_name": ""
+        },
+        "description": "Напротив Дома ремесел возле люка просела тротуарная плитка. По дороге в детский сад (из сада) дети часто спотыкаются.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.99440575,
+          52.41967392
+        ]
+      },
+      "properties": {
+        "id": "211970",
+        "href": "/problem/211970",
+        "address": "улица Островского, 2",
+        "date_create": "11 октября 2018 19:51",
+        "date_planned": "24.10.2018",
+        "crm_date_planned": "2018-10-24",
+        "crm_create_at": "2018-10-11",
+        "organisation_id": "506",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/491880.jpg",
+            "/upload/image/491881.jpg",
+            "/upload/image/491882.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "291",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "78435",
+          "name": "Мой",
+          "last_name": "Гродно",
+          "middle_name": ""
+        },
+        "description": "Люк расположен возле детского сада № 11. Такое состояние люка представляет опасность для детей.",
+        "answers": [
+          {
+            "author": "ГУКПП \"Гродноводоканал\"",
+            "text": "На запрос №223414 ГУКПП \"Гродноводоканал\" информирует: 12.10.2018 г. с выездом на место установлено, что разрушена отмостка вокруг колодца на теплотрассе.",
+            "date": "15 октября 8:35"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.77741814,
+          53.64432526
+        ]
+      },
+      "properties": {
+        "id": "211931",
+        "href": "/problem/211931",
+        "address": "Ул. Кстинская, 1",
+        "date_create": "11 октября 2018 17:41",
+        "date_planned": "24.10.2018",
+        "crm_date_planned": "2018-10-24",
+        "crm_create_at": "2018-10-11",
+        "organisation_id": "477",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/491789.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "283",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "78378",
+          "name": "Дарья",
+          "last_name": "Герасимчик",
+          "middle_name": ""
+        },
+        "description": "На улице Кстинская 1 возле автобусной остановки \"Консервный завод\" отсутствует около полугода часть тротуарной плитки после ремонтных работ.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.85079002,
+          53.6241188
+        ]
+      },
+      "properties": {
+        "id": "211911",
+        "href": "/problem/211911",
+        "address": "ул. Центральная",
+        "date_create": "11 октября 2018 17:10",
+        "date_planned": "29.10.2018",
+        "crm_date_planned": "2018-10-29",
+        "crm_create_at": "2018-10-11",
+        "organisation_id": "526",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "296",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "78422",
+          "name": "Виталий",
+          "last_name": "Прокопенко",
+          "middle_name": "Сергеевич"
+        },
+        "description": "Проблема на улице Центральной г.Гродно. На протяжении всей улицы, начиная от костела, нет тротуара ни с одной стороны дороги!  Люди вынуждены ходить по проезжей части с активным движением автомобилей!",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.83415794,
+          53.65104294
+        ]
+      },
+      "properties": {
+        "id": "211895",
+        "href": "/problem/211895",
+        "address": "ул. Пестрака, 48",
+        "date_create": "11 октября 2018 16:30",
+        "date_planned": "29.10.2018",
+        "crm_date_planned": "2018-10-29",
+        "crm_create_at": "2018-10-11",
+        "organisation_id": "481",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "57",
+          "parent_id": "9",
+          "icon": "9"
+        },
+        "user": {
+          "id": "78335",
+          "name": "Константин",
+          "last_name": "Михайловский",
+          "middle_name": "Александрович"
+        },
+        "description": "Каждый раз (9 и 11 октября тоже) при проведении сантехработ в какой-то квартире по Пестрака 48 отключают воду во всём доме, а не в стояке на эту квартиру. Наверное, нужно заменить задвижки на стояках.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.85745239,
+          53.67751694
+        ]
+      },
+      "properties": {
+        "id": "211891",
+        "href": "/problem/211891",
+        "address": "Ул. Кленовая, 33",
+        "date_create": "11 октября 2018 16:06",
+        "date_planned": "24.10.2018",
+        "crm_date_planned": "2018-10-24",
+        "crm_create_at": "2018-10-11",
+        "organisation_id": "481",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/491523.jpg",
+            "/upload/image/491524.jpg",
+            "/upload/image/491525.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "77768",
+          "name": "Юлия",
+          "last_name": "Конкина",
+          "middle_name": ""
+        },
+        "description": "Ул. Кленовая, 33: вот такие прекрасные ямы на въезде во двор. В период дождей они превращаются в озера. Также тротуар во дворе в очень плохом состоянии: люди часто ходят по проезжей части",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.83738136,
+          53.65118408
+        ]
+      },
+      "properties": {
+        "id": "211886",
+        "href": "/problem/211886",
+        "address": "рядом с Стародворецкая улица, 22",
+        "date_create": "11 октября 2018 15:57",
+        "date_planned": "24.10.2018",
+        "crm_date_planned": "2018-10-24",
+        "crm_create_at": "2018-10-11",
+        "organisation_id": "481",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "78264",
+          "name": "Елена",
+          "last_name": "Кожемякина",
+          "middle_name": ""
+        },
+        "description": "Отсутствует освещение лестницы и пешеходной дорожки между детскими садами № 82 и № 84 по ул.Пестрака",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.83737564,
+          53.65117264
+        ]
+      },
+      "properties": {
+        "id": "211884",
+        "href": "/problem/211884",
+        "address": "рядом с Стародворецкая улица, 22",
+        "date_create": "11 октября 2018 15:55",
+        "date_planned": "24.10.2018",
+        "crm_date_planned": "2018-10-24",
+        "crm_create_at": "2018-10-11",
+        "organisation_id": "481",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/491507.jpg"
+          ],
+          "after": [
+            "/upload/image/492959.jpg",
+            "/upload/image/492960.jpg"
+          ]
+        },
+        "category": {
+          "id": "36",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "78264",
+          "name": "Елена",
+          "last_name": "Кожемякина",
+          "middle_name": ""
+        },
+        "description": "Сломаны спуски для колясок на лестницах между детскими садами № 82 и № 84 по ул.Пестрака",
+        "answers": [
+          {
+            "author": "УЖРЭП Октябрьского района г.Гродно",
+            "text": "ЖЭС №14 сообщает, что выполнен ремонт пандуса лестничного марша , расположенного  между детскими садами №№82,84",
+            "date": "12 октября 16:33",
+            "photos": [
+              "/upload/image/492777.jpg",
+              "/upload/image/492778.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.82720947,
+          53.75800705
+        ]
+      },
+      "properties": {
+        "id": "212121",
+        "href": "/problem/212121",
+        "address": "бульвар Ленинского Комсомола, 25",
+        "date_create": "11 октября 2018 13:30",
+        "date_planned": "24.10.2018",
+        "crm_date_planned": "2018-10-24",
+        "crm_create_at": "2018-10-11",
+        "organisation_id": "525",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "57",
+          "parent_id": "9",
+          "icon": "9"
+        },
+        "user": {
+          "id": "78385",
+          "name": "Дмитрий",
+          "last_name": "Скляров",
+          "middle_name": "Григорьевич"
+        },
+        "description": "В общежитии на блк 25 что бы получить горячую воду, нужно сливать холодную воду  от мин30, а утром  доходит до 2-3 часов",
+        "answers": [
+          {
+            "author": "УЖРЭП Ленинского района г.Гродно",
+            "text": "Общежитие № 25 по БЛК находится на балансе ШТФ \"Элод\"  и не находится на обслуживании предприятия. Данный вопрос не в нашей компетенции.",
+            "date": "12 октября 9:21"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.80303955,
+          53.62462616
+        ]
+      },
+      "properties": {
+        "id": "211809",
+        "href": "/problem/211809",
+        "address": "Огинского, 46",
+        "date_create": "11 октября 2018 13:17",
+        "date_planned": "23.10.2018",
+        "crm_date_planned": "2018-10-23",
+        "crm_create_at": "2018-10-11",
+        "organisation_id": "477",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/491130.jpg",
+            "/upload/image/491131.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "30",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "78379",
+          "name": "Алиса",
+          "last_name": "Леонова",
+          "middle_name": ""
+        },
+        "description": "Сломаны 2 скамьи в скверике возле 39 школы, со стороны Огинского 46.",
+        "answers": [
+          {
+            "author": "ГУРСП «Гроднозеленстрой»",
+            "text": "Добрый день!\rБлагодарим за ваш запрос!\rВаше сообщение было перенаправлено в  КУП \"Ремстройавтодор\".\rСпасибо.",
+            "date": "12 октября 11:45"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.11911201,
+          52.43128204
+        ]
+      },
+      "properties": {
+        "id": "211804",
+        "href": "/problem/211804",
+        "address": "Южная улица, 2",
+        "date_create": "11 октября 2018 13:05",
+        "date_planned": "24.10.2018",
+        "crm_date_planned": "2018-10-24",
+        "crm_create_at": "2018-10-11",
+        "organisation_id": "481",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "57",
+          "parent_id": "9",
+          "icon": "9"
+        },
+        "user": {
+          "id": "78373",
+          "name": "Натали",
+          "last_name": "Смит",
+          "middle_name": ""
+        },
+        "description": "Преждевременно на полную мощность включено отопление  в квартирах. На улице уже которую неделю температура держится около 20С. Вынуждены держать окна нараспашку, очень жарко.. Зачем мы за это платим?",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.81377602,
+          53.67140579
+        ]
+      },
+      "properties": {
+        "id": "211721",
+        "href": "/problem/211721",
+        "address": "ул. Гоголя 11",
+        "date_create": "11 октября 2018 10:58",
+        "date_planned": "23.10.2018",
+        "crm_date_planned": "2018-10-23",
+        "crm_create_at": "2018-10-11",
+        "organisation_id": "481",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/490951.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "78301",
+          "name": "Иван",
+          "last_name": "Шершун",
+          "middle_name": ""
+        },
+        "description": "На въезде к парковке авто во дворе по ул. Гоголя 11 отсутствует часть асфальта и очень большие ямы.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.88247871,
+          53.71188354
+        ]
+      },
+      "properties": {
+        "id": "211717",
+        "href": "/problem/211717",
+        "address": "ул. Центральная, 3",
+        "date_create": "11 октября 2018 10:47",
+        "date_planned": "29.10.2018",
+        "crm_date_planned": "2018-10-29",
+        "crm_create_at": "2018-10-11",
+        "organisation_id": "526",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "78336",
+          "name": "Maestro",
+          "last_name": "Maestro",
+          "middle_name": ""
+        },
+        "description": "Выбоины по краю проезжей части, ночью можно не заметить, особенно в дождливую погоду.",
+        "answers": [
+          {
+            "author": "КУП «Ремстройавтодор» г.Гродно",
+            "text": "В связи с окончанием договорных отношений на производство работ по ямочному ремонту улиц с ОУПП \"Гродненское городское жилищно-коммунальное хозяйство\", выполнить работы не предоставляется возможным",
+            "date": "17 октября 14:00"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.85808372,
+          53.71380234
+        ]
+      },
+      "properties": {
+        "id": "211609",
+        "href": "/problem/211609",
+        "address": "Центральная улица, 3",
+        "date_create": "11 октября 2018 8:49",
+        "date_planned": "23.10.2018",
+        "crm_date_planned": "2018-10-23",
+        "crm_create_at": "2018-10-11",
+        "organisation_id": "481",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/490801.jpg",
+            "/upload/image/490802.jpg",
+            "/upload/image/490803.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "78299",
+          "name": "Андрей",
+          "last_name": "Barfalts",
+          "middle_name": ""
+        },
+        "description": "выбоины на проезжей части  во дворе",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.77970314,
+          53.66354752
+        ]
+      },
+      "properties": {
+        "id": "211434",
+        "href": "/problem/211434",
+        "address": "ул. Фолюш, д. 15/207",
+        "date_create": "10 октября 2018 17:17",
+        "date_planned": "23.10.2018",
+        "crm_date_planned": "2018-10-23",
+        "crm_create_at": "2018-10-10",
+        "organisation_id": "477",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "77690",
+          "name": "Valery",
+          "last_name": "Petushynski",
+          "middle_name": ""
+        },
+        "description": "ул. Фолюш, д. 15/207 Выбоина на проезжей части, невозможно ездить",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8338356,
+          53.65218353
+        ]
+      },
+      "properties": {
+        "id": "211424",
+        "href": "/problem/211424",
+        "address": "ул.Пестрака ,4",
+        "date_create": "10 октября 2018 16:29",
+        "date_planned": "23.10.2018",
+        "crm_date_planned": "2018-10-23",
+        "crm_create_at": "2018-10-10",
+        "organisation_id": "481",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "68611",
+          "name": "Евгений",
+          "last_name": "Афродизиак",
+          "middle_name": ""
+        },
+        "description": "Яма во дворе напротив первого подъезда ул.Пестрака ,4",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.80273628,
+          53.70333862
+        ]
+      },
+      "properties": {
+        "id": "211324",
+        "href": "/problem/211324",
+        "address": "ул. Врублевского, 56",
+        "date_create": "10 октября 2018 12:35",
+        "date_planned": "23.10.2018",
+        "crm_date_planned": "2018-10-23",
+        "crm_create_at": "2018-10-10",
+        "organisation_id": "482",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+            "/upload/image/491774.jpg",
+            "/upload/image/491775.jpg"
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "78192",
+          "name": "Житель",
+          "last_name": "Гродно",
+          "middle_name": ""
+        },
+        "description": "Длительное время не асфальтируется двор после проведенных раскопок (ул. Врублевского, 56)",
+        "answers": [
+          {
+            "author": "УЖРЭП Ленинского района г.Гродно",
+            "text": "Восстановление (раскопки) пешеходных дорожек после кап. ремонта тепловых сетей произведено",
+            "date": "11 октября 15:09",
+            "photos": [
+              "/upload/image/491391.jpg",
+              "/upload/image/491392.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.81570816,
+          53.70473862
+        ]
+      },
+      "properties": {
+        "id": "211258",
+        "href": "/problem/211258",
+        "address": "",
+        "date_create": "10 октября 2018 11:31",
+        "date_planned": "22.10.2018",
+        "crm_date_planned": "2018-10-22",
+        "crm_create_at": "2018-10-10",
+        "organisation_id": "477",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "314",
+          "parent_id": "23",
+          "icon": "23"
+        },
+        "user": {
+          "id": "78050",
+          "name": "Александр",
+          "last_name": "Архипов",
+          "middle_name": ""
+        },
+        "description": "Конструкция остановочного павильона по ул. Курчатова \"Сквер афганцев\" смещена, грозит обрушением",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.79215813,
+          53.66387558
+        ]
+      },
+      "properties": {
+        "id": "211248",
+        "href": "/problem/211248",
+        "address": "ул. Репина, 1А",
+        "date_create": "10 октября 2018 11:03",
+        "date_planned": "22.10.2018",
+        "crm_date_planned": "2018-10-22",
+        "crm_create_at": "2018-10-10",
+        "organisation_id": "477",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/490010.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "71556",
+          "name": "Vadzim",
+          "last_name": "Snop",
+          "middle_name": ""
+        },
+        "description": "Тротуар требует ремонта с одновременной заменой и понижением уровня дорожного борта в местах пересечения тротуара с проезжей частью. Заезд к дому по ул. Репина, 1А.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.79092598,
+          53.66421127
+        ]
+      },
+      "properties": {
+        "id": "211213",
+        "href": "/problem/211213",
+        "address": "ул. Репина, 5",
+        "date_create": "10 октября 2018 10:33",
+        "date_planned": "29.10.2018",
+        "crm_date_planned": "2018-10-29",
+        "crm_create_at": "2018-10-10",
+        "organisation_id": "526",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/489963.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "71556",
+          "name": "Vadzim",
+          "last_name": "Snop",
+          "middle_name": ""
+        },
+        "description": "Асфальтобетонное покрытие остановочного пункта общественного транспорта напротив дома по ул. Репина, 5, находится в критическом состоянии и требует безотлагательного ремонта.",
+        "answers": [
+          {
+            "author": "КУП «Ремстройавтодор» г.Гродно",
+            "text": "В связи с окончанием договорных отношений на производство работ по текущему ремонту элементов благоустройства с ОУПП \"Гродненское городское ЖКХ\", выполнить работы не предоставляется возможным",
+            "date": "17 октября 14:45"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.78029823,
+          53.66553116
+        ]
+      },
+      "properties": {
+        "id": "211208",
+        "href": "/problem/211208",
+        "address": "ул. Фолюш, 15/201А",
+        "date_create": "10 октября 2018 10:17",
+        "date_planned": "22.10.2018",
+        "crm_date_planned": "2018-10-22",
+        "crm_create_at": "2018-10-10",
+        "organisation_id": "481",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/489915.jpg",
+            "/upload/image/489916.jpg",
+            "/upload/image/489917.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "71556",
+          "name": "Vadzim",
+          "last_name": "Snop",
+          "middle_name": ""
+        },
+        "description": "Многочисленные ямы и повреждения проезжей части по ул. Фолюш, 15/201А (начиная со въезда в жилую зону и ниже).",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.78400993,
+          53.65939331
+        ]
+      },
+      "properties": {
+        "id": "211192",
+        "href": "/problem/211192",
+        "address": "ул. Соломовой, 98",
+        "date_create": "10 октября 2018 9:34",
+        "date_planned": "22.10.2018",
+        "crm_date_planned": "2018-10-22",
+        "crm_create_at": "2018-10-10",
+        "organisation_id": "481",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/489895.jpg",
+            "/upload/image/489896.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "77971",
+          "name": "дмитрий",
+          "last_name": "Тумилевич",
+          "middle_name": "Романович"
+        },
+        "description": "Ямы во дворе по ул. О. Соломовой 98-100, возле гимназии №4, магазина Евроопт!!!!",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.82800484,
+          53.68195343
+        ]
+      },
+      "properties": {
+        "id": "211178",
+        "href": "/problem/211178",
+        "address": "ул. Доминиканская, 19",
+        "date_create": "10 октября 2018 9:17",
+        "date_planned": "22.10.2018",
+        "crm_date_planned": "2018-10-22",
+        "crm_create_at": "2018-10-10",
+        "organisation_id": "482",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+            "/upload/image/492612.jpg"
+          ]
+        },
+        "category": {
+          "id": "118",
+          "parent_id": "12",
+          "icon": "12"
+        },
+        "user": {
+          "id": "78151",
+          "name": "Андрей",
+          "last_name": "Почебут",
+          "middle_name": "Иосифович"
+        },
+        "description": "Гродно. ул. Доминиканская дом 19 кв. 2. Весной 2018 года было обращение в ЖЭС №5 по причине течи батареи. Специалисты придя, демонтировали и сообщали что будут менять. Батареи до сих пор нету",
+        "answers": [
+          {
+            "author": "УЖРЭП Ленинского района г.Гродно",
+            "text": "Прибор отопления установлен",
+            "date": "12 октября 12:39",
+            "photos": [
+              "/upload/image/492327.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.82688141,
+          53.67670059
+        ]
+      },
+      "properties": {
+        "id": "211427",
+        "href": "/problem/211427",
+        "address": "Давида Городенского 2",
+        "date_create": "10 октября 2018 8:45",
+        "date_planned": "24.10.2018",
+        "crm_date_planned": "2018-10-24",
+        "crm_create_at": "2018-10-10",
+        "organisation_id": "527",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+            "/upload/image/494802.jpg"
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "77989",
+          "name": "Андрей",
+          "last_name": "Томчик",
+          "middle_name": "Влалимирович"
+        },
+        "description": "Во втором подъезде прокладывали каналы для оптики, повредели проводку, отвечающаю за свет в подъезде. Вот уже 5 дней никто её не восстанавливарт, хотя люди жалуются каждый день",
+        "answers": [
+          {
+            "author": "УЖРЭП Ленинского района г.Гродно",
+            "text": "В адрес белтелеком Гродно направлено письмо о срочном восстановлении освещения в подъезде после проведения работ по прокладке опто-волокна и повреждения электропроводки в подъезде",
+            "date": "12 октября 11:47",
+            "photos": [
+              "/upload/image/492271.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.85857582,
+          53.62726593
+        ]
+      },
+      "properties": {
+        "id": "211097",
+        "href": "/problem/211097",
+        "address": "Рогачевского, 33",
+        "date_create": "9 октября 2018 22:54",
+        "date_planned": "22.10.2018",
+        "crm_date_planned": "2018-10-22",
+        "crm_create_at": "2018-10-09",
+        "organisation_id": "481",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/489771.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "71610",
+          "name": "Маразмус",
+          "last_name": "Нолемоций",
+          "middle_name": ""
+        },
+        "description": "На протяжении длительного времени при подъезде к дому №33 по ул. Рогачевского, г. Гродно на проезжей части двора зафиксированы ямы (выбоины) на всю ширину.\rСъезд с ул. Центральной на ул. Рогачевского.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.84458733,
+          53.64692307
+        ]
+      },
+      "properties": {
+        "id": "213926",
+        "href": "/problem/213926",
+        "address": "проспект Клецкова 11",
+        "date_create": "9 октября 2018 20:12",
+        "date_planned": "29.10.2018",
+        "crm_date_planned": "2018-10-29",
+        "crm_create_at": "2018-10-09",
+        "organisation_id": "526",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "369",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "77839",
+          "name": "Гражданин",
+          "last_name": "Законопослушный",
+          "middle_name": ""
+        },
+        "description": "Проспккт Клецкова 11, 4 подъезд. В подъезде делали капремонт. До конца не довели. После покраски кнопки лифта застревают. Нумерацию квартир на счётчиках света не нанесли. Лифт внутри не покрашен.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.82637405,
+          53.66621017
+        ]
+      },
+      "properties": {
+        "id": "210985",
+        "href": "/problem/210985",
+        "address": "ул. Курбатова, 4",
+        "date_create": "9 октября 2018 17:58",
+        "date_planned": "22.10.2018",
+        "crm_date_planned": "2018-10-22",
+        "crm_create_at": "2018-10-09",
+        "organisation_id": "477",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/489630.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "71556",
+          "name": "Vadzim",
+          "last_name": "Snop",
+          "middle_name": ""
+        },
+        "description": "Необходимо произвести ремонт тротуара с занижением дорожного борта (подход к лестнице по ул. Курбатова, 4). Существует риск травмирования пешеходов и велосипедистов.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.83997345,
+          53.64492798
+        ]
+      },
+      "properties": {
+        "id": "213047",
+        "href": "/problem/213047",
+        "address": "Индурское шоссе д.4 ",
+        "date_create": "9 октября 2018 17:24",
+        "date_planned": "22.10.2018",
+        "crm_date_planned": "2018-10-22",
+        "crm_create_at": "2018-10-09",
+        "organisation_id": "476",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/493756.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "48",
+          "parent_id": "7",
+          "icon": "7"
+        },
+        "user": {
+          "id": "78056",
+          "name": "taxikos",
+          "last_name": "",
+          "middle_name": ""
+        },
+        "description": "Крышка левого бака смешанных отходов не фиксируется в открытом положении.  Правый бак заполняется,  мусор ставят рядом,  а  левый остаётся пуст.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.80531502,
+          53.66591263
+        ]
+      },
+      "properties": {
+        "id": "210963",
+        "href": "/problem/210963",
+        "address": "ул. Гонионская,  32",
+        "date_create": "9 октября 2018 16:57",
+        "date_planned": "23.10.2018",
+        "crm_date_planned": "2018-10-23",
+        "crm_create_at": "2018-10-09",
+        "organisation_id": "477",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/489568.jpg",
+            "/upload/image/489569.jpg",
+            "/upload/image/489570.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "78043",
+          "name": "Денис",
+          "last_name": "Михайлов",
+          "middle_name": "Сергеевич"
+        },
+        "description": "Парковка на улице Гонионская, напротив дома 32.\rЛюк выступает на 15 сантиметров.",
+        "answers": [
+          {
+            "author": "ГУКПП \"Гродноводоканал\"",
+            "text": "На запрос №222306 ГУКПП \"Гродноводоканал\" информирует: 10.10.2018 г. с выездом на место было установлено, что по адресу ул.Гонионская 32 выступает колодец ливневой канализации.",
+            "date": "11 октября 8:37"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.84397697,
+          53.6712532
+        ]
+      },
+      "properties": {
+        "id": "210931",
+        "href": "/problem/210931",
+        "address": "рядом с Стародворецкая улица, 22",
+        "date_create": "9 октября 2018 15:52",
+        "date_planned": "26.10.2018",
+        "crm_date_planned": "2018-10-26",
+        "crm_create_at": "2018-10-09",
+        "organisation_id": "526",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "369",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "78020",
+          "name": "Нелли",
+          "last_name": "Иванова",
+          "middle_name": "Степановна"
+        },
+        "description": "На какой год запланирован капитальный ремонт дома по адресу переулок Пороховой 3",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.84549522,
+          53.68540573
+        ]
+      },
+      "properties": {
+        "id": "210899",
+        "href": "/problem/210899",
+        "address": "Буденного, 48А",
+        "date_create": "9 октября 2018 14:51",
+        "date_planned": "22.10.2018",
+        "crm_date_planned": "2018-10-22",
+        "crm_create_at": "2018-10-09",
+        "organisation_id": "481",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/489317.jpg",
+            "/upload/image/489318.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "280",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "77890",
+          "name": "Сергей",
+          "last_name": "Чаботько",
+          "middle_name": ""
+        },
+        "description": "Более года на берегу реки Городничанка (ближе к зданию по ул. Буденного, 54Б) перед въездом на внутреннюю парковку по ул. Буденного, 48А стоит брошенный автомобиль",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.81249809,
+          53.67440796
+        ]
+      },
+      "properties": {
+        "id": "210893",
+        "href": "/problem/210893",
+        "address": "Мира 9",
+        "date_create": "9 октября 2018 14:44",
+        "date_planned": "22.10.2018",
+        "crm_date_planned": "2018-10-22",
+        "crm_create_at": "2018-10-09",
+        "organisation_id": "481",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/489309.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "29",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "77688",
+          "name": "Гродно",
+          "last_name": "Город",
+          "middle_name": ""
+        },
+        "description": "После проведение работ по замене теплотрассы около дома по ул. Мира 9 в г. Гродно, покрытие спортивной площадки восстановили, но не вернули футбольные ворота, которые были установлены тут то ремонта.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.82993317,
+          53.66339493
+        ]
+      },
+      "properties": {
+        "id": "210886",
+        "href": "/problem/210886",
+        "address": "ул. Победы",
+        "date_create": "9 октября 2018 14:38",
+        "date_planned": "22.10.2018",
+        "crm_date_planned": "2018-10-22",
+        "crm_create_at": "2018-10-09",
+        "organisation_id": "526",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/489297.jpg",
+            "/upload/image/489298.jpg",
+            "/upload/image/489299.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "71556",
+          "name": "Vadzim",
+          "last_name": "Snop",
+          "middle_name": ""
+        },
+        "description": "Тротуар на путепроводе по ул. Победы с обеих его сторон, а также тротуар, ведущий к данному путепроводу со стороны ул. Линейной требует ремонта.",
+        "answers": [
+          {
+            "author": "КУП «Ремстройавтодор» г.Гродно",
+            "text": "В связи с окончанием договорных отношений на производство работ по текущему ремонту элементов благоустройства с ОУПП \"Гродненское городское ЖКХ\", выполнить работы не предоставляется возможным",
+            "date": "17 октября 14:04"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.85570526,
+          53.70995712
+        ]
+      },
+      "properties": {
+        "id": "210773",
+        "href": "/problem/210773",
+        "address": "рядом с Центральная улица, 3",
+        "date_create": "9 октября 2018 12:31",
+        "date_planned": "26.10.2018",
+        "crm_date_planned": "2018-10-26",
+        "crm_create_at": "2018-10-09",
+        "organisation_id": "481",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "94",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "77966",
+          "name": "Галина",
+          "last_name": "Мысливец",
+          "middle_name": ""
+        },
+        "description": "Уже 2 года протекает козырек подъезда №1. Из-за протекания портится стена. Обращались в ЖЭС 24 неоднократно, а трещина в стене подъезда все больше.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.96553993,
+          52.43637848
+        ]
+      },
+      "properties": {
+        "id": "210693",
+        "href": "/problem/210693",
+        "address": "улица Дзержинского, 114",
+        "date_create": "9 октября 2018 10:00",
+        "date_planned": "29.10.2018",
+        "crm_date_planned": "2018-10-29",
+        "crm_create_at": "2018-10-09",
+        "organisation_id": "482",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "296",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "77857",
+          "name": "Ирина",
+          "last_name": "Сазонова",
+          "middle_name": "Ивановна"
+        },
+        "description": "Адрес не указывается корректно. Поэтому уточняю.  Вьезд с улицы Дзержинского  между домами 143 и 163 дорога со сплошными ямами. Уже года два не было ямочного ремонта, некоторые ямы глубокие.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.83280945,
+          53.6812706
+        ]
+      },
+      "properties": {
+        "id": "210689",
+        "href": "/problem/210689",
+        "address": "ул. Калючинская, 8",
+        "date_create": "9 октября 2018 9:46",
+        "date_planned": "23.10.2018",
+        "crm_date_planned": "2018-10-23",
+        "crm_create_at": "2018-10-09",
+        "organisation_id": "477",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/488947.jpg",
+            "/upload/image/488948.jpg"
+          ],
+          "after": [
+            "/upload/image/491099.jpg"
+          ]
+        },
+        "category": {
+          "id": "324",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "77908",
+          "name": "Максим",
+          "last_name": "Гнатив",
+          "middle_name": "Петрович"
+        },
+        "description": "установите пожалуйста полусферу или клумбу или хоть столбик на единственной пешеходной дорожке от дома по ул. калючинской д8 на ул. урицкого \rпостоянно паркуются машины - невозможно выйти со двора",
+        "answers": [
+          {
+            "author": "УЖРЭП Ленинского района г.Гродно",
+            "text": "Вопрос установки препятствий на общегородских тротуарах входит в компетенцию КУП \"Ремстройавтодор\" , либо в соответствии с ниже приложенным файлов в компетенции ОУПП \"Гродненское городское ЖКХ\"",
+            "date": "11 октября 11:04",
+            "photos": [
+              "/upload/image/490949.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.96901512,
+          52.43962479
+        ]
+      },
+      "properties": {
+        "id": "210656",
+        "href": "/problem/210656",
+        "address": "улица Горького, 88",
+        "date_create": "9 октября 2018 9:09",
+        "date_planned": "23.10.2018",
+        "crm_date_planned": "2018-10-23",
+        "crm_create_at": "2018-10-09",
+        "organisation_id": "477",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/488890.jpg",
+            "/upload/image/488891.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "77874",
+          "name": "Иван",
+          "last_name": "Некрасов",
+          "middle_name": "Владимирович"
+        },
+        "description": "Во дворе дома 88 год назад перекладывали трубы, через год (летом) просел грунт, тротуарная плитка висит в воздухе. Рядом часто бегают дети, есть вероятность получить травму провалившись под землю.",
+        "answers": [
+          {
+            "author": "УЖРЭП Ленинского района г.Гродно",
+            "text": "Ремонт общегородских пешеходных связей в данном случае вблизи подземного перехода по ул. Горького осуществляется КУП \"Ремстройавтодор\"",
+            "date": "11 октября 14:28"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.99290085,
+          52.35432434
+        ]
+      },
+      "properties": {
+        "id": "210646",
+        "href": "/problem/210646",
+        "address": "улица Мира, 9",
+        "date_create": "9 октября 2018 8:57",
+        "date_planned": "19.10.2018",
+        "crm_date_planned": "2018-10-19",
+        "crm_create_at": "2018-10-09",
+        "organisation_id": "481",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/488866.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "77688",
+          "name": "Гродно",
+          "last_name": "Город",
+          "middle_name": ""
+        },
+        "description": "После замены теплотрассы с торца дома по ул. Мира, 9 была демонтирована асфальтированная пешеходная дорожка, которую не восстановили.Через этот участок проходит большое количество местных жителей",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.96901512,
+          52.43962479
+        ]
+      },
+      "properties": {
+        "id": "210635",
+        "href": "/problem/210635",
+        "address": "улица Горького, 88",
+        "date_create": "9 октября 2018 8:31",
+        "date_planned": "19.10.2018",
+        "crm_date_planned": "2018-10-19",
+        "crm_create_at": "2018-10-09",
+        "organisation_id": "482",
+        "status": "5",
+        "rating": "1",
+        "photo": {
+          "before": [
+            "/upload/image/488842.jpg",
+            "/upload/image/488843.jpg"
+          ],
+          "after": [
+            "/upload/image/490841.jpg",
+            "/upload/image/490842.jpg"
+          ]
+        },
+        "category": {
+          "id": "154",
+          "parent_id": "14",
+          "icon": "14"
+        },
+        "user": {
+          "id": "77874",
+          "name": "Иван",
+          "last_name": "Некрасов",
+          "middle_name": "Владимирович"
+        },
+        "description": "Подъезд номер 3, окна в подъезде не моются",
+        "answers": [
+          {
+            "author": "УЖРЭП Ленинского района г.Гродно",
+            "text": "Работы выполнены.",
+            "date": "11 октября 9:32",
+            "photos": [
+              "/upload/image/490826.jpg",
+              "/upload/image/490827.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.03325653,
+          52.36428833
+        ]
+      },
+      "properties": {
+        "id": "210634",
+        "href": "/problem/210634",
+        "address": "4-й переулок дальний, рядом с домами 1 и 2",
+        "date_create": "9 октября 2018 8:31",
+        "date_planned": "26.10.2018",
+        "crm_date_planned": "2018-10-26",
+        "crm_create_at": "2018-10-09",
+        "organisation_id": "477",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "290",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "77882",
+          "name": "Евгений",
+          "last_name": "Бернацкий",
+          "middle_name": "Леонидович"
+        },
+        "description": "Огромная вы блина на дороге между указанными домами, и и вся дорога в ямах",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.96901512,
+          52.43962479
+        ]
+      },
+      "properties": {
+        "id": "210633",
+        "href": "/problem/210633",
+        "address": "улица Горького, 88",
+        "date_create": "9 октября 2018 8:28",
+        "date_planned": "19.10.2018",
+        "crm_date_planned": "2018-10-19",
+        "crm_create_at": "2018-10-09",
+        "organisation_id": "482",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/488837.jpg",
+            "/upload/image/488838.jpg",
+            "/upload/image/488839.jpg"
+          ],
+          "after": [
+            "/upload/image/491096.jpg",
+            "/upload/image/491097.jpg"
+          ]
+        },
+        "category": {
+          "id": "151",
+          "parent_id": "14",
+          "icon": "14"
+        },
+        "user": {
+          "id": "77874",
+          "name": "Иван",
+          "last_name": "Некрасов",
+          "middle_name": "Владимирович"
+        },
+        "description": "Не убираются подъезды, в лучшем случае крайне редко подметание, месяцами нет влажной уборки, пятна между этажами не исчезают месяцами. График уборки не соблюдается. ЖЭС 9.",
+        "answers": [
+          {
+            "author": "УЖРЭП Ленинского района г.Гродно",
+            "text": "Согласно установленной периодичности на предприятии уборка МОП осуществляется 1 раз в месяц -  влажная, 3 раза в неделю подметание. График уборки в наличии и соблюдается.",
+            "date": "11 октября 10:26",
+            "photos": [
+              "/upload/image/490886.jpg",
+              "/upload/image/490887.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.84320641,
+          53.64759827
+        ]
+      },
+      "properties": {
+        "id": "210631",
+        "href": "/problem/210631",
+        "address": "пр-т Клецкова, 3",
+        "date_create": "9 октября 2018 8:07",
+        "date_planned": "19.10.2018",
+        "crm_date_planned": "2018-10-19",
+        "crm_create_at": "2018-10-09",
+        "organisation_id": "481",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/495545.jpg"
+          ],
+          "after": [
+            "/upload/image/495546.jpg"
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "77867",
+          "name": "анастасия",
+          "last_name": "цидик",
+          "middle_name": "андреевна"
+        },
+        "description": "на первом этаже подъезда №1 по адресу пр-т клецкова д.3 отсутствует освещение,что приводит к неудобствам особенно вечером!",
+        "answers": [
+          {
+            "author": "УЖРЭП Октябрьского района г.Гродно",
+            "text": "Работы по восстановлению освещения на первом этаже первого подъезда жилого дома №3 по пр.Клецкова выполнены.",
+            "date": "16 октября 16:11",
+            "photos": [
+              "/upload/image/495110.jpg",
+              "/upload/image/495111.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.84319496,
+          53.6476059
+        ]
+      },
+      "properties": {
+        "id": "210629",
+        "href": "/problem/210629",
+        "address": "пр-т Клецкова, 3",
+        "date_create": "9 октября 2018 8:05",
+        "date_planned": "19.10.2018",
+        "crm_date_planned": "2018-10-19",
+        "crm_create_at": "2018-10-09",
+        "organisation_id": "481",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+            "/upload/image/496026.jpg"
+          ]
+        },
+        "category": {
+          "id": "156",
+          "parent_id": "14",
+          "icon": "14"
+        },
+        "user": {
+          "id": "77867",
+          "name": "анастасия",
+          "last_name": "цидик",
+          "middle_name": "андреевна"
+        },
+        "description": "по пр-ту Клецкова д.3, 1-й подъезд подвальное помещение находятся блохи,каждый раз травят а эффекта нет,как были блохи так и остались.Теперь блохи появляются и на этажах и лестничных площадках подъезд",
+        "answers": [
+          {
+            "author": "УЖРЭП Октябрьского района г.Гродно",
+            "text": "В подвальном помещении 1 подъезда и подвальной ячейки квартиры №39 жилого дома №3 по пр.Клецкова выполнены дезинсекционные мероприятия против блох.",
+            "date": "17 октября 11:25",
+            "photos": [
+              "/upload/image/495695.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.80377579,
+          53.70514679
+        ]
+      },
+      "properties": {
+        "id": "210560",
+        "href": "/problem/210560",
+        "address": "Врублевского, 62",
+        "date_create": "8 октября 2018 23:15",
+        "date_planned": "19.10.2018",
+        "crm_date_planned": "2018-10-19",
+        "crm_create_at": "2018-10-08",
+        "organisation_id": "482",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/488762.png",
+            "/upload/image/488763.png"
+          ],
+          "after": [
+            "/upload/image/491772.jpg"
+          ]
+        },
+        "category": {
+          "id": "156",
+          "parent_id": "14",
+          "icon": "14"
+        },
+        "user": {
+          "id": "77819",
+          "name": "Ольга",
+          "last_name": "Новицкая",
+          "middle_name": ""
+        },
+        "description": "Врублевского 62, 2 подъезд. Уборщик длительное время не моет подъезд.Неоднократные обращения в ЖЭС №9 не помогли. После жалобы в КЗиП «полили» пол водой. Вымыть нормально подъезд отказались.",
+        "answers": [
+          {
+            "author": "УЖРЭП Ленинского района г.Гродно",
+            "text": "Мойка произведена. Необходимый ремонт МОП осуществляется за счет средств собственников и нанимателей жилых помещений (Пост. МЖКХ РБ от 30.03.2016 № 5 с изменениями и дополнениями).",
+            "date": "11 октября 16:30",
+            "photos": [
+              "/upload/image/491543.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.83593941,
+          53.61739731
+        ]
+      },
+      "properties": {
+        "id": "210540",
+        "href": "/problem/210540",
+        "address": "Балицкого,28",
+        "date_create": "8 октября 2018 22:23",
+        "date_planned": "26.10.2018",
+        "crm_date_planned": "2018-10-26",
+        "crm_create_at": "2018-10-08",
+        "organisation_id": "476",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "45",
+          "parent_id": "7",
+          "icon": "7"
+        },
+        "user": {
+          "id": "77809",
+          "name": "Михаил",
+          "last_name": "Хомяк",
+          "middle_name": "Николаевич"
+        },
+        "description": "27 сентября - 4-й четверг месяца не забрали пластиковый мусор по ул. Балицкого. Дом 28. Оплачиваем за вывоз отходов около 10 рублей ежемесячно. Собираем смешанный, пластиковый мусор и стекло раздельно",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.88921547,
+          53.67539215
+        ]
+      },
+      "properties": {
+        "id": "213608",
+        "href": "/problem/213608",
+        "address": "Карского 51",
+        "date_create": "8 октября 2018 21:57",
+        "date_planned": "19.10.2018",
+        "crm_date_planned": "2018-10-19",
+        "crm_create_at": "2018-10-08",
+        "organisation_id": "477",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/494699.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "77803",
+          "name": "Андрей",
+          "last_name": "Сыч",
+          "middle_name": "Александрович"
+        },
+        "description": "Карского 51,поворот на цех подсобного хозяйства Гродно азот.Огромные ямы на обочине,после дождя собирают большие лужи и проезд по дороге становится почти невозможен. Упорядочите данный участок дороги!",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.99466515,
+          52.43510056
+        ]
+      },
+      "properties": {
+        "id": "210509",
+        "href": "/problem/210509",
+        "address": "улица Курчатова, 9",
+        "date_create": "8 октября 2018 21:08",
+        "date_planned": "18.10.2018",
+        "crm_date_planned": "2018-10-18",
+        "crm_create_at": "2018-10-08",
+        "organisation_id": "475",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "299",
+          "parent_id": "21",
+          "icon": "21"
+        },
+        "user": {
+          "id": "77776",
+          "name": "Андрей",
+          "last_name": "Габрукевич",
+          "middle_name": "Леонидович"
+        },
+        "description": "В сквере памяти воинов авганцев около озера и около кафе ранчо нет света совсем. Как пройти через озера вечером неизвестно.",
+        "answers": [
+          {
+            "author": "Гродненское УКПП «Горсвет»",
+            "text": "Гродненское УКПП \"Горсвет\" сообщает, что в сквере афганцев по ул.Курчатова в светильниках наружного освещения произведена замена модулей.  Наружное освещение работает в штатном режиме.",
+            "date": "15 октября 16:28"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.10100365,
+          52.4334259
+        ]
+      },
+      "properties": {
+        "id": "210506",
+        "href": "/problem/210506",
+        "address": "Улица Томина,14а",
+        "date_create": "8 октября 2018 21:05",
+        "date_planned": "19.10.2018",
+        "crm_date_planned": "2018-10-19",
+        "crm_create_at": "2018-10-08",
+        "organisation_id": "481",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+            "/upload/image/491770.jpg",
+            "/upload/image/491771.jpg"
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "77269",
+          "name": "Ilona",
+          "last_name": "Dolinskaya",
+          "middle_name": ""
+        },
+        "description": "Отсутствует освещение на лестницах и на этажах,на втором этаже,где почтовые ящики даже нет ламп.",
+        "answers": [
+          {
+            "author": "УЖРЭП Октябрьского района г.Гродно",
+            "text": "Восстановлено освещение в местах общего пользования  у квартиры № 207 дома №14а по ул. Томина г.Гродно",
+            "date": "11 октября 16:02",
+            "photos": [
+              "/upload/image/491499.jpg",
+              "/upload/image/491500.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.96515465,
+          52.436409
+        ]
+      },
+      "properties": {
+        "id": "210495",
+        "href": "/problem/210495",
+        "address": "улица Дзержинского, 115",
+        "date_create": "8 октября 2018 20:18",
+        "date_planned": "19.10.2018",
+        "crm_date_planned": "2018-10-19",
+        "crm_create_at": "2018-10-08",
+        "organisation_id": "526",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/488714.jpg",
+            "/upload/image/488715.jpg",
+            "/upload/image/488716.jpg"
+          ],
+          "after": [
+            "/upload/image/494698.jpg"
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "77766",
+          "name": "Анастасия",
+          "last_name": "Савко",
+          "middle_name": ""
+        },
+        "description": "Очень глубокие ямы и выбоины по всей проезжей части возле дома по улице:Дзержинского 115",
+        "answers": [
+          {
+            "author": "УЖРЭП Ленинского района г.Гродно",
+            "text": "Вопрос проведения ям. рем., не проведения ям. рем., сроки проведения ям. рем.,  силами какой организац в соответствии с ниже приложенным файлом находятся в компетенции ОУПП \"Гродненское городское ЖКХ\"",
+            "date": "11 октября 11:00",
+            "photos": [
+              "/upload/image/490948.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8054409,
+          53.69085693
+        ]
+      },
+      "properties": {
+        "id": "210735",
+        "href": "/problem/210735",
+        "address": "ул. Калиновского, 63а",
+        "date_create": "8 октября 2018 18:51",
+        "date_planned": "19.10.2018",
+        "crm_date_planned": "2018-10-19",
+        "crm_create_at": "2018-10-08",
+        "organisation_id": "477",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/489063.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "291",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "77740",
+          "name": "Сергей",
+          "last_name": "Горчичко",
+          "middle_name": "Алексеевич"
+        },
+        "description": "Просадка люка и водосточной решетки",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.76179504,
+          53.66635895
+        ]
+      },
+      "properties": {
+        "id": "210416",
+        "href": "/problem/210416",
+        "address": "Улица Венечная,",
+        "date_create": "8 октября 2018 17:41",
+        "date_planned": "26.10.2018",
+        "crm_date_planned": "2018-10-26",
+        "crm_create_at": "2018-10-08",
+        "organisation_id": "477",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "77700",
+          "name": "сергей",
+          "last_name": "Shymanovich",
+          "middle_name": "Александрович"
+        },
+        "description": "Улица Венечная,  и съезд с улицы Венечной на улицу Добрую -  на проезжай части ямы, обочина проезжай части улицы Венечной не грезируется, пешеходом не возможно ходить вдоль дороги.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8056469,
+          53.70139694
+        ]
+      },
+      "properties": {
+        "id": "210703",
+        "href": "/problem/210703",
+        "address": "Врублевского, 42",
+        "date_create": "8 октября 2018 17:26",
+        "date_planned": "31.03.2019",
+        "crm_date_planned": "2019-03-31",
+        "crm_create_at": "2018-10-08",
+        "organisation_id": "482",
+        "status": "7",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/488987.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "75987",
+          "name": "Николай",
+          "last_name": "Игнатов",
+          "middle_name": "Геннадьевич"
+        },
+        "description": "Глубокая яма, машины ездя в объезд разрушили бордюрный камень",
+        "answers": [
+          {
+            "author": "КУП «Ремстройавтодор» г.Гродно",
+            "text": "Территория является дворовой,нашим предприятием не обслуживается.Вопрос в компетенции УЖРЭП Ленинского района",
+            "date": "17 октября 9:12"
+          },
+          {
+            "author": "УЖРЭП Ленинского района г.Гродно",
+            "text": "Ям. рем.   в 2018 году не запланирован. Вопрос возможности вып. работ будет рассм. в 2019 году при составлении плана графика текущего-ремонта а/б покрытий при условии достат. бюджетного  финансирован.",
+            "date": "17 октября 14:44"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.83365059,
+          53.68024063
+        ]
+      },
+      "properties": {
+        "id": "210073",
+        "href": "/problem/210073",
+        "address": "Городничанская, 25",
+        "date_create": "8 октября 2018 11:02",
+        "date_planned": "19.10.2018",
+        "crm_date_planned": "2018-10-19",
+        "crm_create_at": "2018-10-08",
+        "organisation_id": "482",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/488031.jpg"
+          ],
+          "after": [
+            "/upload/image/491769.jpg"
+          ]
+        },
+        "category": {
+          "id": "98",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "76167",
+          "name": "Анатолий",
+          "last_name": "Рудский",
+          "middle_name": "Ежевич"
+        },
+        "description": "В доме по ул. Городничанская 25 в подвал через подвод к дому холодной воды попадают все ливневые и талые воды. Вода попадает через щели тротуарной плитки, нет гидроизоляции.",
+        "answers": [
+          {
+            "author": "УЖРЭП Ленинского района г.Гродно",
+            "text": "С целью предотвращения попадания воды произведена герметизация ввода трубопровода холодного водоснабжения. Отмостка жилого дома находится в удовлетворительном состоянии в ремонте не нуждается.",
+            "date": "11 октября 16:49",
+            "photos": [
+              "/upload/image/491653.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.03535843,
+          52.45256805
+        ]
+      },
+      "properties": {
+        "id": "209888",
+        "href": "/problem/209888",
+        "address": "Клёнковская улица, 1",
+        "date_create": "7 октября 2018 22:19",
+        "date_planned": "31.12.2018",
+        "crm_date_planned": "2018-12-31",
+        "crm_create_at": "2018-10-07",
+        "organisation_id": "477",
+        "status": "7",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/487853.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "290",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "75812",
+          "name": "Олег",
+          "last_name": "Сегодник",
+          "middle_name": "Александрович"
+        },
+        "description": "Всегда затоплена дорога. Ул Друцк. Пешеходы выходят на проспект Румлевский дабы обойти это озеро. Причем вода стоит долго после дождей.",
+        "answers": [
+          {
+            "author": "КУП «Ремстройавтодор» г.Гродно",
+            "text": "В IV квартале текущего года  будет произведено обеспечение продольного уклона дорожного полотна, с целью водоотведения поверхностных дождевых вод на перекрестке проспекта Румлевский с ул. Друцк.",
+            "date": "16 октября 16:32"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.96580124,
+          52.50981522
+        ]
+      },
+      "properties": {
+        "id": "209857",
+        "href": "/problem/209857",
+        "address": "Кленовая улица, 35",
+        "date_create": "7 октября 2018 21:02",
+        "date_planned": "19.10.2018",
+        "crm_date_planned": "2018-10-19",
+        "crm_create_at": "2018-10-07",
+        "organisation_id": "481",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "57",
+          "parent_id": "9",
+          "icon": "9"
+        },
+        "user": {
+          "id": "77483",
+          "name": "города",
+          "last_name": "Житель",
+          "middle_name": "Гродно"
+        },
+        "description": "Постоянно завоздушиваются батареи по адресу Кленовая 35-60Приходится каждый вечер спускать воздух из всех батарей.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.00520897,
+          52.4155159
+        ]
+      },
+      "properties": {
+        "id": "209754",
+        "href": "/problem/209754",
+        "address": "Пролетарская улица, 71",
+        "date_create": "7 октября 2018 11:50",
+        "date_planned": "18.10.2018",
+        "crm_date_planned": "2018-10-18",
+        "crm_create_at": "2018-10-07",
+        "organisation_id": "481",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/487732.jpg",
+            "/upload/image/487733.jpg",
+            "/upload/image/487734.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "76614",
+          "name": "Иван",
+          "last_name": "Иванов",
+          "middle_name": "Иванович"
+        },
+        "description": "Добрый день. Большие ямы во дворе дом по адресу ул. Пролетарская, 71. После дождя превращается в большую лужу, въехать и выехать невозможно на легковом автомобиле. Примите меры.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.00520897,
+          52.4155159
+        ]
+      },
+      "properties": {
+        "id": "209752",
+        "href": "/problem/209752",
+        "address": "Пролетарская улица, 71",
+        "date_create": "7 октября 2018 11:43",
+        "date_planned": "18.10.2018",
+        "crm_date_planned": "2018-10-18",
+        "crm_create_at": "2018-10-07",
+        "organisation_id": "481",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+            "/upload/image/492161.jpg"
+          ]
+        },
+        "category": {
+          "id": "63",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "76614",
+          "name": "Иван",
+          "last_name": "Иванов",
+          "middle_name": "Иванович"
+        },
+        "description": "Добрый день! Не работает освещение над подъездом №3 - ул. Пролетарская, 71",
+        "answers": [
+          {
+            "author": "УЖРЭП Октябрьского района г.Гродно",
+            "text": "Освещение у входа в подъезд №3 жилого дома №71 восстановлено.",
+            "date": "12 октября 9:48",
+            "photos": [
+              "/upload/image/492127.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.81506157,
+          53.70684433
+        ]
+      },
+      "properties": {
+        "id": "210360",
+        "href": "/problem/210360",
+        "address": "Горького д.88 кв. 116",
+        "date_create": "6 октября 2018 16:48",
+        "date_planned": "18.10.2018",
+        "crm_date_planned": "2018-10-18",
+        "crm_create_at": "2018-10-06",
+        "organisation_id": "482",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/488506.jpg"
+          ],
+          "after": [
+            "/upload/image/490840.jpg"
+          ]
+        },
+        "category": {
+          "id": "156",
+          "parent_id": "14",
+          "icon": "14"
+        },
+        "user": {
+          "id": "76921",
+          "name": "Ирина",
+          "last_name": "Мешкина",
+          "middle_name": "Александровна"
+        },
+        "description": "Не убирается лестничная клетка.",
+        "answers": [
+          {
+            "author": "УЖРЭП Ленинского района г.Гродно",
+            "text": "Выполнена уборка маршевой лестницы.",
+            "date": "11 октября 9:36",
+            "photos": [
+              "/upload/image/490832.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.80734062,
+          53.66303635
+        ]
+      },
+      "properties": {
+        "id": "210305",
+        "href": "/problem/210305",
+        "address": "пл.Декабристов 1",
+        "date_create": "6 октября 2018 9:20",
+        "date_planned": "18.10.2018",
+        "crm_date_planned": "2018-10-18",
+        "crm_create_at": "2018-10-06",
+        "organisation_id": "481",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/488393.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "68616",
+          "name": "Михаил",
+          "last_name": "Рачинский",
+          "middle_name": "Александрович"
+        },
+        "description": "Напротив подъезда №2 после реконструкции тепловых сетей при восстановлении дорожек не учли пути подхода к мусоркам, приходится ходить выбрасывать мусор по грязи особенно во время дождя.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.84937668,
+          53.67715454
+        ]
+      },
+      "properties": {
+        "id": "210304",
+        "href": "/problem/210304",
+        "address": "пр-т Космонавтов, д. 6",
+        "date_create": "5 октября 2018 22:54",
+        "date_planned": "18.10.2018",
+        "crm_date_planned": "2018-10-18",
+        "crm_create_at": "2018-10-05",
+        "organisation_id": "477",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/488392.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "77347",
+          "name": "Дмитрий ",
+          "last_name": "Рожко ",
+          "middle_name": "Александрович"
+        },
+        "description": "После ремонта теплосети просело асфальтное покрытие. Есть риск получить травму.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.82154846,
+          53.69074249
+        ]
+      },
+      "properties": {
+        "id": "210303",
+        "href": "/problem/210303",
+        "address": "улица калиновского, 5",
+        "date_create": "5 октября 2018 18:45",
+        "date_planned": "18.10.2018",
+        "crm_date_planned": "2018-10-18",
+        "crm_create_at": "2018-10-05",
+        "organisation_id": "482",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "57",
+          "parent_id": "9",
+          "icon": "9"
+        },
+        "user": {
+          "id": "72051",
+          "name": "Владимир ",
+          "last_name": "Кладкевич ",
+          "middle_name": "Владимирович"
+        },
+        "description": "Не работает система отопления",
+        "answers": [
+          {
+            "author": "УЖРЭП Ленинского района г.Гродно",
+            "text": "На запуск системы отопления дается три дня. На регулирование систем отопления еще 10 дней. В жилом доме № 5 по ул. Калиновского отопление дано и развоздушено в 22.00 05.10.2018",
+            "date": "10 октября 12:41"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.95369911,
+          52.46110535
+        ]
+      },
+      "properties": {
+        "id": "209297",
+        "href": "/problem/209297",
+        "address": "улица Максима Богдановича, 6",
+        "date_create": "5 октября 2018 17:50",
+        "date_planned": "18.10.2018",
+        "crm_date_planned": "2018-10-18",
+        "crm_create_at": "2018-10-05",
+        "organisation_id": "482",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "57",
+          "parent_id": "9",
+          "icon": "9"
+        },
+        "user": {
+          "id": "77243",
+          "name": "Игорь",
+          "last_name": "Кулаковский",
+          "middle_name": ""
+        },
+        "description": "Не соответствует стандартам горячее водоснабжение. Ночью из крана с горячей водой течет холодная, в дневное время температура также не достигает установленных норм. Жэс жалобы игнорирует.",
+        "answers": [
+          {
+            "author": "УЖРЭП Ленинского района г.Гродно",
+            "text": "В доме отсутствует циркуляция по горячему водоснабжению, что предполагает ее дополнительный расход на прогрев трубопроводов. Жильцам дается 10% скидка на оплату, в пределах установленной нормы потребления.",
+            "date": "10 октября 16:05"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.95369911,
+          52.46110535
+        ]
+      },
+      "properties": {
+        "id": "209292",
+        "href": "/problem/209292",
+        "address": "улица Максима Богдановича, 6",
+        "date_create": "5 октября 2018 17:44",
+        "date_planned": "18.10.2018",
+        "crm_date_planned": "2018-10-18",
+        "crm_create_at": "2018-10-05",
+        "organisation_id": "482",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+            "/upload/image/490546.jpg",
+            "/upload/image/490547.jpg",
+            "/upload/image/490548.jpg"
+          ]
+        },
+        "category": {
+          "id": "63",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "77243",
+          "name": "Игорь",
+          "last_name": "Кулаковский",
+          "middle_name": ""
+        },
+        "description": "Отсутствует наружное освещение подъездов, во всех 4 подъездах дома, хотя светильники устанавливались. Так как фонарей во дворе нет, это единственный источник света в темное время суток.",
+        "answers": [
+          {
+            "author": "УЖРЭП Ленинского района г.Гродно",
+            "text": "Освещение восстановлено",
+            "date": "10 октября 16:55",
+            "photos": [
+              "/upload/image/490496.jpg",
+              "/upload/image/490497.jpg",
+              "/upload/image/490498.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.825737,
+          53.71302414
+        ]
+      },
+      "properties": {
+        "id": "210229",
+        "href": "/problem/210229",
+        "address": "господарчая 29&#039;1",
+        "date_create": "5 октября 2018 17:23",
+        "date_planned": "19.10.2018",
+        "crm_date_planned": "2018-10-19",
+        "crm_create_at": "2018-10-05",
+        "organisation_id": "477",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/488263.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "291",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "77251",
+          "name": "serafinovich89",
+          "last_name": "",
+          "middle_name": ""
+        },
+        "description": "Яма возле люка",
+        "answers": [
+          {
+            "author": "ГУКПП \"Гродноводоканал\"",
+            "text": "На запрос №220459 ГУКПП «Гродноводоканал» информирует: \r09.10.2018 с выездом на место было установлено, что просадка асфальтного покрытия образовалась у колодца ливневой канализации.",
+            "date": "9 октября 15:38"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.84137917,
+          53.67938232
+        ]
+      },
+      "properties": {
+        "id": "210190",
+        "href": "/problem/210190",
+        "address": "ул. Отечественная, д. 27",
+        "date_create": "5 октября 2018 10:00",
+        "date_planned": "18.10.2018",
+        "crm_date_planned": "2018-10-18",
+        "crm_create_at": "2018-10-05",
+        "organisation_id": "481",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+            "/upload/image/492405.jpg",
+            "/upload/image/492406.jpg",
+            "/upload/image/492407.jpg"
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "68631",
+          "name": "Дмитрий",
+          "last_name": "Карпуть",
+          "middle_name": "Александрович"
+        },
+        "description": "Во втором подъезде не работает светильник возле лифта на первом этаже, и светильники на подъезде над входной дверью, а также фонари во дворе",
+        "answers": [
+          {
+            "author": "УЖРЭП Октябрьского района г.Гродно",
+            "text": "Освещение в подъезде №2 жилого дома №27 восстановлено. Заявка по поводу освещения уличных фонарей была перенаправлена в диспетчерскую горсвет 10.10.2018г.",
+            "date": "12 октября 11:32",
+            "photos": [
+              "/upload/image/492217.jpg",
+              "/upload/image/492218.jpg",
+              "/upload/image/492219.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.85215759,
+          53.71240234
+        ]
+      },
+      "properties": {
+        "id": "213924",
+        "href": "/problem/213924",
+        "address": "лиможа 37/а ул., Гродно 230005, Беларусь",
+        "date_create": "1 октября 2018 12:51",
+        "date_planned": "29.10.2018",
+        "crm_date_planned": "2018-10-29",
+        "crm_create_at": "2018-10-01",
+        "organisation_id": "482",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/495644.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "27",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "72461",
+          "name": "Владимир",
+          "last_name": "Зелинский ",
+          "middle_name": "Владимирович "
+        },
+        "description": "Спил куста , который приносил красоту двора.",
+        "answers": [
+
+        ]
+      }
+    }
+  ]
+}

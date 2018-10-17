@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8163929,
+          53.14788818
+        ]
+      },
+      "properties": {
+        "id": "211304",
+        "href": "/problem/211304",
+        "address": "советская 22",
+        "date_create": "9 августа 2018 11:29",
+        "date_planned": "27.08.2018",
+        "crm_date_planned": "2018-08-27",
+        "crm_create_at": "2018-08-09",
+        "organisation_id": "373",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/490135.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "122",
+          "name": "Тень",
+          "last_name": "Шорца",
+          "middle_name": ""
+        },
+        "description": "Необходимо занижение бордюров в 0",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.81208229,
+          53.14774323
+        ]
+      },
+      "properties": {
+        "id": "211303",
+        "href": "/problem/211303",
+        "address": "перекресток советская пушкина",
+        "date_create": "9 августа 2018 11:18",
+        "date_planned": "27.08.2018",
+        "crm_date_planned": "2018-08-27",
+        "crm_create_at": "2018-08-09",
+        "organisation_id": "373",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/490134.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "122",
+          "name": "Тень",
+          "last_name": "Шорца",
+          "middle_name": ""
+        },
+        "description": "Необходимо занижение бордюров в 0",
+        "answers": [
+
+        ]
+      }
+    }
+  ]
+}

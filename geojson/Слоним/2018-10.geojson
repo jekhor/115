@@ -1,0 +1,320 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.30745125,
+          53.07976532
+        ]
+      },
+      "properties": {
+        "id": "213416",
+        "href": "/problem/213416",
+        "address": "Тополёвая улица, 41",
+        "date_create": "15 октября 2018 22:53",
+        "date_planned": "26.10.2018",
+        "crm_date_planned": "2018-10-26",
+        "crm_create_at": "2018-10-15",
+        "organisation_id": "392",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/494377.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "42",
+          "parent_id": "7",
+          "icon": "7"
+        },
+        "user": {
+          "id": "78783",
+          "name": "Василий",
+          "last_name": "Демянчик",
+          "middle_name": "Александрович"
+        },
+        "description": "Такой бардак творится регулярно после  погрузки и вывоза мусора мусоровозом. Научите пожалуйста водителей оставлять порядок  за собой.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.31293869,
+          53.09671021
+        ]
+      },
+      "properties": {
+        "id": "212047",
+        "href": "/problem/212047",
+        "address": "Слоним,  улица Пушкина,  25",
+        "date_create": "11 октября 2018 23:00",
+        "date_planned": "25.10.2018",
+        "crm_date_planned": "2018-10-25",
+        "crm_create_at": "2018-10-11",
+        "organisation_id": "392",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "27",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "78407",
+          "name": "Сергей",
+          "last_name": "Ремез",
+          "middle_name": "Дмитриевич"
+        },
+        "description": "Прошу обрезать деревья возле дома #29 по улице Пушкина.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.31293869,
+          53.09671021
+        ]
+      },
+      "properties": {
+        "id": "211978",
+        "href": "/problem/211978",
+        "address": "Слоним,  улица Пушкина,  25",
+        "date_create": "11 октября 2018 20:15",
+        "date_planned": "25.10.2018",
+        "crm_date_planned": "2018-10-25",
+        "crm_create_at": "2018-10-11",
+        "organisation_id": "392",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "296",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "78407",
+          "name": "Сергей",
+          "last_name": "Ремез",
+          "middle_name": "Дмитриевич"
+        },
+        "description": "Нет освещения на улице Пушкина от редакции газеты \"Слонимский вестник\" до налоговой. Из 6 фонарей горят только 2.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.30252075,
+          53.09859848
+        ]
+      },
+      "properties": {
+        "id": "212316",
+        "href": "/problem/212316",
+        "address": "Карбышева, 12",
+        "date_create": "11 октября 2018 18:17",
+        "date_planned": "24.10.2018",
+        "crm_date_planned": "2018-10-24",
+        "crm_create_at": "2018-10-11",
+        "organisation_id": "392",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/492724.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "78283",
+          "name": "Наталья",
+          "last_name": "Рукан",
+          "middle_name": ""
+        },
+        "description": "Искусственная неровность, препятствующая проезду и оттоку дождевой воды",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.30480003,
+          53.09933472
+        ]
+      },
+      "properties": {
+        "id": "210004",
+        "href": "/problem/210004",
+        "address": "Слоним ул.Пушкина д.69а",
+        "date_create": "6 октября 2018 15:54",
+        "date_planned": "30.09.2019",
+        "crm_date_planned": "2019-09-30",
+        "crm_create_at": "2018-10-06",
+        "organisation_id": "392",
+        "status": "7",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/487944.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "77418",
+          "name": "Вера",
+          "last_name": "Ткаченко",
+          "middle_name": "Васильевна"
+        },
+        "description": "Ямы на дороге возле д.69а ул. Пушкина. Въезд во двор.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3808074,
+          5.22161436
+        ]
+      },
+      "properties": {
+        "id": "210001",
+        "href": "/problem/210001",
+        "address": "Ершова ",
+        "date_create": "6 октября 2018 15:31",
+        "date_planned": "30.08.2019",
+        "crm_date_planned": "2019-08-30",
+        "crm_create_at": "2018-10-06",
+        "organisation_id": "392",
+        "status": "7",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/487943.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "77418",
+          "name": "Вера",
+          "last_name": "Ткаченко",
+          "middle_name": "Васильевна"
+        },
+        "description": "Тротуар ведущий во дворы ул. Ершова (возле зеленой зоны д.22)весь в ямах. Люди вытоптали рядом тропинку чтобы ходить.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.32326698,
+          53.08272552
+        ]
+      },
+      "properties": {
+        "id": "207046",
+        "href": "/problem/207046",
+        "address": "Красноармейская улица, 78",
+        "date_create": "2 октября 2018 20:26",
+        "date_planned": "30.11.2018",
+        "crm_date_planned": "2018-11-30",
+        "crm_create_at": "2018-10-02",
+        "organisation_id": "392",
+        "status": "7",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "72895",
+          "name": "Наталья",
+          "last_name": "Ерш",
+          "middle_name": "Александровна"
+        },
+        "description": "около дома N4и библиотекой по ул.Черняховского, а так же на выезде из микрорайона около стоянки домов 85-87, имеются ямы. Они приводит к препятствею движения и порче автомобиля.",
+        "answers": [
+
+        ]
+      }
+    }
+  ]
+}

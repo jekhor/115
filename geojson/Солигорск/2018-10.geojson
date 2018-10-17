@@ -1,0 +1,2034 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54503441,
+          52.79060364
+        ]
+      },
+      "properties": {
+        "id": "214067",
+        "href": "/problem/214067",
+        "address": "Ул. Л. Комсомола д26.",
+        "date_create": "17 октября 2018 14:17",
+        "date_planned": "29.10.2018",
+        "crm_date_planned": "2018-10-29",
+        "crm_create_at": "2018-10-17",
+        "organisation_id": "299",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/496253.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "30",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "65317",
+          "name": "Виктория ",
+          "last_name": "Мацукевич",
+          "middle_name": "Юрьевна "
+        },
+        "description": "Нету  лавочки возле 4ого подъезда,  ул Л. Комсомола  д26.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.51692963,
+          52.78791046
+        ]
+      },
+      "properties": {
+        "id": "214012",
+        "href": "/problem/214012",
+        "address": "Октябрьская 37",
+        "date_create": "16 октября 2018 22:39",
+        "date_planned": "29.10.2018",
+        "crm_date_planned": "2018-10-29",
+        "crm_create_at": "2018-10-16",
+        "organisation_id": "302",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "68707",
+          "name": "Наталия",
+          "last_name": "Ярошеня",
+          "middle_name": "Сергеевна"
+        },
+        "description": "Нет освещения по адресу Октябрьская 37 подъезд 3 на этажах 1,2,3,4.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.52350998,
+          52.79210281
+        ]
+      },
+      "properties": {
+        "id": "214011",
+        "href": "/problem/214011",
+        "address": "Октябрьская 37",
+        "date_create": "16 октября 2018 22:37",
+        "date_planned": "29.10.2018",
+        "crm_date_planned": "2018-10-29",
+        "crm_create_at": "2018-10-16",
+        "organisation_id": "302",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/495940.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "369",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "68707",
+          "name": "Наталия",
+          "last_name": "Ярошеня",
+          "middle_name": "Сергеевна"
+        },
+        "description": "Выход с лифта по адресу Октябрьская 37 подъезд 3 этаж 5. Торчат штыри. Можно повредить стопу!!!",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.55025291,
+          52.78513718
+        ]
+      },
+      "properties": {
+        "id": "213812",
+        "href": "/problem/213812",
+        "address": "улица Козлова, 17А",
+        "date_create": "16 октября 2018 22:15",
+        "date_planned": "26.10.2018",
+        "crm_date_planned": "2018-10-26",
+        "crm_create_at": "2018-10-16",
+        "organisation_id": "300",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "44",
+          "parent_id": "7",
+          "icon": "7"
+        },
+        "user": {
+          "id": "78875",
+          "name": "Максим",
+          "last_name": "Михалкович",
+          "middle_name": "Григорьевич"
+        },
+        "description": "Много бездомных котов.Их подкармливают,всюду остатки еды и банки.Коты ходят в туалет в детскую песочницу.Животные лазят по машинам,повреждая лакокрасочное покрытие.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54343414,
+          52.78292847
+        ]
+      },
+      "properties": {
+        "id": "213724",
+        "href": "/problem/213724",
+        "address": "рядом с улица Ленина, 32",
+        "date_create": "16 октября 2018 18:18",
+        "date_planned": "26.10.2018",
+        "crm_date_planned": "2018-10-26",
+        "crm_create_at": "2018-10-16",
+        "organisation_id": "312",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/495323.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "64401",
+          "name": "Виталий",
+          "last_name": "Пасюк",
+          "middle_name": "Васильевич"
+        },
+        "description": "Ямы на парковке напротив банка ВТБ. На фото самые большие.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.52424431,
+          52.79380798
+        ]
+      },
+      "properties": {
+        "id": "213722",
+        "href": "/problem/213722",
+        "address": "рядом с Октябрьская улица, 26",
+        "date_create": "16 октября 2018 17:54",
+        "date_planned": "26.10.2018",
+        "crm_date_planned": "2018-10-26",
+        "crm_create_at": "2018-10-16",
+        "organisation_id": "309",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "70388",
+          "name": "Сергей",
+          "last_name": "Пилькевич",
+          "middle_name": ""
+        },
+        "description": "ПОВТОРНО! \rНе работает уличное освещение вдоль пешеходной дорожки с внешней стороны дома 26, а также внутри дворовой территории дома 28 по улице Октябрьская.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.55047417,
+          52.78614044
+        ]
+      },
+      "properties": {
+        "id": "213350",
+        "href": "/problem/213350",
+        "address": "Козлова 11",
+        "date_create": "15 октября 2018 15:00",
+        "date_planned": "25.10.2018",
+        "crm_date_planned": "2018-10-25",
+        "crm_create_at": "2018-10-15",
+        "organisation_id": "309",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "72586",
+          "name": "Виктор",
+          "last_name": "Бортко",
+          "middle_name": "Чеславович"
+        },
+        "description": "Во дворах домов #11,13,15,17 по ул. Козлова полностью отсутствует электроосвещение. Не соблюдены нормы средней горизонтальной освещенности согласно табл.14 ТКП 45-2.04-153-2009*.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54718781,
+          52.78495026
+        ]
+      },
+      "properties": {
+        "id": "212546",
+        "href": "/problem/212546",
+        "address": "улица Козлова, 23",
+        "date_create": "13 октября 2018 12:26",
+        "date_planned": "25.10.2018",
+        "crm_date_planned": "2018-10-25",
+        "crm_create_at": "2018-10-13",
+        "organisation_id": "300",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/493123.jpg",
+            "/upload/image/493124.jpg",
+            "/upload/image/493125.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "57",
+          "parent_id": "9",
+          "icon": "9"
+        },
+        "user": {
+          "id": "68142",
+          "name": "Tatyana",
+          "last_name": "Potapova",
+          "middle_name": ""
+        },
+        "description": "Повторно. На крыше ветром подняло из жести. Убрали. Но. Не установили на место. При сильном дожде заливает две квартиры 59 и 60. Плюс плесень. Установите назад козырек/парапет. Благодарим с надеждой",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.55286789,
+          52.78497314
+        ]
+      },
+      "properties": {
+        "id": "212399",
+        "href": "/problem/212399",
+        "address": "Солигорск,  Набережная улица,  4",
+        "date_create": "12 октября 2018 17:04",
+        "date_planned": "24.10.2018",
+        "crm_date_planned": "2018-10-24",
+        "crm_create_at": "2018-10-12",
+        "organisation_id": "300",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/492924.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "57",
+          "parent_id": "9",
+          "icon": "9"
+        },
+        "user": {
+          "id": "73039",
+          "name": "Сергей",
+          "last_name": "",
+          "middle_name": "Николаевич"
+        },
+        "description": "Прогнил мусоропровод,идёт просыпь на пдощадку...ул.Набережная д.4,6 подъезд,6-7этаж",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54560661,
+          52.78640747
+        ]
+      },
+      "properties": {
+        "id": "212120",
+        "href": "/problem/212120",
+        "address": "улица Козлова, 12Б",
+        "date_create": "12 октября 2018 8:30",
+        "date_planned": "24.10.2018",
+        "crm_date_planned": "2018-10-24",
+        "crm_create_at": "2018-10-12",
+        "organisation_id": "309",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "78475",
+          "name": "Елена",
+          "last_name": "Зубаревич",
+          "middle_name": "Витальевна"
+        },
+        "description": "Отсутствует уличное освещение напротив 1-го подъезда,на детской площадке,за домом также не горят два фонаря!",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.55100441,
+          52.78676605
+        ]
+      },
+      "properties": {
+        "id": "212037",
+        "href": "/problem/212037",
+        "address": "Козлова 9",
+        "date_create": "11 октября 2018 13:12",
+        "date_planned": "23.10.2018",
+        "crm_date_planned": "2018-10-23",
+        "crm_create_at": "2018-10-11",
+        "organisation_id": "312",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/491954.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "72586",
+          "name": "Виктор",
+          "last_name": "Бортко",
+          "middle_name": "Чеславович"
+        },
+        "description": "Разрушено асфальтобетонное покрытие возле мусоросборного бака.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.52197266,
+          52.799263
+        ]
+      },
+      "properties": {
+        "id": "211792",
+        "href": "/problem/211792",
+        "address": "Кулаковская улица, 36",
+        "date_create": "11 октября 2018 12:31",
+        "date_planned": "23.10.2018",
+        "crm_date_planned": "2018-10-23",
+        "crm_create_at": "2018-10-11",
+        "organisation_id": "309",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "281",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "70707",
+          "name": "Anastasia",
+          "last_name": "Romanovich",
+          "middle_name": ""
+        },
+        "description": "Неисправен светильник уличного освещения. После замены лампы он горит только первые два дня. Ревизия результатов не даёт. Рассмотрите пожалуйста возможность замены самого светильника. Спасибо.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.52611923,
+          52.79526138
+        ]
+      },
+      "properties": {
+        "id": "211725",
+        "href": "/problem/211725",
+        "address": "Полесская улица, 2",
+        "date_create": "11 октября 2018 11:07",
+        "date_planned": "23.10.2018",
+        "crm_date_planned": "2018-10-23",
+        "crm_create_at": "2018-10-11",
+        "organisation_id": "304",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/490962.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "44",
+          "parent_id": "7",
+          "icon": "7"
+        },
+        "user": {
+          "id": "77944",
+          "name": "Лариса",
+          "last_name": "Илькевич",
+          "middle_name": ""
+        },
+        "description": "Собирается стая бродячих собак",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.52611923,
+          52.79526138
+        ]
+      },
+      "properties": {
+        "id": "211723",
+        "href": "/problem/211723",
+        "address": "Полесская улица, 2",
+        "date_create": "11 октября 2018 11:04",
+        "date_planned": "23.10.2018",
+        "crm_date_planned": "2018-10-23",
+        "crm_create_at": "2018-10-11",
+        "organisation_id": "309",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/490958.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "77944",
+          "name": "Лариса",
+          "last_name": "Илькевич",
+          "middle_name": ""
+        },
+        "description": "Отсутствует освещение на пересечении ул.Полесская и ул.Южная",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5400486,
+          52.78149033
+        ]
+      },
+      "properties": {
+        "id": "211769",
+        "href": "/problem/211769",
+        "address": "Парковая улица",
+        "date_create": "11 октября 2018 9:15",
+        "date_planned": "23.10.2018",
+        "crm_date_planned": "2018-10-23",
+        "crm_create_at": "2018-10-11",
+        "organisation_id": "309",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "68456",
+          "name": "Людмила ",
+          "last_name": "Пыко ",
+          "middle_name": "Владимировна "
+        },
+        "description": "Не работает освещение дорожки между СШ 8 и детским садом 22. \rВ тёмное время суток ходить опасно для жизни.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54336548,
+          52.7886734
+        ]
+      },
+      "properties": {
+        "id": "211416",
+        "href": "/problem/211416",
+        "address": "ул.Л.Комсамола, 9а",
+        "date_create": "9 октября 2018 23:10",
+        "date_planned": "22.10.2018",
+        "crm_date_planned": "2018-10-22",
+        "crm_create_at": "2018-10-09",
+        "organisation_id": "312",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/490367.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "71057",
+          "name": "Татьяна",
+          "last_name": "Конопляник",
+          "middle_name": "Николаевна"
+        },
+        "description": "рядом со стоянкой для машин возле дома 13 на ул.Л.Комсамола, со стороны подъездов, рядом с поворотом к дому 9а, огромная яма, кот. сложно объехать в вечернее и утреннее время, машины бьют подвески",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.52564621,
+          52.78632355
+        ]
+      },
+      "properties": {
+        "id": "210497",
+        "href": "/problem/210497",
+        "address": "улица Константина Заслонова, 54",
+        "date_create": "8 октября 2018 20:32",
+        "date_planned": "19.10.2018",
+        "crm_date_planned": "2018-10-19",
+        "crm_create_at": "2018-10-08",
+        "organisation_id": "305",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/488720.jpg",
+            "/upload/image/488721.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "104",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "65282",
+          "name": "Алексей",
+          "last_name": "Биянов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Разрушается кирпичная кладка над входом в 1 подъезд дома",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.50889206,
+          52.78194046
+        ]
+      },
+      "properties": {
+        "id": "210067",
+        "href": "/problem/210067",
+        "address": "рядом с улица Константина Заслонова, 65",
+        "date_create": "8 октября 2018 10:45",
+        "date_planned": "18.10.2018",
+        "crm_date_planned": "2018-10-18",
+        "crm_create_at": "2018-10-08",
+        "organisation_id": "301",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/488024.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "30",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "77614",
+          "name": "Валерий",
+          "last_name": "Сергеевич",
+          "middle_name": ""
+        },
+        "description": "Добрый день. От отжившей своё деревянной поделки остались металлические опорки.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.55076027,
+          52.78623199
+        ]
+      },
+      "properties": {
+        "id": "209894",
+        "href": "/problem/209894",
+        "address": "козлова 15",
+        "date_create": "7 октября 2018 15:27",
+        "date_planned": "18.10.2018",
+        "crm_date_planned": "2018-10-18",
+        "crm_create_at": "2018-10-07",
+        "organisation_id": "300",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/487855.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "40",
+          "parent_id": "7",
+          "icon": "7"
+        },
+        "user": {
+          "id": "77532",
+          "name": "Татьяна",
+          "last_name": "Гусина",
+          "middle_name": "Николаевна"
+        },
+        "description": "Все лето лежит мусор, после обрезки деревьев",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.51721954,
+          52.78740692
+        ]
+      },
+      "properties": {
+        "id": "210040",
+        "href": "/problem/210040",
+        "address": "богомолова 8",
+        "date_create": "6 октября 2018 12:45",
+        "date_planned": "18.10.2018",
+        "crm_date_planned": "2018-10-18",
+        "crm_create_at": "2018-10-06",
+        "organisation_id": "302",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+            "/upload/image/491953.jpg"
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "68707",
+          "name": "Наталия",
+          "last_name": "Ярошеня",
+          "middle_name": "Сергеевна"
+        },
+        "description": "Нет освещения на 5 этаже на лестнице и между дверями коридоров на площадке по адресу Богомолова 8 подъезд 1.",
+        "answers": [
+          {
+            "author": "ЖЭС -4 г. Солигорск",
+            "text": "Освещено.",
+            "date": "11 октября 16:12",
+            "photos": [
+              "/upload/image/491516.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.49829483,
+          52.79029846
+        ]
+      },
+      "properties": {
+        "id": "209481",
+        "href": "/problem/209481",
+        "address": "Октябрьская, 107",
+        "date_create": "6 октября 2018 5:39",
+        "date_planned": "18.10.2018",
+        "crm_date_planned": "2018-10-18",
+        "crm_create_at": "2018-10-06",
+        "organisation_id": "309",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/487441.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "77360",
+          "name": "Оксана",
+          "last_name": "Конопляник",
+          "middle_name": "Михайловна"
+        },
+        "description": "По адресу Октябрьская, 107 не работает уличное освещение. Уже год здесь живём, фонари никогда не работали. Вдоль д/с 43 со стороны Октябрьской тоже освещения нет.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53301048,
+          52.77769852
+        ]
+      },
+      "properties": {
+        "id": "209356",
+        "href": "/problem/209356",
+        "address": "рядом с улица Коржа, 1",
+        "date_create": "5 октября 2018 20:51",
+        "date_planned": "18.10.2018",
+        "crm_date_planned": "2018-10-18",
+        "crm_create_at": "2018-10-05",
+        "organisation_id": "312",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/487344.jpg",
+            "/upload/image/487345.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "77311",
+          "name": "Валерия",
+          "last_name": "Максимчук",
+          "middle_name": "Викторовна"
+        },
+        "description": "Заезд к детской больнице постоянно заливается талой водой и дождями. На этом месте проходит тротуар. Он ниже остальной пешеходной части, поэтому в дождь невозможно пройти к городской поликлинике.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.52754211,
+          52.7844429
+        ]
+      },
+      "properties": {
+        "id": "209216",
+        "href": "/problem/209216",
+        "address": "улица Козлова, 62",
+        "date_create": "5 октября 2018 16:21",
+        "date_planned": "17.10.2018",
+        "crm_date_planned": "2018-10-17",
+        "crm_create_at": "2018-10-05",
+        "organisation_id": "305",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "27",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "73999",
+          "name": "Марина",
+          "last_name": "Сармакова",
+          "middle_name": ""
+        },
+        "description": "Здравствуйте, скажите пожалуйста можно ли срубить грушу под окном?",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.52789497,
+          52.7948494
+        ]
+      },
+      "properties": {
+        "id": "208958",
+        "href": "/problem/208958",
+        "address": "Октябрьская, д. 16,кв.57",
+        "date_create": "5 октября 2018 11:09",
+        "date_planned": "17.10.2018",
+        "crm_date_planned": "2018-10-17",
+        "crm_create_at": "2018-10-05",
+        "organisation_id": "309",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/486904.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "76152",
+          "name": "Дарья",
+          "last_name": "Корсак",
+          "middle_name": "Сергеевна"
+        },
+        "description": "Не горит лампа НАД подъездом",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54718781,
+          52.78495026
+        ]
+      },
+      "properties": {
+        "id": "208822",
+        "href": "/problem/208822",
+        "address": "улица Козлова, 23",
+        "date_create": "5 октября 2018 9:53",
+        "date_planned": "17.10.2018",
+        "crm_date_planned": "2018-10-17",
+        "crm_create_at": "2018-10-05",
+        "organisation_id": "300",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/486767.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "369",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "68142",
+          "name": "Tatyana",
+          "last_name": "Potapova",
+          "middle_name": ""
+        },
+        "description": "Ветром 04.10.18 оторвало кусок жести на крыше, нависает над прохожими",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53575897,
+          52.78055954
+        ]
+      },
+      "properties": {
+        "id": "208572",
+        "href": "/problem/208572",
+        "address": "Парковый проезд, 2",
+        "date_create": "4 октября 2018 19:53",
+        "date_planned": "17.10.2018",
+        "crm_date_planned": "2018-10-17",
+        "crm_create_at": "2018-10-04",
+        "organisation_id": "300",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "57",
+          "parent_id": "9",
+          "icon": "9"
+        },
+        "user": {
+          "id": "76821",
+          "name": "Жан",
+          "last_name": "Олизар",
+          "middle_name": "Жанович"
+        },
+        "description": "Примерно с 29.09. 2018г. по сегодняшний день (03.10.2018) после 18.00 из крана сгорячей водой идет летняя вода, а после 21.00 холодная. Утром и днем все нормально.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5088501,
+          52.78944016
+        ]
+      },
+      "properties": {
+        "id": "208015",
+        "href": "/problem/208015",
+        "address": "бульвар Шахтёров, 4",
+        "date_create": "4 октября 2018 9:30",
+        "date_planned": "05.10.2018",
+        "crm_date_planned": "2018-10-05",
+        "crm_create_at": "2018-10-04",
+        "organisation_id": "306",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/485969.jpg",
+            "/upload/image/485970.jpg",
+            "/upload/image/485971.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "325",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "76275",
+          "name": "Наталия",
+          "last_name": "Сергеева",
+          "middle_name": ""
+        },
+        "description": "После ремонта теплотрассы (закончили осенью 2017года) до сих пор не благоустроена территория вокруг д/с 37 (кроме центрального входа). Фото сделаны в прошлом году, сейчас только все травой заросло.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5235424,
+          52.79833984
+        ]
+      },
+      "properties": {
+        "id": "208003",
+        "href": "/problem/208003",
+        "address": "Полесская улица, 36",
+        "date_create": "4 октября 2018 9:15",
+        "date_planned": "16.10.2018",
+        "crm_date_planned": "2018-10-16",
+        "crm_create_at": "2018-10-04",
+        "organisation_id": "309",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "299",
+          "parent_id": "21",
+          "icon": "21"
+        },
+        "user": {
+          "id": "70707",
+          "name": "Anastasia",
+          "last_name": "Romanovich",
+          "middle_name": ""
+        },
+        "description": "Неисправен светильник уличного освещения. После замены лампы он горит только первые два дня. Ревизия результатов не даёт. Рассмотрите пожалуйста возможность замены самого светильника. Спасибо.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.52301025,
+          52.79855728
+        ]
+      },
+      "properties": {
+        "id": "207989",
+        "href": "/problem/207989",
+        "address": "рядом с Полесская улица, 36",
+        "date_create": "4 октября 2018 9:02",
+        "date_planned": "16.10.2018",
+        "crm_date_planned": "2018-10-16",
+        "crm_create_at": "2018-10-04",
+        "organisation_id": "312",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "70707",
+          "name": "Anastasia",
+          "last_name": "Romanovich",
+          "middle_name": ""
+        },
+        "description": "Большие выбоины на перекрёстке ул. Славянская  с ул. Полесская",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.52241707,
+          52.79978561
+        ]
+      },
+      "properties": {
+        "id": "207978",
+        "href": "/problem/207978",
+        "address": "Кулаковская улица, 40",
+        "date_create": "4 октября 2018 8:51",
+        "date_planned": "05.10.2018",
+        "crm_date_planned": "2018-10-05",
+        "crm_create_at": "2018-10-04",
+        "organisation_id": "309",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "281",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "70707",
+          "name": "Anastasia",
+          "last_name": "Romanovich",
+          "middle_name": ""
+        },
+        "description": "Отсутствует уличное освещение.",
+        "answers": [
+          {
+            "author": "РТОЭ г. Солигорск",
+            "text": "уличное освещение восстановлено. была проведена замена ламп и ремонт светильников",
+            "date": "10 октября 13:42"
+          },
+          {
+            "author": "Anastasia Romanovich",
+            "text": "Спасибо!",
+            "date": "11 октября 12:33",
+            "rating": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.50303268,
+          52.78733063
+        ]
+      },
+      "properties": {
+        "id": "207783",
+        "href": "/problem/207783",
+        "address": "Молодёжная улица, 7",
+        "date_create": "3 октября 2018 20:35",
+        "date_planned": "16.10.2018",
+        "crm_date_planned": "2018-10-16",
+        "crm_create_at": "2018-10-03",
+        "organisation_id": "301",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "27",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "76275",
+          "name": "Наталия",
+          "last_name": "Сергеева",
+          "middle_name": ""
+        },
+        "description": "Дерево ива стало очень большим, занимает практически всю часть пешеходной дороги. При сильном ветре ломаются ветки, опасно ходить рядом.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.54378128,
+          52.77970123
+        ]
+      },
+      "properties": {
+        "id": "208298",
+        "href": "/problem/208298",
+        "address": "Ленина 36",
+        "date_create": "3 октября 2018 19:44",
+        "date_planned": "16.10.2018",
+        "crm_date_planned": "2018-10-16",
+        "crm_create_at": "2018-10-03",
+        "organisation_id": "300",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "70368",
+          "name": "Александр",
+          "last_name": "Зубрицкий",
+          "middle_name": "Анатольевич"
+        },
+        "description": "В 13-м подъезде на четвёртом этаже не работает освещение лестничной площадки",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.52921867,
+          52.78717804
+        ]
+      },
+      "properties": {
+        "id": "207614",
+        "href": "/problem/207614",
+        "address": "улица Константина Заслонова, 44",
+        "date_create": "3 октября 2018 17:02",
+        "date_planned": "31.12.2018",
+        "crm_date_planned": "2018-12-31",
+        "crm_create_at": "2018-10-03",
+        "organisation_id": "305",
+        "status": "7",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "29",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "76192",
+          "name": "Валерия",
+          "last_name": "Руденко",
+          "middle_name": ""
+        },
+        "description": "Отсутствие  хорошей детской площадки, на весь район! всего две площадки, возле Заслонова 52б (и то дыра в подъёме на горку) и за 4 школой, это на весь район!",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.52774239,
+          52.79483032
+        ]
+      },
+      "properties": {
+        "id": "207652",
+        "href": "/problem/207652",
+        "address": "Октябрьская, д. 16,кв.57",
+        "date_create": "3 октября 2018 15:09",
+        "date_planned": "15.10.2018",
+        "crm_date_planned": "2018-10-15",
+        "crm_create_at": "2018-10-03",
+        "organisation_id": "307",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "76152",
+          "name": "Дарья",
+          "last_name": "Корсак",
+          "middle_name": "Сергеевна"
+        },
+        "description": "В 3 подъезде необходимо установить лампочку над подъездом и внутри поезда. На 3 этаже не горит свет",
+        "answers": [
+          {
+            "author": "ЖЭС -6 г. Солигорск",
+            "text": "Произвели замену эл.лампочек вх/группы, 1,3 эт. л/клетки",
+            "date": "4 октября 17:21"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.46923828,
+          52.7270546
+        ]
+      },
+      "properties": {
+        "id": "207250",
+        "href": "/problem/207250",
+        "address": "рядом с Майская улица, 2",
+        "date_create": "3 октября 2018 10:06",
+        "date_planned": "15.10.2018",
+        "crm_date_planned": "2018-10-15",
+        "crm_create_at": "2018-10-03",
+        "organisation_id": "308",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/484982.jpg",
+            "/upload/image/484983.jpg",
+            "/upload/image/484984.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "75951",
+          "name": "Дмитрий",
+          "last_name": "Ромашко",
+          "middle_name": "Васильевич"
+        },
+        "description": "Просьба всех жильцов ул Надречная в г.п. Старобин привести в порядок проезжую часть. После вчерашнего грейдирования местным ЖКХ по ней ходить и ездить невозможно!!!Фото после грейдирования",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.50423431,
+          52.78464127
+        ]
+      },
+      "properties": {
+        "id": "207117",
+        "href": "/problem/207117",
+        "address": "улица Константина Заслонова, 97",
+        "date_create": "2 октября 2018 23:50",
+        "date_planned": "29.10.2018",
+        "crm_date_planned": "2018-10-29",
+        "crm_create_at": "2018-10-02",
+        "organisation_id": "301",
+        "status": "7",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "64118",
+          "name": "Андрей",
+          "last_name": "Крукович",
+          "middle_name": "Михайлович"
+        },
+        "description": "Почему занимаетесь отписками? \rПроизводила ремонт трубопровода, машинами повредили 4 метра асфальтированной дорожки, так восстановите эти 4 метра!!! Или нам до конца 2019 года по грязи ходить?",
+        "answers": [
+          {
+            "author": "ЖЭС -5 г. Солигорск",
+            "text": "СГ УПП \"ЖКХ \"Комплекс\" направил письмо в ОАО \"Стройтрест №3\" о восстановлении пешеходной дорожки после выполнения работ  по капитальному ремонту по замене теплотрассы.",
+            "date": "17 октября 13:22"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.50067139,
+          52.79056168
+        ]
+      },
+      "properties": {
+        "id": "207087",
+        "href": "/problem/207087",
+        "address": "Октябрьская улица, 101",
+        "date_create": "2 октября 2018 22:07",
+        "date_planned": "15.10.2018",
+        "crm_date_planned": "2018-10-15",
+        "crm_create_at": "2018-10-02",
+        "organisation_id": "301",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "70184",
+          "name": "Ольга",
+          "last_name": "Сяськова",
+          "middle_name": "Геннадьевна"
+        },
+        "description": "Не горит свет в четвёртом подъезде на первом и третьем этаже",
+        "answers": [
+          {
+            "author": "ЖЭС -5 г. Солигорск",
+            "text": "Заменил лампочки КЛ",
+            "date": "4 октября 9:05"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53590965,
+          52.77817154
+        ]
+      },
+      "properties": {
+        "id": "207013",
+        "href": "/problem/207013",
+        "address": "рядом с улица Коржа, 3",
+        "date_create": "2 октября 2018 18:50",
+        "date_planned": "30.11.2018",
+        "crm_date_planned": "2018-11-30",
+        "crm_create_at": "2018-10-02",
+        "organisation_id": "304",
+        "status": "7",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/484799.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "25",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "64401",
+          "name": "Виталий",
+          "last_name": "Пасюк",
+          "middle_name": "Васильевич"
+        },
+        "description": "Невыездной автомобиль со спущенным колесом занимает ценное место на парковке возле детской поликлиники. (Форд 37-21 АК-5)",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53585434,
+          52.77813339
+        ]
+      },
+      "properties": {
+        "id": "207012",
+        "href": "/problem/207012",
+        "address": "рядом с улица Коржа, 3",
+        "date_create": "2 октября 2018 18:48",
+        "date_planned": "30.11.2018",
+        "crm_date_planned": "2018-11-30",
+        "crm_create_at": "2018-10-02",
+        "organisation_id": "304",
+        "status": "7",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/484797.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "25",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "64401",
+          "name": "Виталий",
+          "last_name": "Пасюк",
+          "middle_name": "Васильевич"
+        },
+        "description": "Невыездной автомобиль со спущенным колесом занимает ценное место на парковке возле детской поликлиники. (Фиат 60-67 ВА-5)",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.50067139,
+          52.79056168
+        ]
+      },
+      "properties": {
+        "id": "207004",
+        "href": "/problem/207004",
+        "address": "Октябрьская улица, 101",
+        "date_create": "2 октября 2018 18:28",
+        "date_planned": "15.10.2018",
+        "crm_date_planned": "2018-10-15",
+        "crm_create_at": "2018-10-02",
+        "organisation_id": "301",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "52",
+          "parent_id": "9",
+          "icon": "9"
+        },
+        "user": {
+          "id": "70184",
+          "name": "Ольга",
+          "last_name": "Сяськова",
+          "middle_name": "Геннадьевна"
+        },
+        "description": "Аэрозольной краской повреждены входная группа 4 подъезда, а также почтовые ящики во втором подъезде. Виновники установлены сотрудниками РОВД 02.10.2018, т.к. были повреждены ещё и автомобили.",
+        "answers": [
+          {
+            "author": "ЖЭС -5 г. Солигорск",
+            "text": "17.10.2018г. надписи вандального характера закрашены виновным лицом.",
+            "date": "17 октября 13:24"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.52417183,
+          52.79399109
+        ]
+      },
+      "properties": {
+        "id": "206728",
+        "href": "/problem/206728",
+        "address": "рядом с Октябрьская улица, 26",
+        "date_create": "2 октября 2018 12:07",
+        "date_planned": "12.10.2018",
+        "crm_date_planned": "2018-10-12",
+        "crm_create_at": "2018-10-02",
+        "organisation_id": "309",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "70388",
+          "name": "Сергей",
+          "last_name": "Пилькевич",
+          "middle_name": ""
+        },
+        "description": "Не работает уличное освещение вдоль пешеходной дорожки с внешней стороны дома 26, а также внутри дворовой территории дома 28 по улице Октябрьская.",
+        "answers": [
+          {
+            "author": "РТОЭ г. Солигорск",
+            "text": "Произведена замена ламп",
+            "date": "17 октября 13:32"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.52726746,
+          52.7903595
+        ]
+      },
+      "properties": {
+        "id": "206564",
+        "href": "/problem/206564",
+        "address": "улица Наруцкого, 16",
+        "date_create": "1 октября 2018 23:32",
+        "date_planned": "12.10.2018",
+        "crm_date_planned": "2018-10-12",
+        "crm_create_at": "2018-10-01",
+        "organisation_id": "309",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "75381",
+          "name": "Екатерина",
+          "last_name": "Стракатова",
+          "middle_name": ""
+        },
+        "description": "В частном секторе на улице Наруцкого 14, 16, 18 долгое время отсутствуют лампочки в фонарях. Через дорогу, вдоль стадиона первой школы, не освещается тротуар. Сейчас темнеет рано, нужен свет",
+        "answers": [
+          {
+            "author": "РТОЭ г. Солигорск",
+            "text": "освещение восстановлено. проведена замена ламп и ремонт светильников",
+            "date": "9 октября 16:13"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53928375,
+          52.79314804
+        ]
+      },
+      "properties": {
+        "id": "206429",
+        "href": "/problem/206429",
+        "address": "улица Гуляева, 1",
+        "date_create": "1 октября 2018 17:27",
+        "date_planned": "12.10.2018",
+        "crm_date_planned": "2018-10-12",
+        "crm_create_at": "2018-10-01",
+        "organisation_id": "312",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/483848.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "71094",
+          "name": "Роман",
+          "last_name": "Шагун",
+          "middle_name": "Эдуардович"
+        },
+        "description": "Провалилась тротуарная плитка между Домом семейных торжеств и домом на Гуляева",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53628159,
+          52.78656387
+        ]
+      },
+      "properties": {
+        "id": "206524",
+        "href": "/problem/206524",
+        "address": "ул. В. Ленина 10б, Солигорск, Беларусь",
+        "date_create": "1 октября 2018 11:41",
+        "date_planned": "11.10.2018",
+        "crm_date_planned": "2018-10-11",
+        "crm_create_at": "2018-10-01",
+        "organisation_id": "305",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/483982.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "29",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "74891",
+          "name": "Валерия ",
+          "last_name": "Жарская ",
+          "middle_name": "Сергеевна "
+        },
+        "description": "Детская площадка в сквере за домом Ленина, 10Б находится в ужасном состоянии. В песочнице торчат огромные болты, сиденье качелей надломано и торчит гвоздь. Оснащение также оставляет желать лучшего.",
+        "answers": [
+
+        ]
+      }
+    }
+  ]
+}

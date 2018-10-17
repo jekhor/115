@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.73796082,
+          53.61280441
+        ]
+      },
+      "properties": {
+        "id": "203668",
+        "href": "/problem/203668",
+        "address": "улица Островского, 30",
+        "date_create": "21 сентября 2018 11:12",
+        "date_planned": "03.10.2018",
+        "crm_date_planned": "2018-10-03",
+        "crm_create_at": "2018-09-21",
+        "organisation_id": "339",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/477588.jpg",
+            "/upload/image/477589.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "369",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "72906",
+          "name": "Юрий",
+          "last_name": "Кузнецов",
+          "middle_name": "Евгеньевич"
+        },
+        "description": "Крыльцо третьего подъезда. Первая ступень имеет маленький размер. Невозможно полностью поставить ногу. На неоднократные обращения в службу 115 по городу Щучину реакция нулевая.",
+        "answers": [
+
+        ]
+      }
+    }
+  ]
+}

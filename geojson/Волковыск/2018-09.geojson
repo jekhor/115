@@ -1,0 +1,200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.45092773,
+          53.15188217
+        ]
+      },
+      "properties": {
+        "id": "202304",
+        "href": "/problem/202304",
+        "address": "рядом с Садовая улица, 10",
+        "date_create": "17 сентября 2018 11:41",
+        "date_planned": "27.09.2018",
+        "crm_date_planned": "2018-09-27",
+        "crm_create_at": "2018-09-17",
+        "organisation_id": "362",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/473813.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "372",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "72521",
+          "name": "B",
+          "last_name": "A",
+          "middle_name": "C"
+        },
+        "description": "Тестовая заявка",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.420784,
+          53.25998306
+        ]
+      },
+      "properties": {
+        "id": "201550",
+        "href": "/problem/201550",
+        "address": "вуліца Школьная 36, Краснасельскі 231911, Беларусь",
+        "date_create": "12 сентября 2018 18:43",
+        "date_planned": "13.09.2018",
+        "crm_date_planned": "2018-09-13",
+        "crm_create_at": "2018-09-12",
+        "organisation_id": "362",
+        "status": "7",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/472237.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "72342",
+          "name": "Виктория",
+          "last_name": "Разводовская",
+          "middle_name": "Викторовна"
+        },
+        "description": "Дорога ни разу не ремонтирована со времён застройки. Все близлежащие подъезды к домам отремонтированы давно, кроме этого. Помогите решить проблему",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.41973686,
+          53.25981522
+        ]
+      },
+      "properties": {
+        "id": "201549",
+        "href": "/problem/201549",
+        "address": "вуліца Школьная 36, Краснасельскі 231911, Беларусь",
+        "date_create": "12 сентября 2018 18:31",
+        "date_planned": "01.05.2019",
+        "crm_date_planned": "2019-05-01",
+        "crm_create_at": "2018-09-12",
+        "organisation_id": "360",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/472236.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "154",
+          "parent_id": "14",
+          "icon": "14"
+        },
+        "user": {
+          "id": "72342",
+          "name": "Виктория",
+          "last_name": "Разводовская",
+          "middle_name": "Викторовна"
+        },
+        "description": "Два года не моют окна. В доме живут одни старики. На просьбы вымыть ЖКХ отвечает ,,мойте сами,,",
+        "answers": [
+          {
+            "author": "КУП \"Волковысское коммунальное хозяйство\" санитарное состояние",
+            "text": "Согласно периодичности мойка окон осуществляется один раз в год - весной.Окна в Вашем доме были вымыты в мае 2018 г .Следующий раз они будут вымыты весной 2019 года.",
+            "date": "19 сентября 9:39"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.45766258,
+          53.16207886
+        ]
+      },
+      "properties": {
+        "id": "198698",
+        "href": "/problem/198698",
+        "address": "улица Ленина 9, Волковыск, Беларусь",
+        "date_create": "2 сентября 2018 9:09",
+        "date_planned": "14.09.2018",
+        "crm_date_planned": "2018-09-14",
+        "crm_create_at": "2018-09-02",
+        "organisation_id": "370",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/464907.jpg"
+          ],
+          "after": [
+            "/upload/image/470039.jpg",
+            "/upload/image/470040.jpg",
+            "/upload/image/470041.jpg"
+          ]
+        },
+        "category": {
+          "id": "325",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "71752",
+          "name": "Ольга",
+          "last_name": "Слащинина",
+          "middle_name": "Викторовна"
+        },
+        "description": "Недобросовестное отношение ЖЭС к нашему дому переходит все рамки.На жалобы не реагируют.Трава в пояс, грязь, ямы во дворе все глубже, песочница несмотря на просьбы так и осталась клумбой...Ужас...",
+        "answers": [
+          {
+            "author": "ОАО ЖЭС г. Волковыска",
+            "text": "Контейнерная площадка убрана.",
+            "date": "11 сентября 14:28",
+            "photos": [
+              "/upload/image/469891.jpg",
+              "/upload/image/469892.jpg",
+              "/upload/image/469893.jpg"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

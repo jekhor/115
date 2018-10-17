@@ -1,0 +1,161 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.48118401,
+          53.16575623
+        ]
+      },
+      "properties": {
+        "id": "186784",
+        "href": "/problem/186784",
+        "address": "Восточная улица, 67А",
+        "date_create": "26 июля 2018 15:10",
+        "date_planned": "27.09.2018",
+        "crm_date_planned": "2018-09-27",
+        "crm_create_at": "2018-07-26",
+        "organisation_id": "370",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/435971.jpg",
+            "/upload/image/435972.jpg"
+          ],
+          "after": [
+            "/upload/image/483108.jpg"
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "11890",
+          "name": "Дмитрий",
+          "last_name": "Венско",
+          "middle_name": "Игоревич"
+        },
+        "description": "Дождями вымывает, скоро не возможно будет заехать",
+        "answers": [
+          {
+            "author": "ОАО ЖЭС г. Волковыска",
+            "text": "27 сентября 2018 года выполнены работы по ямочному ремонту асфальтобетонного покрытия придомовой территории жилого дома номер 67А по улице Восточная в городе Волковыске.",
+            "date": "28 сентября 11:54",
+            "photos": [
+              "/upload/image/482554.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.43711472,
+          53.15303421
+        ]
+      },
+      "properties": {
+        "id": "186094",
+        "href": "/problem/186094",
+        "address": "Волковыск,  улица Жолудева,  149",
+        "date_create": "24 июля 2018 13:37",
+        "date_planned": "10.08.2018",
+        "crm_date_planned": "2018-08-10",
+        "crm_create_at": "2018-07-24",
+        "organisation_id": "370",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/434321.jpg",
+            "/upload/image/434322.jpg",
+            "/upload/image/434323.jpg"
+          ],
+          "after": [
+            "/upload/image/468390.jpg",
+            "/upload/image/468391.jpg",
+            "/upload/image/468392.jpg"
+          ]
+        },
+        "category": {
+          "id": "156",
+          "parent_id": "14",
+          "icon": "14"
+        },
+        "user": {
+          "id": "69685",
+          "name": "Тереса",
+          "last_name": "Гургун",
+          "middle_name": ""
+        },
+        "description": "Добрый день! На протяжении нескольких месяцев не проводится уборка в подъезде. Все покрылось многослойной пылью. Через окна уже не видно улицы. Но плату за уборку каждый месяц взымают.",
+        "answers": [
+          {
+            "author": "ОАО ЖЭС г. Волковыска",
+            "text": "Подъезд убран.",
+            "date": "4 сентября 16:42",
+            "photos": [
+              "/upload/image/465074.jpg",
+              "/upload/image/465075.jpg",
+              "/upload/image/465076.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.44343376,
+          53.16648865
+        ]
+      },
+      "properties": {
+        "id": "185980",
+        "href": "/problem/185980",
+        "address": "Волковыск, улица С.Панковой, 27",
+        "date_create": "24 июля 2018 11:20",
+        "date_planned": "01.12.2018",
+        "crm_date_planned": "2018-12-01",
+        "crm_create_at": "2018-07-24",
+        "organisation_id": "370",
+        "status": "7",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "30",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "69675",
+          "name": "Юрий",
+          "last_name": "Беляев",
+          "middle_name": "Олегович"
+        },
+        "description": "Отсутствие урн для мусора возле подъездов по улице Софьи Панковой 27",
+        "answers": [
+
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,715 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7163372,
+          53.71388245
+        ]
+      },
+      "properties": {
+        "id": "197522",
+        "href": "/problem/197522",
+        "address": "Детская площадка возле кафе апельсин.",
+        "date_create": "29 августа 2018 19:28",
+        "date_planned": "12.09.2018",
+        "crm_date_planned": "2018-09-12",
+        "crm_create_at": "2018-08-29",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/462722.jpg"
+          ],
+          "after": [
+            "/upload/image/467955.jpg"
+          ]
+        },
+        "category": {
+          "id": "325",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "68537",
+          "name": "Максим",
+          "last_name": "Великанов",
+          "middle_name": ""
+        },
+        "description": "Обещали подсыпать песок после установки новой горки. Горка стоит 2 недели - песка нет.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "выполнено",
+            "date": "7 сентября 16:45",
+            "photos": [
+              "/upload/image/467878.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.72524834,
+          53.71146011
+        ]
+      },
+      "properties": {
+        "id": "196375",
+        "href": "/problem/196375",
+        "address": "ул. Смоленская, Кричев, Беларусь",
+        "date_create": "23 августа 2018 17:22",
+        "date_planned": "06.09.2018",
+        "crm_date_planned": "2018-09-06",
+        "crm_create_at": "2018-08-23",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/459198.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "29",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "71276",
+          "name": "Роман",
+          "last_name": "Езерский",
+          "middle_name": "Геннадьевич"
+        },
+        "description": "Дом 2006года сдан в эксплуатацию.В доме138 квартир,проживает много детей.Детской площадки нет, не только возле дома,да и на весь микрорайон.Исполком и коммунальник предложил площадку за счёт жильцов.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.71630859,
+          53.71436691
+        ]
+      },
+      "properties": {
+        "id": "194617",
+        "href": "/problem/194617",
+        "address": "ул. Комсомольская, Кричев, Беларусь",
+        "date_create": "20 августа 2018 20:09",
+        "date_planned": "31.08.2018",
+        "crm_date_planned": "2018-08-31",
+        "crm_create_at": "2018-08-20",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/455201.jpg"
+          ],
+          "after": [
+            "/upload/image/478028.jpg"
+          ]
+        },
+        "category": {
+          "id": "325",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "68537",
+          "name": "Максим",
+          "last_name": "Великанов",
+          "middle_name": ""
+        },
+        "description": "Разломана кирпичная кладка возле детской площадки.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "устранено",
+            "date": "21 сентября 16:18",
+            "photos": [
+              "/upload/image/477979.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.71653938,
+          53.71627808
+        ]
+      },
+      "properties": {
+        "id": "194086",
+        "href": "/problem/194086",
+        "address": "ул. Комсомольская, Кричев, Беларусь",
+        "date_create": "17 августа 2018 20:37",
+        "date_planned": "30.08.2018",
+        "crm_date_planned": "2018-08-30",
+        "crm_create_at": "2018-08-17",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/454110.jpg"
+          ],
+          "after": [
+            "/upload/image/467953.jpg"
+          ]
+        },
+        "category": {
+          "id": "302",
+          "parent_id": "21",
+          "icon": "21"
+        },
+        "user": {
+          "id": "68537",
+          "name": "Максим",
+          "last_name": "Великанов",
+          "middle_name": ""
+        },
+        "description": "На весь парк 2 скамейки и те не закреплены. Мусор не убирают уже неделю.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "выполнено",
+            "date": "7 сентября 16:48",
+            "photos": [
+              "/upload/image/467879.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.726614,
+          53.71482849
+        ]
+      },
+      "properties": {
+        "id": "193523",
+        "href": "/problem/193523",
+        "address": "Октябрьская улица, 45",
+        "date_create": "17 августа 2018 14:02",
+        "date_planned": "29.08.2018",
+        "crm_date_planned": "2018-08-29",
+        "crm_create_at": "2018-08-17",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/453059.jpg",
+            "/upload/image/453060.jpg",
+            "/upload/image/453061.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "369",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "70948",
+          "name": "Светлана",
+          "last_name": "Костенич",
+          "middle_name": ""
+        },
+        "description": "При входе в подъезд (2 подъезд) разваливаются ступеньки. От поступления сточных вод на плитку возле подъезда вымылся песок и плитка с бордюрами просела, а также рассыпались ступеньки в подвал",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70494843,
+          53.69513702
+        ]
+      },
+      "properties": {
+        "id": "190402",
+        "href": "/problem/190402",
+        "address": "ул. Карла Либкнехта, Кричев, Беларусь",
+        "date_create": "6 августа 2018 15:11",
+        "date_planned": "17.08.2018",
+        "crm_date_planned": "2018-08-17",
+        "crm_create_at": "2018-08-06",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/444557.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Около дома по Либкнехта 32 стоял фонарь уличного освещения. Пару лет назад его демонтировали и не восстановили. В итоге перекрёсток находится без освещения. Повесьте фонарь.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70649147,
+          53.69659424
+        ]
+      },
+      "properties": {
+        "id": "189585",
+        "href": "/problem/189585",
+        "address": "ул. Гусаковского 6, Кричев, Беларусь",
+        "date_create": "5 августа 2018 15:26",
+        "date_planned": "16.08.2018",
+        "crm_date_planned": "2018-08-16",
+        "crm_create_at": "2018-08-05",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/442641.jpg"
+          ],
+          "after": [
+            "/upload/image/456186.jpg"
+          ]
+        },
+        "category": {
+          "id": "325",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Знак ограничения скорости испорчен - указано 0 км/ч",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "исправлено",
+            "date": "22 августа 15:25",
+            "photos": [
+              "/upload/image/456148.jpg"
+            ]
+          },
+          {
+            "author": "Максим Рудь",
+            "text": "",
+            "date": "22 августа 17:11",
+            "rating": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70748711,
+          53.69643402
+        ]
+      },
+      "properties": {
+        "id": "189584",
+        "href": "/problem/189584",
+        "address": "Белтелеком, ул. Советская 36, Кричев, Беларусь",
+        "date_create": "5 августа 2018 15:25",
+        "date_planned": "16.08.2018",
+        "crm_date_planned": "2018-08-16",
+        "crm_create_at": "2018-08-05",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/442640.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Фонари около белпочты и белтелекома не работают. Почините. Спасибо!",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "выполнение работ по восстановлению уличного освещения планируется до 07.09.2018",
+            "date": "10 августа 14:30"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70591736,
+          53.69849014
+        ]
+      },
+      "properties": {
+        "id": "189353",
+        "href": "/problem/189353",
+        "address": "ул. Гусаковского, Кричев, Беларусь",
+        "date_create": "4 августа 2018 12:17",
+        "date_planned": "16.08.2018",
+        "crm_date_planned": "2018-08-16",
+        "crm_create_at": "2018-08-04",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/442382.jpg"
+          ],
+          "after": [
+            "/upload/image/455776.jpg"
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Около дома Гусаковского 20 перегорел уличный фонарь",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "освещение восстановлено",
+            "date": "22 августа 10:08",
+            "photos": [
+              "/upload/image/455732.jpg"
+            ]
+          },
+          {
+            "author": "Максим Рудь",
+            "text": "",
+            "date": "22 августа 15:46",
+            "rating": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70552826,
+          53.69930649
+        ]
+      },
+      "properties": {
+        "id": "189352",
+        "href": "/problem/189352",
+        "address": "ул. Гусаковского, Кричев, Беларусь",
+        "date_create": "4 августа 2018 12:15",
+        "date_planned": "16.08.2018",
+        "crm_date_planned": "2018-08-16",
+        "crm_create_at": "2018-08-04",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/442381.jpg"
+          ],
+          "after": [
+            "/upload/image/455775.jpg"
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Около бывшей мусорки после дома Гусаковского 22 не горит фонарь на столбе.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "освещение восстановлено",
+            "date": "22 августа 10:09",
+            "photos": [
+              "/upload/image/455736.jpg"
+            ]
+          },
+          {
+            "author": "Максим Рудь",
+            "text": "",
+            "date": "22 августа 15:46",
+            "rating": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70435333,
+          53.69553375
+        ]
+      },
+      "properties": {
+        "id": "189351",
+        "href": "/problem/189351",
+        "address": "ул. Советская, Кричев, Беларусь",
+        "date_create": "3 августа 2018 21:33",
+        "date_planned": "16.08.2018",
+        "crm_date_planned": "2018-08-16",
+        "crm_create_at": "2018-08-03",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/442380.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "66",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Советская 4,   2 подъезд. На 3 этаже оуоло кв. 20-21 на полу не спрятан электропровод в защитную изоляцию",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70559692,
+          53.69915009
+        ]
+      },
+      "properties": {
+        "id": "189087",
+        "href": "/problem/189087",
+        "address": "ул. Гусаковского 20, Кричев, Беларусь",
+        "date_create": "3 августа 2018 9:30",
+        "date_planned": "15.08.2018",
+        "crm_date_planned": "2018-08-15",
+        "crm_create_at": "2018-08-03",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Гусаковского 20. Перегорел уличный фонарь",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "работы выполнены",
+            "date": "22 августа 10:12"
+          },
+          {
+            "author": "Максим Рудь",
+            "text": "",
+            "date": "22 августа 15:46",
+            "rating": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70333481,
+          53.69548798
+        ]
+      },
+      "properties": {
+        "id": "189085",
+        "href": "/problem/189085",
+        "address": "ул. Карла Либкнехта, Кричев, Беларусь",
+        "date_create": "3 августа 2018 9:28",
+        "date_planned": "15.08.2018",
+        "crm_date_planned": "2018-08-15",
+        "crm_create_at": "2018-08-03",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/441478.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Перегорел фонарь около дома Карла Либкнехта 46 на повороте",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "Выполнение работ по восстановлению уличного освещения планируется до 07.09.2018",
+            "date": "10 августа 14:49"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70474243,
+          53.69510651
+        ]
+      },
+      "properties": {
+        "id": "189084",
+        "href": "/problem/189084",
+        "address": "ул. Советская, Кричев, Беларусь",
+        "date_create": "3 августа 2018 9:26",
+        "date_planned": "15.08.2018",
+        "crm_date_planned": "2018-08-15",
+        "crm_create_at": "2018-08-03",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/441477.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Отсутствие фонаря уличного освещения на повороте на улицу Карла Либкнехта.",
+        "answers": [
+
+        ]
+      }
+    }
+  ]
+}

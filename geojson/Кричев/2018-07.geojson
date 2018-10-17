@@ -1,0 +1,2967 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.71386719,
+          53.70924759
+        ]
+      },
+      "properties": {
+        "id": "188031",
+        "href": "/problem/188031",
+        "address": "Комсомольский микрорайон, 34",
+        "date_create": "31 июля 2018 20:30",
+        "date_planned": "13.08.2018",
+        "crm_date_planned": "2018-08-13",
+        "crm_create_at": "2018-07-31",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/439016.jpg",
+            "/upload/image/439017.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "283",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "63076",
+          "name": "Василий",
+          "last_name": "Комсамольский",
+          "middle_name": "Владимирович"
+        },
+        "description": "После замены тепловых сетей,не выполнили работы по ремонту тротуарной дорожки.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "Работы по ремонту тротуарной дорожки будут выполнены в 4 квартале 2018 года.",
+            "date": "10 августа 14:48"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70710182,
+          53.69630051
+        ]
+      },
+      "properties": {
+        "id": "188028",
+        "href": "/problem/188028",
+        "address": "рядом с Советская улица, 44",
+        "date_create": "31 июля 2018 20:22",
+        "date_planned": "13.08.2018",
+        "crm_date_planned": "2018-08-13",
+        "crm_create_at": "2018-07-31",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/439008.jpg",
+            "/upload/image/439009.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "283",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Около отделения Белпочты и Белтелекома покрытие тротуарной дороги некачественное - плитка во многих местах от старости просела, частые лужи большие из-за этого. На фото - подтверждение.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "Планом текущего ремонта объектов городского благоустройства на 2018 год не предусмотрено.Выполнение работ будет рассмотрено в 2019 году.",
+            "date": "10 августа 14:47"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.71506691,
+          53.68390656
+        ]
+      },
+      "properties": {
+        "id": "187948",
+        "href": "/problem/187948",
+        "address": "ул. Сиротинина, Кричев, Беларусь",
+        "date_create": "31 июля 2018 10:53",
+        "date_planned": "10.08.2018",
+        "crm_date_planned": "2018-08-10",
+        "crm_create_at": "2018-07-31",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/438792.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "По ул. Сиротининой разбита проезжая часть",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "Планом текущего ремонта объектов городского благоустройства на 2018 год не предусмотрено.Выполнение работ будет рассмотрено в 2019 году.",
+            "date": "10 августа 14:41"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70486069,
+          53.695961
+        ]
+      },
+      "properties": {
+        "id": "187716",
+        "href": "/problem/187716",
+        "address": "ул. Советская, Кричев, Беларусь",
+        "date_create": "31 июля 2018 8:56",
+        "date_planned": "10.08.2018",
+        "crm_date_planned": "2018-08-10",
+        "crm_create_at": "2018-07-31",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/438263.jpg"
+          ],
+          "after": [
+            "/upload/image/455772.jpg"
+          ]
+        },
+        "category": {
+          "id": "325",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Около ул. Советская 55а около мусорки фонарный столб у основания требует ремонта, закрепления и нормальную крышку за закрытия проводов",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "устранено",
+            "date": "22 августа 10:11",
+            "photos": [
+              "/upload/image/455739.jpg"
+            ]
+          },
+          {
+            "author": "Максим Рудь",
+            "text": "",
+            "date": "22 августа 15:45",
+            "rating": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70408058,
+          53.70191574
+        ]
+      },
+      "properties": {
+        "id": "187633",
+        "href": "/problem/187633",
+        "address": "улица Гусаковского, 45 (Пересечение ул. Гусаковского и ул. Московской)",
+        "date_create": "30 июля 2018 23:07",
+        "date_planned": "10.08.2018",
+        "crm_date_planned": "2018-08-10",
+        "crm_create_at": "2018-07-30",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/438115.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "292",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Пересечение ул. Гусаковского и ул. Московской. Отсутствует дорожная разметка, нет обозначения пешеходного перехода. Только знак висит.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "Планом текущего ремонта объектов городского благоустройства на 2018 год не предусмотрено. Выполнение работ будет рассмотрено в 2019 году.",
+            "date": "10 августа 14:53"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.69576836,
+          53.69694901
+        ]
+      },
+      "properties": {
+        "id": "187632",
+        "href": "/problem/187632",
+        "address": "Советская улица, 103 ПЕРЕКРЕСТОК ВЕСЬ",
+        "date_create": "30 июля 2018 23:04",
+        "date_planned": "10.08.2018",
+        "crm_date_planned": "2018-08-10",
+        "crm_create_at": "2018-07-30",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/438114.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "292",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "На всем перекрестке Московского шоссе и ул. Советской отсутствует дорожная разметка, в т.ч. пешеходный переход. Выполните к 1 сентября. Это Республиканское требование.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.69971275,
+          53.69683456
+        ]
+      },
+      "properties": {
+        "id": "187631",
+        "href": "/problem/187631",
+        "address": "Советская улица, 94 остановка ГОРТОП",
+        "date_create": "30 июля 2018 23:01",
+        "date_planned": "10.08.2018",
+        "crm_date_planned": "2018-08-10",
+        "crm_create_at": "2018-07-30",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/438113.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "314",
+          "parent_id": "23",
+          "icon": "23"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "На остановке Гортоп крайне повреждены сам остановочный пункт и площадка под остановку.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "Выполнение работ будет рассмотрено в 2019 году.",
+            "date": "10 августа 14:54"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.69827271,
+          53.69724274
+        ]
+      },
+      "properties": {
+        "id": "187626",
+        "href": "/problem/187626",
+        "address": "Советская улица, 82",
+        "date_create": "30 июля 2018 22:33",
+        "date_planned": "10.08.2018",
+        "crm_date_planned": "2018-08-10",
+        "crm_create_at": "2018-07-30",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/438109.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "283",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Ямы и впадины на тротуаре. Исправьте. Спасибо!",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "Выполнение работ будет рассмотрено в 2019 году.",
+            "date": "10 августа 14:55"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.71494293,
+          53.6953392
+        ]
+      },
+      "properties": {
+        "id": "187625",
+        "href": "/problem/187625",
+        "address": "Советская улица, 92 (в сторону гортопа)",
+        "date_create": "30 июля 2018 22:32",
+        "date_planned": "10.08.2018",
+        "crm_date_planned": "2018-08-10",
+        "crm_create_at": "2018-07-30",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/438108.jpg"
+          ],
+          "after": [
+            "/upload/image/455770.jpg",
+            "/upload/image/455771.jpg"
+          ]
+        },
+        "category": {
+          "id": "281",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Два фонаря повернуты наискось. Поправьте осветительные фонари.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "устранено",
+            "date": "22 августа 10:14",
+            "photos": [
+              "/upload/image/455740.jpg",
+              "/upload/image/455741.jpg"
+            ]
+          },
+          {
+            "author": "Максим Рудь",
+            "text": "",
+            "date": "22 августа 15:47",
+            "rating": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6988163,
+          53.69718933
+        ]
+      },
+      "properties": {
+        "id": "187624",
+        "href": "/problem/187624",
+        "address": "Советская улица, 80 (поворот на ул. Садовую)",
+        "date_create": "30 июля 2018 22:29",
+        "date_planned": "10.08.2018",
+        "crm_date_planned": "2018-08-10",
+        "crm_create_at": "2018-07-30",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/438107.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Требуется значительное понижение дорожного бордюра и укладка участка асфальта для пешеходной зоны для перехода с одного бордюра на другой. И проблема для велосипедистов и маломобильных людей.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "Выполнение работ будет рассмотрено в 2019 году.",
+            "date": "10 августа 14:56"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70598793,
+          53.69470215
+        ]
+      },
+      "properties": {
+        "id": "187623",
+        "href": "/problem/187623",
+        "address": "Карла Либкнехта 27 (поворот к Исполкому)",
+        "date_create": "30 июля 2018 22:24",
+        "date_planned": "10.08.2018",
+        "crm_date_planned": "2018-08-10",
+        "crm_create_at": "2018-07-30",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/438106.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Разбита проезжая часть. Много лет никто не чинит.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "Планом текущего ремонта объектов городского благоустройства на 2018 год не предусмотрено.Выполнение работ будет рассмотрено в 2019 году.",
+            "date": "10 августа 14:57"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.71338272,
+          53.69332504
+        ]
+      },
+      "properties": {
+        "id": "187622",
+        "href": "/problem/187622",
+        "address": "улица Супрунова, 9 ОКОЛО ДЕТСКОГО ПАРКА",
+        "date_create": "30 июля 2018 22:21",
+        "date_planned": "10.08.2018",
+        "crm_date_planned": "2018-08-10",
+        "crm_create_at": "2018-07-30",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/438104.jpg",
+            "/upload/image/438105.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "На перекрестке Супрунова и Луначарского ямы на проезжей части, асфальт вздыбился, постоянные огромные лужи.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "Планом текущего ремонта объектов городского благоустройства на 2018 год не предусмотрено.Выполнение работ будет рассмотрено в 2019 году.",
+            "date": "10 августа 14:57"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.71512794,
+          53.69280624
+        ]
+      },
+      "properties": {
+        "id": "187621",
+        "href": "/problem/187621",
+        "address": "ленинская 50",
+        "date_create": "30 июля 2018 22:18",
+        "date_planned": "10.08.2018",
+        "crm_date_planned": "2018-08-10",
+        "crm_create_at": "2018-07-30",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/438103.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "283",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Около Торгового дома \"ВЕК\", что напротив дома быта, тротуарная плитка уложена неровно, выступы и ямы, огромные стыки, деформация покрытия. Требуется переложить ровно плитки.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "Планом текущего ремонта объектов городского благоустройства на 2018 год не предусмотрено.Выполнение работ будет рассмотрено в 2019 году.",
+            "date": "10 августа 14:46"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.71512794,
+          53.69280624
+        ]
+      },
+      "properties": {
+        "id": "187620",
+        "href": "/problem/187620",
+        "address": "Ленинская улица, 52",
+        "date_create": "30 июля 2018 22:10",
+        "date_planned": "10.08.2018",
+        "crm_date_planned": "2018-08-10",
+        "crm_create_at": "2018-07-30",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/438102.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "294",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Требуется понижение дорожного бордюра с обеих сторон. Препятствие для велосипедистов и маломобильных граждан.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "Планом текущего ремонта объектов городского благоустройства на 2018 год не предусмотрено.Выполнение работ будет рассмотрено в 2019 году.",
+            "date": "10 августа 14:46"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70409393,
+          53.6955452
+        ]
+      },
+      "properties": {
+        "id": "187554",
+        "href": "/problem/187554",
+        "address": "Советская улица, 4",
+        "date_create": "30 июля 2018 17:11",
+        "date_planned": "10.08.2018",
+        "crm_date_planned": "2018-08-10",
+        "crm_create_at": "2018-07-30",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/437979.jpg",
+            "/upload/image/437980.jpg",
+            "/upload/image/437981.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "99",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Во 2 подъезде на 1 этаже около входа в подъезд разбита плитка. Там темно и постоянно цепляются все, особенно пенсионеры. Покраска стены на этом же этаже вся слазит, отшелушивается.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.72439957,
+          53.71134567
+        ]
+      },
+      "properties": {
+        "id": "187553",
+        "href": "/problem/187553",
+        "address": "микрорайон Сож, 27",
+        "date_create": "30 июля 2018 17:07",
+        "date_planned": "10.08.2018",
+        "crm_date_planned": "2018-08-10",
+        "crm_create_at": "2018-07-30",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/437977.jpg",
+            "/upload/image/437978.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Около входа в 1 подъезд разбито покрытие (дорога). По весне стоит вода у двери подъезда.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "Планом текущего ремонта объектов городского благоустройства на 2018 год не предусмотрено.Выполнение работ будет рассмотрено в 2019 году.",
+            "date": "10 августа 14:42"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.722826,
+          53.70412445
+        ]
+      },
+      "properties": {
+        "id": "187385",
+        "href": "/problem/187385",
+        "address": "ул. Комсомольская, Кричев, Беларусь",
+        "date_create": "28 июля 2018 18:07",
+        "date_planned": "09.08.2018",
+        "crm_date_planned": "2018-08-09",
+        "crm_create_at": "2018-07-28",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/437341.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "По улице Комсомольской разбита тротуарная дорожка.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.72423172,
+          53.71161652
+        ]
+      },
+      "properties": {
+        "id": "187384",
+        "href": "/problem/187384",
+        "address": "ул. Октябрьская, Кричев, Беларусь",
+        "date_create": "28 июля 2018 17:45",
+        "date_planned": "31.07.2018",
+        "crm_date_planned": "2018-07-31",
+        "crm_create_at": "2018-07-28",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/437340.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "369",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "69930",
+          "name": "Сара",
+          "last_name": "Кукушкина",
+          "middle_name": "Сергеевна"
+        },
+        "description": "Сож 27. Около 1 подъезда разбита дорога к подъезду",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "устройство цементной стяжки дорожного покрытия планом текущего ремонта объектов городского благоустройства на 2018 год не предусмотрены.",
+            "date": "31 июля 8:39"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.72399139,
+          53.71157074
+        ]
+      },
+      "properties": {
+        "id": "187383",
+        "href": "/problem/187383",
+        "address": "ул. Октябрьская, Кричев, Беларусь",
+        "date_create": "28 июля 2018 17:36",
+        "date_planned": "09.08.2018",
+        "crm_date_planned": "2018-08-09",
+        "crm_create_at": "2018-07-28",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/437339.jpg"
+          ],
+          "after": [
+            "/upload/image/456179.jpg",
+            "/upload/image/456180.jpg",
+            "/upload/image/456181.jpg"
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "По мк-рн Сож, 27, подъезд 1. Около подъезда разбита полностью Проезжая часть. Требуется ямочный ремонт либо капитальная укладка асфальта",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "произведен ямочный ремонт",
+            "date": "22 августа 15:28",
+            "photos": [
+              "/upload/image/456151.jpg",
+              "/upload/image/456152.jpg",
+              "/upload/image/456153.jpg"
+            ]
+          },
+          {
+            "author": "Максим Рудь",
+            "text": "",
+            "date": "22 августа 17:11",
+            "rating": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70428467,
+          53.69597244
+        ]
+      },
+      "properties": {
+        "id": "187157",
+        "href": "/problem/187157",
+        "address": "Советская улица, 55А",
+        "date_create": "28 июля 2018 0:35",
+        "date_planned": "09.08.2018",
+        "crm_date_planned": "2018-08-09",
+        "crm_create_at": "2018-07-28",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "156",
+          "parent_id": "14",
+          "icon": "14"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "по Советской 55А  вдоль подъездов отсутствуют мусорные урны",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "планом текущего ремонта объектов городского благоустройства на 2018 год не предусмотрено",
+            "date": "31 июля 9:31"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70409393,
+          53.6955452
+        ]
+      },
+      "properties": {
+        "id": "187156",
+        "href": "/problem/187156",
+        "address": "Советская улица, 4",
+        "date_create": "28 июля 2018 0:34",
+        "date_planned": "09.08.2018",
+        "crm_date_planned": "2018-08-09",
+        "crm_create_at": "2018-07-28",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "156",
+          "parent_id": "14",
+          "icon": "14"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Около всех подъездов по Советской 4 отсутствуют мусорные урны, отсюда. Поэтому вокруг сорят.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "планом текущего ремонта объектов городского благоустройства на 2018 год не предусмотрено",
+            "date": "31 июля 9:31"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7109375,
+          53.73617935
+        ]
+      },
+      "properties": {
+        "id": "187155",
+        "href": "/problem/187155",
+        "address": "улица Пугачёва, 9",
+        "date_create": "28 июля 2018 0:32",
+        "date_planned": "09.08.2018",
+        "crm_date_planned": "2018-08-09",
+        "crm_create_at": "2018-07-28",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "290",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "На привокзальной площади требуется ежегодная (и сейчас) прочистка желобов (около бордюров) вдоль жд вокзала, остановки общественного транспорта от грязи. Вода с дороги не сходит, стоит при дождях.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "выполнена прочистка желобов вдоль жд вокзала",
+            "date": "7 сентября 16:51"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70679283,
+          53.69672394
+        ]
+      },
+      "properties": {
+        "id": "187382",
+        "href": "/problem/187382",
+        "address": "ул. Гусаковского, Кричев, Беларусь",
+        "date_create": "27 июля 2018 17:50",
+        "date_planned": "09.08.2018",
+        "crm_date_planned": "2018-08-09",
+        "crm_create_at": "2018-07-27",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/437338.jpg"
+          ],
+          "after": [
+            "/upload/image/467949.jpg"
+          ]
+        },
+        "category": {
+          "id": "364",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Около Белтелекома лежит гора мусора из асфальта",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "мусор убран",
+            "date": "7 сентября 16:50",
+            "photos": [
+              "/upload/image/467880.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70670509,
+          53.69638443
+        ]
+      },
+      "properties": {
+        "id": "187381",
+        "href": "/problem/187381",
+        "address": "ул. Советская 36, Кричев, Беларусь",
+        "date_create": "27 июля 2018 17:09",
+        "date_planned": "09.08.2018",
+        "crm_date_planned": "2018-08-09",
+        "crm_create_at": "2018-07-27",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/437337.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "292",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Отсутствует дорожная разметка и пешеходные переходы по всей ул. Советской, ул. Гусаковского",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "Планом текущего ремонта объектов городского благоустройства на 2018 год не предусмотрено.Выполнение работ будит рассмотрено в 2019 году.",
+            "date": "10 августа 15:01"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70787239,
+          53.69621658
+        ]
+      },
+      "properties": {
+        "id": "187089",
+        "href": "/problem/187089",
+        "address": "ул. Советская 36, Кричев, Беларусь",
+        "date_create": "27 июля 2018 13:57",
+        "date_planned": "08.08.2018",
+        "crm_date_planned": "2018-08-08",
+        "crm_create_at": "2018-07-27",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/437017.jpg"
+          ],
+          "after": [
+            "/upload/image/471340.jpg",
+            "/upload/image/471341.jpg"
+          ]
+        },
+        "category": {
+          "id": "312",
+          "parent_id": "23",
+          "icon": "23"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Отсутствует указатель расписания транспорта на ост. Дом Советов",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "выполнено",
+            "date": "13 сентября 8:44",
+            "photos": [
+              "/upload/image/471304.jpg",
+              "/upload/image/471305.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70612907,
+          53.69562912
+        ]
+      },
+      "properties": {
+        "id": "186927",
+        "href": "/problem/186927",
+        "address": "пл. Ленина, Кричев, Беларусь",
+        "date_create": "26 июля 2018 18:33",
+        "date_planned": "08.08.2018",
+        "crm_date_planned": "2018-08-08",
+        "crm_create_at": "2018-07-26",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/436456.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Съезд на проезжую часть площади Дома Советов разбита полностью с тротуарной дорожки.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "работы будут выполнены до конца 3 квартала 2018 года",
+            "date": "31 июля 9:26"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70409393,
+          53.6955452
+        ]
+      },
+      "properties": {
+        "id": "186485",
+        "href": "/problem/186485",
+        "address": "Советская улица, 4",
+        "date_create": "25 июля 2018 22:27",
+        "date_planned": "07.08.2018",
+        "crm_date_planned": "2018-08-07",
+        "crm_create_at": "2018-07-25",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/435393.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "55",
+          "parent_id": "9",
+          "icon": "9"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Требуется удлиннение трубы слива сточных вод с крыши от здания дома на 3-4 метра. Затекает в подвал, от чего внутри сыро. Текущая система слива очень короткая. При сильных осадках все заливает.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "работы будут выполнены до конца августа 2018 года",
+            "date": "31 июля 9:25"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70432091,
+          53.69639969
+        ]
+      },
+      "properties": {
+        "id": "186483",
+        "href": "/problem/186483",
+        "address": "Советская улица, 59",
+        "date_create": "25 июля 2018 22:25",
+        "date_planned": "07.08.2018",
+        "crm_date_planned": "2018-08-07",
+        "crm_create_at": "2018-07-25",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "53",
+          "parent_id": "9",
+          "icon": "9"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "отсутствует указатель с названием улицы и номера дома по ул. Советская 59",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "Выполнено",
+            "date": "10 августа 15:21"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70428467,
+          53.69597244
+        ]
+      },
+      "properties": {
+        "id": "186482",
+        "href": "/problem/186482",
+        "address": "Советская улица, 55А",
+        "date_create": "25 июля 2018 22:24",
+        "date_planned": "07.08.2018",
+        "crm_date_planned": "2018-08-07",
+        "crm_create_at": "2018-07-25",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "53",
+          "parent_id": "9",
+          "icon": "9"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "по ул. Советская 55а отсутствует аншлаг с указанием улицы и номера дома .",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "Выполнено",
+            "date": "10 августа 15:24"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.71571922,
+          53.69577789
+        ]
+      },
+      "properties": {
+        "id": "186481",
+        "href": "/problem/186481",
+        "address": "Советская улица, 4",
+        "date_create": "25 июля 2018 22:23",
+        "date_planned": "07.08.2018",
+        "crm_date_planned": "2018-08-07",
+        "crm_create_at": "2018-07-25",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "53",
+          "parent_id": "9",
+          "icon": "9"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Отсутствует аншлаг с указанием улицы и номера дома по ул. Советская 4.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "Выполнено",
+            "date": "10 августа 15:24"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70409393,
+          53.6955452
+        ]
+      },
+      "properties": {
+        "id": "186480",
+        "href": "/problem/186480",
+        "address": "Советская улица, 4",
+        "date_create": "25 июля 2018 22:21",
+        "date_planned": "07.08.2018",
+        "crm_date_planned": "2018-08-07",
+        "crm_create_at": "2018-07-25",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/435388.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Не горят фонари около 4-5 подъездов по ул. Советская 4. Почините.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70428467,
+          53.69597244
+        ]
+      },
+      "properties": {
+        "id": "186479",
+        "href": "/problem/186479",
+        "address": "Советская улица, 55А",
+        "date_create": "25 июля 2018 22:20",
+        "date_planned": "07.08.2018",
+        "crm_date_planned": "2018-08-07",
+        "crm_create_at": "2018-07-25",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/435385.jpg",
+            "/upload/image/435386.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Между пятиэтажками Советская 4 и 55А не работают фонари. Почините, пожалуйста.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.71571922,
+          53.69577789
+        ]
+      },
+      "properties": {
+        "id": "186477",
+        "href": "/problem/186477",
+        "address": "Советская улица, 4",
+        "date_create": "25 июля 2018 22:17",
+        "date_planned": "07.08.2018",
+        "crm_date_planned": "2018-08-07",
+        "crm_create_at": "2018-07-25",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/435382.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "62",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "2 подъезд, 1-2 этажи. Электрощитки держатся на тоненьких веревочках. Поставьте замки, чтобы никто не проник внутрь щитков.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "работы будут выполнены до 17.08.2018 года.",
+            "date": "31 июля 9:22"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70493317,
+          53.69626617
+        ]
+      },
+      "properties": {
+        "id": "186263",
+        "href": "/problem/186263",
+        "address": "ул. Советская, Кричев, Беларусь",
+        "date_create": "24 июля 2018 20:00",
+        "date_planned": "06.08.2018",
+        "crm_date_planned": "2018-08-06",
+        "crm_create_at": "2018-07-24",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/434782.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Советская 59. Почините светильник, нужен плафон на фонарном столбе.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "работы будут выполнены до 17.08.2018 года.",
+            "date": "31 июля 9:21"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70480537,
+          53.69563293
+        ]
+      },
+      "properties": {
+        "id": "186229",
+        "href": "/problem/186229",
+        "address": "ул. Советская 4, Кричев, Беларусь",
+        "date_create": "24 июля 2018 19:56",
+        "date_planned": "06.08.2018",
+        "crm_date_planned": "2018-08-06",
+        "crm_create_at": "2018-07-24",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/434707.jpg"
+          ],
+          "after": [
+            "/upload/image/472225.jpg"
+          ]
+        },
+        "category": {
+          "id": "57",
+          "parent_id": "9",
+          "icon": "9"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Постоянно открыт вход в подвал между 1 и 2  подъездами.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "устранено",
+            "date": "14 сентября 9:37",
+            "photos": [
+              "/upload/image/472214.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70614624,
+          53.69643784
+        ]
+      },
+      "properties": {
+        "id": "186180",
+        "href": "/problem/186180",
+        "address": "ул. Советская 36, Кричев, Беларусь",
+        "date_create": "24 июля 2018 17:52",
+        "date_planned": "03.08.2018",
+        "crm_date_planned": "2018-08-03",
+        "crm_create_at": "2018-07-24",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/434646.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "296",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "На перекрестке ул. Гусаковского и Советской отсутствует фрагмент тротуарного покрытия",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70514679,
+          53.69641113
+        ]
+      },
+      "properties": {
+        "id": "186250",
+        "href": "/problem/186250",
+        "address": "ул. Советская 36, Кричев, Беларусь",
+        "date_create": "24 июля 2018 17:11",
+        "date_planned": "06.08.2018",
+        "crm_date_planned": "2018-08-06",
+        "crm_create_at": "2018-07-24",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/434775.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "364",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "На магазине Ветразь разбит фундамент здания",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70432091,
+          53.69639969
+        ]
+      },
+      "properties": {
+        "id": "186156",
+        "href": "/problem/186156",
+        "address": "Советская улица, 59",
+        "date_create": "24 июля 2018 16:30",
+        "date_planned": "03.08.2018",
+        "crm_date_planned": "2018-08-03",
+        "crm_create_at": "2018-07-24",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/434548.jpg",
+            "/upload/image/434549.jpg",
+            "/upload/image/434550.jpg"
+          ],
+          "after": [
+            "/upload/image/456177.jpg"
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Проезжая часть от ул. Советская 4 до Советской 59 разбита полностью. Требуется НОВАЯ укладка асфальта. Ямочный ремонт спасает ситуацию на неделю.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "выполнено",
+            "date": "22 августа 15:30",
+            "photos": [
+              "/upload/image/456155.jpg"
+            ]
+          },
+          {
+            "author": "Максим Рудь",
+            "text": "",
+            "date": "22 августа 17:12",
+            "rating": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70637321,
+          53.69784164
+        ]
+      },
+      "properties": {
+        "id": "186151",
+        "href": "/problem/186151",
+        "address": "улица Гусаковского, 10",
+        "date_create": "24 июля 2018 16:23",
+        "date_planned": "03.08.2018",
+        "crm_date_planned": "2018-08-03",
+        "crm_create_at": "2018-07-24",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/434513.jpg",
+            "/upload/image/434514.jpg",
+            "/upload/image/434515.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "296",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Тротуар врос в землю по всей улице. Требуется модернизация тротуара, повышение дорожного бордюра, укладка асфальта на тротуар для пешеходов. Износ тротуаров 100%.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70775414,
+          53.69624329
+        ]
+      },
+      "properties": {
+        "id": "186185",
+        "href": "/problem/186185",
+        "address": "ул. Советская 36, Кричев, Беларусь",
+        "date_create": "24 июля 2018 15:55",
+        "date_planned": "03.08.2018",
+        "crm_date_planned": "2018-08-03",
+        "crm_create_at": "2018-07-24",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/434651.jpg"
+          ],
+          "after": [
+            "/upload/image/441456.jpg"
+          ]
+        },
+        "category": {
+          "id": "367",
+          "parent_id": "23",
+          "icon": "23"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Отсутствует остановочный пункт \"ул. Советская\". Старую установку убрали, новую не поставили.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "Установлен новый остановочный пункт.",
+            "date": "3 августа 11:30",
+            "photos": [
+              "/upload/image/441438.jpg"
+            ]
+          },
+          {
+            "author": "Максим Рудь",
+            "text": "СПАСИБО! ОЧЕНЬ КРАСИВО!",
+            "date": "3 августа 12:09",
+            "rating": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.71344948,
+          53.69551849
+        ]
+      },
+      "properties": {
+        "id": "186184",
+        "href": "/problem/186184",
+        "address": "ул. Советская 8a, Кричев, Беларусь",
+        "date_create": "24 июля 2018 15:53",
+        "date_planned": "03.08.2018",
+        "crm_date_planned": "2018-08-03",
+        "crm_create_at": "2018-07-24",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/434650.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "364",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "На тротуаре большие ямы, разбит асфальт на обеих сторонах по ул.Советской",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "выполнение работ по ремонту тротуарной дорожки планируется до конца 3 квартала 2018 года.",
+            "date": "31 июля 9:01"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.71422768,
+          53.69539261
+        ]
+      },
+      "properties": {
+        "id": "186183",
+        "href": "/problem/186183",
+        "address": "ул. Советская 8a, Кричев, Беларусь",
+        "date_create": "24 июля 2018 15:52",
+        "date_planned": "03.08.2018",
+        "crm_date_planned": "2018-08-03",
+        "crm_create_at": "2018-07-24",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/434649.jpg"
+          ],
+          "after": [
+            "/upload/image/467947.jpg",
+            "/upload/image/467948.jpg"
+          ]
+        },
+        "category": {
+          "id": "364",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Тротуар разбит, частями отсутствует асфальтовое покрытие.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "тротуар восстановлен",
+            "date": "7 сентября 16:53",
+            "photos": [
+              "/upload/image/467883.jpg",
+              "/upload/image/467884.jpg"
+            ]
+          },
+          {
+            "author": "Максим Рудь",
+            "text": "",
+            "date": "7 сентября 19:42",
+            "rating": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70464325,
+          53.69559479
+        ]
+      },
+      "properties": {
+        "id": "186182",
+        "href": "/problem/186182",
+        "address": "ул. Советская, Кричев, Беларусь",
+        "date_create": "24 июля 2018 15:50",
+        "date_planned": "03.08.2018",
+        "crm_date_planned": "2018-08-03",
+        "crm_create_at": "2018-07-24",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/434648.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "104",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Советская 4. При входе во 2 подъезд осыпается штукатурка, разрушается кирпичная кладка.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "планом текущего ремонта жилищного фонда на 2018 год не предусмотрено.",
+            "date": "31 июля 8:59"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.71063423,
+          53.69580841
+        ]
+      },
+      "properties": {
+        "id": "186181",
+        "href": "/problem/186181",
+        "address": "ул. Советская 36, Кричев, Беларусь",
+        "date_create": "24 июля 2018 13:47",
+        "date_planned": "03.08.2018",
+        "crm_date_planned": "2018-08-03",
+        "crm_create_at": "2018-07-24",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/434647.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "364",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Около дома Советская 38 на проезжей части стоит огромнейшее лужа. Вода никуда не сходит.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "лужа на проезжей части образовывается  на проезжей части только при выпадении обильных осадков, так как отсутствует водоотведение.Аварийной ситуации данная лужа не создает, высыхает естественным путем",
+            "date": "31 июля 9:15"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.71402168,
+          53.71099091
+        ]
+      },
+      "properties": {
+        "id": "186073",
+        "href": "/problem/186073",
+        "address": "Комсомольский микрорайон, 11",
+        "date_create": "24 июля 2018 12:33",
+        "date_planned": "06.08.2018",
+        "crm_date_planned": "2018-08-06",
+        "crm_create_at": "2018-07-24",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/434267.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "369",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "17098",
+          "name": "Владимир",
+          "last_name": "Воронов",
+          "middle_name": "Александрович"
+        },
+        "description": "Проблема не решена качествено. Дыры заделали картоном и просто покрасили его. Хитрецы. Старая заявка182408. Нужно было зацементировать. Как и было. Получается, что дыры в стене спрятаны за картон",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70523834,
+          53.69608307
+        ]
+      },
+      "properties": {
+        "id": "186162",
+        "href": "/problem/186162",
+        "address": "ул. Советская, Кричев, Беларусь",
+        "date_create": "24 июля 2018 10:20",
+        "date_planned": "03.08.2018",
+        "crm_date_planned": "2018-08-03",
+        "crm_create_at": "2018-07-24",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/434607.jpg"
+          ],
+          "after": [
+            "/upload/image/456175.jpg",
+            "/upload/image/456176.jpg"
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Около магазина Ветразь вдоль пятиэтажек разбита дорога.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "выполнено",
+            "date": "22 августа 15:32",
+            "photos": [
+              "/upload/image/456156.jpg",
+              "/upload/image/456157.jpg"
+            ]
+          },
+          {
+            "author": "Максим Рудь",
+            "text": "",
+            "date": "22 августа 17:12",
+            "rating": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70610428,
+          53.69795609
+        ]
+      },
+      "properties": {
+        "id": "185946",
+        "href": "/problem/185946",
+        "address": "ул. Гусаковского, Кричев, Беларусь",
+        "date_create": "23 июля 2018 16:11",
+        "date_planned": "03.08.2018",
+        "crm_date_planned": "2018-08-03",
+        "crm_create_at": "2018-07-23",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/434035.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "364",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "По улице Гусаков Скала тротуар врос в землю, в некоторых местах тротуар ниже проезжей части. Требуется повышение дорожного бордюра и восстановление тротуара.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "планом текущего ремонта объектов городского благоустройства на 2018 год не предусмотрено",
+            "date": "31 июля 8:58"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70637703,
+          53.6975975
+        ]
+      },
+      "properties": {
+        "id": "185945",
+        "href": "/problem/185945",
+        "address": "ул. Гусаковского, Кричев, Беларусь",
+        "date_create": "23 июля 2018 16:09",
+        "date_planned": "03.08.2018",
+        "crm_date_planned": "2018-08-03",
+        "crm_create_at": "2018-07-23",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/434034.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Около дома ул. Гусаковского, 6А отсутствует осветительный фонарь. Повесьте, пожалуйста.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "работы будут выполнены до 17.08.2018",
+            "date": "31 июля 8:57"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.71539116,
+          53.71486664
+        ]
+      },
+      "properties": {
+        "id": "185264",
+        "href": "/problem/185264",
+        "address": "Комсомольский микрорайон, 1",
+        "date_create": "22 июля 2018 13:11",
+        "date_planned": "02.08.2018",
+        "crm_date_planned": "2018-08-02",
+        "crm_create_at": "2018-07-22",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/432791.jpg",
+            "/upload/image/432792.jpg"
+          ],
+          "after": [
+            "/upload/image/433976.jpg",
+            "/upload/image/433977.jpg"
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "68423",
+          "name": "Анатолий",
+          "last_name": "Луценко",
+          "middle_name": ""
+        },
+        "description": "«ДОРОГА В НИКУДА», которая идет от подъезда №3 до мусорных контейнеров, а  основная тропинка, по которой ходит много людей к  д.2, 3 просто запущена.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "установлено устройство тротуарной дорожки",
+            "date": "24 июля 9:14",
+            "photos": [
+              "/upload/image/433934.jpg",
+              "/upload/image/433935.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.72179222,
+          53.74068069
+        ]
+      },
+      "properties": {
+        "id": "183703",
+        "href": "/problem/183703",
+        "address": "Фрунзе 8/12",
+        "date_create": "15 июля 2018 17:56",
+        "date_planned": "26.07.2018",
+        "crm_date_planned": "2018-07-26",
+        "crm_create_at": "2018-07-15",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/429342.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "66",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "67784",
+          "name": "Сергей",
+          "last_name": "Агеев",
+          "middle_name": "Анатольевич"
+        },
+        "description": "Можно сделать освещение по всему подвалу",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "Работы по частичной замене электропроводки, установки выключателя и электрических лампочек лампочек планируется до конца октября 2018 года в связи с большим объемом работ.",
+            "date": "23 июля 12:44"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.71718979,
+          53.70930862
+        ]
+      },
+      "properties": {
+        "id": "183702",
+        "href": "/problem/183702",
+        "address": "Фрунзе 8/12",
+        "date_create": "15 июля 2018 17:52",
+        "date_planned": "26.07.2018",
+        "crm_date_planned": "2018-07-26",
+        "crm_create_at": "2018-07-15",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/429341.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "66",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "67784",
+          "name": "Сергей",
+          "last_name": "Агеев",
+          "middle_name": "Анатольевич"
+        },
+        "description": "Вы забыли выключатель поставить на выключения освещения в подвале подъезда 1",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "Работы по частичной замене электропроводки, установки выключателя и электрических лампочек лампочек планируется до конца октября 2018 года в связи с большим объемом работ.",
+            "date": "23 июля 12:44"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.71647072,
+          53.71384048
+        ]
+      },
+      "properties": {
+        "id": "182308",
+        "href": "/problem/182308",
+        "address": "Игровая площадка возле кафе Апельсин",
+        "date_create": "10 июля 2018 16:31",
+        "date_planned": "23.07.2018",
+        "crm_date_planned": "2018-07-23",
+        "crm_create_at": "2018-07-10",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/426247.jpg"
+          ],
+          "after": [
+            "/upload/image/467945.jpg"
+          ]
+        },
+        "category": {
+          "id": "29",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "68537",
+          "name": "Максим",
+          "last_name": "Великанов",
+          "middle_name": ""
+        },
+        "description": "На площадке отсутствует песок, оголены железобетонные элементы. Горки имеют изломы и зазубрины.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "выполнено",
+            "date": "7 сентября 16:55",
+            "photos": [
+              "/upload/image/467888.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.69358253,
+          53.74265671
+        ]
+      },
+      "properties": {
+        "id": "181714",
+        "href": "/problem/181714",
+        "address": "рядом с Суворова улица, 20А",
+        "date_create": "9 июля 2018 15:45",
+        "date_planned": "19.07.2018",
+        "crm_date_planned": "2018-07-19",
+        "crm_create_at": "2018-07-09",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/424568.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "325",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "63205",
+          "name": "Сергей",
+          "last_name": "Емельяненко",
+          "middle_name": "Владимирович"
+        },
+        "description": "Неудовлетворительное  состояние  шахтного колодца! В воде  плавают  ветки ... мусор ... постоянно отваливается  крышка, отваливается  штукатурка .   Ул. Суворова , возле  дома  20 \"А\"",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "Выполнение работ планируется до 31 августа 2018",
+            "date": "23 июля 12:39"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.71402168,
+          53.71099091
+        ]
+      },
+      "properties": {
+        "id": "181189",
+        "href": "/problem/181189",
+        "address": "Комсомольский микрорайон, 11",
+        "date_create": "7 июля 2018 17:50",
+        "date_planned": "19.07.2018",
+        "crm_date_planned": "2018-07-19",
+        "crm_create_at": "2018-07-07",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/423699.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "369",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "17098",
+          "name": "Владимир",
+          "last_name": "Воронов",
+          "middle_name": "Александрович"
+        },
+        "description": "Сломан козырек над подьездом. И рубиройд на козырьке разрушен сверху. Подьезд номер 1",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "Выполнение работ по ремонту рулонного покрытия кровли козырька планируется до конца сентября 2018 года.",
+            "date": "23 июля 12:37"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.71402168,
+          53.71099091
+        ]
+      },
+      "properties": {
+        "id": "181188",
+        "href": "/problem/181188",
+        "address": "Комсомольский микрорайон, 11",
+        "date_create": "7 июля 2018 17:47",
+        "date_planned": "19.07.2018",
+        "crm_date_planned": "2018-07-19",
+        "crm_create_at": "2018-07-07",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/423696.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "17098",
+          "name": "Владимир",
+          "last_name": "Воронов",
+          "middle_name": "Александрович"
+        },
+        "description": "На пешеходной дорожке. Большое количество ям. Глубоких. Возле подьездов. В которых собирается вода после дождя, и когда туда проваливается нога то очень мокро и неприятно. Да и люди спотыкаются",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "Выравнивание тротуарной плитки планом текущего ремонта объектов городского благоустройства на 2018 год не предусмотрены",
+            "date": "23 июля 12:35"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.71450233,
+          53.71120071
+        ]
+      },
+      "properties": {
+        "id": "181395",
+        "href": "/problem/181395",
+        "address": "ул. Комсомольская №11, Кричев 213500, Беларусь",
+        "date_create": "7 июля 2018 16:53",
+        "date_planned": "19.07.2018",
+        "crm_date_planned": "2018-07-19",
+        "crm_create_at": "2018-07-07",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/423942.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "369",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "17098",
+          "name": "Владимир",
+          "last_name": "Воронов",
+          "middle_name": "Александрович"
+        },
+        "description": "Разрушено крыльцо возле подъезда. Подъезд 1. Вход",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "Работы по ремонту крыльца планом текущего ремонта жилищного фонда на 2018 год не предусмотрены",
+            "date": "23 июля 12:34"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.71678734,
+          53.71188354
+        ]
+      },
+      "properties": {
+        "id": "180628",
+        "href": "/problem/180628",
+        "address": "Комсомольский микрорайон, 13",
+        "date_create": "5 июля 2018 21:39",
+        "date_planned": "17.07.2018",
+        "crm_date_planned": "2018-07-17",
+        "crm_create_at": "2018-07-05",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/422205.jpg"
+          ],
+          "after": [
+            "/upload/image/441451.jpg"
+          ]
+        },
+        "category": {
+          "id": "325",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "68537",
+          "name": "Максим",
+          "last_name": "Великанов",
+          "middle_name": ""
+        },
+        "description": "Единственный в городе \"фонтан\"",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "работы по ремонту фонтана выполнены",
+            "date": "3 августа 11:27",
+            "photos": [
+              "/upload/image/441431.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.69665718,
+          53.69291306
+        ]
+      },
+      "properties": {
+        "id": "179784",
+        "href": "/problem/179784",
+        "address": "улице Советская, д.59 ",
+        "date_create": "3 июля 2018 19:52",
+        "date_planned": "13.07.2018",
+        "crm_date_planned": "2018-07-13",
+        "crm_create_at": "2018-07-03",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "57",
+          "parent_id": "9",
+          "icon": "9"
+        },
+        "user": {
+          "id": "4584",
+          "name": "Кирилл ",
+          "last_name": "Никитин",
+          "middle_name": ""
+        },
+        "description": "В первом подъезде между 2 и 3 этажом нет второй рамы остекления. Прошу исправить к отопительному сезону.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "В процессе проведения работ по объекту \"Капитальный ремонт жилого дома №59 по ул. Советской в г.Кричеве\" замечания будут устранены.",
+            "date": "23 июля 12:30"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.71532822,
+          53.74649811
+        ]
+      },
+      "properties": {
+        "id": "180069",
+        "href": "/problem/180069",
+        "address": "Кричев,  Фрунзе улица,  51/1",
+        "date_create": "1 июля 2018 11:18",
+        "date_planned": "13.07.2018",
+        "crm_date_planned": "2018-07-13",
+        "crm_create_at": "2018-07-01",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "66",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "67784",
+          "name": "Сергей",
+          "last_name": "Агеев",
+          "middle_name": "Анатольевич"
+        },
+        "description": "Отсутствует освещение подвального помещения в первом подъезде дома по ул. Фрунзе8/12",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "освещение восстановлено",
+            "date": "9 июля 8:38"
+          }
+        ]
+      }
+    }
+  ]
+}

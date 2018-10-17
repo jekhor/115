@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28269005,
+          53.93369675
+        ]
+      },
+      "properties": {
+        "id": "213704",
+        "href": "/problem/213704",
+        "address": "Вороновская, дома от 18 до 32",
+        "date_create": "29 сентября 2018 15:02",
+        "date_planned": "18.10.2018",
+        "crm_date_planned": "2018-10-18",
+        "crm_create_at": "2018-09-29",
+        "organisation_id": "446",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/495267.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "296",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "73784",
+          "name": "Ганна",
+          "last_name": "Качалка",
+          "middle_name": "Чаславаўна"
+        },
+        "description": "Отсутствует дорожное покрытие по улице  Вороновская. Нет даже гравейки - в дожди всю дорогу размывает.",
+        "answers": [
+
+        ]
+      }
+    }
+  ]
+}

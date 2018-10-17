@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.73802185,
+          53.61287308
+        ]
+      },
+      "properties": {
+        "id": "195769",
+        "href": "/problem/195769",
+        "address": "улица Островского, 30",
+        "date_create": "25 августа 2018 17:59",
+        "date_planned": "10.09.2018",
+        "crm_date_planned": "2018-09-10",
+        "crm_create_at": "2018-08-25",
+        "organisation_id": "339",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/458231.jpg",
+            "/upload/image/458232.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "369",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "69415",
+          "name": "Петр",
+          "last_name": "Поздняков",
+          "middle_name": ""
+        },
+        "description": "Прошу осуществить строительство пандуса для спуска/подъёма детских колясок и удлиннить нижнюю ступеньку крыльца т.к. слишком короткая (подъезд 3).",
+        "answers": [
+
+        ]
+      }
+    }
+  ]
+}

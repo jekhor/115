@@ -1,0 +1,453 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.41790581,
+          53.13221359
+        ]
+      },
+      "properties": {
+        "id": "197940",
+        "href": "/problem/197940",
+        "address": "улица Горбатова 17 (2-й подъезд)",
+        "date_create": "31 августа 2018 13:31",
+        "date_planned": "13.09.2018",
+        "crm_date_planned": "2018-09-13",
+        "crm_create_at": "2018-08-31",
+        "organisation_id": "370",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "57",
+          "parent_id": "9",
+          "icon": "9"
+        },
+        "user": {
+          "id": "71687",
+          "name": "Дмитрий",
+          "last_name": "Ходак",
+          "middle_name": "Иванович"
+        },
+        "description": "Сломан доводчик входной двери в подъезд. Неоднократно обращались по телефону диспетчеру ЖЭСа. Домофон находится на обслуживании в данной организации.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.45067024,
+          53.15250015
+        ]
+      },
+      "properties": {
+        "id": "195595",
+        "href": "/problem/195595",
+        "address": "рядом с улица 129-й Орловской Дивизии, 57/1",
+        "date_create": "24 августа 2018 15:50",
+        "date_planned": "05.09.2018",
+        "crm_date_planned": "2018-09-05",
+        "crm_create_at": "2018-08-24",
+        "organisation_id": "394",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/457874.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "372",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "16701",
+          "name": "Алексей",
+          "last_name": "Ольховко",
+          "middle_name": "Владимирович"
+        },
+        "description": "Тестовая проблема",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.44145775,
+          53.16407013
+        ]
+      },
+      "properties": {
+        "id": "193194",
+        "href": "/problem/193194",
+        "address": "Волковыск,  улица Горбатова,  11",
+        "date_create": "16 августа 2018 11:49",
+        "date_planned": "28.08.2018",
+        "crm_date_planned": "2018-08-28",
+        "crm_create_at": "2018-08-16",
+        "organisation_id": "370",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/452182.jpg"
+          ],
+          "after": [
+            "/upload/image/468779.jpg",
+            "/upload/image/468780.jpg",
+            "/upload/image/468781.jpg"
+          ]
+        },
+        "category": {
+          "id": "29",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "70427",
+          "name": "Петр",
+          "last_name": "Иванов",
+          "middle_name": "Сергеевич"
+        },
+        "description": "Нет детской площадки",
+        "answers": [
+          {
+            "author": "ОАО ЖЭС г. Волковыска",
+            "text": "На придомовой территории жилого дома №11 по ул. Горбатова имеется детская игровая площадка",
+            "date": "7 сентября 15:44",
+            "photos": [
+              "/upload/image/467791.jpg",
+              "/upload/image/467792.jpg",
+              "/upload/image/467793.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.44145775,
+          53.16407013
+        ]
+      },
+      "properties": {
+        "id": "194952",
+        "href": "/problem/194952",
+        "address": "Волковыск,  улица Горбатова,  11",
+        "date_create": "16 августа 2018 11:34",
+        "date_planned": "20.11.2018",
+        "crm_date_planned": "2018-11-20",
+        "crm_create_at": "2018-08-16",
+        "organisation_id": "370",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/456204.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "99",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "70427",
+          "name": "Петр",
+          "last_name": "Иванов",
+          "middle_name": "Сергеевич"
+        },
+        "description": "Разбиты ступеньки входа ив первый подъезд",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.43523598,
+          53.166996
+        ]
+      },
+      "properties": {
+        "id": "194909",
+        "href": "/problem/194909",
+        "address": "Волковыск,  улица Боричевского,  40",
+        "date_create": "9 августа 2018 12:49",
+        "date_planned": "30.09.2018",
+        "crm_date_planned": "2018-09-30",
+        "crm_create_at": "2018-08-09",
+        "organisation_id": "364",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/456018.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "122",
+          "name": "Тень",
+          "last_name": "Шорца",
+          "middle_name": ""
+        },
+        "description": "Нужен ремонт проезжей части, замена полотна.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.46179008,
+          53.16184998
+        ]
+      },
+      "properties": {
+        "id": "194908",
+        "href": "/problem/194908",
+        "address": "Волковыск,  улица Ленина,  11",
+        "date_create": "9 августа 2018 12:22",
+        "date_planned": "29.08.2018",
+        "crm_date_planned": "2018-08-29",
+        "crm_create_at": "2018-08-09",
+        "organisation_id": "364",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/456017.jpg"
+          ],
+          "after": [
+            "/upload/image/458921.jpg",
+            "/upload/image/458922.jpg"
+          ]
+        },
+        "category": {
+          "id": "286",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "122",
+          "name": "Тень",
+          "last_name": "Шорца",
+          "middle_name": ""
+        },
+        "description": "Возле кафе винтаж нужен ремонт лестницы",
+        "answers": [
+          {
+            "author": "КУП \"Волковысское коммунальное хозяйство\" коммунальный участок",
+            "text": "Решено",
+            "date": "27 августа 12:27",
+            "photos": [
+              "/upload/image/458733.jpg",
+              "/upload/image/458734.jpg"
+            ]
+          },
+          {
+            "author": "Тень Шорца",
+            "text": "",
+            "date": "28 августа 16:31",
+            "rating": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.43967438,
+          53.17102051
+        ]
+      },
+      "properties": {
+        "id": "194951",
+        "href": "/problem/194951",
+        "address": "Волковыск,  улица Франциска Скорины,  15",
+        "date_create": "7 августа 2018 19:07",
+        "date_planned": "20.11.2018",
+        "crm_date_planned": "2018-11-20",
+        "crm_create_at": "2018-08-07",
+        "organisation_id": "370",
+        "status": "7",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/456189.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "99",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "70470",
+          "name": "Юлия",
+          "last_name": "Никитина",
+          "middle_name": "Александровна"
+        },
+        "description": "Прошу рассмотреть возможность ремонта ступенек в 3-м подъезде по адресу ул. Ф.Скорины, 15 и оборудования заезда для колясок. В подъезде проживают семьи с маленькими детьми, а текущее состояние опасно.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.45343018,
+          53.16323853
+        ]
+      },
+      "properties": {
+        "id": "194950",
+        "href": "/problem/194950",
+        "address": "Волковыск,  Школьная улица,  7",
+        "date_create": "5 августа 2018 0:49",
+        "date_planned": "07.09.2018",
+        "crm_date_planned": "2018-09-07",
+        "crm_create_at": "2018-08-05",
+        "organisation_id": "370",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/456184.jpg"
+          ],
+          "after": [
+            "/upload/image/468393.jpg",
+            "/upload/image/468394.jpg"
+          ]
+        },
+        "category": {
+          "id": "29",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "69691",
+          "name": "Валерия",
+          "last_name": "Дивнель",
+          "middle_name": "Валерьевна"
+        },
+        "description": "качелю не могут зделать уже лет 5, если не больше, ребёнка катать на ней опасно",
+        "answers": [
+          {
+            "author": "ОАО ЖЭС г. Волковыска",
+            "text": "Выполнен ремонт качели.",
+            "date": "7 сентября 15:38",
+            "photos": [
+              "/upload/image/467719.jpg",
+              "/upload/image/467720.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.43623924,
+          53.16413498
+        ]
+      },
+      "properties": {
+        "id": "188745",
+        "href": "/problem/188745",
+        "address": "Волковыск,  улица Боричевского,  18",
+        "date_create": "2 августа 2018 15:33",
+        "date_planned": "26.09.2018",
+        "crm_date_planned": "2018-09-26",
+        "crm_create_at": "2018-08-02",
+        "organisation_id": "370",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/440809.jpg",
+            "/upload/image/440810.jpg"
+          ],
+          "after": [
+            "/upload/image/483109.jpg"
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "69661",
+          "name": "Александр",
+          "last_name": "Зайцев",
+          "middle_name": "Анатольевич"
+        },
+        "description": "Рядом с домом № 16 а каждый год весной появляется эта яма. 10 июля 2018 г. позвонил диспетчеру ЖЭС Волковыска по т.43653.Обещали выполнить ямочный ремонт. Но, видно, трудно, вкинуть 3 лопаты асфальта.",
+        "answers": [
+          {
+            "author": "ОАО ЖЭС г. Волковыска",
+            "text": "26 сентября 2018 года выполнены работы по ямочному ремонту асфальтобетонного покрытия проезжей части придомовой территории жилого дома номер 18 по улице Боричевского в городе Волковыске.",
+            "date": "26 сентября 15:10",
+            "photos": [
+              "/upload/image/480642.jpg"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.00682259,
+          53.1977005
+        ]
+      },
+      "properties": {
+        "id": "184940",
+        "href": "/problem/184940",
+        "address": "улица Гастелло, 23",
+        "date_create": "20 июля 2018 16:17",
+        "date_planned": "02.08.2018",
+        "crm_date_planned": "2018-08-02",
+        "crm_create_at": "2018-07-20",
+        "organisation_id": "319",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/432333.jpg",
+            "/upload/image/432334.jpg",
+            "/upload/image/432335.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "325",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "69483",
+          "name": "Дмитрий",
+          "last_name": "Дешко",
+          "middle_name": "Сергеевич"
+        },
+        "description": "Вдоль забора по ул.Гастелло  была сделана водоотводную канава, которая полностью засорена и заилена.Прошу привести в надлежащее состояние водоотводную канаву для отвода грунтовых, талых и дождевых вод",
+        "answers": [
+          {
+            "author": "Берестовицкое РУП ЖКХ",
+            "text": "Выполнено.",
+            "date": "27 июля 12:24"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.01166916,
+          53.19958878
+        ]
+      },
+      "properties": {
+        "id": "181882",
+        "href": "/problem/181882",
+        "address": "рядом с улица Ленина, 35",
+        "date_create": "10 июля 2018 9:52",
+        "date_planned": "20.07.2018",
+        "crm_date_planned": "2018-07-20",
+        "crm_create_at": "2018-07-10",
+        "organisation_id": "319",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/424971.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "33",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "68890",
+          "name": "Виктор",
+          "last_name": "Сосновский",
+          "middle_name": "Гендрикович"
+        },
+        "description": "Тестовое сообщение!!!\rПереполнена мусорница.",
+        "answers": [
+          {
+            "author": "Берестовицкое РУП ЖКХ",
+            "text": "сообщение прочитано.",
+            "date": "10 июля 10:59"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.01132774,
+          53.20131683
+        ]
+      },
+      "properties": {
+        "id": "180325",
+        "href": "/problem/180325",
+        "address": "рядом с улица Ленина, 36",
+        "date_create": "5 июля 2018 9:35",
+        "date_planned": "23.07.2018",
+        "crm_date_planned": "2018-07-23",
+        "crm_create_at": "2018-07-05",
+        "organisation_id": "319",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "364",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "68611",
+          "name": "Евгений",
+          "last_name": "Афродизиак",
+          "middle_name": ""
+        },
+        "description": "Перекресток стал опасным когда рядом построили магазин (возле него парковку) и сделали пешеходный переход. Надо придумать решение проблемы.Может установить светофор.",
+        "answers": [
+          {
+            "author": "Берестовицкое РУП ЖКХ",
+            "text": "Установка светофора нецелесообразна из-за низкого движения автомобилей в сутки на перекрестке улиц Ленина - Стародворецкой. Для ограничения движения скорости имеется 2 искусственные неровности.",
+            "date": "20 июля 10:14"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0129509,
+          53.20220184
+        ]
+      },
+      "properties": {
+        "id": "180280",
+        "href": "/problem/180280",
+        "address": "рядом с улица Ленина, 44",
+        "date_create": "5 июля 2018 9:13",
+        "date_planned": "20.07.2018",
+        "crm_date_planned": "2018-07-20",
+        "crm_create_at": "2018-07-05",
+        "organisation_id": "319",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+            "/upload/image/433629.jpg"
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "68611",
+          "name": "Евгений",
+          "last_name": "Афродизиак",
+          "middle_name": ""
+        },
+        "description": "Яма находится во дворе,напротив подъезда №1 дома №44 по улице Ленина.Исправьте пожалуйста",
+        "answers": [
+          {
+            "author": "Берестовицкое РУП ЖКХ",
+            "text": "Решено. Ямочный ремонт выполнен.",
+            "date": "23 июля 16:50",
+            "photos": [
+              "/upload/image/433568.jpg"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

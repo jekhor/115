@@ -1,0 +1,264 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.71539116,
+          53.71486664
+        ]
+      },
+      "properties": {
+        "id": "179228",
+        "href": "/problem/179228",
+        "address": "Комсомольский микрорайон, 1",
+        "date_create": "30 июня 2018 13:25",
+        "date_planned": "13.07.2018",
+        "crm_date_planned": "2018-07-13",
+        "crm_create_at": "2018-06-30",
+        "organisation_id": "294",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "94",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "68423",
+          "name": "Анатолий",
+          "last_name": "Луценко",
+          "middle_name": ""
+        },
+        "description": "Течь кровли на 5-м этаже. По данной проблеме неоднократно обращались в УКПП \"Коммунальник\", производился ремонт. Результат плодотворной работы....Прошу принять безотлагательные меры.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "работы по ремонту кровли выполнены",
+            "date": "31 июля 8:35"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.71759415,
+          53.74063492
+        ]
+      },
+      "properties": {
+        "id": "175552",
+        "href": "/problem/175552",
+        "address": "ул. Коммунистическая, Кричев, Беларусь",
+        "date_create": "18 июня 2018 0:40",
+        "date_planned": "28.06.2018",
+        "crm_date_planned": "2018-06-28",
+        "crm_create_at": "2018-06-18",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "67784",
+          "name": "Сергей",
+          "last_name": "Агеев",
+          "middle_name": "Анатольевич"
+        },
+        "description": "Нет света в подъезде 1по улице Фрунзе 8/12",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "освещение восстановлено",
+            "date": "29 июня 17:09"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.71402168,
+          53.71099091
+        ]
+      },
+      "properties": {
+        "id": "174159",
+        "href": "/problem/174159",
+        "address": "Комсомольский микрорайон, 11",
+        "date_create": "12 июня 2018 16:17",
+        "date_planned": "25.06.2018",
+        "crm_date_planned": "2018-06-25",
+        "crm_create_at": "2018-06-12",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/406878.jpg",
+            "/upload/image/406879.jpg",
+            "/upload/image/406880.jpg"
+          ],
+          "after": [
+            "/upload/image/433969.jpg"
+          ]
+        },
+        "category": {
+          "id": "369",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "17098",
+          "name": "Владимир",
+          "last_name": "Воронов",
+          "middle_name": "Александрович"
+        },
+        "description": "На заявку 181704 по поводу ремонта стены. Сделали работу очень плохо. Для \"галочки\". Установили картон вместо разломаной стены. Вместо того чтобы зацементировать , как и было до этого .",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "устранено",
+            "date": "24 июля 9:20",
+            "photos": [
+              "/upload/image/433938.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70497513,
+          53.6954689
+        ]
+      },
+      "properties": {
+        "id": "173434",
+        "href": "/problem/173434",
+        "address": "рядом с Советская улица, 4",
+        "date_create": "10 июня 2018 20:44",
+        "date_planned": "21.06.2018",
+        "crm_date_planned": "2018-06-21",
+        "crm_create_at": "2018-06-10",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/405174.jpg"
+          ],
+          "after": [
+            "/upload/image/421160.jpg",
+            "/upload/image/421161.jpg"
+          ]
+        },
+        "category": {
+          "id": "371",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Около магазина \"Бакалея\" плафон фонарного столба просто надели сверху. Держится на металлических дугах. Сделайте крепление/замените светильник! Уберите рядом торчащий старый столб от старого фонаря",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "выполнено.",
+            "date": "5 июля 8:38",
+            "photos": [
+              "/upload/image/421156.jpg",
+              "/upload/image/421157.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.71402168,
+          53.71099091
+        ]
+      },
+      "properties": {
+        "id": "173381",
+        "href": "/problem/173381",
+        "address": "Комсомольский микрорайон, 11",
+        "date_create": "10 июня 2018 12:53",
+        "date_planned": "21.06.2018",
+        "crm_date_planned": "2018-06-21",
+        "crm_create_at": "2018-06-10",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/405103.jpg",
+            "/upload/image/405104.jpg"
+          ],
+          "after": [
+            "/upload/image/433970.jpg"
+          ]
+        },
+        "category": {
+          "id": "369",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "17098",
+          "name": "Владимир",
+          "last_name": "Воронов",
+          "middle_name": "Александрович"
+        },
+        "description": "Незаделаные дыры в стенах на этажах. Первый подъезд.  На 1 и на 3 этаже. Обещали заделать еще больше года назад. Так все и осталось",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "устранено",
+            "date": "24 июля 9:18",
+            "photos": [
+              "/upload/image/433937.jpg"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

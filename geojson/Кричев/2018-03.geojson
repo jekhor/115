@@ -1,0 +1,316 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70909119,
+          53.73869324
+        ]
+      },
+      "properties": {
+        "id": "153707",
+        "href": "/problem/153707",
+        "address": "ул. Вокзальная, Кричев, Беларусь",
+        "date_create": "30 марта 2018 12:07",
+        "date_planned": "24.04.2018",
+        "crm_date_planned": "2018-04-24",
+        "crm_create_at": "2018-03-30",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/363413.jpg"
+          ],
+          "after": [
+            "/upload/image/392879.jpg"
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "63068",
+          "name": "Екатерина",
+          "last_name": "Елисеенко",
+          "middle_name": "Владимировна"
+        },
+        "description": "Лужи, а под лужами ямы. Все для автомобилистов, поднимаем СТО.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "выполнены работы по ямочному ремонту.",
+            "date": "23 мая 16:25",
+            "photos": [
+              "/upload/image/392858.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.72399139,
+          53.70999908
+        ]
+      },
+      "properties": {
+        "id": "149080",
+        "href": "/problem/149080",
+        "address": "Сож микрорайон, 32",
+        "date_create": "29 марта 2018 20:33",
+        "date_planned": "24.04.2018",
+        "crm_date_planned": "2018-04-24",
+        "crm_create_at": "2018-03-29",
+        "organisation_id": "294",
+        "status": "7",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "118",
+          "parent_id": "12",
+          "icon": "12"
+        },
+        "user": {
+          "id": "63076",
+          "name": "Василий",
+          "last_name": "Комсамольский",
+          "middle_name": "Владимирович"
+        },
+        "description": "Подтопление подвала водой,при выпадении осадков.дом находится на гарантии.коммунальник регулярно откатывает воду,почему не исправят",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.68769646,
+          53.73596191
+        ]
+      },
+      "properties": {
+        "id": "148853",
+        "href": "/problem/148853",
+        "address": "рядом с Вокзальная улица, 77",
+        "date_create": "29 марта 2018 8:22",
+        "date_planned": "10.04.2018",
+        "crm_date_planned": "2018-04-10",
+        "crm_create_at": "2018-03-29",
+        "organisation_id": "295",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/355781.jpg",
+            "/upload/image/355782.jpg"
+          ],
+          "after": [
+            "/upload/image/365356.jpg"
+          ]
+        },
+        "category": {
+          "id": "325",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "62840",
+          "name": "Сергей",
+          "last_name": "Лавренов",
+          "middle_name": ""
+        },
+        "description": "Уличная водоразборная колонка течет.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Водоканал\"",
+            "text": "Выполнено, отремонтирован сифон.",
+            "date": "30 марта 15:02",
+            "photos": [
+              "/upload/image/356640.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.726614,
+          53.71482849
+        ]
+      },
+      "properties": {
+        "id": "147477",
+        "href": "/problem/147477",
+        "address": "Октябрьская улица, 45",
+        "date_create": "23 марта 2018 13:46",
+        "date_planned": "05.04.2018",
+        "crm_date_planned": "2018-04-05",
+        "crm_create_at": "2018-03-23",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/353612.jpg",
+            "/upload/image/353613.jpg"
+          ],
+          "after": [
+            "/upload/image/386246.jpg"
+          ]
+        },
+        "category": {
+          "id": "66",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "62840",
+          "name": "Сергей",
+          "last_name": "Лавренов",
+          "middle_name": ""
+        },
+        "description": "1 подъезд, 3 этаж.\rВырван выключатель на лестничной площадке.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "выполнено",
+            "date": "15 мая 12:27",
+            "photos": [
+              "/upload/image/386234.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70497513,
+          53.69559479
+        ]
+      },
+      "properties": {
+        "id": "146337",
+        "href": "/problem/146337",
+        "address": "рядом с Советская улица, 55А",
+        "date_create": "18 марта 2018 16:57",
+        "date_planned": "31.08.2018",
+        "crm_date_planned": "2018-08-31",
+        "crm_create_at": "2018-03-18",
+        "organisation_id": "294",
+        "status": "7",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/351263.jpg",
+            "/upload/image/351264.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Вдоль домов по Советской 4 и 55А разбита проезжая часть. Асфальтового покрытия там уже почти и нет. Требуется капитальная укладка асфальта. Ямочный ремонт не поможет.",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "До конца июля текущего года будут выполнены работы по ямочному ремонту.",
+            "date": "26 апреля 12:06"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70505905,
+          53.69552231
+        ]
+      },
+      "properties": {
+        "id": "146333",
+        "href": "/problem/146333",
+        "address": "рядом с Советская улица, 4",
+        "date_create": "18 марта 2018 16:19",
+        "date_planned": "02.05.2018",
+        "crm_date_planned": "2018-05-02",
+        "crm_create_at": "2018-03-18",
+        "organisation_id": "294",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/351258.jpg"
+          ],
+          "after": [
+            "/upload/image/386245.jpg"
+          ]
+        },
+        "category": {
+          "id": "299",
+          "parent_id": "21",
+          "icon": "21"
+        },
+        "user": {
+          "id": "19987",
+          "name": "Максим",
+          "last_name": "Рудь",
+          "middle_name": "Игоревич"
+        },
+        "description": "Около магазина Бакалея-8 фонарный столб полностью умотан проводами, к тому же от него тянутся провода к другим столбам вместо того, чтобы проложить провода в земле. Исправьте!",
+        "answers": [
+          {
+            "author": "Кричевское УКПП \"Коммунальник\"",
+            "text": "устранено",
+            "date": "15 мая 12:39",
+            "photos": [
+              "/upload/image/386243.jpg"
+            ]
+          },
+          {
+            "author": "Максим Рудь",
+            "text": "",
+            "date": "15 мая 19:57",
+            "rating": 3
+          }
+        ]
+      }
+    }
+  ]
+}

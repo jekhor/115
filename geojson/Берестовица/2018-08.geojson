@@ -1,0 +1,99 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.02581596,
+          53.18864441
+        ]
+      },
+      "properties": {
+        "id": "196321",
+        "href": "/problem/196321",
+        "address": "рядом с Молодёжная улица, 14",
+        "date_create": "27 августа 2018 17:11",
+        "date_planned": "06.09.2018",
+        "crm_date_planned": "2018-09-06",
+        "crm_create_at": "2018-08-27",
+        "organisation_id": "319",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "48",
+          "parent_id": "7",
+          "icon": "7"
+        },
+        "user": {
+          "id": "70860",
+          "name": "art",
+          "last_name": "art",
+          "middle_name": ""
+        },
+        "description": "В начале после установки контейнеров для мусора их было 2, один впоследствии сгнил. Оставшийся контейнер заполняется в течении дня после вывоза.",
+        "answers": [
+          {
+            "author": "Берестовицкое РУП ЖКХ",
+            "text": "УСТАНОВЛЕН ДОПОЛНИТЕЛЬНЫЙ КОНТЕЙНЕР.",
+            "date": "28 августа 11:04"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.02523994,
+          53.18956375
+        ]
+      },
+      "properties": {
+        "id": "192962",
+        "href": "/problem/192962",
+        "address": "рядом с Партизанская улица, 32",
+        "date_create": "15 августа 2018 17:52",
+        "date_planned": "30.08.2018",
+        "crm_date_planned": "2018-08-30",
+        "crm_create_at": "2018-08-15",
+        "organisation_id": "319",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "48",
+          "parent_id": "7",
+          "icon": "7"
+        },
+        "user": {
+          "id": "70860",
+          "name": "art",
+          "last_name": "art",
+          "middle_name": ""
+        },
+        "description": "В начале после установки контейнеров для мусора их было 2, один впоследствии сгнил. Оставшийся контейнер заполняется в течении дня после вывоза. Да и вывоз для сезона огородов очень редкий.",
+        "answers": [
+
+        ]
+      }
+    }
+  ]
+}

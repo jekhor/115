@@ -1,0 +1,599 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.30223656,
+          53.09856796
+        ]
+      },
+      "properties": {
+        "id": "206022",
+        "href": "/problem/206022",
+        "address": "ул. Пушкина (автобусная остановка ул. Добрияна)",
+        "date_create": "30 сентября 2018 17:36",
+        "date_planned": "11.10.2018",
+        "crm_date_planned": "2018-10-11",
+        "crm_create_at": "2018-09-30",
+        "organisation_id": "400",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/483334.jpg"
+          ],
+          "after": [
+            "/upload/image/488982.jpg",
+            "/upload/image/488983.jpg"
+          ]
+        },
+        "category": {
+          "id": "312",
+          "parent_id": "23",
+          "icon": "23"
+        },
+        "user": {
+          "id": "72903",
+          "name": "Роман",
+          "last_name": "Рукан",
+          "middle_name": ""
+        },
+        "description": "Отломана табличка с расписанием",
+        "answers": [
+          {
+            "author": "Филиал «Автобусный парк №3 г.Слоним» ОАО «Гроднооблавтотранс»",
+            "text": "Расписания движения городских автобусов по маршруту № 1 \"Вокзал-Розановщина\" вывешены с обеих сторон на остановочных пунктах \"ул.Добрияна\"",
+            "date": "8 октября 12:02",
+            "photos": [
+              "/upload/image/488099.jpg",
+              "/upload/image/488100.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.32337952,
+          53.08211899
+        ]
+      },
+      "properties": {
+        "id": "206450",
+        "href": "/problem/206450",
+        "address": "Слоним,  улица Коссовский Тракт,  2",
+        "date_create": "30 сентября 2018 16:27",
+        "date_planned": "11.10.2018",
+        "crm_date_planned": "2018-10-11",
+        "crm_create_at": "2018-09-30",
+        "organisation_id": "392",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/483918.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "325",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "72304",
+          "name": "Олег",
+          "last_name": "Слонимский",
+          "middle_name": "Батькович"
+        },
+        "description": "Высокий бордюр.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.32000732,
+          53.08676529
+        ]
+      },
+      "properties": {
+        "id": "204106",
+        "href": "/problem/204106",
+        "address": "вуліца Карла Маркса, Слонім, Беларусь",
+        "date_create": "24 сентября 2018 10:23",
+        "date_planned": "04.10.2018",
+        "crm_date_planned": "2018-10-04",
+        "crm_create_at": "2018-09-24",
+        "organisation_id": "392",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "46",
+          "parent_id": "7",
+          "icon": "7"
+        },
+        "user": {
+          "id": "73059",
+          "name": "b",
+          "last_name": "a",
+          "middle_name": "c"
+        },
+        "description": "Test",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.31188583,
+          53.0711937
+        ]
+      },
+      "properties": {
+        "id": "204023",
+        "href": "/problem/204023",
+        "address": "коссовский тракт 84,11, Слоним, Беларусь",
+        "date_create": "22 сентября 2018 20:14",
+        "date_planned": "04.10.2018",
+        "crm_date_planned": "2018-10-04",
+        "crm_create_at": "2018-09-22",
+        "organisation_id": "391",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/478384.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "72334",
+          "name": "Евгений",
+          "last_name": "Анищик",
+          "middle_name": "Николаевич"
+        },
+        "description": "Коссовский тракт д.84, кв.11 на лестничной площадке не горит свет ( лампочку меняли самостоятельно но она сразу же перегорела и не работает датчик движения)",
+        "answers": [
+          {
+            "author": "Слонимское ГУП ЖКХ ЖРЭП",
+            "text": "Выполнены работы по восстановлению освещения на лестничной площадке",
+            "date": "24 сентября 17:21"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.30255127,
+          53.09862137
+        ]
+      },
+      "properties": {
+        "id": "203762",
+        "href": "/problem/203762",
+        "address": "ул. Карбышева, 12",
+        "date_create": "21 сентября 2018 10:43",
+        "date_planned": "14.10.2018",
+        "crm_date_planned": "2018-10-14",
+        "crm_create_at": "2018-09-21",
+        "organisation_id": "399",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/478071.jpg"
+          ],
+          "after": [
+            "/upload/image/492690.jpg"
+          ]
+        },
+        "category": {
+          "id": "370",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "72903",
+          "name": "Роман",
+          "last_name": "Рукан",
+          "middle_name": ""
+        },
+        "description": "Выступающий люк во дворе",
+        "answers": [
+          {
+            "author": "ОАО \"Слонимский водоканал\"",
+            "text": "Люк смотрового колодца выставлен на уровень земли",
+            "date": "12 октября 14:30",
+            "photos": [
+              "/upload/image/492557.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.31023407,
+          53.0953331
+        ]
+      },
+      "properties": {
+        "id": "204614",
+        "href": "/problem/204614",
+        "address": "улица Карбышева 12, Слоним",
+        "date_create": "21 сентября 2018 10:38",
+        "date_planned": "03.10.2018",
+        "crm_date_planned": "2018-10-03",
+        "crm_create_at": "2018-09-21",
+        "organisation_id": "391",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/479516.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "372",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "72903",
+          "name": "Роман",
+          "last_name": "Рукан",
+          "middle_name": ""
+        },
+        "description": "Кольцо от люка, выступающее на 13 см",
+        "answers": [
+          {
+            "author": "Слонимское ГУП ЖКХ ЖРЭП",
+            "text": "Выполнены работы по демонтажу бетонного кольца.",
+            "date": "26 сентября 15:10"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.32699585,
+          53.0651474
+        ]
+      },
+      "properties": {
+        "id": "202791",
+        "href": "/problem/202791",
+        "address": "улица Черняховского, 6",
+        "date_create": "18 сентября 2018 19:37",
+        "date_planned": "02.10.2018",
+        "crm_date_planned": "2018-10-02",
+        "crm_create_at": "2018-09-18",
+        "organisation_id": "392",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/475197.png"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "72304",
+          "name": "Олег",
+          "last_name": "Слонимский",
+          "middle_name": "Батькович"
+        },
+        "description": "Размывает дорогу после дождя.",
+        "answers": [
+          {
+            "author": "Слонимское ГУП ЖКХ ДЭП",
+            "text": "Ремонт улично-дорожной сети в микрорайоне жилой застройки по ул. Черняховского в 2018 г. не предусмотрен.",
+            "date": "25 сентября 9:35"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.30810356,
+          53.08177948
+        ]
+      },
+      "properties": {
+        "id": "204701",
+        "href": "/problem/204701",
+        "address": "Слоним,  улица Ершова,  52",
+        "date_create": "16 сентября 2018 21:52",
+        "date_planned": "02.10.2018",
+        "crm_date_planned": "2018-10-02",
+        "crm_create_at": "2018-09-16",
+        "organisation_id": "392",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/479732.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "37",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "72304",
+          "name": "Олег",
+          "last_name": "Слонимский",
+          "middle_name": "Батькович"
+        },
+        "description": "Дорога в 3-ю школу. После дождя все розмывает и пройти становится еще сложнее!",
+        "answers": [
+          {
+            "author": "Слонимское ГУП ЖКХ ДЭП",
+            "text": "Ремонт дорожного покрытия  к ГУО СШ №3 в 2018 г. не предусмотрен.",
+            "date": "25 сентября 17:25"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29587555,
+          53.08097839
+        ]
+      },
+      "properties": {
+        "id": "204700",
+        "href": "/problem/204700",
+        "address": "Слоним,  Брестская улица,  103/5",
+        "date_create": "16 сентября 2018 21:50",
+        "date_planned": "02.10.2018",
+        "crm_date_planned": "2018-10-02",
+        "crm_create_at": "2018-09-16",
+        "organisation_id": "392",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/479731.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "284",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "72304",
+          "name": "Олег",
+          "last_name": "Слонимский",
+          "middle_name": "Батькович"
+        },
+        "description": "Велодорожка по пути в СГПТК СП и дачи Дубино.",
+        "answers": [
+          {
+            "author": "Слонимское ГУП ЖКХ ДЭП",
+            "text": "Выполнение работ по ремонту пешеходной (велодорожки) в 2018 г. не планируется.",
+            "date": "25 сентября 17:09"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28050613,
+          53.0771637
+        ]
+      },
+      "properties": {
+        "id": "204699",
+        "href": "/problem/204699",
+        "address": "Слоним,  Брестская улица,  135",
+        "date_create": "16 сентября 2018 21:49",
+        "date_planned": "02.10.2018",
+        "crm_date_planned": "2018-10-02",
+        "crm_create_at": "2018-09-16",
+        "organisation_id": "392",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/479730.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "72304",
+          "name": "Олег",
+          "last_name": "Слонимский",
+          "middle_name": "Батькович"
+        },
+        "description": "Пешеходная дорожка по пути в СГПТК СП.",
+        "answers": [
+          {
+            "author": "Слонимское ГУП ЖКХ ДЭП",
+            "text": "Ремонт дефектов пешеходной дорожки входит в компетенцию АЗС №3 г.Слоним РУП \"Белоруснефть-Гроднооблнефтепродукт\". Начальник участка Шмигиро С.А., контактный телефон- 80333993046.",
+            "date": "25 сентября 16:57"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.32156944,
+          53.08240509
+        ]
+      },
+      "properties": {
+        "id": "204698",
+        "href": "/problem/204698",
+        "address": "Слоним,  Шоссейная улица,  17",
+        "date_create": "16 сентября 2018 21:46",
+        "date_planned": "30.10.2018",
+        "crm_date_planned": "2018-10-30",
+        "crm_create_at": "2018-09-16",
+        "organisation_id": "392",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/479729.jpg"
+          ],
+          "after": [
+            "/upload/image/487990.jpg"
+          ]
+        },
+        "category": {
+          "id": "296",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "72304",
+          "name": "Олег",
+          "last_name": "Слонимский",
+          "middle_name": "Батькович"
+        },
+        "description": "Тротуар около кафе \"Тихий дворик\". Тут постоянно активный трафик пешеходов, ибо дорога связывает спальные районы с центром города, но удобно идти невозможно! Пешеходы даже вытоптали тропинку рядом...",
+        "answers": [
+          {
+            "author": "Слонимское ГУП ЖКХ ДЭП",
+            "text": "Выполнены работы по ремонту тротуара.",
+            "date": "8 октября 9:50",
+            "photos": [
+              "/upload/image/487950.jpg"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.30812645,
+          53.07550812
+        ]
+      },
+      "properties": {
+        "id": "200911",
+        "href": "/problem/200911",
+        "address": "рядом с проспект Независимости, 18",
+        "date_create": "11 сентября 2018 20:26",
+        "date_planned": "30.11.2018",
+        "crm_date_planned": "2018-11-30",
+        "crm_create_at": "2018-09-11",
+        "organisation_id": "392",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/470167.jpg"
+          ],
+          "after": [
+            "/upload/image/489517.jpg"
+          ]
+        },
+        "category": {
+          "id": "296",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "72293",
+          "name": "Яков",
+          "last_name": "Сидорович",
+          "middle_name": "Вячеславович"
+        },
+        "description": "сломана мусорная урна",
+        "answers": [
+          {
+            "author": "Слонимское ГУП ЖКХ ДЭП",
+            "text": "Проведена замена урны.",
+            "date": "9 октября 12:45",
+            "photos": [
+              "/upload/image/489150.jpg"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

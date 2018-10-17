@@ -1,0 +1,278 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.05007362,
+          52.89334106
+        ]
+      },
+      "properties": {
+        "id": "205848",
+        "href": "/problem/205848",
+        "address": "улица Войкова, 19",
+        "date_create": "30 сентября 2018 0:32",
+        "date_planned": "11.10.2018",
+        "crm_date_planned": "2018-10-11",
+        "crm_create_at": "2018-09-30",
+        "organisation_id": "409",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "74027",
+          "name": "Мария",
+          "last_name": "Картавенко",
+          "middle_name": "Александровна"
+        },
+        "description": "2 подъезд. На 5 этаже отсутствует освещение",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.04946136,
+          52.89931488
+        ]
+      },
+      "properties": {
+        "id": "205138",
+        "href": "/problem/205138",
+        "address": "рядом с Международная улица, 4",
+        "date_create": "26 сентября 2018 20:48",
+        "date_planned": "10.10.2018",
+        "crm_date_planned": "2018-10-10",
+        "crm_create_at": "2018-09-26",
+        "organisation_id": "409",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/481131.jpg",
+            "/upload/image/481132.jpg",
+            "/upload/image/481133.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "72972",
+          "name": "Виталий",
+          "last_name": "Шевченко",
+          "middle_name": ""
+        },
+        "description": "микр. 1, д 9. большие ямы на проезжей части во дворе.Так же подъезде к двору от улицы Войкова большие выбоины и нет ни оного фанаря освещения",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.57641411,
+          53.91069794
+        ]
+      },
+      "properties": {
+        "id": "206258",
+        "href": "/problem/206258",
+        "address": "ленинградская 2",
+        "date_create": "26 сентября 2018 13:05",
+        "date_planned": "08.10.2018",
+        "crm_date_planned": "2018-10-08",
+        "crm_create_at": "2018-09-26",
+        "organisation_id": "409",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "325",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "30878",
+          "name": "Светлана",
+          "last_name": "Дмитриева",
+          "middle_name": "Олеговна"
+        },
+        "description": "Тестовый",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0378418,
+          52.90446091
+        ]
+      },
+      "properties": {
+        "id": "204889",
+        "href": "/problem/204889",
+        "address": "рядом с улица Фоканова, 1А",
+        "date_create": "26 сентября 2018 8:20",
+        "date_planned": "08.10.2018",
+        "crm_date_planned": "2018-10-08",
+        "crm_create_at": "2018-09-26",
+        "organisation_id": "409",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "72672",
+          "name": "Сергей",
+          "last_name": "Ермоленко",
+          "middle_name": "Владимирович"
+        },
+        "description": "Мик.16, д. 2 в 3 подъезде не горит освещение на лестничной площадке с 3 по 4 этаж.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.03804779,
+          52.89343643
+        ]
+      },
+      "properties": {
+        "id": "203782",
+        "href": "/problem/203782",
+        "address": "рядом с улица Дзержинского, 22",
+        "date_create": "21 сентября 2018 19:38",
+        "date_planned": "08.10.2018",
+        "crm_date_planned": "2018-10-08",
+        "crm_create_at": "2018-09-21",
+        "organisation_id": "409",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/478101.jpg",
+            "/upload/image/478102.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "72960",
+          "name": "Мария",
+          "last_name": "Гвоздь",
+          "middle_name": ""
+        },
+        "description": "Яма(провал)  в асфальте. Присутствует опасность травмирования детей.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.04535675,
+          52.90607071
+        ]
+      },
+      "properties": {
+        "id": "203347",
+        "href": "/problem/203347",
+        "address": "рядом с улица Войкова, 1",
+        "date_create": "20 сентября 2018 11:51",
+        "date_planned": "08.10.2018",
+        "crm_date_planned": "2018-10-08",
+        "crm_create_at": "2018-09-20",
+        "organisation_id": "409",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "54",
+          "parent_id": "9",
+          "icon": "9"
+        },
+        "user": {
+          "id": "72693",
+          "name": "Оксана",
+          "last_name": "Усова",
+          "middle_name": "Сергеевна"
+        },
+        "description": "г.Жлобин,м-н 17,д.16 подъезд 6 неисправна канализация,протечка в подвальные помещения",
+        "answers": [
+
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,501 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.05007362,
+          52.89334106
+        ]
+      },
+      "properties": {
+        "id": "213040",
+        "href": "/problem/213040",
+        "address": "улица Войкова, 19",
+        "date_create": "15 октября 2018 12:07",
+        "date_planned": "27.10.2018",
+        "crm_date_planned": "2018-10-27",
+        "crm_create_at": "2018-10-15",
+        "organisation_id": "409",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/493732.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "111",
+          "parent_id": "12",
+          "icon": "12"
+        },
+        "user": {
+          "id": "74027",
+          "name": "Мария",
+          "last_name": "Картавенко",
+          "middle_name": "Александровна"
+        },
+        "description": "осыпалась штукатурка",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.02821541,
+          52.91861343
+        ]
+      },
+      "properties": {
+        "id": "212357",
+        "href": "/problem/212357",
+        "address": "улица Карибского, 22А",
+        "date_create": "12 октября 2018 18:10",
+        "date_planned": "19.10.2018",
+        "crm_date_planned": "2018-10-19",
+        "crm_create_at": "2018-10-12",
+        "organisation_id": "409",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/492869.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "104",
+          "parent_id": "11",
+          "icon": "11"
+        },
+        "user": {
+          "id": "77923",
+          "name": "Наталья",
+          "last_name": "Кузьменкова ",
+          "middle_name": "Андреевна"
+        },
+        "description": "На лестничной клетке 2-го подъезда, между 4 и 5 этажом отвалился кусок шва на стене, заявка поданная , по истечению6-ти рабочих дней результата так и не принесла, фото прилага",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.03872299,
+          52.90571976
+        ]
+      },
+      "properties": {
+        "id": "211821",
+        "href": "/problem/211821",
+        "address": "рядом с улица Войкова, 1",
+        "date_create": "11 октября 2018 13:58",
+        "date_planned": "30.10.2018",
+        "crm_date_planned": "2018-10-30",
+        "crm_create_at": "2018-10-11",
+        "organisation_id": "409",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "78330",
+          "name": "Юлия",
+          "last_name": "Воронович",
+          "middle_name": ""
+        },
+        "description": "Микр.19, д.3,4,5 огромные выбоины  и ямы на проезжей части двора, в плитах повылазила арматура, звоним  с мая и до сих пор ничего не сделано!",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.03393936,
+          52.88494873
+        ]
+      },
+      "properties": {
+        "id": "211807",
+        "href": "/problem/211807",
+        "address": "рядом с Шоссейная улица, 87",
+        "date_create": "11 октября 2018 13:11",
+        "date_planned": "12.10.2018",
+        "crm_date_planned": "2018-10-12",
+        "crm_create_at": "2018-10-11",
+        "organisation_id": "409",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "57",
+          "parent_id": "9",
+          "icon": "9"
+        },
+        "user": {
+          "id": "74027",
+          "name": "Мария",
+          "last_name": "Картавенко",
+          "middle_name": "Александровна"
+        },
+        "description": "Микрорайон 3, д. 10, 3подъезд, отсутствует горячая вода и отопление",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.04904747,
+          52.90053177
+        ]
+      },
+      "properties": {
+        "id": "210728",
+        "href": "/problem/210728",
+        "address": "рядом с бульвар Металлургов, 4",
+        "date_create": "9 октября 2018 10:54",
+        "date_planned": "19.10.2018",
+        "crm_date_planned": "2018-10-19",
+        "crm_create_at": "2018-10-09",
+        "organisation_id": "409",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "57",
+          "parent_id": "9",
+          "icon": "9"
+        },
+        "user": {
+          "id": "77643",
+          "name": "Елена",
+          "last_name": "Глытова",
+          "middle_name": ""
+        },
+        "description": "Пришло сообщение, что вопрос решен!! Отопления как не было, так и нет!!!! Какой вопрос решен? Микрорайон 1, д.8, кв.90, 87 - ОТОПЛЕНИЯ НЕТ!!! В квартирах проживаю пожилые люди и дети! glytova@gjk.by",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.03219414,
+          52.88192368
+        ]
+      },
+      "properties": {
+        "id": "210696",
+        "href": "/problem/210696",
+        "address": "рядом с Полевая улица, 57",
+        "date_create": "9 октября 2018 10:08",
+        "date_planned": "19.10.2018",
+        "crm_date_planned": "2018-10-19",
+        "crm_create_at": "2018-10-09",
+        "organisation_id": "409",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "77914",
+          "name": "Анастасия",
+          "last_name": "Афанасенко",
+          "middle_name": "Сергеевна"
+        },
+        "description": "Точный адрес: микрорайон 3, д.35а (почему-то не вбивается даже через карту)\r Добрый день! Отсутствует 3й день освещение в подъезде на 1 этаже (слева, где кубрик на 3 квартиры).",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.04895973,
+          52.9005127
+        ]
+      },
+      "properties": {
+        "id": "210214",
+        "href": "/problem/210214",
+        "address": "рядом с бульвар Металлургов, 4",
+        "date_create": "8 октября 2018 13:37",
+        "date_planned": "09.10.2018",
+        "crm_date_planned": "2018-10-09",
+        "crm_create_at": "2018-10-08",
+        "organisation_id": "409",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "57",
+          "parent_id": "9",
+          "icon": "9"
+        },
+        "user": {
+          "id": "77643",
+          "name": "Елена",
+          "last_name": "Глытова",
+          "middle_name": ""
+        },
+        "description": "",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.04809952,
+          52.89484024
+        ]
+      },
+      "properties": {
+        "id": "210006",
+        "href": "/problem/210006",
+        "address": "улица Войкова, 12",
+        "date_create": "8 октября 2018 9:32",
+        "date_planned": "09.10.2018",
+        "crm_date_planned": "2018-10-09",
+        "crm_create_at": "2018-10-08",
+        "organisation_id": "409",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "57",
+          "parent_id": "9",
+          "icon": "9"
+        },
+        "user": {
+          "id": "77602",
+          "name": "Ирина",
+          "last_name": "Русакович",
+          "middle_name": "Сергеевна"
+        },
+        "description": "",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.05007362,
+          52.89334106
+        ]
+      },
+      "properties": {
+        "id": "206880",
+        "href": "/problem/206880",
+        "address": "улица Войкова, 19",
+        "date_create": "2 октября 2018 15:46",
+        "date_planned": "15.10.2018",
+        "crm_date_planned": "2018-10-15",
+        "crm_create_at": "2018-10-02",
+        "organisation_id": "409",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "67",
+          "parent_id": "10",
+          "icon": "10"
+        },
+        "user": {
+          "id": "74027",
+          "name": "Мария",
+          "last_name": "Картавенко",
+          "middle_name": "Александровна"
+        },
+        "description": "Отсутствие освещения на 5 этаже 2 подъезд. Проблема не решена.",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.03433228,
+          52.90942001
+        ]
+      },
+      "properties": {
+        "id": "206407",
+        "href": "/problem/206407",
+        "address": "Микрорайон 19, выезд из домов 28, 30, 34",
+        "date_create": "1 октября 2018 16:06",
+        "date_planned": "12.10.2018",
+        "crm_date_planned": "2018-10-12",
+        "crm_create_at": "2018-10-01",
+        "organisation_id": "409",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/483772.jpg",
+            "/upload/image/483773.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "26",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "47257",
+          "name": "Евгений",
+          "last_name": "Авраменко",
+          "middle_name": "Сергеевич"
+        },
+        "description": "Наличие большого количества ям на выезде из дворовой территории Микрорайон 19, между домами 28, 30 и 34. \rПросел асфальт после ремонтных работ коммуникаций на выезде из этих домов на ул. Ленинградскую",
+        "answers": [
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.03492546,
+          52.90917206
+        ]
+      },
+      "properties": {
+        "id": "206404",
+        "href": "/problem/206404",
+        "address": "19-34",
+        "date_create": "1 октября 2018 15:58",
+        "date_planned": "15.10.2018",
+        "crm_date_planned": "2018-10-15",
+        "crm_create_at": "2018-10-01",
+        "organisation_id": "408",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/483768.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "33",
+          "parent_id": "6",
+          "icon": "6"
+        },
+        "user": {
+          "id": "47257",
+          "name": "Евгений",
+          "last_name": "Авраменко",
+          "middle_name": "Сергеевич"
+        },
+        "description": "Более года не достроена площадка для раздельного сбора мусора\rМикрорайон 19, между домами 28 и 34",
+        "answers": [
+
+        ]
+      }
+    }
+  ]
+}

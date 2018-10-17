@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.79298973,
+          53.16398239
+        ]
+      },
+      "properties": {
+        "id": "181200",
+        "href": "/problem/181200",
+        "address": "рядом с Советская улица, 1",
+        "date_create": "7 июля 2018 20:11",
+        "date_planned": "14.08.2018",
+        "crm_date_planned": "2018-08-14",
+        "crm_create_at": "2018-07-07",
+        "organisation_id": "374",
+        "status": "4",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/423713.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "293",
+          "parent_id": "20",
+          "icon": "20"
+        },
+        "user": {
+          "id": "68637",
+          "name": "Junior",
+          "last_name": "Broock",
+          "middle_name": ""
+        },
+        "description": "Яма на дороге",
+        "answers": [
+
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.02380371,
+          53.19306564
+        ]
+      },
+      "properties": {
+        "id": "178476",
+        "href": "/problem/178476",
+        "address": "улица Дзержинского, 25",
+        "date_create": "27 июня 2018 13:13",
+        "date_planned": "11.07.2018",
+        "crm_date_planned": "2018-07-11",
+        "crm_create_at": "2018-06-27",
+        "organisation_id": "319",
+        "status": "5",
+        "rating": "0",
+        "photo": {
+          "before": [
+            "/upload/image/417063.jpg",
+            "/upload/image/417064.jpg"
+          ],
+          "after": [
+
+          ]
+        },
+        "category": {
+          "id": "52",
+          "parent_id": "9",
+          "icon": "9"
+        },
+        "user": {
+          "id": "68306",
+          "name": "А",
+          "last_name": "О",
+          "middle_name": "В"
+        },
+        "description": "Тестовое сообщение!!!!!!",
+        "answers": [
+
+        ]
+      }
+    }
+  ]
+}
