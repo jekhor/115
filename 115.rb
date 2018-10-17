@@ -166,7 +166,8 @@ module MojHorad
           url: @base_url + path,
           headers: HEADERS,
           payload: body,
-          cookies: @cookies
+          cookies: @cookies,
+          timeout: 120
 
         @cookies = r.cookies
       rescue RestClient::Exception => e
