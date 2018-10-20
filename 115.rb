@@ -6,6 +6,7 @@ require 'nokogiri'
 require 'json'
 require 'time'
 require 'parallel'
+require 'ruby-progressbar'
 
 module MojHorad
   HEADERS = {
@@ -58,9 +59,9 @@ module MojHorad
           item = list['items'][id]
 
           begin
-            p = self.problem(id.to_i)
-            item['description'] = p[:description]
-            item['answers'] = p[:answers]
+            p = self.problem(id.to_i, false)
+            item['description'] = p['description']
+            item['answers'] = p['answers']
           rescue => e
             STDERR.puts e.message
           end
@@ -72,7 +73,15 @@ module MojHorad
 
     def getlist_geojson(start_date=nil, deep=false)
       list = getlist(start_date, deep)
-      items = list['items']
+
+      geojson = getlist2geojson(list)
+
+      JSON.pretty_generate(geojson)
+    end
+
+    def getlist2geojson(getlist_json)
+
+      items = getlist_json['items']
 
       if items.kind_of? Array and items.empty?
         items = {}
@@ -96,22 +105,47 @@ module MojHorad
         type: 'FeatureCollection',
         features: features
       }
-
-      JSON.pretty_generate(geojson)
     end
 
     def getMapData(problem_id)
-      query_api(:post, "problem/getMapData/#{problem_id}", {_token: @token})
+      j = nil
+      (1..10).each do 
+        r = query_api(:post, "problem/getMapData/#{problem_id}", {_token: @token})
+        j = JSON.parse r.body
+        STDERR.puts r.body if j['result'] == false
+        break unless j['result'] == false
+        sleep 0.5
+      end
+      j
     end
 
-    def problem(problem_id)
+    MONTHS = %w(января февраля марта апреля мая июня июля августа сентября октября ноября декабря)
+    def problem(problem_id, getMap=true)
       p = {}
-      r = query(:get, "problem/#{problem_id}")
+      begin
+        r = query(:get, "problem/#{problem_id}")
+      rescue RestClient::Exception => e
+        case e.http_code
+        when 404
+          return p
+        end
+      end
+
+      begin
+      p = getMapData(problem_id)['items'][problem_id.to_s] if getMap
+      rescue => e
+        STDERR.puts "Error fetching map data: #{e.message}"
+        raise e
+      end
 
       doc = Nokogiri::HTML(r.body)
-      p[:status] = doc.at_css('.b-current-problem__status')['data-status']
-      p[:description] = doc.at_css('.b-current-problem__middle p').text.strip
-      p[:answers] = []
+#      p[:status] = doc.at_css('.b-current-problem__status')['data-status']
+      p['description'] = doc.at_css('.b-current-problem__middle p').text.strip
+      date_str = doc.at_css('.b-current-problem__date').text.strip
+#      p[:date_create] = parse_date(date_str).to_s
+#      p[:date_create] = date_str
+#      p['address'] = doc.at_css('.b-current-problem__address').text.strip
+      p['answers'] = []
       doc.css('.b-user-problem__answer__main').each do |answer|
         rating_item = answer.at_css('.b-performance-evaluation-wrapper')
         rating = rating_item.nil? ? nil : rating_item['assessment'].to_i
@@ -128,9 +162,9 @@ module MojHorad
           text: answer.at_css('.b-answer__main__text__itm').text.strip,
           date: answer.at_css('.b-answer__main__text__publish__itm__date').text.strip,
         }
-        a[:rating] = rating unless rating.nil?
-        a[:photos] = photos unless photos.empty?
-        p[:answers] << a
+        a['rating'] = rating unless rating.nil?
+        a['photos'] = photos unless photos.empty?
+        p['answers'] << a
       end
       p
     end
@@ -177,6 +211,14 @@ module MojHorad
       r
     end
 
+    private
+
+    def parse_date(date_str)
+      d = date_str.split(' ')
+      m = MONTHS.index(d[1]) + 1
+      date = Time.parse("#{d[2]}-#{m}-#{d[0]} #{d[3]} +0300")
+      date
+    end
   end
 end
 
@@ -249,6 +291,7 @@ HELP
 
     'problem' => OptionParser.new do |opts|
       opts.banner = "Usage: problem <problem id> [<problem id>...]"
+      opts.on('--geojson', "Use geojson format for output") {|v| options.geojson = v}
     end,
 
     'filter' => OptionParser.new do |opts|
@@ -295,11 +338,21 @@ HELP
   when 'problem'
     problem_ids = ARGV.map {|a| a.to_i}
     problems = {}
-    problem_ids.each do |p|
-      problems[p] = c.problem(p)
+    Parallel.each(problem_ids, progress: {title: 'Fetching problems', output: STDERR}, in_threads: 10) do |p|
+      begin
+        res = c.problem(p)
+        problems[p] = res unless res.empty?
+      rescue => e
+        STDERR.puts "Error at id #{p}: #{e.message}"
+        exit 1
+      end
     end
 
-    puts JSON.pretty_generate problems
+    if options.geojson
+      puts JSON.pretty_generate c.getlist2geojson({'items' => problems})
+    else
+      puts JSON.pretty_generate problems
+    end
 
   when 'filter'
     in_archive = ARGV[0].to_i != 0
