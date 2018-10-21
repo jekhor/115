@@ -112,9 +112,10 @@ module MojHorad
       (1..10).each do 
         r = query_api(:post, "problem/getMapData/#{problem_id}", {_token: @token})
         j = JSON.parse r.body
-        STDERR.puts r.body if j['result'] == false
+#        STDERR.puts r.body if j['result'] == false
         break unless j['result'] == false
         sleep 0.5
+	self.begin
       end
       j
     end
